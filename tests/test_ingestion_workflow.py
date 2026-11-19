@@ -8,7 +8,7 @@ import struct
 import zlib
 from pathlib import Path
 
-import fitz
+import pytest
 
 from backend.config import EXAMS_DIR
 from backend.ingestion import (
@@ -85,6 +85,7 @@ def test_init_exam_and_import_new_unit(tmp_path: Path):
 
 
 def test_extract_pdf_text_and_images_and_staging(tmp_path: Path):
+    fitz = pytest.importorskip("fitz")
     exams_dir = tmp_path / "exams"
     staging_dir = tmp_path / "staging"
     shutil.copytree(EXAMS_DIR, exams_dir)
