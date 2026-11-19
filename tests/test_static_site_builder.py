@@ -17,6 +17,8 @@ def test_build_static_site_bundle(tmp_path: Path):
     assert stats["readyBlocks"] == 1
     assert stats["questions"] == 547
     assert stats["images"] == 9
+    ver = stats["assetVersion"]
+    assert len(ver) == 10
 
     assert (out_dir / ".nojekyll").is_file()
     assert (out_dir / "styles" / "tokens.css").is_file()
@@ -25,13 +27,18 @@ def test_build_static_site_bundle(tmp_path: Path):
 
     index_html = (out_dir / "index.html").read_text(encoding="utf-8")
     assert "window.__YIKAO_STATIC_MODE__ = true;" in index_html
-    assert 'href="./styles/tokens.css"' in index_html
-    assert 'src="./js/main.js"' in index_html
+    assert f'window.__YIKAO_ASSET_VERSION__ = "{ver}";' in index_html
+    assert f'href="./styles/tokens.css?v={ver}"' in index_html
+    assert f'src="./js/main.js?v={ver}"' in index_html
     assert 'id="portalView"' in index_html
     assert 'id="quizWorkspaceView"' in index_html
     assert 'id="backToPortalBtn"' in index_html
     assert "adminAuthModal" not in index_html
     assert "questionEditorModal" not in index_html
+
+    built_main_js = (out_dir / "js" / "main.js").read_text(encoding="utf-8")
+    assert f"from './api.js?v={ver}'" in built_main_js
+    assert f"from './components/blockPortal.js?v={ver}'" in built_main_js
 
     blocks_json = json.loads((out_dir / "static-api" / "blocks.json").read_text(encoding="utf-8"))
     assert blocks_json["readyBlocks"] == 1

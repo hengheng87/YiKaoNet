@@ -342,5 +342,32 @@
   </div>
 
   <script type="module" src="./js/main.js"></script>
+  <script data-yikao-watchdog>
+    window.addEventListener('DOMContentLoaded', function () {
+      if (window.__YIKAO_OFFLINE_DATA__) return;
+      if (window.location.protocol === 'file:') {
+        var subEl = document.getElementById('portalSiteSubtitle');
+        var statEl = document.getElementById('portalHeaderStats');
+        if (subEl) {
+          subEl.textContent = '⚠️ 瀏覽器禁止直接雙擊開啟模組版 HTML，請改用公開網址、執行 python run.py，或開啟單檔離線版 (.html)。';
+        }
+        if (statEl) {
+          statEl.textContent = '無法於 file:// 載入模組';
+        }
+        return;
+      }
+      setTimeout(function () {
+        if (window.__YIKAO_BOOTED__) return;
+        var subEl = document.getElementById('portalSiteSubtitle');
+        var statEl = document.getElementById('portalHeaderStats');
+        if (subEl) {
+          subEl.textContent = '⚠️ 偵測到瀏覽器可能快取了舊版模組，請按 Ctrl+Shift+R（Mac 為 Cmd+Shift+R）強制重新整理頁面。';
+        }
+        if (statEl) {
+          statEl.textContent = '請強制重新整理 (Ctrl+Shift+R)';
+        }
+      }, 5000);
+    });
+  </script>
 </body>
 </html>

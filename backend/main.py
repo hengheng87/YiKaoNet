@@ -11,7 +11,7 @@ mimetypes.add_type("text/css", ".css")
 from contextlib import asynccontextmanager
 from pathlib import Path
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
@@ -57,6 +57,14 @@ def create_app(
         lifespan=lifespan,
     )
     application.add_middleware(GZipMiddleware, minimum_size=1000)
+
+    @application.middleware("http")
+    async def disable_static_dev_cache(request: Request, call_next):
+        response = await call_next(request)
+        path = request.url.path
+        if (path == "/" or path.startswith(("/js/", "/styles/"))) and "cache-control" not in response.headers:
+            response.headers["Cache-Control"] = "no-cache"
+        return response
 
     application.include_router(exams.router)
     application.include_router(questions.router)

@@ -16,6 +16,14 @@ export function isLocalOnlyMode() {
   return isOfflineMode() || isStaticSiteMode();
 }
 
+function withStaticVersion(url) {
+  const ver =
+    typeof window !== 'undefined' ? window.__YIKAO_ASSET_VERSION__ : '';
+  if (!ver) return url;
+  const sep = url.includes('?') ? '&' : '?';
+  return `${url}${sep}v=${encodeURIComponent(ver)}`;
+}
+
 async function requestJson(url, options = {}) {
   const res = await fetch(url, {
     headers: {
@@ -42,7 +50,7 @@ export function fetchBlocksCatalog() {
     return Promise.resolve(window.__YIKAO_OFFLINE_DATA__.blocks || null);
   }
   if (isStaticSiteMode()) {
-    return requestJson('./static-api/blocks.json');
+    return requestJson(withStaticVersion('./static-api/blocks.json'));
   }
   return requestJson('/api/blocks');
 }
@@ -52,7 +60,7 @@ export function fetchExams() {
     return Promise.resolve(window.__YIKAO_OFFLINE_DATA__.exams || []);
   }
   if (isStaticSiteMode()) {
-    return requestJson('./static-api/exams.json');
+    return requestJson(withStaticVersion('./static-api/exams.json'));
   }
   return requestJson('/api/exams');
 }
@@ -64,7 +72,9 @@ export function fetchExamDetail(slug) {
     return Promise.resolve(detail);
   }
   if (isStaticSiteMode()) {
-    return requestJson(`./static-api/exams/${encodeURIComponent(slug)}/detail.json`);
+    return requestJson(
+      withStaticVersion(`./static-api/exams/${encodeURIComponent(slug)}/detail.json`)
+    );
   }
   return requestJson(`/api/exams/${encodeURIComponent(slug)}`);
 }
@@ -80,7 +90,9 @@ export function fetchQuestions(slug, params = {}) {
     });
   }
   if (isStaticSiteMode()) {
-    return requestJson(`./static-api/exams/${encodeURIComponent(slug)}/questions.json`);
+    return requestJson(
+      withStaticVersion(`./static-api/exams/${encodeURIComponent(slug)}/questions.json`)
+    );
   }
   const qs = new URLSearchParams();
   Object.entries(params).forEach(([k, v]) => {

@@ -209,6 +209,9 @@ function handleRouteChange() {
 }
 
 async function boot() {
+  if (typeof window !== 'undefined') {
+    window.__YIKAO_BOOTED__ = true;
+  }
   initBlockPortal((slug) => enterExamView(slug, { updateUrl: true }));
   initHeader(
     (slug) => enterExamView(slug, { updateUrl: true }),

@@ -3,7 +3,9 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import re
 import shutil
 import sqlite3
 import sys
@@ -20,6 +22,36 @@ from backend.offline_builder import build_offline_html
 from backend.queries import query_exam_questions
 from backend.routers.exams import get_exam_detail, list_exams
 from backend.sync_data import sync_all_exams
+
+CSS_HREF_RE = re.compile(r'(href="\.\/styles\/[^"?]+\.css)(")')
+ESM_REL_JS_REF_RE = re.compile(r"(\b(?:from|import)\s+['\"])(\.[^'\"?#]+\.js)(['\"])")
+
+
+def _compute_asset_version(frontend_dir: Path, static_api_dir: Path) -> str:
+    hasher = hashlib.sha256()
+    candidate_files = [
+        frontend_dir / "index.html",
+        *sorted((frontend_dir / "styles").rglob("*.css")),
+        *sorted((frontend_dir / "js").rglob("*.js")),
+        static_api_dir / "blocks.json",
+        static_api_dir / "exams.json",
+    ]
+    for path in candidate_files:
+        if path.is_file():
+            hasher.update(path.name.encode("utf-8"))
+            hasher.update(path.read_bytes())
+    return hasher.hexdigest()[:10]
+
+
+def _rewrite_static_js_imports(js_dir: Path, asset_version: str) -> None:
+    for js_file in sorted(js_dir.rglob("*.js")):
+        source = js_file.read_text(encoding="utf-8")
+        rewritten = ESM_REL_JS_REF_RE.sub(
+            lambda m: f"{m.group(1)}{m.group(2)}?v={asset_version}{m.group(3)}",
+            source,
+        )
+        if rewritten != source:
+            js_file.write_text(rewritten, encoding="utf-8")
 
 
 def build_static_site(
@@ -38,16 +70,6 @@ def build_static_site(
     (out_dir / ".nojekyll").write_text("", encoding="utf-8")
     shutil.copytree(frontend_dir / "styles", out_dir / "styles")
     shutil.copytree(frontend_dir / "js", out_dir / "js")
-
-    index_html = (frontend_dir / "index.html").read_text(encoding="utf-8")
-    marker = '<script type="module" src="./js/main.js"></script>'
-    if marker not in index_html:
-        raise RuntimeError(f"Could not find module script tag '{marker}' in index.html")
-    injected = f"<script>window.__YIKAO_STATIC_MODE__ = true;</script>\n  {marker}"
-    (out_dir / "index.html").write_text(
-        index_html.replace(marker, injected, 1),
-        encoding="utf-8",
-    )
 
     conn = sqlite3.connect(str(db_path) if db_path else ":memory:")
     conn.row_factory = sqlite3.Row
@@ -130,12 +152,31 @@ def build_static_site(
                 )
                 (exam_out / "offline.html").write_text(offline_html, encoding="utf-8")
 
+        asset_version = _compute_asset_version(frontend_dir, static_api_dir)
+        _rewrite_static_js_imports(out_dir / "js", asset_version)
+
+        index_html = (frontend_dir / "index.html").read_text(encoding="utf-8")
+        marker = '<script type="module" src="./js/main.js"></script>'
+        if marker not in index_html:
+            raise RuntimeError(f"Could not find module script tag '{marker}' in index.html")
+        versioned_html = CSS_HREF_RE.sub(rf"\1?v={asset_version}\2", index_html)
+        injected = (
+            f'<script>window.__YIKAO_STATIC_MODE__ = true; '
+            f'window.__YIKAO_ASSET_VERSION__ = "{asset_version}";</script>\n'
+            f'  <script type="module" src="./js/main.js?v={asset_version}"></script>'
+        )
+        (out_dir / "index.html").write_text(
+            versioned_html.replace(marker, injected, 1),
+            encoding="utf-8",
+        )
+
         return {
             "exams": len(summaries),
             "blocks": catalog.totalBlocks,
             "readyBlocks": catalog.readyBlocks,
             "questions": total_questions,
             "images": total_images,
+            "assetVersion": asset_version,
             "outDir": str(out_dir),
         }
     finally:
