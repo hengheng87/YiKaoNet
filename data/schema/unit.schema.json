@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "YiKao Unit Questions Schema",
+  "type": "object",
+  "required": [
+    "unitCode",
+    "unitTitle",
+    "session",
+    "subject",
+    "subjectTitle",
+    "prof",
+    "examRange",
+    "unitUrl",
+    "questions"
+  ],
+  "properties": {
+    "unitCode": { "type": "string" },
+    "unitTitle": { "type": "string" },
+    "session": { "type": "string" },
+    "subject": { "type": "string" },
+    "subjectTitle": { "type": "string" },
+    "prof": { "type": "string" },
+    "examRange": { "type": "string" },
+    "unitUrl": { "type": "string" },
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "globalIndex",
+          "qNum",
+          "origQ",
+          "year",
+          "yearGroup",
+          "hasErrata",
+          "isCrossDup",
+          "stem",
+          "image",
+          "options",
+          "answer",
+          "acceptedAnswers",
+          "answerDisplay",
+          "explanations"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "globalIndex": { "type": "integer", "minimum": 1 },
+          "qNum": { "type": "integer", "minimum": 1 },
+          "origQ": { "type": "string" },
+          "year": { "type": "string" },
+          "yearGroup": { "type": "string" },
+          "hasErrata": { "type": "boolean" },
+          "isCrossDup": { "type": "boolean" },
+          "stem": { "type": "string", "minLength": 1 },
+          "image": { "type": ["string", "null"] },
+          "options": {
+            "type": "object",
+            "minProperties": 2,
+            "additionalProperties": { "type": "string" }
+          },
+          "answer": { "type": "string" },
+          "acceptedAnswers": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "type": "string" }
+          },
+          "answerDisplay": { "type": "string" },
+          "explanations": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "type": "string" }
+          },
+          "unitTitle": { "type": "string" },
+          "session": { "type": "string" },
+          "subject": { "type": "string" },
+          "subjectTitle": { "type": "string" },
+          "prof": { "type": "string" },
+          "examRange": { "type": "string" },
+          "unitUrl": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "unitCode": "1016_Physio2",
+  "unitTitle": "10/16 生理學：肌肉生理學 (II)",
+  "session": "A",
+  "subject": "Physio",
+  "subjectTitle": "生理學 (一)",
+  "prof": "林靜茹 教授",
+  "examRange": "A卷 Q1–32（共32題）",
+  "unitUrl": "https://drive.google.com/file/d/1xFxqA0gXsoVSpDXL8pWqy2rIcGNWiBmp",
+  "questions": [
+    {
+      "id": "1016_Physio2-1",
+      "globalIndex": 27,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "骨骼肌無法表現哪種蛋白質可引起 Duchenne muscular dystrophy？（Duchenne muscular dystrophy is mainly associated with the absence of ____ proteins in muscle.）",
+      "image": null,
+      "options": {
+        "A": "Desmin",
+        "B": "Dystrophin",
+        "C": "Sarcoglycans",
+        "D": "Titin"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：杜馨氏肌肉失養症（Duchenne Muscular Dystrophy, DMD）】**：DMD 為 X 染色體隱性遺傳疾病，因 **`DMD` 基因突變導致肌細胞膜內側的 `Dystrophin` 蛋白完全無法表現**，使細肌絲（F-actin）無法穩固連結至肌膜上的 dystroglycan 複合體與細胞外基質；肌肉收縮時肌膜極易撕裂壞死，表現進行性近端肌無力、小腿假性肥大與血清 CK 極度升高。",
+        "**(B) 正確【本題應選正解】**：`Dystrophin` —— **Dystrophin** 完全缺乏是造成 **Duchenne muscular dystrophy（DMD）** 的直接病因（若僅部分功能缺失則為較輕微的 Becker muscular dystrophy）。",
+        "**(A) 錯誤**：`Desmin` —— **Desmin** 為連接相鄰 Z line 與細胞膜的中間絲蛋白，其突變主要引起肌原纖維肌病（myofibrillar myopathy）或擴張型心肌病變，非 DMD 主因。",
+        "**(C) 錯誤**：`Sarcoglycans` —— **Sarcoglycans** 屬於 dystrophin-glycoprotein complex 的跨膜次單元，其基因突變主要導致體染色體隱性遺傳的**肢帶型肌肉失養症（LGMD）**。",
+        "**(D) 錯誤**：`Titin` —— **Titin** 為維持肌節彈性與粗肌絲對齊的巨大結構蛋白，其截短突變最常與家族性擴張型心肌病變（DCM）相關。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-2",
+      "globalIndex": 28,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在連接橋週期中，Energized cross-bridge 在何種狀況下才會與細絲結合？ （In a cross-bridge cycle， when will an energized cross-bridge bind to the thin filament？）",
+      "image": null,
+      "options": {
+        "A": "當新的 ATP 與連接橋結合時 （When new ATP binds to the cross-bridge）",
+        "B": "當 ATP 水解之後 （After ATP is hydrolyzed）",
+        "C": "當細胞內鈣離子濃度增加時 （When intracellular Ca++ concentration increases）",
+        "D": "當 ADP and Pi 脫離連接橋時 （When ADP+Pi detach from the cross-bridge）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(C) 正確【本題應選正解】**：`當細胞內鈣離子濃度增加時 （When intracellular Ca++ concentration increases）` —— 在休息肌肉中，橫橋早已完成 ATP 水解並處於帶能量狀態（energized cross-bridge, `A + M·ADP·Pi`）；唯有**當細胞質內鈣離子（Ca²⁺）濃度增加**，結合至 Troponin C 並推開遮蔽位點的 Tropomyosin 後，帶能量的橫橋才能與細肌絲（actin filament）結合！",
+        "**(A) 錯誤**：`當新的 ATP 與連接橋結合時 （When new ATP binds to the cross-bridge）` —— 當新的 ATP 與橫橋（myosin head）結合時，會降低 myosin 對 actin 的親和力，使橫橋**與細肌絲分離（detachment）**，而非結合！",
+        "**(B) 錯誤**：`當 ATP 水解之後 （After ATP is hydrolyzed）` —— 橫橋上的 ATP 水解為 ADP + Pi 是發生在**橫橋與細肌絲分離狀態下**，用來讓橫橋復位儲能（re-cocking 成 energized cross-bridge），若無 Ca²⁺ 移開 Tropomyosin 仍無法與細肌絲結合。",
+        "**(D) 錯誤**：`當 ADP and Pi 脫離連接橋時 （When ADP+Pi detach from the cross-bridge）` —— ADP 與 Pi 從橫橋脫離是發生在橫橋**已經與細肌絲結合之後**，用來觸發橫橋擺動產生**功率衝程（power stroke）**的步驟，並非促成結合的前提！"
+      ]
+    },
+    {
+      "id": "1016_Physio2-3",
+      "globalIndex": 29,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "骨骼肌收縮中，Sarcoplasmic reticulum上的Ryanodine receptors（RyR）如何開啟？（During skeletal muscle contraction， the ryanodine receptors（RyR）on the sarcoplasmic reticulum is open by ____？）",
+      "image": null,
+      "options": {
+        "A": "Phosphorylations（磷酸化）of the RyR itself",
+        "B": "It was pulls open（拉開）by physical interaction of dihydropyridine receptors（DHPR）",
+        "C": "It was pulled open by depolarization（去極化）of the sarcoplasmic reticulum",
+        "D": "It opens by itself（自動打開）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌 vs. 心肌 RyR 開啟機轉比較】**：在**骨骼肌**中，T-tubule 上的 **DHPR（L-type Ca²⁺ 通道變體）**與肌漿網（SR）上的 **RyR1** 存在直接物理偶聯（mechanical coupling），去極化使 DHPR 構型改變並**物理性拉開 RyR1**（不需細胞外 Ca²⁺ 流入）；而在**心肌**中，則須細胞外 Ca²⁺ 經 DHPR 流入後結合 **RyR2** 觸發鈣誘導鈣釋放（CICR）。",
+        "**(B) 正確【本題應選正解】**：`It was pulls open（拉開）by physical interaction of dihydropyridine receptors（DHPR）` —— 骨骼肌 T-tubule 去極化時，電壓感測器 **DHPR** 發生構型變化，透過**直接物理交互作用拉開（pulls open）** SR 上的 RyR1，使大量 Ca²⁺ 瞬間釋出。",
+        "**(A) 錯誤**：`Phosphorylations（磷酸化）of the RyR itself` —— 磷酸化（如 PKA/CaMKII）僅調節 RyR 的開放機率與敏感度，並非骨骼肌正常興奮-收縮偶聯中直接開啟 RyR 的觸發機制。",
+        "**(C) 錯誤**：`It was pulled open by depolarization（去極化）of the sarcoplasmic reticulum` —— 動作電位去極化發生在肌細胞膜與 **T-tubule** 上，肌漿網（SR）膜本身並不進行動作電位去極化來直接開啟 RyR。",
+        "**(D) 錯誤**：`It opens by itself（自動打開）` —— 正常靜止狀態下 RyR 處於關閉狀態（否則會造成持續收縮與高熱），必須接收 T-tubule DHPR 的去極化構型訊號才會開啟。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-4",
+      "globalIndex": 30,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "惡性高溫（Malignant hyperthermia）是哪一個蛋白質或結構缺失？（Malignant hyperthermia is associated with the defects of ____？）",
+      "image": null,
+      "options": {
+        "A": "Dihydropyridine receptors",
+        "B": "Calcium pumps",
+        "C": "Ryanodine receptors",
+        "D": "Voltage-gated Ca++ channels"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：惡性高熱（Malignant Hyperthermia, MH）】**：惡性高熱為體染色體顯性遺傳之藥物基因體學急症，主因骨骼肌肌漿網上的 **Ryanodine receptor（`RYR1` 基因）突變**。接觸吸入性全身麻醉劑（如 halothane、sevoflurane）或去極化肌鬆劑 **succinylcholine** 後，RyR1 異常持續開放釋放大量 Ca²⁺，引發全身肌肉強直、代謝亢進、高碳酸血症與體溫急劇飆升（特效藥為阻斷 RyR1 的 **Dantrolene**）。",
+        "**(C) 正確【本題應選正解】**：`Ryanodine receptors` —— **Ryanodine receptors（RyR1）**基因突變使鈣離子釋放通道對麻醉藥物過度敏感並持續開啟，造成細胞質 Ca²⁺ 失控暴增與嚴重產熱，為惡性高熱最主要病因。",
+        "**(A) 錯誤**：`Dihydropyridine receptors` —— 雖然極少數（<1%）MH 案例與 CACNA1S（DHPR）相關，但醫學考試與臨床上惡性高熱最主要（>70%）且標準的致病標的為肌漿網上的 **Ryanodine receptors（RYR1）**。",
+        "**(B) 錯誤**：`Calcium pumps` —— 肌漿網 Ca²⁺ 幫浦（SERCA）負責消耗 ATP 回收鈣離子以使肌肉舒張，非誘發惡性高熱的經典基因缺陷標的。",
+        "**(D) 錯誤**：`Voltage-gated Ca++ channels` —— 骨骼肌細胞膜／T-tubule 的電壓閘門鈣離子通道（DHPR）主要作為機械性電壓感測器，惡性高熱的經典缺失受體仍為 SR 上的 RyR。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-5",
+      "globalIndex": 31,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "骨骼肌收縮過程中，影響Excitation-Contraction coupling中的Latent period時間長短的因子，不 包含下列哪一項？（Which is NOT the factor that contribute to the time length of latent period during the Excitation-Contraction coupling？）",
+      "image": null,
+      "options": {
+        "A": "肌漿網釋放鈣離子的時間 （Time for sarcoplasmic reticulum releases calcium ions）",
+        "B": "移開 tropomyosin 的時間 （Time to move tropomyosin away from cross-bridge binding sites）",
+        "C": "進行連接橋週期的時間 （Time for cross-bridge cycles operation）",
+        "D": "肌漿網回收鈣離子的時間 （Time for reuptake of Ca++ ions into the sarcoplasmic reticulum）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：Latent Period（潛伏期）的決定步驟】**：潛伏期涵蓋「肌膜動作電位開始 → T-tubule 傳導 → **SR 釋放 Ca²⁺** → Ca²⁺ 結合 TnC 並**移開 tropomyosin** → **橫橋週期啟動並產生初始張力**」。而**肌漿網回收 Ca²⁺（SERCA）**發生在張力達到峰值後的**舒張期（relaxation）**，不屬於收縮前的潛伏期。",
+        "**(D) 敘述錯誤【本題應選正解】**：`肌漿網回收鈣離子的時間 （Time for reuptake of Ca++ ions into the sarcoplasmic reticulum）` —— SERCA 幫浦將 Ca²⁺ 回收回肌漿網決定的是**肌肉舒張（relaxation）的速度**，而非收縮前的 latent period，故本選項不包含在內，為正解。",
+        "**(A) 敘述正確（非本題所求）**：`肌漿網釋放鈣離子的時間 （Time for sarcoplasmic reticulum releases calcium ions）` —— T-tubule 去極化觸發 SR 經 RyR 釋放 Ca²⁺ 並擴散至肌絲，是構成潛伏期的主要時間成分之一。",
+        "**(B) 敘述正確（非本題所求）**：`移開 tropomyosin 的時間 （Time to move tropomyosin away from cross-bridge binding sites）` —— Ca²⁺ 與 Troponin C 結合後誘導構型改變、將 **tropomyosin** 移開 actin 結合位，發生於橫橋形成張力之前，屬於潛伏期的一部分。",
+        "**(C) 敘述正確（非本題所求）**：`進行連接橋週期的時間 （Time for cross-bridge cycles operation）` —— Myosin 結合 actin 並執行強力滑動（power stroke）產生可量測張力所需的時間，亦計入產生張力前的潛伏期內。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-6",
+      "globalIndex": 32,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "當骨骼肌在做等張向心收縮（Isotonic concentric contraction），下列敘述，何者正確？（About the concentric isotonic contraction， which description is correct？）",
+      "image": null,
+      "options": {
+        "A": "肌節縮短及明帶縮短 （Both the sarcomere and I band shortened）",
+        "B": "肌節縮短及暗帶縮短 （Both the sarcomere and A band shortened）",
+        "C": "明帶及暗帶縮短 （Both A band and I band shortened）",
+        "D": "肌節、暗帶及明帶均縮短 （The sarcomere， A band， and I band shortened）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：等張收縮（Isotonic Contraction）力學與肌節明暗帶變化】**：**(1) 明暗帶變化**：滑動肌絲過程中粗肌絲與細肌絲本身長度均不變，故**暗帶（A band，由粗肌絲長度決定）長度永遠不變**；而**肌節（sarcomere）、明帶（I band）與 H zone 皆會縮短**；**(2) 等張收縮與負重（Light Load vs. Heavy Load）**：等張收縮在肌肉張力尚未超過負重（load）前，必先經歷一段**長度不變而張力上升的「等長收縮期（isometric contraction period）」**，直到張力等於負重才開始縮短。相較於重負重（Heavy load），**輕負重（Light load）達到負重所需張力較小，故縮短前的等長收縮期（latent period）較短、縮短速度（shortening velocity）較快、縮短距離較大且縮短持續時間（duration of shortening）較長**。",
+        "**(A) 正確【本題應選正解】**：`肌節縮短及明帶縮短 （Both the sarcomere and I band shortened）` —— 骨骼肌等張向心收縮時，細肌絲向肌節中央滑動，因此**肌節（sarcomere）縮短，且僅含細肌絲的明帶（I band）與 H zone 隨重疊增加而縮短**；但粗肌絲本身長度不變，故**暗帶（A band）長度維持不變**！",
+        "**(B) 錯誤**：`肌節縮短及暗帶縮短 （Both the sarcomere and A band shortened）` —— 在滑動肌絲模型（sliding filament model）中，粗肌絲本身的長度永遠不會改變，因此由粗肌絲長度決定的**暗帶（A band）在收縮時絕對不會縮短**！",
+        "**(C) 錯誤**：`明帶及暗帶縮短 （Both A band and I band shortened）` —— 在滑動肌絲模型（sliding filament model）中，粗肌絲本身的長度永遠不會改變，因此由粗肌絲長度決定的**暗帶（A band）在收縮時絕對不會縮短**！",
+        "**(D) 錯誤**：`肌節、暗帶及明帶均縮短 （The sarcomere， A band， and I band shortened）` —— 在滑動肌絲模型（sliding filament model）中，粗肌絲本身的長度永遠不會改變，因此由粗肌絲長度決定的**暗帶（A band）在收縮時絕對不會縮短**！"
+      ]
+    },
+    {
+      "id": "1016_Physio2-7",
+      "globalIndex": 33,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在等張收縮 （isotonic contraction）中，肌肉細胞縮短之前，有一段張力增加的等長收縮期。 （For an isotonic contraction， before shortening of the muscle cell， there is a period of isometric contraction.）",
+      "image": null,
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：等張收縮（Isotonic Contraction）力學與肌節明暗帶變化】**：**(1) 明暗帶變化**：滑動肌絲過程中粗肌絲與細肌絲本身長度均不變，故**暗帶（A band，由粗肌絲長度決定）長度永遠不變**；而**肌節（sarcomere）、明帶（I band）與 H zone 皆會縮短**；**(2) 等張收縮與負重（Light Load vs. Heavy Load）**：等張收縮在肌肉張力尚未超過負重（load）前，必先經歷一段**長度不變而張力上升的「等長收縮期（isometric contraction period）」**，直到張力等於負重才開始縮短。相較於重負重（Heavy load），**輕負重（Light load）達到負重所需張力較小，故縮短前的等長收縮期（latent period）較短、縮短速度（shortening velocity）較快、縮短距離較大且縮短持續時間（duration of shortening）較長**。",
+        "**(A) 正確【本題應選正解】**：`True` —— **True（正確）**：在進行等張收縮（isotonic contraction）舉起物體時，肌肉受刺激後必須先經歷一段**長度不變、但橫橋不斷拉緊彈性元件使張力逐漸上升的「等長收縮期（period of isometric contraction）」**；直到肌肉產生的張力等於或超過物體負重（load）時，肌肉才會開始縮短！",
+        "**(B) 錯誤**：`False` —— 此敘述為真（True）：等張收縮在張力尚未達到負重重量之前，肌肉無法縮短，必先經過一段張力上升的等長收縮期。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-8",
+      "globalIndex": 34,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於平滑肌收縮的描述，何者正確？（Which description about the smooth muscle contraction is correct？）",
+      "image": null,
+      "options": {
+        "A": "收縮前，Ca++ 需要與 troponin 結合（Calcium binds to troponin before contraction）",
+        "B": "Myosin light-chain kinase 可磷酸化連接橋（Phosphorylation of cross-bridge is performed by myosin light-chain kinase）",
+        "C": "收縮時鈣離子唯一來源是由肌漿網釋放（Ca++ release from the sarcoplasmic reticulum is the only Ca++ source for contraction）",
+        "D": "只有去磷酸化的連接橋才會跟細絲結合（Only when the cross-bridge is de-phosphorylated will it bind to the thin filament）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：平滑肌結構與收縮調控機轉（MLCK 磷酸化橫橋）】**：**(1) 平滑肌具有的結構與機制**：具細肌絲（actin）、粗肌絲（myosin）、**原肌球蛋白（Tropomyosin）**、**緻密體（Dense bodies，功能等同 Z line）**與**滑動肌絲機制（Sliding filament mechanism）**，但**完全沒有肌節（Sarcomere，故無橫紋，註：113年題目誤將 Sarcomere 列入選項 B 導致送分）、沒有 Troponin（肌鈣蛋白）、沒有 T-tubule**；**(2) 平滑肌收縮鈣離子來源與雙重調節**：Ca²⁺ 來自**「細胞外經鈣通道流入（主要）」與「肌漿網 SR 釋放」雙重來源**；Ca²⁺ 與 **鈣調蛋白（Calmodulin）**結合後活化**肌球蛋白輕鏈激酶（Myosin light-chain kinase, MLCK）**，將肌球蛋白輕鏈（橫橋 cross-bridge）**磷酸化（phosphorylation）**後才能與細肌絲結合收縮（舒張則靠 MLCP 去磷酸化）。",
+        "**(B) 正確【本題應選正解】**：`Myosin light-chain kinase 可磷酸化連接橋（Phosphorylation of cross-bridge is performed by myosin light-chain kinase）` —— 平滑肌收縮的核心調控位於粗肌絲：當胞內 Ca²⁺ 上升並與 **鈣調蛋白（Calmodulin）**結合後，會活化**肌球蛋白輕鏈激酶（Myosin light-chain kinase, MLCK）**，由 MLCK **將肌球蛋白橫橋（myosin light chain）磷酸化（phosphorylation）**，磷酸化後的橫橋才能與細肌絲（actin）結合並進行橫橋週期！",
+        "**(A) 錯誤**：`收縮前，Ca++ 需要與 troponin 結合（Calcium binds to troponin before contraction）` —— **平滑肌完全沒有肌鈣蛋白（Troponin）**！平滑肌的鈣離子結合蛋白是細胞質內的**鈣調蛋白（Calmodulin）**。",
+        "**(C) 錯誤**：`收縮時鈣離子唯一來源是由肌漿網釋放（Ca++ release from the sarcoplasmic reticulum is the only Ca++ source for contraction）` —— 平滑肌的肌漿網（SR）較不發達，其收縮所需的 Ca²⁺ 有兩大來源：**絕大部分經由細胞膜上的鈣離子通道（電壓閘門或配體閘門 Ca²⁺ 通道）由細胞外液流入**，少部分由肌漿網釋放，並非僅由肌漿網釋放！",
+        "**(D) 錯誤**：`只有去磷酸化的連接橋才會跟細絲結合（Only when the cross-bridge is de-phosphorylated will it bind to the thin filament）` —— 平滑肌的橫橋必須先被 MLCK **「磷酸化（phosphorylated）」**才會被活化並與細肌絲結合；當橫橋被肌球蛋白輕鏈磷酸酶（MLCP）**去磷酸化（de-phosphorylated）**時則是促使平滑肌放鬆（或進入耗能極低的 latch state）！"
+      ]
+    },
+    {
+      "id": "1016_Physio2-9",
+      "globalIndex": 35,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "近期台東小米粽食物中毒，食餘驗出高濃度 Acetylcholinesterase（AChE）inhibitor，關於可能 機轉，下列哪一敘述是正確的？",
+      "image": null,
+      "options": {
+        "A": "Neuromuscular junction（NMJ）釋放的ACh量減少",
+        "B": "引發自體免疫（Autoimmune）反應，攻擊ACh receptors",
+        "C": "患者通常死於骨骼肌無力收縮",
+        "D": "患者會有Overactivation of parasympathetic division 的症狀"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉病變與電解質異常（低血鉀 vs. 低血鈣 vs. 去神經萎縮）】**：**(1) AChE 抑制劑中毒（有機磷／托福松小米粽）**：ACh 無法分解導致**副交感神經過度活化（縮瞳、流涎、支氣管痙攣與分泌物過多致呼吸衰竭）**及骨骼肌去極化麻痺；**(2) 低血鉀（Hypokalemia）**：細胞外 K⁺ 過低使靜止膜電位**過度極化（hyperpolarization）**遠離閾值，導致骨骼肌無法產生動作電位而快速出現**無力性麻痺（Flaccid paralysis）**；**(3) 低血鈣（Hypocalcemia）**：細胞外 Ca²⁺ 降低會減少對電壓閘門 Na⁺ 通道的屏蔽效應，使**閾值下降、神經肌肉興奮性大增**而引起**強直性痙攣（Muscle tetany）**；**(4) 運動神經元受損（Denervation）**：失去神經支配會導致骨骼肌**去神經萎縮（denervation atrophy）**，並因肌膜 ACh 受體過敏而出現單一肌纖維自發性收縮之**纖維顫動（fibrillation）**。",
+        "**(D) 正確【本題應選正解】**：`患者會有Overactivation of parasympathetic division 的症狀` —— 高濃度**乙醯膽鹼酯酶抑制劑（AChE inhibitor，如有機磷或氨基甲酸酯農藥托福松）**會阻斷突觸間隙 ACh 水解，導致 ACh 大量累積並過度活化蕈毒鹼受體，引發嚴重的**副交感神經過度興奮症狀（Overactivation of parasympathetic division：針尖瞳孔、流涎、支氣管收縮與大量呼吸道分泌物、心搏過緩、腹瀉）**。",
+        "**(A) 錯誤**：`Neuromuscular junction（NMJ）釋放的ACh量減少` —— AChE 抑制劑是阻斷已釋放的 ACh 被分解，使突觸間隙 ACh 濃度暴增，並不會減少突觸前 ACh 釋放（減少 ACh 釋放的是肉毒桿菌毒素 Botulinum toxin）。",
+        "**(B) 錯誤**：`引發自體免疫（Autoimmune）反應，攻擊ACh receptors` —— 引發自體免疫抗體攻擊 NMJ 菸鹼型 ACh 受體的是**重症肌無力（Myasthenia gravis）**，並非急性 AChE 抑制劑食物中毒。",
+        "**(C) 錯誤**：`患者通常死於骨骼肌無力收縮` —— AChE 抑制劑中毒初期會因大量 ACh 過度刺激骨骼肌與中樞引起**肌束震顫（fasciculations）與抽搐痙攣**，隨後轉為去極化呼吸肌麻痺與嚴重副交感支氣管痙攣／肺水腫窒息致死，並非單純骨骼肌無力收縮。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-10",
+      "globalIndex": 36,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "依據上課討論，下列哪一現象最可能快速導致骨骼肌Flaccid paralysis（無力性麻痺）？",
+      "image": null,
+      "options": {
+        "A": "Hypocalcemia（低血鈣）",
+        "B": "Hypokalemia（低血鉀）",
+        "C": "Denervation atrophy（去敏性萎縮）",
+        "D": "Disuse atrophy"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：電解質異常與神經肌肉麻痺（低血鉀 vs. 低血鈣）】**：(1) **低血鉀（Hypokalemia）**：細胞外 K⁺ 過低使肌細胞靜止膜電位過度極化（hyperpolarization，更遠離閾值），興奮性大幅下降，可**快速導致骨骼肌無力性麻痺（flaccid paralysis，如週期性低血鉀麻痺）**；(2) **低血鈣（Hypocalcemia）**：降低細胞外 Ca²⁺ 對細胞膜 Na⁺ 通道的屏蔽效應，使 Na⁺ 通道更易開啟而去極化，反而引發**肌肉強直／抽搐（tetany）**；(3) 去神經萎縮與廢用性萎縮皆屬慢性格局變化。",
+        "**(B) 正確【本題應選正解】**：`Hypokalemia（低血鉀）` —— **低血鉀**使肌細胞靜止膜電位變得更負（過度極化，或引發異常慢去極化去活），肌肉難以產生動作電位，因此能**快速導致骨骼肌無力性麻痺（flaccid paralysis）**。",
+        "**(A) 錯誤**：`Hypocalcemia（低血鈣）` —— **低血鈣**會減少細胞外 Ca²⁺ 對電壓閘門 Na⁺ 通道的抑制穩定作用，使神經與肌肉細胞膜過於容易去極化，臨床表現為**肌肉強直／抽搐（tetany）**而非無力性麻痺。",
+        "**(C) 錯誤**：`Denervation atrophy（去敏性萎縮）` —— 去神經萎縮（denervation atrophy）為運動神經受損後數週至數月逐漸出現的肌纖維萎縮與纖維顫動（fibrillation），非「快速」導致急性麻痺的電解質機轉。",
+        "**(D) 錯誤**：`Disuse atrophy` —— 廢用性萎縮（disuse atrophy）是長期臥床或固定不動後慢性的肌肉體積縮小與肌力下降，不會快速誘發急性 flaccid paralysis。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-11",
+      "globalIndex": 37,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於骨骼肌 Isotonic contraction，何者描述正確？",
+      "image": null,
+      "options": {
+        "A": "Isotonic contraction 的 latent period 比 isometric contraction 短",
+        "B": "舉起Light load 與 Heavy load，前者（Light load）的 Latent period 較長",
+        "C": "舉起Light load 與 Heavy load，前者的 Duration of shortening 較短",
+        "D": "Isotonic contraction 在量測到肌肉變短前會有一段 Isometric contraction"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：等張收縮（Isotonic Contraction）力學與肌節明暗帶變化】**：**(1) 明暗帶變化**：滑動肌絲過程中粗肌絲與細肌絲本身長度均不變，故**暗帶（A band，由粗肌絲長度決定）長度永遠不變**；而**肌節（sarcomere）、明帶（I band）與 H zone 皆會縮短**；**(2) 等張收縮與負重（Light Load vs. Heavy Load）**：等張收縮在肌肉張力尚未超過負重（load）前，必先經歷一段**長度不變而張力上升的「等長收縮期（isometric contraction period）」**，直到張力等於負重才開始縮短。相較於重負重（Heavy load），**輕負重（Light load）達到負重所需張力較小，故縮短前的等長收縮期（latent period）較短、縮短速度（shortening velocity）較快、縮短距離較大且縮短持續時間（duration of shortening）較長**。",
+        "**(D) 正確【本題應選正解】**：`Isotonic contraction 在量測到肌肉變短前會有一段 Isometric contraction` —— 等張收縮在開始縮短前必有一段張力累積至負重重量的**等長收縮期（isometric contraction）**；舉起**輕負重（Light load, LL）**所需的張力較小，能更快達到負重門檻開始縮短，因此**縮短前的等長收縮期（即等張收縮的 latent period）較短**、縮短速度較快、縮短持續時間（duration of shortening）較長！",
+        "**(A) 錯誤**：`Isotonic contraction 的 latent period 比 isometric contraction 短` —— 等張收縮需先累積張力超過負重才能開始縮短（且負重越重，需累積張力的時間越久，latent period 越長）；因此舉起 **Light load 的 latent period 比 Heavy load 短**（且等張收縮測定縮短的 latent period 比等長收縮測定張力出現的 latent period 長）！",
+        "**(B) 錯誤**：`舉起Light load 與 Heavy load，前者（Light load）的 Latent period 較長` —— 等張收縮需先累積張力超過負重才能開始縮短（且負重越重，需累積張力的時間越久，latent period 越長）；因此舉起 **Light load 的 latent period 比 Heavy load 短**（且等張收縮測定縮短的 latent period 比等長收縮測定張力出現的 latent period 長）！",
+        "**(C) 錯誤**：`舉起Light load 與 Heavy load，前者的 Duration of shortening 較短` —— 舉起 **Light load（LL）**因為很早就突破負重門檻開始縮短，且縮短幅度大，其**肌肉縮短持續時間（duration of shortening）比 Heavy load 更長**，而非較短！"
+      ]
+    },
+    {
+      "id": "1016_Physio2-12",
+      "globalIndex": 38,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "12.關於骨骼肌 Optimal length（最佳長度，Lo）的描述，何者正確？",
+      "image": null,
+      "options": {
+        "A": "此時刺激肌肉能產生最大的 Active tension（張力）",
+        "B": "此時刺激肌肉，完全無法產生張力",
+        "C": "此時肌肉儲存最多的 Creatine phosphate（磷酸肌胺酸）能立即產生 ATP",
+        "D": "此時肌肉進行 Glycolysis 最活躍"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌最佳長度（Optimal Length, Lo）】**：在 **Optimal length（Lo，肌節長度約 2.0–2.2 μm）**時，粗肌絲上的所有橫橋（cross-bridges）與細肌絲（actin）達到**最大程度的有效重疊（maximal overlap）**，且兩端細肌絲尚未在中央彼此干擾，因此刺激肌肉可產生**最大的主動張力（maximal active tension）**。",
+        "**(A) 正確【本題應選正解】**：`此時刺激肌肉能產生最大的 Active tension（張力）` —— 在 **Lo（最佳長度）**時，粗肌絲與細肌絲之間可形成最多數量的有效橫橋連結，因此刺激肌肉能產生 **100% 最大的主動收縮張力（active tension）**。",
+        "**(B) 錯誤**：`此時刺激肌肉，完全無法產生張力` —— 完全無法產生張力發生於過度拉長（>170% Lo，粗細肌絲完全無重疊）或過度縮短（<60% Lo，細肌絲嚴重重疊擠壓）時，並非在 Lo。",
+        "**(C) 錯誤**：`此時肌肉儲存最多的 Creatine phosphate（磷酸肌胺酸）能立即產生 ATP` —— Optimal length（Lo）描述的是肌節幾何重疊與機械張力的關係，與肌肉內磷酸肌胺酸（creatine phosphate）的化學儲存量多寡無關。",
+        "**(D) 錯誤**：`此時肌肉進行 Glycolysis 最活躍` —— 糖解作用（glycolysis）活躍程度取決於肌肉運動強度、氧氣供應與肌纖維類型（如 Type IIb），與靜息肌節是否處於 Lo 無直接因果關係。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-13",
+      "globalIndex": 39,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "比較同樣大小的Fast-oxidative-glycolytic fibers（Type IIa）與 Fast-glycolytic fibers（Type Ib）， 下列何者在type Ila muscle fiber 有較高的量或活性？ (1) Mitochondria contents  2.Myoglobin content  3.Glycolytic enzyme activities  4 .Stored ATP （儲存的 ATP 量）",
+      "image": null,
+      "options": {
+        "A": "12",
+        "B": "34",
+        "C": "13",
+        "D": "24"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：骨骼肌長度-張力關係（Length-Tension Relationship, Lo）】**：**(1) 最佳長度（Optimal length, Lo）**：休息狀態下粗肌絲橫橋與細肌絲達最佳重疊比例，此時受刺激能產生**最大的主動張力（maximum active tension）**；**(2) 長度 > 175% Lo**：粗細肌絲完全不重疊，無法產生主動張力；**(3) 長度 < 60%–70% Lo**：細肌絲在肌節中央過度重疊干擾，且粗肌絲兩端直接撞擊 Z line，因此**小於 60% Lo 時刺激肌肉完全無法產生張力（develop no tension）**。",
+        "**(A) 正確【本題應選正解】**：`12` —— 比較同體積的 **Type IIa（快速氧化糖解型 Fast-oxidative-glycolytic）**與 **Type IIb（快速糖解型 Fast-glycolytic）**：Type IIa 具有明顯較高的有氧氧化能力，因此含有較多的 **(1) 粒線體含量（Mitochondria contents）** 與 **(2) 肌紅蛋白含量（Myoglobin content，呈紅肌）**！（Type IIb 則是 (3) 糖解酵素活性較高；兩者單位體積儲存的游離 (4) ATP 量則相近）。",
+        "**(B) 錯誤**：`34` —— (3) 糖解酵素活性（Glycolytic enzyme activities）以白肌 Type IIb 較高，而單位體積儲存的 (4) Stored ATP 在各型肌纖維間相近；Type IIa 較高的是 (1) Mitochondria 與 (2) Myoglobin（選 `12`）。",
+        "**(C) 錯誤**：`13` —— (3) 糖解酵素活性（Glycolytic enzyme activities）以白肌 Type IIb 較高，而單位體積儲存的 (4) Stored ATP 在各型肌纖維間相近；Type IIa 較高的是 (1) Mitochondria 與 (2) Myoglobin（選 `12`）。",
+        "**(D) 錯誤**：`24` —— (3) 糖解酵素活性（Glycolytic enzyme activities）以白肌 Type IIb 較高，而單位體積儲存的 (4) Stored ATP 在各型肌纖維間相近；Type IIa 較高的是 (1) Mitochondria 與 (2) Myoglobin（選 `12`）。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-14",
+      "globalIndex": 40,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "在平滑肌上，可觀察到那些結構組織或作用？ (1) Dense bodies  2.Sliding filemant mechanisms  3.Sacromeres  4.Troponin  5.Tropomyosin",
+      "image": null,
+      "options": {
+        "A": "12345",
+        "B": "1235",
+        "C": "1345",
+        "D": "145"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerDisplay": "(B)（申覆後送分，選任一選項皆給分）",
+      "explanations": [
+        "📘 **【核心考點：平滑肌結構與收縮調控機轉（MLCK 磷酸化橫橋）】**：**(1) 平滑肌具有的結構與機制**：具細肌絲（actin）、粗肌絲（myosin）、**原肌球蛋白（Tropomyosin）**、**緻密體（Dense bodies，功能等同 Z line）**與**滑動肌絲機制（Sliding filament mechanism）**，但**完全沒有肌節（Sarcomere，故無橫紋，註：113年題目誤將 Sarcomere 列入選項 B 導致送分）、沒有 Troponin（肌鈣蛋白）、沒有 T-tubule**；**(2) 平滑肌收縮鈣離子來源與雙重調節**：Ca²⁺ 來自**「細胞外經鈣通道流入（主要）」與「肌漿網 SR 釋放」雙重來源**；Ca²⁺ 與 **鈣調蛋白（Calmodulin）**結合後活化**肌球蛋白輕鏈激酶（Myosin light-chain kinase, MLCK）**，將肌球蛋白輕鏈（橫橋 cross-bridge）**磷酸化（phosphorylation）**後才能與細肌絲結合收縮（舒張則靠 MLCP 去磷酸化）。",
+        "⚠️ **【申覆多解／送分說明】**：本題經考後申覆，官方核定給分答案為 **(B)（申覆後送分，選任一選項皆給分）**！",
+        "**(B) 正確【本題應選正解】**：`1235` —— 平滑肌具有 **(1) 緻密體（Dense bodies，功能相當於 Z line）**、**(2) 滑動肌絲機制（Sliding filament mechanism）** 與 **(5) 原肌球蛋白（Tropomyosin）**，但**沒有 (4) Troponin，也沒有規則排列的 (3) Sarcomeres（肌節）**！當年原始考題選項未提供僅含 `125` 的選項（原答案設為 B `1235`），故經考後申覆判定**本題送分（選任一選項皆給分）**。",
+        "**(A) 申覆並列給分**：`12345` —— 平滑肌實際上僅具 (1) Dense bodies、(2) Sliding filament mechanisms 與 (5) Tropomyosin，不含 (3) Sarcomeres 與 (4) Troponin；因原題無 `125` 選項，考後申覆全題送分。",
+        "**(C) 申覆並列給分**：`1345` —— 平滑肌實際上僅具 (1) Dense bodies、(2) Sliding filament mechanisms 與 (5) Tropomyosin，不含 (3) Sarcomeres 與 (4) Troponin；因原題無 `125` 選項，考後申覆全題送分。",
+        "**(D) 申覆並列給分**：`145` —— 平滑肌實際上僅具 (1) Dense bodies、(2) Sliding filament mechanisms 與 (5) Tropomyosin，不含 (3) Sarcomeres 與 (4) Troponin；因原題無 `125` 選項，考後申覆全題送分。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-15",
+      "globalIndex": 41,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在何種作用下，會促使平滑肌的Cross-bridge跟細絲結合？",
+      "image": null,
+      "options": {
+        "A": "Cross-bridges are de-phosphorylated（去磷酸化）",
+        "B": "Cross bridges are phosphorylated by active Ca2+-calmodulin myosin-light-chain kinase （MLCK）",
+        "C": "ATP與 cross-bridge 結合，進行 Allosteric regulations（異位調節）",
+        "D": "細胞內鈣離子濃度降低時"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(B) 正確【本題應選正解】**：`Cross bridges are phosphorylated by active Ca2+-calmodulin myosin-light-chain kinase （MLCK）` —— 平滑肌收縮的核心調控位於粗肌絲：當胞內 Ca²⁺ 上升並與 **鈣調蛋白（Calmodulin）**結合後，會活化**肌球蛋白輕鏈激酶（Myosin light-chain kinase, MLCK）**，由 MLCK **將肌球蛋白橫橋（myosin light chain）磷酸化（phosphorylation）**，磷酸化後的橫橋才能與細肌絲（actin）結合並進行橫橋週期！",
+        "**(A) 錯誤**：`Cross-bridges are de-phosphorylated（去磷酸化）` —— 平滑肌的橫橋必須先被 MLCK **「磷酸化（phosphorylated）」**才會被活化並與細肌絲結合；當橫橋被肌球蛋白輕鏈磷酸酶（MLCP）**去磷酸化（de-phosphorylated）**時則是促使平滑肌放鬆（或進入耗能極低的 latch state）！",
+        "**(C) 錯誤**：`ATP與 cross-bridge 結合，進行 Allosteric regulations（異位調節）` —— 平滑肌橫橋與細肌絲結合必須在**胞內 Ca²⁺ 濃度升高**、活化 Ca²⁺-Calmodulin-MLCK 將橫橋**共價磷酸化（covalent phosphorylation）**後才能發生，並非鈣降低或單純 ATP 異位調節。",
+        "**(D) 錯誤**：`細胞內鈣離子濃度降低時` —— 平滑肌橫橋與細肌絲結合必須在**胞內 Ca²⁺ 濃度升高**、活化 Ca²⁺-Calmodulin-MLCK 將橫橋**共價磷酸化（covalent phosphorylation）**後才能發生，並非鈣降低或單純 ATP 異位調節。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-16",
+      "globalIndex": 42,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Ouabain（烏巴苷）藉由抑制鈉鉀幫浦（Na+/K+-ATPase），達到促進心臟收縮力的作用。其最 可能機制為問接影響心肌細胞_____的作用，使細胞內鈣離子濃度增加？",
+      "image": null,
+      "options": {
+        "A": "肌漿網上Ca2+ pump",
+        "B": "T-tubules L-type Ca2+ channels",
+        "C": "Na+/Ca2+ exchanger",
+        "D": "肌漿網上RyR receptors"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：強心苷 Ouabain / Digoxin 強心機轉】**：Ouabain 抑制心肌細胞膜上的 **Na⁺/K⁺-ATPase（鈉鉀幫浦）** → 細胞內 **Na⁺ 濃度上升** → 削弱跨膜 Na⁺ 濃度梯度 → 間接抑制細胞膜上的 **Na⁺/Ca²⁺ exchanger（NCX，鈉鈣交換器，平時靠 3 Na⁺ 流入換 1 Ca²⁺ 排出）**排出鈣離子 → 細胞內與肌漿網儲存的 **Ca²⁺ 濃度增加** → 增強心肌收縮力（positive inotropy）。",
+        "**(C) 正確【本題應選正解】**：`Na+/Ca2+ exchanger` —— 強心苷 **Ouabain** 抑制細胞膜上的 **Na⁺/K⁺-ATPase**，導致胞內 Na⁺ 堆積並縮小跨膜 Na⁺ 濃度梯度，進而間接抑制細胞膜上的 **Na⁺/Ca²⁺ exchanger（NCX，鈉鈣交換器）**將 Ca²⁺ 排出細胞外，使胞內與肌漿網 Ca²⁺ 濃度上升以增強心肌收縮力。",
+        "**(A) 錯誤**：`肌漿網上Ca2+ pump` —— Ouabain 抑制鈉鉀幫浦後改變的是跨膜 Na⁺ 梯度，直接影響的是依賴 Na⁺ 梯度運作的 **Na⁺/Ca²⁺ exchanger（NCX）**，而非直接作用於 `肌漿網上Ca2+ pump`。",
+        "**(B) 錯誤**：`T-tubules L-type Ca2+ channels` —— Ouabain 抑制鈉鉀幫浦後改變的是跨膜 Na⁺ 梯度，直接影響的是依賴 Na⁺ 梯度運作的 **Na⁺/Ca²⁺ exchanger（NCX）**，而非直接作用於 `T-tubules L-type Ca2+ channels`。",
+        "**(D) 錯誤**：`肌漿網上RyR receptors` —— Ouabain 是抑制細胞膜 Na⁺/K⁺-ATPase 間接減緩 **Na⁺/Ca²⁺ exchanger（NCX）**排出鈣離子，並非直接作用於肌漿網 RyR 受體。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-17",
+      "globalIndex": 43,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於骨骼肌的病變，那一配對是正確的？",
+      "image": null,
+      "options": {
+        "A": "Myasthenia gravis（重症肌無力）：自體免疫抗體破壞Acetylcholinesterase（AChE）",
+        "B": "Hypocalcemia（低血鈣）：Flaccid paralysis（無力性肢體體麻痺）因為囊泡無法釋放ACh",
+        "C": "Hypokalemia（低血鉀） ：Muscle tetany（強直）",
+        "D": "Injury of motor neurons：Muscle atrophy with fibrillation（纖維顫動）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉病變與電解質異常（低血鉀 vs. 低血鈣 vs. 去神經萎縮）】**：**(1) AChE 抑制劑中毒（有機磷／托福松小米粽）**：ACh 無法分解導致**副交感神經過度活化（縮瞳、流涎、支氣管痙攣與分泌物過多致呼吸衰竭）**及骨骼肌去極化麻痺；**(2) 低血鉀（Hypokalemia）**：細胞外 K⁺ 過低使靜止膜電位**過度極化（hyperpolarization）**遠離閾值，導致骨骼肌無法產生動作電位而快速出現**無力性麻痺（Flaccid paralysis）**；**(3) 低血鈣（Hypocalcemia）**：細胞外 Ca²⁺ 降低會減少對電壓閘門 Na⁺ 通道的屏蔽效應，使**閾值下降、神經肌肉興奮性大增**而引起**強直性痙攣（Muscle tetany）**；**(4) 運動神經元受損（Denervation）**：失去神經支配會導致骨骼肌**去神經萎縮（denervation atrophy）**，並因肌膜 ACh 受體過敏而出現單一肌纖維自發性收縮之**纖維顫動（fibrillation）**。",
+        "**(D) 正確【本題應選正解】**：`Injury of motor neurons：Muscle atrophy with fibrillation（纖維顫動）` —— 當支配骨骼肌的下運動神經元受損（**Injury of motor neurons / denervation**）時，失去神經訊號與營養因子會導致**去神經肌肉萎縮（muscle atrophy）**，同時肌膜為代償會大量表現高敏感度 ACh 受體，引起單一肌纖維自發性收縮的**肌纖維顫動（fibrillation）**！",
+        "**(A) 錯誤**：`Myasthenia gravis（重症肌無力）：自體免疫抗體破壞Acetylcholinesterase（AChE）` —— 重症肌無力（Myasthenia gravis）的自體免疫抗體攻擊並破壞的是運動終板上的**菸鹼型乙醯膽鹼受體（nicotinic ACh receptors）**，而非破壞乙醯膽鹼酯酶（AChE）！",
+        "**(B) 錯誤**：`Hypocalcemia（低血鈣）：Flaccid paralysis（無力性肢體體麻痺）因為囊泡無法釋放ACh` —— **低血鈣（Hypocalcemia）**時，細胞外液 Ca²⁺ 減少會減弱對細胞膜電壓閘門 Na⁺ 通道的電荷屏蔽，使 Na⁺ 通道在極輕微去極化下即自行打開（閾值降低、神經肌肉興奮性暴增），臨床表現為**低血鈣手足抽搐／強直性痙攣（Hypocalcemic tetany）**，而非無力性麻痺（在生理血鈣範圍內亦不會先阻斷突觸囊泡釋放 ACh）！",
+        "**(C) 錯誤**：`Hypokalemia（低血鉀） ：Muscle tetany（強直）` —— **低血鉀（Hypokalemia）**會使肌細胞靜止膜電位過度極化（hyperpolarization）難以達到閾值，導致的是**無力性麻痺（Flaccid paralysis）**；引起肌肉強直痙攣（Muscle tetany）的是**低血鈣（Hypocalcemia）**！"
+      ]
+    },
+    {
+      "id": "1016_Physio2-18",
+      "globalIndex": 44,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "若紀錄並比較不同負重時的等張單次收縮（Isotonic twitch contraction），相較於舉起Heavy load（HL），舉起Light load（LL）有何特性？",
+      "image": null,
+      "options": {
+        "A": "LL的Latent period較長",
+        "B": "LL引起肌肉缩短速度（Shortening velocity）較慢",
+        "C": "LL肌肉縮短時間（Duration of shortening）較短",
+        "D": "LL發生肌肉短前的Isometric contraction時間較短"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：等張收縮（Isotonic Contraction）力學與肌節明暗帶變化】**：**(1) 明暗帶變化**：滑動肌絲過程中粗肌絲與細肌絲本身長度均不變，故**暗帶（A band，由粗肌絲長度決定）長度永遠不變**；而**肌節（sarcomere）、明帶（I band）與 H zone 皆會縮短**；**(2) 等張收縮與負重（Light Load vs. Heavy Load）**：等張收縮在肌肉張力尚未超過負重（load）前，必先經歷一段**長度不變而張力上升的「等長收縮期（isometric contraction period）」**，直到張力等於負重才開始縮短。相較於重負重（Heavy load），**輕負重（Light load）達到負重所需張力較小，故縮短前的等長收縮期（latent period）較短、縮短速度（shortening velocity）較快、縮短距離較大且縮短持續時間（duration of shortening）較長**。",
+        "**(D) 正確【本題應選正解】**：`LL發生肌肉短前的Isometric contraction時間較短` —— 等張收縮在開始縮短前必有一段張力累積至負重重量的**等長收縮期（isometric contraction）**；舉起**輕負重（Light load, LL）**所需的張力較小，能更快達到負重門檻開始縮短，因此**縮短前的等長收縮期（即等張收縮的 latent period）較短**、縮短速度較快、縮短持續時間（duration of shortening）較長！",
+        "**(A) 錯誤**：`LL的Latent period較長` —— 等張收縮需先累積張力超過負重才能開始縮短（且負重越重，需累積張力的時間越久，latent period 越長）；因此舉起 **Light load 的 latent period 比 Heavy load 短**（且等張收縮測定縮短的 latent period 比等長收縮測定張力出現的 latent period 長）！",
+        "**(B) 錯誤**：`LL引起肌肉缩短速度（Shortening velocity）較慢` —— 負重越輕，橫橋拉動細肌絲的阻力越小，因此舉起 **Light load（LL）的肌肉縮短速度（shortening velocity）較快**，而非較慢！",
+        "**(C) 錯誤**：`LL肌肉縮短時間（Duration of shortening）較短` —— 舉起 **Light load（LL）**因為很早就突破負重門檻開始縮短，且縮短幅度大，其**肌肉縮短持續時間（duration of shortening）比 Heavy load 更長**，而非較短！"
+      ]
+    },
+    {
+      "id": "1016_Physio2-19",
+      "globalIndex": 45,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼肌在何種長度時，刺激它也無法產生張力（Develop no tension when stimulated）？（Lo = optimal length；最佳長度）",
+      "image": null,
+      "options": {
+        "A": "小於60% Lo",
+        "B": "80-100%Lo",
+        "C": "Lo",
+        "D": "120% Lo"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌長度-張力曲線（Length-Tension Curve）極限值】**：(1) **100% Lo**：重疊最佳，產生 **100% 最大主動張力**；(2) **80–120% Lo**：仍可產生約 80% 以上張力；(3) **小於 60% Lo**：肌節過度壓縮，兩側細肌絲於中央嚴重重疊干擾且粗肌絲頂到 Z line，主動張力降至 **0**；(4) **大於 170% Lo**：粗細肌絲完全拉開無重疊，主動張力亦降至 **0**。",
+        "**(A) 正確【本題應選正解】**：`小於60% Lo` —— 當肌節被縮短至**小於 60% Lo** 時，兩側細肌絲在中央相互重疊干擾且粗肌絲頂撞 Z line 阻礙進一步滑動，刺激時**完全無法產生主動張力（0% tension）**。",
+        "**(B) 錯誤**：`80-100%Lo` —— 在 **80–100% Lo** 區間內，粗細肌絲仍維持高度良好重疊，刺激時可產生接近最大值的強大主動張力。",
+        "**(C) 錯誤**：`Lo` —— 在 **Lo（100% optimal length）**時，粗細肌絲重疊最理想，可產生 **100% 最大主動張力**。",
+        "**(D) 錯誤**：`120% Lo` —— 在 **120% Lo** 時雖因拉長使重疊略減，但粗細肌絲仍有相當重疊，仍可產生約 75–85% 的主動張力。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-20",
+      "globalIndex": 46,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "比較Slow-Oxidative Fibers（Type I）and Fast-Glycolytic Fibers（Type lIb），何者正確？",
+      "image": null,
+      "options": {
+        "A": "Type I有較少 Mitochondira",
+        "B": "Type I有較多Myoglobin content",
+        "C": "Type I有較高 Glycolytic enzyme activity",
+        "D": "Type I 的 Motor unit size 較大"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：骨骼肌長度-張力關係（Length-Tension Relationship, Lo）】**：**(1) 最佳長度（Optimal length, Lo）**：休息狀態下粗肌絲橫橋與細肌絲達最佳重疊比例，此時受刺激能產生**最大的主動張力（maximum active tension）**；**(2) 長度 > 175% Lo**：粗細肌絲完全不重疊，無法產生主動張力；**(3) 長度 < 60%–70% Lo**：細肌絲在肌節中央過度重疊干擾，且粗肌絲兩端直接撞擊 Z line，因此**小於 60% Lo 時刺激肌肉完全無法產生張力（develop no tension）**。",
+        "**(B) 正確【本題應選正解】**：`Type I有較多Myoglobin content` —— **Type I（慢速氧化型肌纖維 Slow-oxidative fibers，紅肌）**依賴有氧氧化磷酸化提供持久耐力，因此比 Type IIb（快速糖解型白肌）擁有**更多的肌紅蛋白（Myoglobin content）、更多的粒線體與更密集的微血管網**。",
+        "**(A) 錯誤**：`Type I有較少 Mitochondira` —— Type I（慢速氧化型）依賴有氧呼吸，擁有比 Type IIb **更多（而非較少）的粒線體（Mitochondria）**！",
+        "**(C) 錯誤**：`Type I有較高 Glycolytic enzyme activity` —— Type I 主要走有氧氧化途徑，其**糖解酵素活性（Glycolytic enzyme activity）較低**；Type IIb（快速糖解型）才有最高的糖解酵素活性！",
+        "**(D) 錯誤**：`Type I 的 Motor unit size 較大` —— Type I 肌纖維負責精細與持久姿勢維持，其每個運動神經元支配的肌纖維數量較少、肌纖維直徑較細，故 **Type I 的運動單位大小（Motor unit size）較小**（Type IIb 的運動單位最大）！"
+      ]
+    },
+    {
+      "id": "1016_Physio2-21",
+      "globalIndex": 47,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於Single-unit平滑肌收縮的敘述，何者正確？",
+      "image": null,
+      "options": {
+        "A": "沒有細絲（thin filament）與粗絲（thick filament）的結構",
+        "B": "收縮所需鈣離子的來源係全從sarcoplasmic reticulum（肌漿網）釋放而來",
+        "C": "其中Myosin light-chain kinase（MLCK）的作用是磷酸化cross bridges",
+        "D": "需要troponin調節鈣離子"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：平滑肌結構與收縮調控機轉（MLCK 磷酸化橫橋）】**：**(1) 平滑肌具有的結構與機制**：具細肌絲（actin）、粗肌絲（myosin）、**原肌球蛋白（Tropomyosin）**、**緻密體（Dense bodies，功能等同 Z line）**與**滑動肌絲機制（Sliding filament mechanism）**，但**完全沒有肌節（Sarcomere，故無橫紋，註：113年題目誤將 Sarcomere 列入選項 B 導致送分）、沒有 Troponin（肌鈣蛋白）、沒有 T-tubule**；**(2) 平滑肌收縮鈣離子來源與雙重調節**：Ca²⁺ 來自**「細胞外經鈣通道流入（主要）」與「肌漿網 SR 釋放」雙重來源**；Ca²⁺ 與 **鈣調蛋白（Calmodulin）**結合後活化**肌球蛋白輕鏈激酶（Myosin light-chain kinase, MLCK）**，將肌球蛋白輕鏈（橫橋 cross-bridge）**磷酸化（phosphorylation）**後才能與細肌絲結合收縮（舒張則靠 MLCP 去磷酸化）。",
+        "**(C) 正確【本題應選正解】**：`其中Myosin light-chain kinase（MLCK）的作用是磷酸化cross bridges` —— 平滑肌收縮的核心調控位於粗肌絲：當胞內 Ca²⁺ 上升並與 **鈣調蛋白（Calmodulin）**結合後，會活化**肌球蛋白輕鏈激酶（Myosin light-chain kinase, MLCK）**，由 MLCK **將肌球蛋白橫橋（myosin light chain）磷酸化（phosphorylation）**，磷酸化後的橫橋才能與細肌絲（actin）結合並進行橫橋週期！",
+        "**(A) 錯誤**：`沒有細絲（thin filament）與粗絲（thick filament）的結構` —— 平滑肌雖然沒有排列成規則橫紋的肌節（sarcomere），但細胞內**仍然具有豐富的細肌絲（thin filament / actin）與粗肌絲（thick filament / myosin）**，並同樣藉由滑動肌絲機制收縮！",
+        "**(B) 錯誤**：`收縮所需鈣離子的來源係全從sarcoplasmic reticulum（肌漿網）釋放而來` —— 平滑肌的肌漿網（SR）較不發達，其收縮所需的 Ca²⁺ 有兩大來源：**絕大部分經由細胞膜上的鈣離子通道由細胞外液流入**，少部分由肌漿網釋放，並非全從肌漿網釋放！",
+        "**(D) 錯誤**：`需要troponin調節鈣離子` —— **平滑肌完全沒有肌鈣蛋白（Troponin）**！平滑肌的鈣離子結合蛋白是細胞質內的**鈣調蛋白（Calmodulin）**。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-22",
+      "globalIndex": 48,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "心肌Sarcoplasmic Reticulum（SR）上的Ryanodine receptor（RyR）如何被打開？",
+      "image": null,
+      "options": {
+        "A": "被DHP receptor以物理物理作用打開",
+        "B": "磷酸化打開RyR（byphosphorylation）",
+        "C": "SR去極化（Depolarization of SR）打開RyR",
+        "D": "與細胞外流入的Ca++ions結合而被打開 的作用"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：心肌鈣誘導鈣釋放（Calcium-Induced Calcium Release, CICR）】**：心肌 T-tubule 上的 L-type Ca²⁺ 通道（DHPR）與肌漿網上的 **RyR2** **沒有直接物理接觸**；當心肌動作電位高原期（Phase 2）使細胞外 Ca²⁺ 經 L-type Ca²⁺ 通道流入細胞質後，這些**流入的 Ca²⁺ 會結合並開啟 SR 上的 RyR2**，進而釋放更大量 SR 內儲存的鈣離子。",
+        "**(D) 正確【本題應選正解】**：`與細胞外流入的Ca++ions結合而被打開 的作用` —— 心肌興奮-收縮偶聯仰賴 **鈣誘導鈣釋放（CICR）**：細胞外 Ca²⁺ 經 L-type Ca²⁺ 通道進入細胞後，直接與 SR 上的 **RyR2 結合並將其打開**。",
+        "**(A) 錯誤**：`被DHP receptor以物理物理作用打開` —— 藉由 DHPR 直接物理接觸拉開 RyR 是**骨骼肌（RyR1）**的機制；心肌的 DHPR 與 RyR2 之間有間隙，不靠物理拉開。",
+        "**(B) 錯誤**：`磷酸化打開RyR（byphosphorylation）` —— 交感神經透過 PKA 磷酸化可「增強」L-type Ca²⁺ 通道與 RyR2 的敏感度（正性肌力作用），但單次心跳觸發 RyR2 開啟的直接訊號是 Ca²⁺ 結合而非磷酸化。",
+        "**(C) 錯誤**：`SR去極化（Depolarization of SR）打開RyR` —— 肌漿網（SR）膜本身不會發生動作電位去極化來開啟 RyR。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-23",
+      "globalIndex": 49,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Single-unit smooth muscle細胞之間是以_____連結，所以能進行同步收缩（Synchronous activity）",
+      "image": null,
+      "options": {
+        "A": "Tight junction",
+        "B": "Gap junction",
+        "C": "Desmosome",
+        "D": "Varicosities"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：單一單位平滑肌（Single-unit Smooth Muscle）與間隙連接（Gap Junction）】**：內臟型單一單位平滑肌（如腸胃道、子宮、輸尿管）細胞之間具有大量**間隙連接（gap junctions）**，允許離子與動作電位直接由一個細胞傳遞至相鄰細胞，形成功能性合胞體（functional syncytium），因此能產生**同步收縮（synchronous contraction）**。",
+        "**(B) 正確【本題應選正解】**：`Gap junction` —— **間隙連接（gap junction）**由 connexon 蛋白通道構成，使電訊號（動作電位／慢波）能快速在相鄰 single-unit 平滑肌細胞間傳遞，達成同步收縮。",
+        "**(A) 錯誤**：`Tight junction` —— 緊密連接（tight junction）主要位於上皮細胞頂端，負責阻隔細胞間隙液體滲漏，不負責心肌或平滑肌細胞間的電訊號傳導。",
+        "**(C) 錯誤**：`Desmosome` —— 胞橋小體（desmosome）提供細胞間的機械性抗張錨定（常見於皮膚與心肌閏盤），但不具離子電耦聯通道功能。",
+        "**(D) 錯誤**：`Varicosities` —— 膨體（varicosities）是自主神經節後纖維末端串珠狀膨大、用來釋放神經傳導物質的突觸結構，並非平滑肌細胞彼此間的連結構造。"
+      ]
+    },
+    {
+      "id": "1016_Physio2-24",
+      "globalIndex": 50,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "突觸結構上的Voltage-gated Ca+channels，主要集中於哪一區域？",
+      "image": null,
+      "options": {
+        "A": "Active zones",
+        "B": "Post-synaptic density（PSD）",
+        "C": "Synaptic cleft",
+        "D": "Synaptic vesicles"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：化學突觸前活性區（Active Zone）與胞吐作用】**：在化學突觸的突觸前末梢（presynaptic terminal），突觸小泡錨定與融合釋放的特定區域稱為**活性區（active zone）**。此處高度聚集**電壓閘門鈣離子通道（voltage-gated Ca²⁺ channels）**，使動作電位抵達時 Ca²⁺ 能立即就近流入並結合 synaptotagmin 觸發 SNARE 複合體進行快速胞吐（exocytosis）。",
+        "**(A) 正確【本題應選正解】**：`Active zones` —— **Active zones（活性區）**位於突觸前膜直接面對突觸間隙處，高度集中 **voltage-gated Ca²⁺ channels** 與停泊的突觸小泡，以確保 Ca²⁺ 內流能最快速觸發胞吐釋放。",
+        "**(B) 錯誤**：`Post-synaptic density（PSD）` —— **Post-synaptic density（突觸後緻密區）**位於突觸後膜，主要聚集神經傳導物質受體（如 AMPA、NMDA 受體）與下游訊號骨架蛋白，而非突觸前 Ca²⁺ 通道。",
+        "**(C) 錯誤**：`Synaptic cleft` —— **Synaptic cleft（突觸間隙）**是突觸前與突觸後膜之間的細胞外液空間（含基底層黏附分子與分解酵素），本身不含膜離子通道。",
+        "**(D) 錯誤**：`Synaptic vesicles` —— **Synaptic vesicles（突觸小泡）**膜上含有 v-SNARE（如 synaptobrevin）、synaptotagmin 與神經傳導物質轉運蛋白，但不集中作為膜去極化感測器的 voltage-gated Ca²⁺ channels。"
+      ]
+    }
+  ]
+}

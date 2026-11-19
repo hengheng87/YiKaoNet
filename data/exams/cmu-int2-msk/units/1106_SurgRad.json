@@ -1,0 +1,492 @@
+{
+  "unitCode": "1106_SurgRad",
+  "unitTitle": "11/06 外科學概論：骨科放射學與運動醫學",
+  "session": "B",
+  "subject": "Surg",
+  "subjectTitle": "外科學概論 (一)",
+  "prof": "洪誌鴻 醫師",
+  "examRange": "B卷 Q45–52（共8題）",
+  "unitUrl": "https://drive.google.com/file/d/17xmNdwwwXGvCj65pKchOXFDil86f48su",
+  "questions": [
+    {
+      "id": "1106_SurgRad-1",
+      "globalIndex": 490,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一、肩關節 請問以下何者不是旋轉肌群（Rotator cuff）？",
+      "image": null,
+      "options": {
+        "A": "棘上肌 （Supraspinatus muscle）",
+        "B": "棘下肌 （Infraspinatus muscle）",
+        "C": "肩胛下肌 （Subscapularis muscle）",
+        "D": "大圓肌 （Teres major）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節解剖、旋轉肌袖、SLAP 病變與肩脫臼】**：**(1) 旋轉肌群（Rotator cuff, SITS）**：**Supraspinatus（棘上肌，最常撕裂，Empty can test）**、**Infraspinatus（棘下肌）**、**Teres minor（小圓肌）**、**Subscapularis（肩胛下肌）**（不包含 **Teres major 大圓肌**）；**(2) 關節型態**：盂肱關節（GH joint）為**杵臼關節（Ball-and-socket joint）**；**(3) 投手肩（SLAP lesion）**：指上盂唇由前至後撕裂（**Superior Labrum from Anterior to Posterior tear**，檢查為 **O'Brien's test**）；**(4) 旋轉肌袖撕裂**：隨年齡退化即使無急性外傷也可能發生，多數可先保守復健治療；**(5) 肩關節脫臼**：**95% 以上為前位脫臼（anterior dislocation）**，**年輕人**比老年人更易復發成為習慣性脫臼，常併發 **Hill-Sachs lesion**（肱骨頭後外側撞擊凹陷）、**Bankart lesion**（前下盂唇／關節盂損傷）、骨折（約 25%）與臂神經叢／腋神經損傷（約 20–25%）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`大圓肌 （Teres major）` —— **旋轉肌群（Rotator cuff, SITS）**僅包含棘上肌（Supraspinatus）、棘下肌（Infraspinatus）、小圓肌（Teres minor）與肩胛下肌（Subscapularis）；**大圓肌（Teres major）**止於肱骨小結節嵴負責內收內轉，**不屬於旋轉肌群**（而 `Episcapularis` 則為拼字杜撰之肌肉名稱，正確為 Subscapularis）。",
+        "**(A) 敘述正確（非本題所求）**：`棘上肌 （Supraspinatus muscle）` —— **棘上肌 （Supraspinatus muscle）** 屬於組成肩關節旋轉肌群（SITS）的四條核心肌肉之一。",
+        "**(B) 敘述正確（非本題所求）**：`棘下肌 （Infraspinatus muscle）` —— **棘下肌 （Infraspinatus muscle）** 屬於組成肩關節旋轉肌群（SITS）的四條核心肌肉之一。",
+        "**(C) 敘述正確（非本題所求）**：`肩胛下肌 （Subscapularis muscle）` —— **肩胛下肌 （Subscapularis muscle）** 屬於組成肩關節旋轉肌群（SITS）的四條核心肌肉之一。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-2",
+      "globalIndex": 491,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一、肩關節 以下何者不屬於Rotator cuff？",
+      "image": null,
+      "options": {
+        "A": "Supraspinatus",
+        "B": "Infraspinatus",
+        "C": "Teres minor",
+        "D": "Episcapularis"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節解剖、旋轉肌袖、SLAP 病變與肩脫臼】**：**(1) 旋轉肌群（Rotator cuff, SITS）**：**Supraspinatus（棘上肌，最常撕裂，Empty can test）**、**Infraspinatus（棘下肌）**、**Teres minor（小圓肌）**、**Subscapularis（肩胛下肌）**（不包含 **Teres major 大圓肌**）；**(2) 關節型態**：盂肱關節（GH joint）為**杵臼關節（Ball-and-socket joint）**；**(3) 投手肩（SLAP lesion）**：指上盂唇由前至後撕裂（**Superior Labrum from Anterior to Posterior tear**，檢查為 **O'Brien's test**）；**(4) 旋轉肌袖撕裂**：隨年齡退化即使無急性外傷也可能發生，多數可先保守復健治療；**(5) 肩關節脫臼**：**95% 以上為前位脫臼（anterior dislocation）**，**年輕人**比老年人更易復發成為習慣性脫臼，常併發 **Hill-Sachs lesion**（肱骨頭後外側撞擊凹陷）、**Bankart lesion**（前下盂唇／關節盂損傷）、骨折（約 25%）與臂神經叢／腋神經損傷（約 20–25%）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Episcapularis` —— **旋轉肌群（Rotator cuff, SITS）**僅包含棘上肌（Supraspinatus）、棘下肌（Infraspinatus）、小圓肌（Teres minor）與肩胛下肌（Subscapularis）；**大圓肌（Teres major）**止於肱骨小結節嵴負責內收內轉，**不屬於旋轉肌群**（而 `Episcapularis` 則為拼字杜撰之肌肉名稱，正確為 Subscapularis）。",
+        "**(A) 敘述正確（非本題所求）**：`Supraspinatus` —— **Supraspinatus** 屬於組成肩關節旋轉肌群（SITS）的四條核心肌肉之一。",
+        "**(B) 敘述正確（非本題所求）**：`Infraspinatus` —— **Infraspinatus** 屬於組成肩關節旋轉肌群（SITS）的四條核心肌肉之一。",
+        "**(C) 敘述正確（非本題所求）**：`Teres minor` —— **Teres minor** 屬於組成肩關節旋轉肌群（SITS）的四條核心肌肉之一。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-3",
+      "globalIndex": 492,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一、肩關節 請問肩關節（GH joint）是屬於以下什麼形式的關節？",
+      "image": null,
+      "options": {
+        "A": "車軸關節 （Pivot joint）",
+        "B": "杵臼關節 （Ball in socket joint）",
+        "C": "髁狀關節 （Condyloid joint）",
+        "D": "鞍狀關節 （Saddle joint）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節（盂肱關節）結構分類】**：**盂肱關節（glenohumeral joint, GH joint）**由球狀的肱骨頭與淺盤狀的肩胛骨關節盂構成，屬於三軸向活動度最大的**杵臼關節（ball-and-socket joint）**。",
+        "**(B) 正確【本題應選正解】**：`杵臼關節 （Ball in socket joint）` —— 肩關節（GH joint）與髖關節同屬**杵臼關節（ball-and-socket joint）**，可進行屈曲、伸展、外展、內收、內外轉及環轉運動。",
+        "**(A) 錯誤**：`車軸關節 （Pivot joint）` —— 車軸關節（pivot joint）僅能繞單軸旋轉，典型例子為近端橈尺關節（PRUJ）與寰樞關節（atlantoaxial joint）。",
+        "**(C) 錯誤**：`髁狀關節 （Condyloid joint）` —— 髁狀關節（condyloid joint）為雙軸橢圓關節，典型例子為橈腕關節（radiocarpal joint）與掌指關節（MCP joint）。",
+        "**(D) 錯誤**：`鞍狀關節 （Saddle joint）` —— 鞍狀關節（saddle joint）為雙軸馬鞍形關節，典型例子為拇指的第一腕掌關節（1st CMC joint）。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-4",
+      "globalIndex": 493,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一、肩關節 請問以下何者為投手肩的醫學診斷名稱？",
+      "image": null,
+      "options": {
+        "A": "Hill sac lesion and bankart lesion",
+        "B": "Adhesive capsulitis",
+        "C": "Superior labrum from anterior to posterior tear （SLAP） lesion",
+        "D": "Shoulder impingement syndrome"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：投手肩（SLAP Lesion）】**：**SLAP lesion** 全名為 **Superior Labrum from Anterior to Posterior tear（上盂唇由前至後撕裂）**，常見於棒球投手等高舉過頭投擲動作反覆牽拉二頭肌長頭肌腱附著處，理學檢查為 **O'Brien's test**。",
+        "**(C) 正確【本題應選正解】**：`Superior labrum from anterior to posterior tear （SLAP） lesion` —— **SLAP lesion**（上盂唇前後撕裂傷）即俗稱的**投手肩**，因重複過頭投擲造成上盂唇與二頭肌長頭肌腱錨定處撕裂。",
+        "**(A) 錯誤**：`Hill sac lesion and bankart lesion` —— **Hill-Sachs lesion**（肱骨頭後外側壓迫性骨折）與 **Bankart lesion**（前下盂唇撕裂）是**肩關節前脫臼**的典型合併病灶，非投手肩。",
+        "**(B) 錯誤**：`Adhesive capsulitis` —— **Adhesive capsulitis（沾黏性關節囊炎）**俗稱「五十肩／冰凍肩（frozen shoulder）」，表現為肩關節主動與被動活動度全面受限。",
+        "**(D) 錯誤**：`Shoulder impingement syndrome` —— **Shoulder impingement syndrome（肩峰下夾擠症候群）**是手臂上舉時棘上肌肌腱與肩峰下滑囊在肩峰下空間受到夾擠發炎，檢查為 Neer/Hawkins test。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-5",
+      "globalIndex": 494,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一、肩關節 有關SLAP lesion的敘述，何者為是？",
+      "image": null,
+      "options": {
+        "A": "指的是inferior labrum的lesion",
+        "B": "常常會合併humoral head fracture",
+        "C": "典型的理學檢查是empty can test",
+        "D": "又稱投手肩，一般常發生在投擲運動"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節解剖、旋轉肌袖、SLAP 病變與肩脫臼】**：**(1) 旋轉肌群（Rotator cuff, SITS）**：**Supraspinatus（棘上肌，最常撕裂，Empty can test）**、**Infraspinatus（棘下肌）**、**Teres minor（小圓肌）**、**Subscapularis（肩胛下肌）**（不包含 **Teres major 大圓肌**）；**(2) 關節型態**：盂肱關節（GH joint）為**杵臼關節（Ball-and-socket joint）**；**(3) 投手肩（SLAP lesion）**：指上盂唇由前至後撕裂（**Superior Labrum from Anterior to Posterior tear**，檢查為 **O'Brien's test**）；**(4) 旋轉肌袖撕裂**：隨年齡退化即使無急性外傷也可能發生，多數可先保守復健治療；**(5) 肩關節脫臼**：**95% 以上為前位脫臼（anterior dislocation）**，**年輕人**比老年人更易復發成為習慣性脫臼，常併發 **Hill-Sachs lesion**（肱骨頭後外側撞擊凹陷）、**Bankart lesion**（前下盂唇／關節盂損傷）、骨折（約 25%）與臂神經叢／腋神經損傷（約 20–25%）。",
+        "**(D) 正確【本題應選正解】**：`又稱投手肩，一般常發生在投擲運動` —— **投手肩（SLAP lesion）**全名為 **Superior Labrum from Anterior to Posterior tear（上盂唇前後撕裂傷）**，典型發生於棒球投手等高舉過頭投擲運動（throwing athletes）反覆牽拉二頭肌長頭肌腱錨定處。",
+        "**(A) 錯誤**：`指的是inferior labrum的lesion` —— SLAP 的 S 代表 **Superior（上盂唇）**，而非 Inferior（前下盂唇撕裂為 Bankart lesion）。",
+        "**(B) 錯誤**：`常常會合併humoral head fracture` —— SLAP lesion 主要為上盂唇軟骨與二頭肌長頭肌腱附著處撕裂，並不常合併肱骨頭骨折。",
+        "**(C) 錯誤**：`典型的理學檢查是empty can test` —— **Empty can test（Jobe test）**是用於檢查**棘上肌（Supraspinatus）肌腱撕裂或夾擠**；SLAP lesion 的典型理學檢查則是 **O'Brien's test（Active compression test）**！"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-6",
+      "globalIndex": 495,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一、肩關節 Rotator cuff tear的敘述，何者正確？",
+      "image": null,
+      "options": {
+        "A": "肩關節在正常使用的情況下即使沒有受傷也有可能發生rotator cuff tear",
+        "B": "最常發生tear的肌腱是teres minor",
+        "C": "一旦發生rotator cuff tear都必須接受手術治療",
+        "D": "常見的理學檢查是Obrien’s test"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節解剖、旋轉肌袖、SLAP 病變與肩脫臼】**：**(1) 旋轉肌群（Rotator cuff, SITS）**：**Supraspinatus（棘上肌，最常撕裂，Empty can test）**、**Infraspinatus（棘下肌）**、**Teres minor（小圓肌）**、**Subscapularis（肩胛下肌）**（不包含 **Teres major 大圓肌**）；**(2) 關節型態**：盂肱關節（GH joint）為**杵臼關節（Ball-and-socket joint）**；**(3) 投手肩（SLAP lesion）**：指上盂唇由前至後撕裂（**Superior Labrum from Anterior to Posterior tear**，檢查為 **O'Brien's test**）；**(4) 旋轉肌袖撕裂**：隨年齡退化即使無急性外傷也可能發生，多數可先保守復健治療；**(5) 肩關節脫臼**：**95% 以上為前位脫臼（anterior dislocation）**，**年輕人**比老年人更易復發成為習慣性脫臼，常併發 **Hill-Sachs lesion**（肱骨頭後外側撞擊凹陷）、**Bankart lesion**（前下盂唇／關節盂損傷）、骨折（約 25%）與臂神經叢／腋神經損傷（約 20–25%）。",
+        "**(A) 正確【本題應選正解】**：`肩關節在正常使用的情況下即使沒有受傷也有可能發生rotator cuff tear` —— 旋轉肌袖肌腱（特別是棘上肌在肩峰下缺血區）會隨年齡發生退化磨損，即使沒有急性外傷病史，在正常日常使用下也可能發生退化性撕裂（degenerative rotator cuff tear）。",
+        "**(B) 錯誤**：`最常發生tear的肌腱是teres minor` —— 旋轉肌袖中最常發生撕裂的肌腱是**棘上肌（Supraspinatus，因通過狹窄肩峰下空間且血循較差）**，而非小圓肌（Teres minor）！",
+        "**(C) 錯誤**：`一旦發生rotator cuff tear都必須接受手術治療` —— 部分撕裂或無症狀／低功能需求之老年旋轉肌袖撕裂可先採**保守治療（藥物、復健與類固醇注射）**，並非一旦撕裂都必須手術！",
+        "**(D) 錯誤**：`常見的理學檢查是Obrien’s test` —— **O'Brien's test** 是用於檢查 **SLAP lesion** 與肩鎖關節病變；旋轉肌袖（棘上肌）撕裂的理學檢查為 **Empty can test / Drop arm test**！"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-7",
+      "globalIndex": 496,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一、肩關節 有關shoulder dislocation的敘述，何者為非？",
+      "image": null,
+      "options": {
+        "A": "Hill sac lesion是humeral head的lesion",
+        "B": "Bankart lesion是glenoid的lesion",
+        "C": "年輕人較老年人易發生recurrent dislocation",
+        "D": "Shoulder dislocation一般為posterior dislocation"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節解剖、旋轉肌袖、SLAP 病變與肩脫臼】**：**(1) 旋轉肌群（Rotator cuff, SITS）**：**Supraspinatus（棘上肌，最常撕裂，Empty can test）**、**Infraspinatus（棘下肌）**、**Teres minor（小圓肌）**、**Subscapularis（肩胛下肌）**（不包含 **Teres major 大圓肌**）；**(2) 關節型態**：盂肱關節（GH joint）為**杵臼關節（Ball-and-socket joint）**；**(3) 投手肩（SLAP lesion）**：指上盂唇由前至後撕裂（**Superior Labrum from Anterior to Posterior tear**，檢查為 **O'Brien's test**）；**(4) 旋轉肌袖撕裂**：隨年齡退化即使無急性外傷也可能發生，多數可先保守復健治療；**(5) 肩關節脫臼**：**95% 以上為前位脫臼（anterior dislocation）**，**年輕人**比老年人更易復發成為習慣性脫臼，常併發 **Hill-Sachs lesion**（肱骨頭後外側撞擊凹陷）、**Bankart lesion**（前下盂唇／關節盂損傷）、骨折（約 25%）與臂神經叢／腋神經損傷（約 20–25%）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Shoulder dislocation一般為posterior dislocation` —— 肩關節脫臼中 **95% 以上皆為「前位脫臼（Anterior dislocation）」**！後位脫臼（Posterior dislocation）相當罕見（僅佔 < 5%，常見於電擊傷或癲癇發作）。",
+        "**(A) 敘述正確（非本題所求）**：`Hill sac lesion是humeral head的lesion` —— **Hill-Sachs lesion** 是肩關節前脫臼時，肱骨頭後外側撞擊前下關節盂邊緣所造成的**肱骨頭（humeral head）壓迫性凹陷骨折**。",
+        "**(B) 敘述正確（非本題所求）**：`Bankart lesion是glenoid的lesion` —— **Bankart lesion** 是肩關節前脫臼時，肱骨頭向前撞擊扯脫**關節盂（glenoid）前下方纖維軟骨盂唇**的病灶。",
+        "**(C) 敘述正確（非本題所求）**：`年輕人較老年人易發生recurrent dislocation` —— **年輕患者**（尤其 < 20 歲）因活動度高且盂唇癒合不良，肩關節脫臼後的**復發率（recurrent dislocation）遠高於老年人**（老年人反而較常合併旋轉肌袖撕裂）。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-8",
+      "globalIndex": 497,
+      "qNum": 8,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "二、髖關節 請問先天性髖關節發育不良（delayed developmental disease, DDH）的小孩，在 X-ray較常出現 以下哪一種特徵？",
+      "image": null,
+      "options": {
+        "A": "髖臼骨折 （Acetabulum fracture）",
+        "B": "股骨頭骨折 （Femoral head fracture）",
+        "C": "股骨半脫位 （Femoral head sublixation）",
+        "D": "股骨頭缺血性壞死 （Avascular necrosis of femoral head）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：發展性髖關節發育不良（DDH）影像特徵】**：DDH（舊稱 CDH）因先天髖臼發育淺平、角度過陡（acetabular index 增加），在嬰幼兒骨盆 X 光片上最常表現**股骨頭向外上方半脫位（femoral head subluxation）**或完全脫位（常見 Shenton's line 中斷）。",
+        "**(C) 正確【本題應選正解】**：`股骨半脫位 （Femoral head sublixation）` —— （選項拼為 `sublixation`，指 **subluxation**）DDH 患童因髖臼包覆不足，骨盆 X 光最常呈現**股骨頭半脫位**或脫位。",
+        "**(A) 錯誤**：`髖臼骨折 （Acetabulum fracture）` —— 髖臼骨折見於成人高能量創傷（如車禍儀表板撞擊），並非嬰幼兒先天性髖關節發育不良（DDH）的表現。",
+        "**(B) 錯誤**：`股骨頭骨折 （Femoral head fracture）` —— 股骨頭骨折極罕見，多併發於成人高能量髖關節後脫臼，與嬰幼兒 DDH 無關。",
+        "**(D) 錯誤**：`股骨頭缺血性壞死 （Avascular necrosis of femoral head）` —— 股骨頭缺血性壞死（AVN）並非 DDH 本身的典型初期 X 光特徵（多為 DDH 過度外展固定治療的醫源性併發症或成人病變）。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-9",
+      "globalIndex": 498,
+      "qNum": 9,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "二、髖關節 下列何者特殊測試是用來評估髖關節問題的測試？",
+      "image": null,
+      "options": {
+        "A": "Patrick’s test",
+        "B": "Empty can test",
+        "C": "OBrien’s test",
+        "D": "Allen’s test"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心外科考點：骨科常見理學檢查配對】**：(1) **Patrick's test（FABER test）**：評估**髖關節（hip）與薦髂關節（SI joint）**；(2) **Empty can test**：評估肩部**棘上肌（supraspinatus）**；(3) **O'Brien's test**：評估肩部 **SLAP lesion**；(4) **Allen's test**：評估手腕橈動脈與尺動脈側枝循環。",
+        "**(A) 正確【本題應選正解】**：`Patrick’s test` —— **Patrick's test（FABER test：屈曲、外展、外轉）**是臨床評估**髖關節**與薦髂關節病變的標準理學檢查。",
+        "**(B) 錯誤**：`Empty can test` —— **Empty can test（Jobe test）**將肩部外展 90°、前屈 30° 並內轉施壓，用於檢查肩關節**棘上肌（supraspinatus）**肌腱撕裂或夾擠。",
+        "**(C) 錯誤**：`OBrien’s test` —— **O'Brien's test（Active compression test）**用於檢查肩關節上盂唇撕裂（**SLAP lesion**）與肩鎖關節（AC joint）病變。",
+        "**(D) 錯誤**：`Allen’s test` —— **Allen's test** 透過同時壓迫手腕橈動脈與尺動脈後輪流放開，用來評估手部**動脈側枝循環通暢度**（如抽動脈血氣體分析前）。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-10",
+      "globalIndex": 499,
+      "qNum": 10,
+      "origQ": "Q3",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "二、髖關節 關於hip dislocation的敘述，何者為非？",
+      "image": null,
+      "options": {
+        "A": "Anterior dislocation時，下肢會呈現外轉的姿勢",
+        "B": "Posterior dislocation時，下肢會呈現內轉的姿勢",
+        "C": "Posterior dislocation較anterior dislocation有比較低的機會發生神經損傷",
+        "D": "Hip dislocation較shoulder dislocation有比較高的機會發生骨折"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：髖關節脫臼（Hip Dislocation）機轉與神經損傷】**：髖關節脫臼約 90% 為**後位脫臼（posterior dislocation）**（如車禍膝蓋撞擊儀表板），下肢呈**屈曲、內收、內轉**姿勢，且因股骨頭向後上方移位，**極高機會壓迫坐骨神經（sciatic nerve，尤其是腓神經分支）**；前位脫臼則呈外展、外轉姿勢。因髖臼極深，髖脫臼較肩脫臼更常合併骨折。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Posterior dislocation較anterior dislocation有比較低的機會發生神經損傷` —— 後方緊鄰**坐骨神經（sciatic nerve）**，因此**後位脫臼發生神經損傷（約 10–20%）的機會「遠高於」前位脫臼**，故本選項敘述錯誤，為本題正解。",
+        "**(A) 敘述正確（非本題所求）**：`Anterior dislocation時，下肢會呈現外轉的姿勢` —— 髖關節前位脫臼（anterior dislocation）時，下肢典型呈現**外展（abduction）與外轉（external rotation）**姿勢。",
+        "**(B) 敘述正確（非本題所求）**：`Posterior dislocation時，下肢會呈現內轉的姿勢` —— 髖關節後位脫臼（posterior dislocation）時，下肢典型呈現**屈曲、內收（adduction）與內轉（internal rotation）**姿勢。",
+        "**(D) 敘述正確（非本題所求）**：`Hip dislocation較shoulder dislocation有比較高的機會發生骨折` —— 髖關節為深度包覆的穩定關節，需極大高能量外力才會脫臼，因此合併**髖臼或股骨頭骨折**的機率遠高於肩關節脫臼。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-11",
+      "globalIndex": 500,
+      "qNum": 11,
+      "origQ": "Q4",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "二、髖關節 關於Avascular necrosis of femoral head的敘述，何者為非？",
+      "image": null,
+      "options": {
+        "A": "人體容易發生avascular necrosis 的骨頭有femoral head, scaphoid和talus",
+        "B": "老年人femoral head的血液循環主要來自obturator artery",
+        "C": "一旦發生hip dislocation未來要小心發生avascular necrosis of femoral head",
+        "D": "Steroid和alcohol也是avascular necrosis of femoral head的risk factor"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：股骨頭缺血性壞死（AVN of Femoral Head）】**：(1) 全身最易發生 AVN 的三塊骨頭：**股骨頭（femoral head）、手舟狀骨（scaphoid）、距骨（talus）**；(2) 成人與老年人股骨頭最主要血液供應來自**內側旋股動脈（Medial femoral circumflex artery, MFCA）**（閉孔動脈僅經圓韌帶供應極少部分）；(3) 常見危險因子：髖脫臼／股骨頸骨折、**長期使用類固醇（steroid）與酗酒（alcohol）**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`老年人femoral head的血液循環主要來自obturator artery` —— 成人與老年人股骨頭的主要血供來自**內側旋股動脈（medial femoral circumflex artery, MFCA）**的關節囊外動脈環分支；來自閉孔動脈的圓韌帶動脈在成人幾乎退化或僅供應極小區域，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`人體容易發生avascular necrosis 的骨頭有femoral head, scaphoid和talus` —— 因這三塊骨頭多被關節軟骨覆蓋且具單向／逆行終末血供，是人體最容易發生缺血性壞死（AVN）的三處經典部位。",
+        "**(C) 敘述正確（非本題所求）**：`一旦發生hip dislocation未來要小心發生avascular necrosis of femoral head` —— 髖關節脫臼會拉扯或壓迫旋股內側動脈，延遲復位（特別是 >6 小時）會大幅增加日後發生股骨頭 AVN 的風險。",
+        "**(D) 敘述正確（非本題所求）**：`Steroid和alcohol也是avascular necrosis of femoral head的risk factor` —— 長期使用**類固醇（steroid）**與**酗酒（alcohol）**是非創傷性股骨頭缺血性壞死最常見的兩大危險因子（造成脂肪栓塞與骨內壓上升）。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-12",
+      "globalIndex": 501,
+      "qNum": 12,
+      "origQ": "Q5",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "二、髖關節 關於Delayed developmental disease理學檢查的敘述，何者為是？",
+      "image": null,
+      "options": {
+        "A": "Barlow test： 將hip做dislocation，Ortolani test： 將hip做reduction",
+        "B": "Barlow test： 將hip做dislocation，Ortolani test： 將hip做dislocation",
+        "C": "Barlow test： 將hip做reduction，Ortolani test： 將hip做reduction",
+        "D": "Barlow test： 將hip做reduction，Ortolani test： 將hip做dislocation"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心外科考點：DDH 新生兒理學檢查（Barlow vs. Ortolani Test）】**：(1) **Barlow test**：檢查者將嬰兒髖關節內收並向後輕推施壓，試圖**誘發不穩定股骨頭向後脫位（dislocation）**；(2) **Ortolani test**：將已脫位的髖關節外展並將大轉子向前上托起，使股骨頭滑回髖臼完成**復位（reduction）**，常可感覺到「喀」的復位彈響（clunk）。",
+        "**(A) 正確【本題應選正解】**：`Barlow test： 將hip做dislocation，Ortolani test： 將hip做reduction` —— **Barlow test** 是誘發脫位（dislocation）的挑釁測試，而 **Ortolani test** 則是將脫位復位（reduction）的測試（口訣：Barlow = Back/出；Ortolani = On/入）。",
+        "**(B) 錯誤**：`Barlow test： 將hip做dislocation，Ortolani test： 將hip做dislocation` —— Ortolani test 的動作是外展並前托大轉子使股骨頭「復位（reduction）」，而非誘發脫位。",
+        "**(C) 錯誤**：`Barlow test： 將hip做reduction，Ortolani test： 將hip做reduction` —— Barlow test 的動作是內收並後推使不穩定髖關節「脫位（dislocation）」，而非復位。",
+        "**(D) 錯誤**：`Barlow test： 將hip做reduction，Ortolani test： 將hip做dislocation` —— 此選項將 Barlow test 與 Ortolani test 的動作方向與目的完全顛倒。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-13",
+      "globalIndex": 502,
+      "qNum": 13,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "三、膝關節 請問膝內側副韌帶（MCL）主要是限制膝關節向哪一方向過度位移？",
+      "image": null,
+      "options": {
+        "A": "脛骨向前 （Tibia anterior）",
+        "B": "脛骨向後 （Tibia posterior）",
+        "C": "膝外翻 （Knee valgus）",
+        "D": "膝內翻 （Knee varus）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：膝關節四大韌帶主要限制方向】**：(1) **ACL（前十字韌帶）**：限制脛骨向前位移；(2) **PCL（後十字韌帶）**：限制脛骨向後位移；(3) **MCL（內側副韌帶）**：限制**膝外翻（knee valgus，即小腿向外撇）**；(4) **LCL（外側副韌帶）**：限制**膝內翻（knee varus）**。",
+        "**(C) 正確【本題應選正解】**：`膝外翻 （Knee valgus）` —— **內側副韌帶（MCL）**位於膝關節內側，主要抵抗外翻應力（valgus stress），防止**膝外翻（knee valgus）**過度張開。",
+        "**(A) 錯誤**：`脛骨向前 （Tibia anterior）` —— 限制脛骨相對於股骨向前過度位移（anterior translation）的主要是**前十字韌帶（ACL）**（以 Lachman / Anterior drawer test 檢查）。",
+        "**(B) 錯誤**：`脛骨向後 （Tibia posterior）` —— 限制脛骨相對於股骨向後過度位移（posterior translation）的主要是**後十字韌帶（PCL）**（以 Posterior drawer test 檢查）。",
+        "**(D) 錯誤**：`膝內翻 （Knee varus）` —— 限制膝內翻（knee varus）過度位移的主要是位於膝外側的**外側副韌帶（LCL）**。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-14",
+      "globalIndex": 503,
+      "qNum": 14,
+      "origQ": "Q2",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "三、膝關節 關於膝部韌帶的敘述，何者為非？",
+      "image": null,
+      "options": {
+        "A": "ACL：防止脛骨向前位移，PCL：防止脛骨向後位移",
+        "B": "ACL是關節外韌帶，自身修復能力好，一旦受傷，需要做韌帶修補手術來恢復功能",
+        "C": "MCL：防止膝外翻，LCL：防止膝內翻",
+        "D": "PCL是關節內韌帶，自身修復能力很差，一旦受傷往往需要做韌帶修補手術來恢復功能"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：膝關節十字韌帶 vs. 副韌帶解剖與癒合差異】**：**ACL 與 PCL 屬於關節內（intra-articular）韌帶**，因浸泡在關節滑液中且血供較差，**自身修復能力極差**，斷裂後常需手術重建；而 **MCL 屬於關節外韌帶**，血循豐富，單純部分或完全斷裂多可採護具保守治療自行癒合。",
+        "**(B) 敘述錯誤【本題應選正解】**：`ACL是關節外韌帶，自身修復能力好，一旦受傷，需要做韌帶修補手術來恢復功能` —— **ACL 是「關節內（intra-articular）」韌帶，且「自身修復能力極差」**（這也是為何斷裂後需行韌帶重建手術而非僅靠自身癒合）；MCL 才是修復能力好的關節外韌帶，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`ACL：防止脛骨向前位移，PCL：防止脛骨向後位移` —— ACL 防止脛骨前移、PCL 防止脛骨後移，為膝關節前後穩定度的核心機制。",
+        "**(C) 敘述正確（非本題所求）**：`MCL：防止膝外翻，LCL：防止膝內翻` —— 內側副韌帶（MCL）抵抗外翻力、外側副韌帶（LCL）抵抗內翻力，敘述完全正確。",
+        "**(D) 敘述正確（非本題所求）**：`PCL是關節內韌帶，自身修復能力很差，一旦受傷往往需要做韌帶修補手術來恢復功能` —— PCL 同樣位於關節腔內，血循與自癒能力較差，嚴重不穩定或合併多韌帶損傷時往往需行手術重建。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-15",
+      "globalIndex": 504,
+      "qNum": 15,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "四、肘關節 請問以下何者為肘關節最容易脫臼的方向？",
+      "image": null,
+      "options": {
+        "A": "向後脫位",
+        "B": "向前脫位",
+        "C": "向內脫位",
+        "D": "向外脫位"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心外科考點：肘關節脫臼（Elbow Dislocation）最常見方向】**：肘關節是人體第二常見的大關節脫臼（僅次於肩關節），機轉多為跌倒時手掌撐地（FOOSH），使尺骨鷹嘴突向肱骨遠端**後方**滑出，故**向後脫位（posterior dislocation）最為常見**（約佔 80–90% 以上）。",
+        "**(A) 正確【本題應選正解】**：`向後脫位` —— 因尺骨鷹嘴突與冠狀突結構特性及跌倒手撐地受力方向，**向後脫位（posterior dislocation）**是肘關節最常見的脫臼方向。",
+        "**(B) 錯誤**：`向前脫位` —— 肘關節向前脫位極為罕見，通常需直接撞擊屈曲手肘後方並常伴隨鷹嘴突骨折。",
+        "**(C) 錯誤**：`向內脫位` —— 單純向內側脫位在肘關節極為少見，多為後內側旋轉不穩定之複合方向。",
+        "**(D) 錯誤**：`向外脫位` —— 單純向外側脫位亦屬罕見，常見仍是以向後（或後外側）脫位為主。"
+      ]
+    },
+    {
+      "id": "1106_SurgRad-16",
+      "globalIndex": 505,
+      "qNum": 16,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "四、肘關節 請問以下哪種組合是肘關節向後脫位容易伴隨的組織受傷？（a.近端尺骨骨折、b.近端橈骨骨 折、c.肘內側韌帶受傷、d.肘外側韌帶受傷）",
+      "image": null,
+      "options": {
+        "A": "ab",
+        "B": "cd",
+        "C": "bc",
+        "D": "ad"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心外科考點：肘關節後脫位常見伴隨組織損傷】**：肘關節向後脫位（特別是後外側旋轉機轉）依本課程骨科講義標準組合容易伴隨：**a. 近端尺骨骨折（冠狀突 coronoid / 鷹嘴突）** 與 **d. 肘外側韌帶受傷（LCL / LUCL）**（臨床上若同時合併近端橈骨頭骨折則稱「肘關節恐怖三聯症 Terrible Triad」）。",
+        "**(D) 正確【本題應選正解】**：`ad` —— 依本課程講義與題庫設定，肘關節向後脫位最容易伴隨 **a. 近端尺骨骨折（如冠狀突骨折）**與 **d. 肘外側韌帶（LCL）受傷**（即 Terrible triad 中最核心的骨與韌帶結構）。",
+        "**(A) 錯誤**：`ab` —— 僅列出 a. 近端尺骨骨折與 b. 近端橈骨骨折，未包含向後脫位最常最先撕裂的穩定韌帶（d. 肘外側韌帶）。",
+        "**(B) 錯誤**：`cd` —— 僅列出韌帶受傷（c. 內側與 d. 外側韌帶），未包含題庫所選之骨性結構骨折（a. 近端尺骨骨折）。",
+        "**(C) 錯誤**：`bc` —— 組合了 b. 近端橈骨骨折與 c. 肘內側韌帶，非本課程講義設定之肘向後脫位標準配對（ad）。"
+      ]
+    }
+  ]
+}

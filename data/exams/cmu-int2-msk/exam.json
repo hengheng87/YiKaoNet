@@ -1,0 +1,270 @@
+{
+  "slug": "cmu-int2-msk",
+  "version": "2.0.0",
+  "badge": "CMU Musculoskeletal System",
+  "title": "三上第二次整合考：骨骼肌肉系統全收錄互動題庫",
+  "subtitle": "整合「大三整合2 知識庫」18 份 M67×CM59 共筆考古題、M65 試題合輯與歷屆申覆勘誤解析（第一節 A 卷 80 題配分 ｜ 第二節 B 卷 76 題配分）",
+  "source": {
+    "name": "大三整合2 知識庫",
+    "url": "https://notebook.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5",
+    "notebookId": "01b3322a-9c0a-498f-91ce-4c29f24657f5"
+  },
+  "sessions": [
+    {
+      "code": "A",
+      "label": "第一節 A 卷",
+      "emoji": "📘",
+      "description": "生理＋病理＋組織"
+    },
+    {
+      "code": "B",
+      "label": "第二節 B 卷",
+      "emoji": "📗",
+      "description": "藥理＋外科＋臨診"
+    }
+  ],
+  "subjects": [
+    {
+      "code": "Physio",
+      "label": "生理學",
+      "emoji": "⚡",
+      "session": "A",
+      "profs": "林靜茹 教授"
+    },
+    {
+      "code": "Patho",
+      "label": "病理學",
+      "emoji": "🔬",
+      "session": "A",
+      "profs": "王約翰、張凱博 教授"
+    },
+    {
+      "code": "Histo",
+      "label": "組織學",
+      "emoji": "🧬",
+      "session": "A",
+      "profs": "吳政訓、林成翰 教授"
+    },
+    {
+      "code": "Pharm",
+      "label": "藥理學",
+      "emoji": "💊",
+      "session": "B",
+      "profs": "賴弘岳 教授"
+    },
+    {
+      "code": "Surg",
+      "label": "外科學概論",
+      "emoji": "🦴",
+      "session": "B",
+      "profs": "蔡俊灝、洪誌鴻、邱詠証"
+    },
+    {
+      "code": "ClinDiag",
+      "label": "臨床診斷學",
+      "emoji": "🩺",
+      "session": "B",
+      "profs": "陳潓誼、郭書瑞"
+    }
+  ],
+  "yearGroups": [
+    {
+      "code": "114",
+      "label": "114 學年度 (M66)"
+    },
+    {
+      "code": "113",
+      "label": "113 學年度 (M65)"
+    },
+    {
+      "code": "112",
+      "label": "112 學年度 (M64)"
+    },
+    {
+      "code": "111/110",
+      "label": "111 / 110 學年度"
+    },
+    {
+      "code": "Robbins",
+      "label": "📘 大R題庫 Ch.7 擴充原題"
+    }
+  ],
+  "units": [
+    {
+      "unitCode": "1014_Physio1",
+      "shortLabel": "10/14 肌生理I",
+      "file": "units/1014_Physio1.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1016_Physio2",
+      "shortLabel": "10/16 肌生理II",
+      "file": "units/1016_Physio2.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1023_ANS",
+      "shortLabel": "10/23 生理ANS",
+      "file": "units/1023_ANS.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1028_Synapse",
+      "shortLabel": "10/28 突觸傳遞",
+      "file": "units/1028_Synapse.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1007_Neo1",
+      "shortLabel": "10/07 腫瘤I",
+      "file": "units/1007_Neo1.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1014_Neo2",
+      "shortLabel": "10/14 腫瘤II",
+      "file": "units/1014_Neo2.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1015_Neo3",
+      "shortLabel": "10/15 腫瘤III",
+      "file": "units/1015_Neo3.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "Robbins_Ch7_Neo",
+      "shortLabel": "📘 大R題庫：Ch.7 腫瘤學",
+      "file": "units/Robbins_Ch7_Neo.json",
+      "highlight": true,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": true
+    },
+    {
+      "unitCode": "1021_BonePath",
+      "shortLabel": "10/21 骨關節病理",
+      "file": "units/1021_BonePath.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "Patho_SoftTissue",
+      "shortLabel": "補充：軟組織腫瘤病理",
+      "file": "units/Patho_SoftTissue.json",
+      "highlight": false,
+      "isOutOfScope": true,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "0930_BoneHisto",
+      "shortLabel": "09/30 軟骨與骨",
+      "file": "units/0930_BoneHisto.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1007_MuscleHisto",
+      "shortLabel": "10/07 肌肉組織",
+      "file": "units/1007_MuscleHisto.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1022_Pharm1",
+      "shortLabel": "10/22 藥理ANS",
+      "file": "units/1022_Pharm1.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1029_Pharm2",
+      "shortLabel": "10/29 擬膽鹼藥",
+      "file": "units/1029_Pharm2.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1030_Pharm3",
+      "shortLabel": "10/30 抗膽鹼肌鬆",
+      "file": "units/1030_Pharm3.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1104_Pharm4",
+      "shortLabel": "11/04 腎上腺素藥",
+      "file": "units/1104_Pharm4.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1104_SurgDigi",
+      "shortLabel": "11/04 數位骨科",
+      "file": "units/1104_SurgDigi.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1106_SurgRad",
+      "shortLabel": "11/06 骨科放射",
+      "file": "units/1106_SurgRad.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1106_SurgTrauma",
+      "shortLabel": "11/06 骨科創傷",
+      "file": "units/1106_SurgTrauma.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "Surg_BoneTumor",
+      "shortLabel": "補充：骨腫瘤外科",
+      "file": "units/Surg_BoneTumor.json",
+      "highlight": false,
+      "isOutOfScope": true,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1104_ClinRad",
+      "shortLabel": "11/04 臨診影像",
+      "file": "units/1104_ClinRad.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    },
+    {
+      "unitCode": "1118_ClinEval",
+      "shortLabel": "11/18 臨診理學",
+      "file": "units/1118_ClinEval.json",
+      "highlight": false,
+      "isOutOfScope": false,
+      "exemptFromCrossDupFilter": false
+    }
+  ]
+}

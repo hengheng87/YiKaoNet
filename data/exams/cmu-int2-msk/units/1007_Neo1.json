@@ -1,0 +1,260 @@
+{
+  "unitCode": "1007_Neo1",
+  "unitTitle": "10/07 病理學：腫瘤學 Neoplasia (I)",
+  "session": "A",
+  "subject": "Patho",
+  "subjectTitle": "病理學 (一)",
+  "prof": "王約翰 教授",
+  "examRange": "A卷 Q33–56（共24題）",
+  "unitUrl": "https://drive.google.com/file/d/1yv4OhkeEgDYd-6hF3AudA_7Xz1eavYWZ",
+  "questions": [
+    {
+      "id": "1007_Neo1-1",
+      "globalIndex": 120,
+      "qNum": 1,
+      "origQ": "Q1｜大R Ch.7 Q60 (Hallmarks & Oncogene Classification)",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q60 (Hallmarks & Oncogene Classification) 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者為惡性腫瘤？",
+      "image": null,
+      "options": {
+        "A": "Fibroadenoma of breast",
+        "B": "Melanoma of skin",
+        "C": "Adenoma of colon",
+        "D": "Lipoma of leg"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：良性與惡性腫瘤命名例外（-oma 例外）】**：一般良性腫瘤字尾為 `-oma`（如腺瘤 adenoma、脂肪瘤 lipoma、纖維腺瘤 fibroadenoma），間葉組織惡性腫瘤稱 `-sarcoma`、上皮惡性腫瘤稱 `-carcinoma`。但須熟記四個以 `-oma` 結尾卻屬**惡性腫瘤（malignant neoplasm）**的經典例外：**黑色素瘤（melanoma）、淋巴瘤（lymphoma）、精原細胞瘤（seminoma）、間皮瘤（mesothelioma）**。",
+        "**(B) 正確【本題應選正解】**：`Melanoma of skin` —— 皮膚黑色素瘤（melanoma）雖以 `-oma` 結尾，卻是源自黑色素細胞（melanocyte）的高度**惡性腫瘤（malignant neoplasm）**，具早期垂直侵犯與遠端轉移能力。",
+        "**(A) 錯誤**：`Fibroadenoma of breast` —— 乳房纖維腺瘤（fibroadenoma）為育齡女性最常見的**良性（benign）**乳房雙相腫瘤（間質與腺體同時增生），界線清楚、可移動且不轉移。",
+        "**(C) 錯誤**：`Adenoma of colon` —— 大腸腺瘤（adenoma）為良性腺上皮腫瘤，雖屬癌前病變（可經由 adenoma-carcinoma sequence 惡化），但本身尚未突破基底膜，仍屬良性。",
+        "**(D) 錯誤**：`Lipoma of leg` —— 下肢脂肪瘤（lipoma）為成熟脂肪細胞構成的最常見軟組織**良性腫瘤（benign tumor）**，惡性對應名稱為脂肪肉瘤（liposarcoma）。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q60 (Hallmarks & Oncogene Classification) 官方原書詳解（PBD9 266–268 Table 7-1｜BP9 162–164）】**：`60 C: While benign mesenchymal and epithelial tumors normally end in '-oma' (lipoma, fibroadenoma, adenoma, papilloma), several important malignant tumors retain historic '-oma' names: Melanoma (malignant neoplasm of melanocytes), Lymphoma (malignant neoplasm of lymphoid cells), Seminoma/Dysgerminoma (malignant germ cell tumors), Mesothelioma (malignant neoplasm of mesothelial cells), and Hepatoma (hepatocellular carcinoma).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1007_Neo1-2",
+      "globalIndex": 121,
+      "qNum": 2,
+      "origQ": "Q2｜大R Ch.7 Q1",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q1 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 40-year-old man has a positive stool guaiac test during a routine physical examination. A colonoscopy is performed and a 0.9-cm, circumscribed, pedunculated mass on a short stalk is found in the upper rectum. Which of the following terms best describes this lesion?",
+      "image": null,
+      "options": {
+        "A": "Adenoma",
+        "B": "Carcinoma",
+        "C": "Choristoma",
+        "D": "Hamartoma"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心病理考點：大腸腺瘤（Adenoma）與良惡性息肉鑑別】**：腸道良性腺上皮腫瘤常呈界線清楚的**有蒂息肉（pedunculated mass on a stalk）**，未侵犯黏膜下層或肌層，稱為**腺瘤（adenoma）**；若呈現無蒂潰瘍或組織侵犯則為腺癌（adenocarcinoma）。",
+        "**(A) 正確【本題應選正解】**：`Adenoma` —— 直腸上段發現界線清楚、具短蒂的良性腺上皮息肉狀腫塊（無提及侵犯或遠處轉移），最符合**腺瘤（adenoma）**，臨床上常因表面摩擦出血導致潛血陽性。",
+        "**(B) 錯誤**：`Carcinoma` —— 癌（carcinoma）為惡性上皮腫瘤，典型特徵為細胞異型性（atypia）、邊界不清、局部浸潤（invasion）基底膜或伴隨潰瘍壞死，與本例界線清楚之有蒂良性外觀不符。",
+        "**(C) 錯誤**：`Choristoma` —— 迷離瘤（choristoma）指正常組織出現在**異位（heterotopic）**解剖位置（如胃壁出現胰臟組織），屬於先天發育異常而非直腸內有蒂腫瘤。",
+        "**(D) 錯誤**：`Hamartoma` —— 錯構瘤（hamartoma）為該部位原有成熟組織的混亂過度生長（如肺錯構瘤或 Peutz-Jeghers 息肉），而非單純界線清楚的腫瘤性有蒂腺瘤。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q1 官方原書詳解（PBD9 266–268｜BP9 162–163）】**：`1 A: An adenoma is a benign epithelial neoplasm (arising in the glands of the colonic mucosa in this case). Small, circumscribed, pedunculated lesions are usually benign. Because it is turnorous and circumscribed, this lesion is not diagnostic of a hyperplastic process. Both carcinomas (arising from epithelium) and sarcomas (arising from mesenchyme) are malignant and tend to be large, irregular masses with rapid growth and ulceration. A choristoma is an ectopic cluster of normal tissue (e.g., pancreatic tissue in the stomach wall). A hamartoma is a tumor-like reactive or congenital clustering of tissues organized in a caricature of normal regional anatomy.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1007_Neo1-3",
+      "globalIndex": 122,
+      "qNum": 3,
+      "origQ": "Q3｜大R Ch.7 Q2",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q2 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 32-year-old woman has experienced dull pelvic pain for the past 2 months. Physical examination shows a right adnexal mass. An abdominal ultrasound scan shows a 7.5-cm cystic ovarian mass. The mass is surgically excised. The surface of the mass is smooth, and it is not adherent to surrounding pelvic structures. On gross examination, the cystic mass is filled with hair. Microscopically, squamous epithelium, tall columnar glandular epithelium, cartilage, and fibrous connective tissue are present and resemble normal tissue counterparts. Which of the following is the most likely diagnosis?",
+      "image": null,
+      "options": {
+        "A": "Adenocarcinoma",
+        "B": "Teratoma",
+        "C": "Mesothelioma",
+        "D": "Hamartoma"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：成熟囊性畸胎瘤（Mature Cystic Teratoma）】**：畸胎瘤源自全能性生殖細胞（totipotent germ cell），可同時分化出**外胚層（鱗狀上皮、毛髮、皮脂腺）、中胚層（軟骨、纖維結締組織、骨）與內胚層（柱狀腺上皮）**等多胚層成熟組織，好發於育齡女性卵巢，又稱皮樣囊腫（dermoid cyst）。",
+        "**(B) 正確【本題應選正解】**：`Teratoma` —— 卵巢囊腫內含毛髮，鏡下同時出現成熟鱗狀上皮、高柱狀腺上皮、軟骨與纖維結締組織（橫跨外、中、內三胚層且形態似正常組織），為典型**成熟囊性畸胎瘤（mature cystic teratoma / dermoid cyst）**。",
+        "**(A) 錯誤**：`Adenocarcinoma` —— 腺癌（adenocarcinoma）為單一上皮譜系的惡性腺體腫瘤，無法同時分化出毛髮、鱗狀上皮、軟骨與纖維結締組織等多胚層構造。",
+        "**(C) 錯誤**：`Mesothelioma` —— 間皮瘤（mesothelioma）為源自體腔（胸膜、腹膜、心包膜）間皮細胞的惡性腫瘤，呈上皮樣或梭狀細胞型態，不會形成毛髮或軟骨等多胚層組織。",
+        "**(D) 錯誤**：`Hamartoma` —— 錯構瘤（hamartoma）僅包含該器官**原位既有**組織的混亂排列，而正常卵巢並不含毛髮、鱗狀上皮或軟骨，故多胚層異質分化應診斷為畸胎瘤。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q2 官方原書詳解（PBD9 267–268｜BP9 163–164）】**：`2 G: A teratoma contains elements derived from more than one germ cell layer (ectoderm, endoderm, mesoderm), because the cell of origin is totipotential. Such cross-differentiation typically occurs in gonadal locations where germ cells reside, most commonly in the ovary of a reproductive-age woman, and these neoplasms are typically benign cystic lesions (dermoid cysts). Note: In Prof. Wang's 4-option exam version, Teratoma is option (B).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1007_Neo1-4",
+      "globalIndex": 123,
+      "qNum": 4,
+      "origQ": "Q4｜大R Ch.7 Q61 (Hallmarks of Cancer: Apoptosis & Proliferation)",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q61 (Hallmarks of Cancer: Apoptosis & Proliferation) 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不是腫瘤之特性",
+      "image": null,
+      "options": {
+        "A": "細胞增殖率增加",
+        "B": "細胞凋亡增加",
+        "C": "細胞逃避免疫攻擊",
+        "D": "細胞血管新生功能增加"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：癌症十大特徵（Hallmarks of Cancer）】**：惡性腫瘤細胞的核心生物學特徵包含：持續增殖訊號（細胞增殖率增加）、逃避生長抑制、**抗拒細胞凋亡（resisting cell death / 凋亡減少而非增加）**、無限複製潛力、誘導血管新生（angiogenesis）、侵犯與轉移，以及逃避免疫摧毀（avoiding immune destruction）。",
+        "**(B) 敘述錯誤【本題應選正解】**：`細胞凋亡增加` —— 腫瘤細胞的關鍵存活機制是透過上調 BCL2 或失活 p53 來**抗拒／減少細胞凋亡（evading apoptosis）**，而非凋亡增加；因此本選項敘述錯誤，為本題所求。",
+        "**(A) 敘述正確（非本題所求）**：`細胞增殖率增加` —— 腫瘤細胞因致癌基因（oncogene）活化或抑癌基因（tumor suppressor gene）失活，常表現生長訊號自給自足，導致細胞週期加速與**增殖率增加（increased proliferation）**。",
+        "**(C) 敘述正確（非本題所求）**：`細胞逃避免疫攻擊` —— 腫瘤細胞可藉由降低 MHC I 表現或過度表現 PD-L1 等免疫檢查點分子來**逃避免疫監控與攻擊（immune evasion）**，此為癌症核心特徵之一。",
+        "**(D) 敘述正確（非本題所求）**：`細胞血管新生功能增加` —— 當腫瘤直徑超過 1–2 mm 時，缺氧誘導因子（HIF-1α）會促進 VEGF 分泌，使**血管新生（angiogenesis）增加**以供應氧氣與養分並提供轉移途徑。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q61 (Hallmarks of Cancer: Apoptosis & Proliferation) 官方原書詳解（PBD9 280–281 Fig. 7-15｜BP9 172–173）】**：`61 B: The eight hallmarks of cancer are: (1) self-sufficiency in growth signals, (2) insensitivity to growth-inhibitory signals, (3) altered cellular metabolism (Warburg effect), (4) evasion of apoptosis (DECREASED apoptosis, not increased), (5) limitless replicative potential (immortality via telomerase), (6) sustained angiogenesis, (7) ability to invade and metastasize, and (8) evasion of host immune response.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1007_Neo1-5",
+      "globalIndex": 124,
+      "qNum": 5,
+      "origQ": "Q5｜大R Ch.7 Q5",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q5 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 50-year-old woman undergoes screening colonoscopy as part of a routine health maintenance work-up. An isolated 1-cm pedunculated polyp is found in the sigmoid colon. The excised polyp histologically shows well-differentiated glands with no invasion of the stalk. Which of the following investigational research procedures can distinguish most clearly whether the polyp represents hyperplasia of the colonic mucosa or a tubular adenoma?",
+      "image": null,
+      "options": {
+        "A": "Flow cytometry to quantitate cells in the S phase",
+        "B": "Histochemical staining for mucin",
+        "C": "Immunohistochemical staining for keratin",
+        "D": "Molecular marker of clonality"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心病理考點：反應性增生（Hyperplasia）vs. 腫瘤（Neoplasm）之本質鑑別】**：增生（hyperplasia）屬於對刺激的生理或反應性變化，為**多株性（polyclonal）**增殖；而所有腫瘤（neoplasm，無論良性管狀腺瘤或惡性腺癌）本質上皆源自單一突變前驅細胞的**單株性擴張（monoclonal proliferation）**。",
+        "**(D) 正確【本題應選正解】**：`Molecular marker of clonality` —— 偵測**單株性分子標記（molecular marker of clonality，如 X 染色體不活化分析或體細胞突變譜）**可直接區分單株性腫瘤（管狀腺瘤）與多株性反應性變化（黏膜增生）。",
+        "**(A) 錯誤**：`Flow cytometry to quantitate cells in the S phase` —— 流式細胞儀（flow cytometry）測得 S 期細胞比例上升僅代表細胞分裂活躍，無法區分該增殖是反應性增生（增生細胞亦可進入 S 期）還是真性腫瘤。",
+        "**(B) 錯誤**：`Histochemical staining for mucin` —— 黏液（mucin）組織化學染色（如 PAS 或 mucicarmine）只能確認腺體上皮是否分泌黏液，大腸正常黏膜增生與管狀腺瘤皆可能含黏液細胞。",
+        "**(C) 錯誤**：`Immunohistochemical staining for keratin` —— 角蛋白（keratin / cytokeratin）免疫染色僅用於確認細胞為上皮來源（epithelial origin），大腸增生性息肉與管狀腺瘤皆源自大腸上皮，均呈陽性。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q5 官方原書詳解（PBD9 268, 271｜BP9 162, 164）】**：`5 D: Neoplasms are monoclonal proliferations of cells, whereas hyperplasias are polyclonal proliferations. Thus solving the problem rests on proving monoclonality. Both hyperplastic and benign neoplastic processes typically show normal numbers of cells in the S phase. Similarly, both lesions comprise well-differentiated cells from that region (both stain positively for mucin and keratin).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1007_Neo1-6",
+      "globalIndex": 125,
+      "qNum": 6,
+      "origQ": "Q6｜大R Ch.7 Q11",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q11 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 69-year-old woman has experienced increasing malaise and a 10-kg weight loss over the past year. She dies of massive pulmonary thromboembolism. The gross appearance of the liver at autopsy is shown in the figure. Which of the following best describes the lesions seen in her liver?",
+      "image": "images/1007_Neo1-6.jpg",
+      "options": {
+        "A": "Invasive angiosarcoma",
+        "B": "Hepatocellular carcinoma",
+        "C": "Leukemic infiltration",
+        "D": "Metastatic adenocarcinoma"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心病理考點：肝臟轉移性腺癌（Metastatic Adenocarcinoma）與副腫瘤高凝血狀態】**：高齡患者體重減輕併發致命性肺血栓栓塞（Trousseau 症候群／癌症相關高凝血狀態），屍檢見肝臟呈**多發性大小不一、中央臍凹（central umbilication，因中心缺血壞死）**之白色結節，為**轉移性腺癌（metastatic adenocarcinoma）**的最典型巨觀表現。",
+        "**(D) 正確【本題應選正解】**：`Metastatic adenocarcinoma` —— 肝臟是全身惡性腫瘤（特別是腸胃道、胰臟、肺臟與乳癌等腺癌）最常發生血行性轉移的器官之一，典型表現為肝實質內**多發性散在白色結節合併中央壞死凹陷**，且腺癌常誘發致死性肺栓塞。",
+        "**(A) 錯誤**：`Invasive angiosarcoma` —— 肝血管肉瘤（angiosarcoma）為罕見的高度惡性血管內皮腫瘤（與氯乙烯 vinyl chloride、二氧化釷 Thorotrast 暴露相關），巨觀多呈出血性海綿狀血腫樣腫塊而非多發白色實質結節。",
+        "**(B) 錯誤**：`Hepatocellular carcinoma` —— 肝細胞癌（HCC）常伴隨肝硬化背景，較常表現為單一巨大腫塊或少數融合結節並常合併門靜脈侵犯，不如轉移癌常見瀰漫性大小不一、中央臍凹的多發白結節。",
+        "**(C) 錯誤**：`Leukemic infiltration` —— 白血病肝浸潤（leukemic infiltration）通常造成肝臟瀰漫性均質腫大（hepatomegaly），在巨觀上極少形成界線分明的多發實質腫瘤結節。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q11 官方原書詳解（PBD9 271–274｜BP9 168–169）】**：`11 D: Multiple, variably sized tan-white nodules scattered throughout the liver parenchyma with central umbilication (necrosis) are classic for metastatic carcinoma (most commonly adenocarcinoma from colon, pancreas, lung, or breast). Mucin-producing adenocarcinomas frequently induce a hypercoagulable paraneoplastic state (Trousseau syndrome), leading to fatal pulmonary thromboembolism.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1007_Neo1-7",
+      "globalIndex": 126,
+      "qNum": 7,
+      "origQ": "Q7｜大R Ch.7 Q3",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q3 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 62-year-old man has had several episodes of hematuria in the past week. He has a 48 pack-year history of smoking cigarettes. On physical examination, there are no abnormal findings. A urinalysis shows 4+ hematuria, and cytologic examination of the urine shows that atypical cells are present. A cystoscopy is performed and a 4-cm sessile mass with a nodular, ulcerated surface is seen in the dome of the bladder. Which of the following terms best describes this lesion?",
+      "image": null,
+      "options": {
+        "A": "Adenoma",
+        "B": "Carcinoma",
+        "C": "Fibroma",
+        "D": "Papilloma"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：膀胱泌尿上皮癌（Urothelial Carcinoma）之巨觀與細胞學特徵】**：長期吸菸為膀胱癌首要危險因子（芳香胺類致癌物經尿液排出）。膀胱鏡見**無蒂（sessile）、結節狀且表面潰瘍（ulcerated）**之腫塊，合併尿液細胞學出現**非典型細胞（atypical cells）**，均指向惡性上皮腫瘤（carcinoma）。",
+        "**(B) 正確【本題應選正解】**：`Carcinoma` —— 吸菸史合併無痛性血尿、尿液見非典型細胞，且膀胱頂部出現無蒂、結節潰瘍性腫塊，符合侵犯性惡性上皮腫瘤——**膀胱癌（carcinoma，最常見為 urothelial carcinoma）**。",
+        "**(A) 錯誤**：`Adenoma` —— 腺瘤（adenoma）為良性腺上皮腫瘤，通常界線清楚且無潰瘍壞死，尿液細胞學亦不會出現惡性非典型上皮細胞。",
+        "**(C) 錯誤**：`Fibroma` —— 纖維瘤（fibroma）為良性纖維結締組織腫瘤，源自間葉組織且表面上皮完整，不會在尿液中脫落非典型上皮細胞。",
+        "**(D) 錯誤**：`Papilloma` —— 乳頭瘤（papilloma）為良性外生性乳頭狀上皮腫瘤，呈細緻乳頭狀突起（非無蒂結節潰瘍塊），細胞形態成熟無明顯異型性。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q3 官方原書詳解（PBD9 269–271｜BP9 163–164, 199）】**：`3 B: This clinical and gross appearance is typical of a malignant tumor arising in the urothelium—a urothelial carcinoma. Note the link to cigarette smoking. An adenoma is a benign tumor arising in glandular epithelium. A fibroma is a benign tumor of mesenchymal origin. A papilloma is a benign tumor of squamous or urothelial origin that typically is small and pedunculated with delicately branching fronds. A sarcoma is a malignant mesenchymal lesion, uncommon in the bladder.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1007_Neo1-8",
+      "globalIndex": 127,
+      "qNum": 8,
+      "origQ": "Q8｜大R Ch.7 Q62 (Central Theory of Carcinogenesis)",
+      "year": "114 學年度｜📘大R題庫 Ch.7 Q62 (Central Theory of Carcinogenesis) 原題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在分子細胞生物學中何者為腫瘤發生之中心理論基礎？",
+      "image": null,
+      "options": {
+        "A": "細胞缺乏 DNA 修補能力",
+        "B": "細胞具有無限生長能力",
+        "C": "細胞不凋零死亡之基因受損",
+        "D": "細胞對抑癌基因無反應"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：腫瘤發生之分子中心理論（Central Dogma of Carcinogenesis）】**：腫瘤發生（carcinogenesis）是多步驟基因突變累積的結果，包含致癌基因（oncogene）活化、抑癌基因（tumor suppressor gene）失活、DNA 修補基因缺失，以及**調控細胞凋亡基因受損（使受損細胞逃避凋亡並累積突變，如 BCL2 過表現與 p53 缺失）**。",
+        "**(C) 正確【本題應選正解】**：`細胞不凋零死亡之基因受損` —— 依本課程考點設定，正常細胞累積致命 DNA 損傷時應啟動細胞凋亡（apoptosis）自我清除；當**調控細胞凋亡的基因受損（如 p53 失活或 BCL2 活化）**，突變細胞得以存活並持續分裂累積後天突變，構成腫瘤發生的中心基礎。",
+        "**(A) 錯誤**：`細胞缺乏 DNA 修補能力` —— DNA 修補基因缺失（如 Lynch syndrome 的 MMR 基因或 BRCA1/2）屬於促進突變累積的「賦能特徵（enabling characteristic）」，雖增加突變率，但單獨缺乏修補若凋亡正常仍會清除受損細胞。",
+        "**(B) 錯誤**：`細胞具有無限生長能力` —— 端粒酶（telomerase）活化賦予細胞無限複製潛力，是腫瘤維持生長的關鍵特徵之一，但並非本題考題設定之中心理論基礎選項。",
+        "**(D) 錯誤**：`細胞對抑癌基因無反應` —— 逃避生長抑制（如 RB 或 TGF-β 路徑受損）雖為癌症特徵之一，但若細胞仍保留正常凋亡機制，受損細胞仍會被程序性死亡排除。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q62 (Central Theory of Carcinogenesis) 官方原書詳解（PBD9 279–280｜BP9 171–172）】**：`62 C: At the heart of carcinogenesis is nonlethal genetic damage (or damage to genes controlling cell survival/apoptosis so that mutated cells do not die). If genetic damage were lethal, the cell would simply undergo apoptosis and no tumor could arise.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    }
+  ]
+}

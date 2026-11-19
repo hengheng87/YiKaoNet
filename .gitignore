@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# SQLite runtime database & ingestion staging drafts
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/staging/
+*.sqlite3
+
+# Local environment & OS junk
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Original monolithic HTML backup & local offline builds
+易考網1.0.6.html
+dist/

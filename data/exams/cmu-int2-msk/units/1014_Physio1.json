@@ -1,0 +1,792 @@
+{
+  "unitCode": "1014_Physio1",
+  "unitTitle": "10/14 生理學：肌肉生理學 (I)",
+  "session": "A",
+  "subject": "Physio",
+  "subjectTitle": "生理學 (一)",
+  "prof": "林靜茹 教授",
+  "examRange": "A卷 Q1–32（共32題）",
+  "unitUrl": "https://drive.google.com/file/d/1g2HWMzCwGN1hDUmQ5XoH8W06hea5uuwp",
+  "questions": [
+    {
+      "id": "1014_Physio1-1",
+      "globalIndex": 1,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一選項是骨骼肌才有的特性，在心肌跟平滑肌（single-unit smooth musele）都沒 有？",
+      "image": null,
+      "options": {
+        "A": "有規律性的產生自發性動作電位",
+        "B": "有肌節（sarcomeres）-横紋的結構",
+        "C": "有 transverse tubule",
+        "D": "其神經對肌肉的調控（nerve stimulation）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：骨骼肌 vs. 心肌 vs. 單一單位平滑肌（Single-unit Smooth Muscle）比較】**：**(1) 骨骼肌**：具橫紋（肌節 sarcomere、Z line、Troponin）與 T-tubule，細胞間**無間隙連接（gap junctions）**，無自發性節律電位，**完全仰賴體運動神經元（somatic motor neuron）釋放 ACh 刺激才能收縮（neurogenic）**；**(2) 心肌**：具橫紋、T-tubule 與 gap junctions（閏盤 intercalated discs），具自發性節律動作電位（myogenic），受 ANS 調節；**(3) 單一單位平滑肌**：無橫紋（無 sarcomere、無 Z line、無 Troponin、無 T-tubule，以緻密體 dense bodies 取代 Z line），具 **gap junctions** 可同步收縮，具自發性慢波／節律電位。",
+        "**(D) 正確【本題應選正解】**：`其神經對肌肉的調控（nerve stimulation）` —— **唯有骨骼肌的收縮完全依賴體運動神經元（somatic motor nerve）一對一支配刺激（neurogenic control）**；心肌與單一單位平滑肌皆具肌源性自發活性（myogenic），自主神經僅負責調節其收縮頻率與強度。",
+        "**(A) 錯誤**：`有規律性的產生自發性動作電位` —— 心肌（節律細胞 pacemaker cells）與單一單位平滑肌（慢波電位 slow-wave potentials）皆能規律性產生自發性動作電位（myogenic）；**骨骼肌完全沒有自發性動作電位**，必須依賴體運動神經元興奮才能收縮。",
+        "**(B) 錯誤**：`有肌節（sarcomeres）-横紋的結構` —— **骨骼肌與心肌皆具有肌節（sarcomeres）與明暗橫紋結構**（並非骨骼肌獨有）；平滑肌則無肌節結構。",
+        "**(C) 錯誤**：`有 transverse tubule` —— **骨骼肌與心肌皆具有橫管（Transverse tubules, T-tubules）**以將動作電位迅速傳入肌細胞內部；單一單位平滑肌則無 T-tubules（僅具凹陷小窩 caveolae）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-2",
+      "globalIndex": 2,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一蛋白質參與將骨骼肌中細絲（thin filament）固定到 Z line",
+      "image": null,
+      "options": {
+        "A": "Actinin",
+        "B": "I band",
+        "C": "Desmin",
+        "D": "Titan"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌肌節（Sarcomere）結構蛋白與 Z line 錨定】**：**α-Actinin** 位於 **Z line** 上，負責將細肌絲（thin filament / F-actin）錨定固定於 Z line；**Titin** 連接 Z line 至 M line 並維持粗肌絲居中與肌節彈性；**Desmin** 為中間絲（intermediate filament），負責將相鄰肌原纖維的 Z line 彼此連結並固定至肌細胞膜（costamere）。",
+        "**(A) 正確【本題應選正解】**：`Actinin` —— **α-Actinin** 是位於 Z line 內的重要結構蛋白，專門負責將細肌絲（actin filament）的端點錨定固定於 Z line 上。",
+        "**(B) 錯誤**：`I band` —— I band（明帶）為顯微鏡下僅含細肌絲而無粗肌絲重疊的「區域構造」名稱，並非負責錨定細肌絲的單一蛋白質。",
+        "**(C) 錯誤**：`Desmin` —— **Desmin** 為肌細胞內的第三型中間絲蛋白，功能是將相鄰肌原纖維（myofibrils）的 Z line 橫向串聯並連接至細胞膜，非直接將單條細肌絲固定到 Z line。",
+        "**(D) 錯誤**：`Titan` —— （選項拼為 `Titan`，指 **Titin**）**Titin** 為巨大彈性蛋白，橫跨半個肌節，負責將粗肌絲（myosin）連接至 Z line 與 M line，而非固定細肌絲。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-3",
+      "globalIndex": 3,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "哪種蛋白質基因缺失可引起 Duchenne's muscular dystrophy？",
+      "image": null,
+      "options": {
+        "A": "Actinin",
+        "B": "Titan",
+        "C": "Dystrophin proteins",
+        "D": "Sarcoglycans"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：骨骼肌肌節結構蛋白（Structural Proteins）與肌肉失養症】**：**(1) α-Actinin**：位於 **Z line**，負責將**細肌絲（thin filament / F-actin）錨定固定至 Z line**；**(2) Titin（肌聯蛋白）**：人體最大蛋白質，由 M line 延伸至 Z line，作為彈性分子彈簧**保護肌節結構（protects sarcomere structure）**並維持粗肌絲居中，其基因突變（shorter titin）會導致**擴張型心肌病變（dilated cardiomyopathy）**；**(3) Desmin（結蛋白）**：肌肉特有的中間絲，橫向連結相鄰肌原纖維的 **Z line 並固定至細胞膜**；**(4) Dystrophin（失養蛋白）**：位於肌細胞膜內側，將**細肌絲（F-actin）連結至細胞膜上的 dystroglycan（DG）/ sarcoglycan complex** 以穩定肌膜，基因缺失會引發 X 染色體性聯遺傳之**杜馨氏肌肉失養症（Duchenne muscular dystrophy, DMD）**（若為部分功能減損則為 Becker muscular dystrophy；Sarcoglycans 突變則引起肢帶型肌肉失養症 Limb-girdle MD）。",
+        "**(C) 正確【本題應選正解】**：`Dystrophin proteins` —— **Dystrophin（失養蛋白）**基因位於 X 染色體（Xp21），負責連結細肌絲（F-actin）與肌膜糖蛋白複合體；當基因突變導致骨骼肌完全無法表現 Dystrophin 時，會引發嚴重的**杜馨氏肌肉失養症（Duchenne muscular dystrophy, DMD）**。",
+        "**(A) 錯誤**：`Actinin` —— **α-Actinin** 負責將細肌絲固定於 Z line；引起杜馨氏肌肉失養症（Duchenne muscular dystrophy）的是 **Dystrophin** 基因缺失。",
+        "**(B) 錯誤**：`Titan` —— **Titin（肌聯蛋白，常拼為 Titan）**為由 M line 延伸至 Z line 的巨大彈性蛋白，負責**保護肌節結構並維持粗肌絲居中**（其突變與擴張型心肌病變 dilated cardiomyopathy 有關；並非引起杜馨氏肌肉失養症或惡性高熱的蛋白質）。",
+        "**(D) 錯誤**：`Sarcoglycans` —— **Sarcoglycans** 為肌膜 dystrophin-glycoprotein 複合體的跨膜次單元，其基因突變主要引起自體隱性之**肢帶型肌肉失養症（Limb-girdle muscular dystrophy, LGMD）**，而杜馨氏肌肉失養症（DMD）則是由 **Dystrophin** 蛋白缺失引起。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-4",
+      "globalIndex": 4,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在 Rigor Mortis時,Myosin（M）,Actin（A）,ATP（or ADP） and Pi 的關係為何？",
+      "image": null,
+      "options": {
+        "A": "A . M （= actin binds to myosin）",
+        "B": "A + M . ATP （= myosin binds to ATP）",
+        "C": "A + M. ADP. Pi（= energized cross bridges （myosin） binds to both ADP and Pi）",
+        "D": "A + M. ADP. Pi（=actin binds to myosin,ADP and Pi）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(A) 正確【本題應選正解】**：`A . M （= actin binds to myosin）` —— 在**死後僵直（Rigor mortis）**時，由於細胞死亡後不再生成 ATP，沒有新的 ATP 結合至肌球蛋白頭使其與細肌絲分離，導致 Actin（A）與 Myosin（M）緊密鎖死在無核苷酸結合的僵直狀態：**`A·M（actin binds to myosin）`**。",
+        "**(B) 錯誤**：`A + M . ATP （= myosin binds to ATP）` —— `A + M·ATP` 代表新的 ATP 結合至肌球蛋白頭（M），促使 Myosin 與 Actin（A）**分離（detachment）**的瞬間狀態，而死後僵直（Rigor mortis）時體內已耗盡 ATP，故停留在 `A·M`。",
+        "**(C) 錯誤**：`A + M. ADP. Pi（= energized cross bridges （myosin） binds to both ADP and Pi）` —— `A + M·ADP·Pi` 代表正常活體休息狀態下，ATP 已水解為 ADP 與 Pi 並儲能復位的**帶能量橫橋（energized cross-bridge，尚未與 Actin 結合）**，並非死後僵直（`A·M`）的狀態。",
+        "**(D) 錯誤**：`A + M. ADP. Pi（=actin binds to myosin,ADP and Pi）` —— 當胞內 Ca²⁺ 上升露出結合位點時，`A·M·ADP·Pi` 為功率衝程（power stroke）啟動瞬間的短暫過渡態，隨後釋放 Pi 與 ADP 轉為 `A·M`，死後因無 ATP 補充故最終停留在不含 ADP 與 Pi 的 **`A·M`**。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-5",
+      "globalIndex": 5,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在 cross-bridge cycle 中 resting muscle 內 energized cross-bridges （A + M .ADP. Pi） 在何種狀況下才可以跟細絲（actin filament）結合？",
+      "image": null,
+      "options": {
+        "A": "當細胞質內鈣離子濃度增加時",
+        "B": "當 ADP +Pi 脫離 cross-bridges",
+        "C": "當新的 ATP 跟 cross-bridge 結合時",
+        "D": "當 cross-bridges 上面的 ATP 水解時"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(A) 正確【本題應選正解】**：`當細胞質內鈣離子濃度增加時` —— 在休息肌肉中，橫橋早已完成 ATP 水解並處於帶能量狀態（energized cross-bridge, `A + M·ADP·Pi`）；唯有**當細胞質內鈣離子（Ca²⁺）濃度增加**，結合至 Troponin C 並推開遮蔽位點的 Tropomyosin 後，帶能量的橫橋才能與細肌絲（actin filament）結合！",
+        "**(B) 錯誤**：`當 ADP +Pi 脫離 cross-bridges` —— ADP 與 Pi 從橫橋脫離是發生在橫橋**已經與細肌絲結合之後**，用來觸發橫橋擺動產生**功率衝程（power stroke）**的步驟，並非促成結合的前提！",
+        "**(C) 錯誤**：`當新的 ATP 跟 cross-bridge 結合時` —— 當新的 ATP 與橫橋（myosin head）結合時，會降低 myosin 對 actin 的親和力，使橫橋**與細肌絲分離（detachment）**，而非結合！",
+        "**(D) 錯誤**：`當 cross-bridges 上面的 ATP 水解時` —— 橫橋上的 ATP 水解為 ADP + Pi 是發生在**橫橋與細肌絲分離的休息狀態下**，用來讓橫橋復位儲能（re-cocking 成 energized cross-bridge），若無 Ca²⁺ 移開 Tropomyosin 仍無法與細肌絲結合。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-6",
+      "globalIndex": 6,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請將下列 Excitation-Contraxction Coupling （E-C coupling） 步驟依序排列\n(1) Ca++release（釋放） from sarcoplasmic reticulum（肌漿網）\n(2) T-tubule（橫管）上 Dihydropyridine （DHP） receptor 打開肌漿網上 ryanodine receptor\n(3) Ca++ pump 將 Ca++回收回 sarcoplasmic reticulum\n(4) Ca++與 Troponin 結合,推開 tropomyosin,落出細絲上的 cross-bridge binding sites\n(5) T-tubule 將動作電位傳到肌肉內部,T-tubule 去極化",
+      "image": null,
+      "options": {
+        "A": "25431",
+        "B": "42351",
+        "C": "52143",
+        "D": "54231"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(C) 正確【本題應選正解】**：`52143` —— 骨骼肌興奮-收縮偶聯（E-C coupling）與舒張之正確順序為：**(5) T-tubule 將動作電位傳入肌肉內部去極化** → **(2) T-tubule 上的 DHPR 物理牽拉打開肌漿網上的 RyR** → **(1) Ca²⁺ 從肌漿網釋放** → **(4) Ca²⁺ 與 Troponin 結合並推開 Tropomyosin 露出結合位點** → **(3) 收縮後 Ca²⁺ pump 將 Ca²⁺ 回收回肌漿網**，故順序為 `5 → 2 → 1 → 4 → 3`。",
+        "**(A) 錯誤**：`25431` —— 步驟順序錯誤：必先由 (5) T-tubule 去極化 → (2) DHPR 打開 RyR → (1) SR 釋放 Ca²⁺ → (4) Ca²⁺ 結合 Troponin 推開 Tropomyosin → 最後才是 (3) Ca²⁺ pump 回收 Ca²⁺（正確為 `52143`）。",
+        "**(B) 錯誤**：`42351` —— 步驟順序錯誤：必先由 (5) T-tubule 去極化 → (2) DHPR 打開 RyR → (1) SR 釋放 Ca²⁺ → (4) Ca²⁺ 結合 Troponin 推開 Tropomyosin → 最後才是 (3) Ca²⁺ pump 回收 Ca²⁺（正確為 `52143`）。",
+        "**(D) 錯誤**：`54231` —— 步驟順序錯誤：必先由 (5) T-tubule 去極化 → (2) DHPR 打開 RyR → (1) SR 釋放 Ca²⁺ → (4) Ca²⁺ 結合 Troponin 推開 Tropomyosin → 最後才是 (3) Ca²⁺ pump 回收 Ca²⁺（正確為 `52143`）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-7",
+      "globalIndex": 7,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Malignant hypertheria（惡性高溫）是哪一種蛋白質缺失引起的?",
+      "image": null,
+      "options": {
+        "A": "Dihydropyridine receptor （DHPR）",
+        "B": "Ryanodine receptor （RyR）",
+        "C": "Titan",
+        "D": "Tropomyosin"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：骨骼肌 vs. 心肌興奮-收縮偶聯（E-C Coupling）、潛伏期（Latent Period）與惡性高熱】**：**(1) 骨骼肌 E-C coupling 順序**：動作電位沿 T-tubule 傳入內部去極化 → T-tubule 上的 **DHPR（作為電壓感受器 voltage sensor）**發生構型改變，透過**直接物理機械牽拉（physical/mechanical interaction）拉開肌漿網（SR）上的 RyR1 通道** → SR 釋放 Ca²⁺ 至細胞質 → Ca²⁺ 結合 Troponin C 推開 Tropomyosin → 橫橋結合細肌絲收縮 → SERCA 鈣幫浦將 Ca²⁺ 回收回 SR；**(2) 心肌 RyR2 開啟機制**：心肌靠 T-tubule L-type Ca²⁺ channel（DHPR）流入細胞外的 Ca²⁺ 結合並打開 SR 上的 RyR2（**鈣誘導鈣釋放 Calcium-induced calcium release, CICR**）；**(3) 潛伏期（Latent period）**：指動作電位產生到肌肉開始產生張力之間的時間差（包含 SR 釋放 Ca²⁺、移開 Tropomyosin 及啟動橫橋結合拉動彈性元件的時間，**不包含屬於舒張期的「SR 回收 Ca²⁺ 時間」**）；**(4) 惡性高熱（Malignant hyperthermia）**：因骨骼肌 **RyR1（Ryanodine receptor）**基因突變，受鹵烷類麻醉劑或 Succinylcholine 誘發大量 Ca²⁺ 失控釋放，以 **Dantrolene** 治療。",
+        "**(B) 正確【本題應選正解】**：`Ryanodine receptor （RyR）` —— **惡性高熱（Malignant hyperthermia）**是因為骨骼肌肌漿網（SR）上的**蘭諾定受體鈣通道（Ryanodine receptor 1, RyR1）**基因突變缺陷，在接觸揮發性麻醉劑或 Succinylcholine 時通道異常開啟，大量 Ca²⁺ 湧入細胞質造成劇烈肌肉強直收縮、ATP 耗竭與體溫暴升。",
+        "**(A) 錯誤**：`Dihydropyridine receptor （DHPR）` —— **Dihydropyridine receptor（DHPR）**為 T-tubule 上的電壓感受器（L-type Ca²⁺ channel）；引起惡性高熱的基因突變主要位於肌漿網的 **Ryanodine receptor（RyR1）**。",
+        "**(C) 錯誤**：`Titan` —— **Titin（肌聯蛋白，常拼為 Titan）**為由 M line 延伸至 Z line 的巨大彈性蛋白，負責**保護肌節結構並維持粗肌絲居中**（其突變與擴張型心肌病變 dilated cardiomyopathy 有關；並非引起杜馨氏肌肉失養症或惡性高熱的蛋白質）。",
+        "**(D) 錯誤**：`Tropomyosin` —— **Tropomyosin（原肌球蛋白）**負責在休息態遮蔽細肌絲上的橫橋結合位點，並非惡性高熱（RyR1 缺陷）的致病蛋白。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-8",
+      "globalIndex": 8,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請將 neuromuscular junction （神經肌肉交界處） 的訊息傳遞順序依序排列\n(1) SNARES 蛋白家族構型改變（Conformational change）\n(2) AcetyIcholine （ACh） binds to receptors\n(3) Motor end-plate 產生終板電位 End-Plate Potentials （EPP）\n(4) Voltage-gated Ca++ channels 打開,鈣離子流入神經末梢\n(5) 肌肉細胞膜產生動作電位（action potentials）",
+      "image": null,
+      "options": {
+        "A": "54231",
+        "B": "31524",
+        "C": "14253",
+        "D": "41235"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉接合處（NMJ）傳遞順序與作用藥物】**：**(1) 傳遞順序**：運動神經元軸突動作電位傳至末梢 → 突觸前膜 **電壓閘門 Ca²⁺ 通道開啟，Ca²⁺ 流入神經末梢** → Ca²⁺ 結合 Synaptotagmin 觸發 **SNAREs 蛋白構型改變** → 囊泡胞吐**釋放 ACh** → ACh 結合運動終板上的 **菸鹼受體（NM nAChR）開啟 Na⁺ 內流** → 產生**終板電位（EPP）** → 鄰近肌膜電位閘門 Na⁺ 通道開啟產生**肌肉細胞膜動作電位**；**(2) 藥物與毒素**：**Botox（肉毒桿菌素）**裂解突觸前 SNAREs 阻斷 ACh 釋放；**Curare / Vecuronium** 為非去極化型 nAChR 競爭性拮抗劑；**Succinylcholine** 為去極化型 **nAChR 致效劑（agonist）**。",
+        "**(D) 正確【本題應選正解】**：`41235` —— 神經肌肉交界處（NMJ）傳遞之正確時間順序為：**(4) 突觸前電壓閘門 Ca²⁺ 通道打開，Ca²⁺ 流入神經末梢** → **(1) SNAREs 蛋白家族構型改變促成囊泡融合釋放 ACh** → **(2) ACh 與運動終板受體結合** → **(3) 運動終板產生終板電位（EPP）** → **(5) 鄰近肌肉細胞膜達到閾值產生動作電位**，故順序為 `4 → 1 → 2 → 3 → 5`。",
+        "**(A) 錯誤**：`54231` —— 順序錯誤：正確傳遞順序應為 (4) Ca²⁺ 流入神經末梢 → (1) SNAREs 構型改變釋放 ACh → (2) ACh 結合受體 → (3) 產生終板電位 EPP → (5) 肌膜產生動作電位（`41235`）。",
+        "**(B) 錯誤**：`31524` —— 順序錯誤：正確傳遞順序應為 (4) Ca²⁺ 流入神經末梢 → (1) SNAREs 構型改變釋放 ACh → (2) ACh 結合受體 → (3) 產生終板電位 EPP → (5) 肌膜產生動作電位（`41235`）。",
+        "**(C) 錯誤**：`14253` —— 順序錯誤：正確傳遞順序應為 (4) Ca²⁺ 流入神經末梢 → (1) SNAREs 構型改變釋放 ACh → (2) ACh 結合受體 → (3) 產生終板電位 EPP → (5) 肌膜產生動作電位（`41235`）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-9",
+      "globalIndex": 9,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在心肌跟平滑肌（single-unit smooth muscle）可發現有_____連結相鄰細胞，但在骨骼肌 沒有。",
+      "image": null,
+      "options": {
+        "A": "Troponin",
+        "B": "Transverse Tubules",
+        "C": "Z line",
+        "D": "Gap junctions"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：骨骼肌 vs. 心肌 vs. 單一單位平滑肌（Single-unit Smooth Muscle）比較】**：**(1) 骨骼肌**：具橫紋（肌節 sarcomere、Z line、Troponin）與 T-tubule，細胞間**無間隙連接（gap junctions）**，無自發性節律電位，**完全仰賴體運動神經元（somatic motor neuron）釋放 ACh 刺激才能收縮（neurogenic）**；**(2) 心肌**：具橫紋、T-tubule 與 gap junctions（閏盤 intercalated discs），具自發性節律動作電位（myogenic），受 ANS 調節；**(3) 單一單位平滑肌**：無橫紋（無 sarcomere、無 Z line、無 Troponin、無 T-tubule，以緻密體 dense bodies 取代 Z line），具 **gap junctions** 可同步收縮，具自發性慢波／節律電位。",
+        "**(D) 正確【本題應選正解】**：`Gap junctions` —— **間隙連接（Gap junctions）**存在於**心肌細胞（閏盤處）與單一單位平滑肌（single-unit smooth muscle）**之間，提供低電阻離子通道使動作電位直接傳導以進行**同步收縮（synchronous contraction）**；骨骼肌細胞間彼此電氣絕緣，完全沒有 gap junctions。",
+        "**(A) 錯誤**：`Troponin` —— **Troponin（肌鈣蛋白）**僅存在於骨骼肌與心肌的細肌絲上調節收縮（平滑肌無 Troponin），並非連結相鄰細胞的通道（應為 Gap junctions）。",
+        "**(B) 錯誤**：`Transverse Tubules` —— **骨骼肌與心肌皆具有橫管（Transverse tubules, T-tubules）**以將動作電位迅速傳入肌細胞內部；單一單位平滑肌則無 T-tubules（僅具凹陷小窩 caveolae）。",
+        "**(C) 錯誤**：`Z line` —— Z line（Z 盤）存在於骨骼肌與心肌（界定肌節範圍），平滑肌沒有 Z line（以緻密體 dense bodies 取代）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-10",
+      "globalIndex": 10,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一個骨骼肌蛋白質與其功能的配對是正確的？",
+      "image": null,
+      "options": {
+        "A": "Actinin: protects the structure of sarcomere（保護肌節結構）",
+        "B": "Desmin : the site of reversal of polarity of myosin molecules",
+        "C": "Dystrophin: connects （連結） thin filament （F-actin） to dystroglycan （DG） complex",
+        "D": "Titin: binds （連結） Z-line to the plasma membrane"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌結構蛋白（Dystrophin, Titin, Actinin, Desmin）功能配對】**：**Dystrophin** 連結細胞內細肌絲（F-actin）與細胞膜上的 **dystroglycan（DG）複合體**；**Titin** 保護肌節結構並連接粗肌絲至 Z line；**α-Actinin** 固定細肌絲於 Z line；**M line** 則為粗肌絲極性反轉（site of reversal of polarity of myosin）與固定位置。",
+        "**(C) 正確【本題應選正解】**：`Dystrophin: connects （連結） thin filament （F-actin） to dystroglycan （DG） complex` —— **Dystrophin** 位於肌細胞膜內側，作為橋樑連結細胞骨架的 **F-actin（細肌絲）**與細胞膜上的 **dystroglycan（DG）複合體**，缺失會引起杜馨氏肌肉失養症（DMD）。",
+        "**(A) 錯誤**：`Actinin: protects the structure of sarcomere（保護肌節結構）` —— **α-Actinin** 的主要功能是將細肌絲固定於 Z line；「保護肌節結構並維持粗肌絲對齊」為 **Titin** 的功能。",
+        "**(B) 錯誤**：`Desmin : the site of reversal of polarity of myosin molecules` —— 粗肌絲（myosin）尾端極性反轉並固定的位置是 **M line**；**Desmin** 則是將相鄰肌節的 Z line 連結並固定至細胞膜。",
+        "**(D) 錯誤**：`Titin: binds （連結） Z-line to the plasma membrane` —— 將 Z line 連結至肌細胞膜（plasma membrane）的蛋白是 **Desmin**（與 costamere），而 **Titin** 是將粗肌絲連結至 Z line 與 M line。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-11",
+      "globalIndex": 11,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "哪一臨床症狀最可能與 Titinprotein mutation （shorter titin）有關?",
+      "image": null,
+      "options": {
+        "A": "Becker muscular dystrophy",
+        "B": "Dilated cardiomyopathy",
+        "C": "Duchenne muscular dystrophy（杜馨氏肌肉萎縮症）",
+        "D": "Limb-girdle muscular dystrophy"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：Titin（TTN）突變與擴張型心肌病變（Dilated Cardiomyopathy）】**：**Titin** 決定橫紋肌（骨骼肌與心肌）的被動彈性與肌節結構穩定。**TTN 截短突變（truncating mutation / shorter titin）**是遺傳性**擴張型心肌病變（dilated cardiomyopathy, DCM）**最常見的單一基因病因（約佔家族性 DCM 20–25%）。",
+        "**(B) 正確【本題應選正解】**：`Dilated cardiomyopathy` —— **Titin（TTN）**突變導致縮短或不完整的 Titin 蛋白，使心肌肌節張力感測與彈性受損，是家族性**擴張型心肌病變（dilated cardiomyopathy）**最常見的致病原因。",
+        "**(A) 錯誤**：`Becker muscular dystrophy` —— 貝克氏肌肉失養症（Becker muscular dystrophy, BMD）源於 **Dystrophin 基因（DMD）**的部分功能保留突變（in-frame mutation），表現較 DMD 輕微。",
+        "**(C) 錯誤**：`Duchenne muscular dystrophy（杜馨氏肌肉萎縮症）` —— 杜馨氏肌肉失養症（DMD）為 X 染色體隱性遺傳的 **Dystrophin 蛋白完全缺失**（frame-shift 或 nonsense 突變），與 Titin 突變無關。",
+        "**(D) 錯誤**：`Limb-girdle muscular dystrophy` —— 肢帶型肌肉失養症（LGMD）多與 **Sarcoglycans**、Calpain-3 或 Dysferlin 等肌膜或蛋白酶基因突變相關，並非較短 Titin 最經典對應之心肌病變。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-12",
+      "globalIndex": 12,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請把下列 cross-bridge cycle 的步驟,從 ATP 水解（hydrolysis），使cross bridge 帶能 量，並定位（re-cocks;A+M·ADP·Pi）之後，依序排列\n(1) 帶能量的連接橋 （energized cross-bridge）與細絲結合\n(2) ADP+Pi 離開,cross-bridge 進行 power stroke\n(3) ATP binds to cross-bridge,分離（detach）結合的細絲與與粗絲\n(4) 細胞質內鈣離子濃度增加",
+      "image": null,
+      "options": {
+        "A": "1 2 4 3",
+        "B": "2 1 3 4",
+        "C": "3 1 2 4",
+        "D": "4 1 2 3"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(D) 正確【本題應選正解】**：`4 1 2 3` —— 從帶能量的橫橋（`A + M·ADP·Pi`）開始，正確順序為：**(4) 細胞質內 Ca²⁺ 濃度增加**（移開 Tropomyosin）→ **(1) 帶能量的連接橋與細絲結合** → **(2) ADP+Pi 離開，進行功率衝程（power stroke）** → **(3) 新的 ATP 結合至連接橋，使粗細肌絲分離（detachment）**，故選 `4 → 1 → 2 → 3`。",
+        "**(A) 錯誤**：`1 2 4 3` —— 順序錯誤：必須先由 (4) 胞內 Ca²⁺ 增加露出結合位點，才能讓 (1) 帶能量的橫橋與細絲結合，接著 (2) 釋放 ADP+Pi 完成功率衝程，最後由 (3) 新的 ATP 結合使粗細絲分離（正確為 `4 1 2 3`）。",
+        "**(B) 錯誤**：`2 1 3 4` —— 順序錯誤：必須先由 (4) 胞內 Ca²⁺ 增加露出結合位點，才能讓 (1) 帶能量的橫橋與細絲結合，接著 (2) 釋放 ADP+Pi 完成功率衝程，最後由 (3) 新的 ATP 結合使粗細絲分離（正確為 `4 1 2 3`）。",
+        "**(C) 錯誤**：`3 1 2 4` —— 順序錯誤：必須先由 (4) 胞內 Ca²⁺ 增加露出結合位點，才能讓 (1) 帶能量的橫橋與細絲結合，接著 (2) 釋放 ADP+Pi 完成功率衝程，最後由 (3) 新的 ATP 結合使粗細絲分離（正確為 `4 1 2 3`）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-13",
+      "globalIndex": 13,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼肌的 excitation-contraction coupling中，在肌肉產生動作電位到收縮前，會有 latent period，因為需要？",
+      "image": null,
+      "options": {
+        "A": "Time for Ca²⁺ release（釋放）from sarcoplasmic reticulum（肌漿網）",
+        "B": "Time for ACh release",
+        "C": "Time for Ca²⁺ reuptake（回收）into sarcoplasmic reticulum",
+        "D": "Time for voltage-gated Ca²⁺ channels to open"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：興奮-收縮偶聯（E-C Coupling）與潛伏期（Latent Period）】**：**Latent period（潛伏期）**指骨骼肌細胞膜產生動作電位後，到肌肉開始產生可量測張力之間的時間延遲（約數毫秒），主要耗時於：動作電位沿 **T-tubule** 傳入 → DHPR 機械性拉開 SR 上的 **RyR** → **Ca²⁺ 自肌漿網（SR）釋放** → Ca²⁺ 擴散並結合 Troponin C 移開 Tropomyosin → 橫橋開始結合並產生張力。",
+        "**(A) 正確【本題應選正解】**：`Time for Ca²⁺ release（釋放）from sarcoplasmic reticulum（肌漿網）` —— 動作電位觸發 T-tubule 構型改變並促使**肌漿網（SR）釋放 Ca²⁺** 至肌漿中啟動橫橋結合，是構成 **latent period** 的核心生理時間。",
+        "**(B) 錯誤**：`Time for ACh release` —— 乙醯膽鹼（ACh）自運動神經元釋放發生在神經肌肉接合處（NMJ），位於「骨骼肌動作電位產生之前」，不計入肌肉動作電位之後的 latent period。",
+        "**(C) 錯誤**：`Time for Ca²⁺ reuptake（回收）into sarcoplasmic reticulum` —— 鈣離子由 SERCA 幫浦回收回肌漿網（SR）發生在肌肉**舒張期（relaxation）**，與收縮前的潛伏期無關。",
+        "**(D) 錯誤**：`Time for voltage-gated Ca²⁺ channels to open` —— 骨骼肌 E-C coupling 仰賴 T-tubule 上的 DHPR 作為**機械性電壓感測器**直接拉開 RyR，並不需要細胞外鈣離子經電壓閘門鈣離子通道大量流入（與心肌不同）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-14",
+      "globalIndex": 14,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列的關於骨骼肌細胞內的結構與功能的描述,哪一配對是正確的？",
+      "image": null,
+      "options": {
+        "A": "Troponin I: Ca++ binding",
+        "B": "T-tubule Edihydropyridine receptor （DHP receptor）: voltage sensor （感慮壓變化）",
+        "C": "肌漿網上 Ryanodine receptor （RyR）: ligand-gated Ca++ channels",
+        "D": "T-tubules:加速動作電位在細胞膜表面傳遞的速度"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌 E-C Coupling 關鍵受體與構造】**：(1) **T-tubule 上的 DHPR**：作為**電壓感測器（voltage sensor）**，去極化時發生構型改變直接拉開 SR 上的 RyR；(2) **SR 上的 RyR**：屬於機械性閘門（非單純配體閘門）鈣離子釋放通道；(3) **Troponin C**：負責結合 Ca²⁺（非 Troponin I）；(4) **T-tubules**：將表面動作電位**快速深入傳導至肌細胞內部**各肌原纖維周圍。",
+        "**(B) 正確【本題應選正解】**：`T-tubule Edihydropyridine receptor （DHP receptor）: voltage sensor （感慮壓變化）` —— （題幹印為 `Edihydropyridine` / `感慮壓變化`，指 **DHP receptor / 感應電壓變化**）位於 T-tubule 膜上的 **DHPR** 感應動作電位去極化後改變構型，機械性拉開相鄰 SR 上的 RyR 釋放 Ca²⁺。",
+        "**(A) 錯誤**：`Troponin I: Ca++ binding` —— 結合鈣離子的是 **Troponin C（TnC）**；Troponin I（TnI）的功能是抑制 actin 與 myosin 結合，Troponin T（TnT）則負責結合 Tropomyosin。",
+        "**(C) 錯誤**：`肌漿網上 Ryanodine receptor （RyR）: ligand-gated Ca++ channels` —— 在骨骼肌中，肌漿網上的 **RyR1** 主要是由 T-tubule DHPR 直接物理接觸拉開（機械耦合），而非由外部配體打開的 ligand-gated channel。",
+        "**(D) 錯誤**：`T-tubules:加速動作電位在細胞膜表面傳遞的速度` —— **T-tubules（橫小管）**是細胞膜向細胞內部凹陷的管狀構造，功能是將動作電位由肌膜表面**垂直深入傳導至細胞深處**使整條肌纖維同步釋放鈣離子，而非加速表面傳遞。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-15",
+      "globalIndex": 15,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請將下列 Neuromuscular junction events 順序依序排列：\n(1) 產生 End-plate potential （EPP）\n(2) Gerenation of action potentials on the motor neuron\n(3) Opening of voltage-gated Ca++ channels\n(4) Opening of nicotinic ACh receptors;\n(5) Acetylcholine （ACh）release（釋放）\n(6) Gereration of muscle fiber action potentials",
+      "image": null,
+      "options": {
+        "A": "123456",
+        "B": "235416",
+        "C": "135462",
+        "D": "213645"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉接合處（NMJ）傳遞順序與作用藥物】**：**(1) 傳遞順序**：運動神經元軸突動作電位傳至末梢 → 突觸前膜 **電壓閘門 Ca²⁺ 通道開啟，Ca²⁺ 流入神經末梢** → Ca²⁺ 結合 Synaptotagmin 觸發 **SNAREs 蛋白構型改變** → 囊泡胞吐**釋放 ACh** → ACh 結合運動終板上的 **菸鹼受體（NM nAChR）開啟 Na⁺ 內流** → 產生**終板電位（EPP）** → 鄰近肌膜電位閘門 Na⁺ 通道開啟產生**肌肉細胞膜動作電位**；**(2) 藥物與毒素**：**Botox（肉毒桿菌素）**裂解突觸前 SNAREs 阻斷 ACh 釋放；**Curare / Vecuronium** 為非去極化型 nAChR 競爭性拮抗劑；**Succinylcholine** 為去極化型 **nAChR 致效劑（agonist）**。",
+        "**(B) 正確【本題應選正解】**：`235416` —— NMJ 正確傳遞順序為：**(2) 運動神經元產生動作電位** → **(3) 突觸前電壓閘門 Ca²⁺ 通道開啟** → **(5) 釋放乙醯膽鹼（ACh）** → **(4) 運動終板菸鹼型 ACh 受體（nAChR）開啟** → **(1) 產生終板電位（EPP）** → **(6) 觸發肌纖維細胞膜產生動作電位**，故為 `2 → 3 → 5 → 4 → 1 → 6`。",
+        "**(A) 錯誤**：`123456` —— 順序錯誤：正確順序為 (2) 運動神經動作電位 → (3) Ca²⁺ 通道開啟 → (5) ACh 釋放 → (4) nAChR 開啟 → (1) 產生 EPP → (6) 肌纖維動作電位（`235416`）。",
+        "**(C) 錯誤**：`135462` —— 順序錯誤：正確順序為 (2) 運動神經動作電位 → (3) Ca²⁺ 通道開啟 → (5) ACh 釋放 → (4) nAChR 開啟 → (1) 產生 EPP → (6) 肌纖維動作電位（`235416`）。",
+        "**(D) 錯誤**：`213645` —— 順序錯誤：正確順序為 (2) 運動神經動作電位 → (3) Ca²⁺ 通道開啟 → (5) ACh 釋放 → (4) nAChR 開啟 → (1) 產生 EPP → (6) 肌纖維動作電位（`235416`）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-16",
+      "globalIndex": 16,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一作用於 neuromuscularjunction(NMJ）的藥物,與其作用機制配對是正確的？",
+      "image": null,
+      "options": {
+        "A": "Botox: ACh receptor antagonist",
+        "B": "Curare: destroy SNAREs",
+        "C": "Succinylcholine（琥珀醯膽鹼）:Acetylcholine (ACh） receptor agonist",
+        "D": "Vecuronium（維庫羅寧）:NMJ depolarizing blocking drug"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉接合處（NMJ）傳遞順序與作用藥物】**：**(1) 傳遞順序**：運動神經元軸突動作電位傳至末梢 → 突觸前膜 **電壓閘門 Ca²⁺ 通道開啟，Ca²⁺ 流入神經末梢** → Ca²⁺ 結合 Synaptotagmin 觸發 **SNAREs 蛋白構型改變** → 囊泡胞吐**釋放 ACh** → ACh 結合運動終板上的 **菸鹼受體（NM nAChR）開啟 Na⁺ 內流** → 產生**終板電位（EPP）** → 鄰近肌膜電位閘門 Na⁺ 通道開啟產生**肌肉細胞膜動作電位**；**(2) 藥物與毒素**：**Botox（肉毒桿菌素）**裂解突觸前 SNAREs 阻斷 ACh 釋放；**Curare / Vecuronium** 為非去極化型 nAChR 競爭性拮抗劑；**Succinylcholine** 為去極化型 **nAChR 致效劑（agonist）**。",
+        "**(C) 正確【本題應選正解】**：`Succinylcholine（琥珀醯膽鹼）:Acetylcholine (ACh） receptor agonist` —— **Succinylcholine（琥珀醯膽鹼）**由兩個 ACh 分子接合而成，作為**菸鹼型 ACh 受體的致效劑（ACh receptor agonist）**，持續結合並開啟通道造成終板膜持續去極化，使鄰近電壓閘門 Na⁺ 通道去活化而達到去極化神經肌肉阻斷效果。",
+        "**(A) 錯誤**：`Botox: ACh receptor antagonist` —— **Botox（肉毒桿菌毒素）**的作用機轉是裂解突觸前神經末梢的 **SNAREs 蛋白（如 SNAP-25）以阻斷 ACh 囊泡釋放**，並非 ACh 受體拮抗劑！",
+        "**(B) 錯誤**：`Curare: destroy SNAREs` —— **Curare（箭毒）**是運動終板**菸鹼型 ACh 受體（NM nAChR）的競爭性拮抗劑（antagonist）**，不會破壞 SNAREs 蛋白！",
+        "**(D) 錯誤**：`Vecuronium（維庫羅寧）:NMJ depolarizing blocking drug` —— **Vecuronium（維庫羅寧）**屬於**非去極化型（non-depolarizing，競爭性拮抗 nAChR）**神經肌肉阻斷劑，而非去極化型阻斷劑！"
+      ]
+    },
+    {
+      "id": "1014_Physio1-17",
+      "globalIndex": 17,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列的配對，何者為正確？（Which of the following matches is correct?）",
+      "image": null,
+      "options": {
+        "A": "Actinin：連結 Z-line 與細胞膜（binds Z-line to plasma membrane）",
+        "B": "M line：界定肌節範圍（defines sarcomere）",
+        "C": "H zone：I band 中較亮的區域（the narrow light band in the center of I band）",
+        "D": "Titin：保護肌節結構（protects the structure of sarcomere）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：骨骼肌長度-張力關係（Length-Tension Relationship, Lo）】**：**(1) 最佳長度（Optimal length, Lo）**：休息狀態下粗肌絲橫橋與細肌絲達最佳重疊比例，此時受刺激能產生**最大的主動張力（maximum active tension）**；**(2) 長度 > 175% Lo**：粗細肌絲完全不重疊，無法產生主動張力；**(3) 長度 < 60%–70% Lo**：細肌絲在肌節中央過度重疊干擾，且粗肌絲兩端直接撞擊 Z line，因此**小於 60% Lo 時刺激肌肉完全無法產生張力（develop no tension）**。",
+        "**(D) 正確【本題應選正解】**：`Titin：保護肌節結構（protects the structure of sarcomere）` —— **Titin（肌聯蛋白）**如彈性分子彈簧般由 M line 連接至 Z line，在肌肉被拉長時提供被動張力並**保護肌節結構（protects the structure of sarcomere）**。",
+        "**(A) 錯誤**：`Actinin：連結 Z-line 與細胞膜（binds Z-line to plasma membrane）` —— **α-Actinin** 的功能是將**細肌絲（thin filament）固定於 Z line**；保護肌節結構的是 **Titin**，而連結 Z line 與細胞膜的是 **Desmin**！",
+        "**(B) 錯誤**：`M line：界定肌節範圍（defines sarcomere）` —— 界定一個肌節（sarcomere）兩端範圍的是兩條相鄰的 **Z line（Z 盤）**；**M line** 則是位於肌節正中央（H zone 中央）固定粗肌絲的結構！",
+        "**(C) 錯誤**：`H zone：I band 中較亮的區域（the narrow light band in the center of I band）` —— **H zone** 是位於 **A band（暗帶）正中央**、僅有粗肌絲而沒有細肌絲重疊的較亮區域，並非位於 I band 中！"
+      ]
+    },
+    {
+      "id": "1014_Physio1-18",
+      "globalIndex": 18,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼肌無法表現哪種蛋白質可引起 Duchenne muscular dystrophy？（Duchenne muscular dystrophy is mainly associated with the absence of ___ proteins in muscle.）",
+      "image": null,
+      "options": {
+        "A": "Desmin",
+        "B": "Dystrophin",
+        "C": "Sarcoglycans",
+        "D": "Titin"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：杜馨氏肌肉失養症（Duchenne Muscular Dystrophy, DMD）】**：DMD 為 X 染色體隱性遺傳疾病，因 **`DMD` 基因突變導致肌細胞膜內側的 `Dystrophin` 蛋白完全無法表現**，使細肌絲（F-actin）無法穩固連結至肌膜上的 dystroglycan 複合體與細胞外基質；肌肉收縮時肌膜極易撕裂壞死，表現進行性近端肌無力、小腿假性肥大與血清 CK 極度升高。",
+        "**(B) 正確【本題應選正解】**：`Dystrophin` —— **Dystrophin** 完全缺乏是造成 **Duchenne muscular dystrophy（DMD）** 的直接病因（若僅部分功能缺失則為較輕微的 Becker muscular dystrophy）。",
+        "**(A) 錯誤**：`Desmin` —— **Desmin** 為連接相鄰 Z line 與細胞膜的中間絲蛋白，其突變主要引起肌原纖維肌病（myofibrillar myopathy）或擴張型心肌病變，非 DMD 主因。",
+        "**(C) 錯誤**：`Sarcoglycans` —— **Sarcoglycans** 屬於 dystrophin-glycoprotein complex 的跨膜次單元，其基因突變主要導致體染色體隱性遺傳的**肢帶型肌肉失養症（LGMD）**。",
+        "**(D) 錯誤**：`Titin` —— **Titin** 為維持肌節彈性與粗肌絲對齊的巨大結構蛋白，其截短突變最常與家族性擴張型心肌病變（DCM）相關。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-19",
+      "globalIndex": 19,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在連接橋週期中，energized cross-bridge 在何種狀況下才會與細絲結合？（In a cross- bridge cycle, when will an energized cross-bridge bind to the thin filament?）",
+      "image": null,
+      "options": {
+        "A": "當新的 ATP 與連接橋結合時（When a new ATP binds to the cross-bridge）",
+        "B": "當 ATP 水解之後（After ATP is hydrolyzed）",
+        "C": "當細胞內鈣離子濃度增加時（When intracellular Ca²⁺ concentration increases）",
+        "D": "當 ADP and Pi 脫離連接橋時（When ADP + Pi detach from the cross-bridge）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(C) 正確【本題應選正解】**：`當細胞內鈣離子濃度增加時（When intracellular Ca²⁺ concentration increases）` —— 在休息肌肉中，橫橋早已完成 ATP 水解並處於帶能量狀態（energized cross-bridge, `A + M·ADP·Pi`）；唯有**當細胞質內鈣離子（Ca²⁺）濃度增加**，結合至 Troponin C 並推開遮蔽位點的 Tropomyosin 後，帶能量的橫橋才能與細肌絲（actin filament）結合！",
+        "**(A) 錯誤**：`當新的 ATP 與連接橋結合時（When a new ATP binds to the cross-bridge）` —— 當新的 ATP 與橫橋（myosin head）結合時，會降低 myosin 對 actin 的親和力，使橫橋**與細肌絲分離（detachment）**，而非結合！",
+        "**(B) 錯誤**：`當 ATP 水解之後（After ATP is hydrolyzed）` —— 橫橋上的 ATP 水解為 ADP + Pi 是發生在**橫橋與細肌絲分離狀態下**，用來讓橫橋復位儲能（re-cocking 成 energized cross-bridge），若無 Ca²⁺ 移開 Tropomyosin 仍無法與細肌絲結合。",
+        "**(D) 錯誤**：`當 ADP and Pi 脫離連接橋時（When ADP + Pi detach from the cross-bridge）` —— ADP 與 Pi 從橫橋脫離是發生在橫橋**已經與細肌絲結合之後**，用來觸發橫橋擺動產生**功率衝程（power stroke）**的步驟，並非促成結合的前提！"
+      ]
+    },
+    {
+      "id": "1014_Physio1-20",
+      "globalIndex": 20,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼肌的收縮過程中，ATP 的功能不包含＿＿？（Which is NOT the role of ATP during skeletal muscle contraction?）",
+      "image": null,
+      "options": {
+        "A": "幫助肌漿網回收鈣離子（It helps the reuptake of Ca²⁺ ions into the sarcoplasmic reticulum）",
+        "B": "加速動作電位的傳遞速度（It facilitates the propagation of action potentials）",
+        "C": "與連接橋結合，促使粗絲與細絲的分開（ATP binds to the cross bridge and detach thin and thick filaments）",
+        "D": "提供連接橋能量，進行週期（It energizes the cross-bridge for the cross-bridge cycle）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：ATP 在骨骼肌收縮與舒張中的三大功能】**：(1) **分離（Detachment）**：新 ATP 結合 myosin head，使橫橋與 actin **分離**（缺乏 ATP 會導致死後僵直 rigor mortis）；(2) **充能復位（Energizing / Re-cocking）**：ATP 水解為 ADP + Pi 提供能量使 myosin head 復位呈高能態；(3) **舒張回收鈣離子**：驅動肌漿網 **SERCA Ca²⁺-ATPase** 主動回收 Ca²⁺（另有少部分維持細胞膜 Na⁺/K⁺ 梯度）。ATP 並不直接「加速動作電位傳遞速度」。",
+        "**(B) 敘述錯誤【本題應選正解】**：`加速動作電位的傳遞速度（It facilitates the propagation of action potentials）` —— 動作電位沿肌膜與 T-tubule 的傳遞速度取決於細胞膜電容、軸向電阻與電壓閘門 Na⁺ 通道密度，**ATP 並不直接加速動作電位傳遞**，故本選項敘述錯誤，為本題正解。",
+        "**(A) 敘述正確（非本題所求）**：`幫助肌漿網回收鈣離子（It helps the reuptake of Ca²⁺ ions into the sarcoplasmic reticulum）` —— 舒張時肌漿網上的 **Ca²⁺-ATPase（SERCA）**必須消耗 ATP 才能逆濃度梯度將細胞質 Ca²⁺ 泵回 SR，確為 ATP 的核心功能之一。",
+        "**(C) 敘述正確（非本題所求）**：`與連接橋結合，促使粗絲與細絲的分開（ATP binds to the cross bridge and detach thin and thick filaments）` —— ATP 與 myosin 結合可降低 myosin 對 actin 的親和力並促使**橫橋與細肌絲分離**，是結束單次橫橋週期的必要步驟。",
+        "**(D) 敘述正確（非本題所求）**：`提供連接橋能量，進行週期（It energizes the cross-bridge for the cross-bridge cycle）` —— Myosin ATPase 將 ATP 水解為 ADP + Pi 並釋放能量，使橫橋轉為高能蓄勢狀態（energized / cocked conformation）以準備下次滑動。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-21",
+      "globalIndex": 21,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在放鬆的骨骼肌，＿＿ protein 遮蓋住細絲上的 cross-bridge binding site。（In a relaxed skeletal muscle, ___ blocks the cross-bridge binding sites on the thin filament.）",
+      "image": null,
+      "options": {
+        "A": "Troponin T",
+        "B": "Troponin C",
+        "C": "Tropomyosin",
+        "D": "Actinin"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：橫橋週期（Cross-Bridge Cycle）、ATP 三大功能與死後僵直（Rigor Mortis）】**：**(1) 休息態**：ATP 已水解為 ADP+Pi 結合在肌球蛋白頭上（energized cross-bridge：`A + M·ADP·Pi`），此時細肌絲上的結合位點被 **Tropomyosin（原肌球蛋白）**遮蓋；**(2) 收縮啟動**：唯有當**胞內 Ca²⁺ 濃度上升**並結合至 **Troponin C**，經由 Troponin I/T 構型改變推開 **Tropomyosin** 露出結合位點後，帶能量的橫橋才能與細肌絲（Actin）結合；**(3) 功率衝程（Power stroke）**：釋放 Pi 與 ADP 使橫橋擺動拉動細肌絲；**(4) 橫橋分離（Detachment）**：**新的 ATP 結合至肌球蛋白頭**使橫橋與細肌絲分離（若死亡後缺 ATP 則停留在緊密結合的 **`A·M` 僵直複合體 = Rigor mortis**）；**(5) ATP 在骨骼肌收縮的三大功能**：① 結合橫橋使其與細肌絲分離、② 水解提供橫橋復位儲能（re-cocking）、③ 供肌漿網鈣幫浦（SERCA）主動回收 Ca²⁺（注意：**動作電位傳遞靠被動電壓閘門 Na⁺/K⁺ 通道擴散，不直接消耗 ATP 加速傳導**）。",
+        "**(C) 正確【本題應選正解】**：`Tropomyosin` —— 在放鬆的骨骼肌中，絲狀的**原肌球蛋白（Tropomyosin）**直接纏繞於細肌絲（F-actin）溝槽上並**物理性遮蓋住細肌絲上的橫橋結合位點（cross-bridge binding sites）**，阻止橫橋結合。",
+        "**(A) 錯誤**：`Troponin T` —— **Troponin T** 為肌鈣蛋白複合體的次單元（Troponin C 負責結合 Ca²⁺、Troponin I 抑制結合、Troponin T 結合 Tropomyosin 以推開它），直接遮蓋結合位點的是 **Tropomyosin**。",
+        "**(B) 錯誤**：`Troponin C` —— **Troponin C** 為肌鈣蛋白複合體的次單元（Troponin C 負責結合 Ca²⁺、Troponin I 抑制結合、Troponin T 結合 Tropomyosin 以推開它），直接遮蓋結合位點的是 **Tropomyosin**。",
+        "**(D) 錯誤**：`Actinin` —— Actinin 位於 Z line 固定細肌絲；在放鬆骨骼肌中直接遮蓋細肌絲上橫橋結合位點的是 **Tropomyosin（原肌球蛋白）**。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-22",
+      "globalIndex": 22,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼肌收縮中，sarcoplasmic reticulum 上的 ryanodine receptors（RyR）如何開啟？ （During skeletal muscle contraction, the ryanodine receptors（RyR）on the sarcoplasmic reticulum is open by ___?）",
+      "image": null,
+      "options": {
+        "A": "Phosphorylations（磷酸化）of the RyR itself",
+        "B": "It was pulls open（拉開）by physical interaction of dihydropyridine receptors（DHPR）",
+        "C": "It was pulled open by depolarization（去極化）of the sarcoplasmic reticulum",
+        "D": "It opens by itself（自動打開）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌 vs. 心肌 RyR 開啟機轉比較】**：在**骨骼肌**中，T-tubule 上的 **DHPR（L-type Ca²⁺ 通道變體）**與肌漿網（SR）上的 **RyR1** 存在直接物理偶聯（mechanical coupling），去極化使 DHPR 構型改變並**物理性拉開 RyR1**（不需細胞外 Ca²⁺ 流入）；而在**心肌**中，則須細胞外 Ca²⁺ 經 DHPR 流入後結合 **RyR2** 觸發鈣誘導鈣釋放（CICR）。",
+        "**(B) 正確【本題應選正解】**：`It was pulls open（拉開）by physical interaction of dihydropyridine receptors（DHPR）` —— 骨骼肌 T-tubule 去極化時，電壓感測器 **DHPR** 發生構型變化，透過**直接物理交互作用拉開（pulls open）** SR 上的 RyR1，使大量 Ca²⁺ 瞬間釋出。",
+        "**(A) 錯誤**：`Phosphorylations（磷酸化）of the RyR itself` —— 磷酸化（如 PKA/CaMKII）僅調節 RyR 的開放機率與敏感度，並非骨骼肌正常興奮-收縮偶聯中直接開啟 RyR 的觸發機制。",
+        "**(C) 錯誤**：`It was pulled open by depolarization（去極化）of the sarcoplasmic reticulum` —— 動作電位去極化發生在肌細胞膜與 **T-tubule** 上，肌漿網（SR）膜本身並不進行動作電位去極化來直接開啟 RyR。",
+        "**(D) 錯誤**：`It opens by itself（自動打開）` —— 正常靜止狀態下 RyR 處於關閉狀態（否則會造成持續收縮與高熱），必須接收 T-tubule DHPR 的去極化構型訊號才會開啟。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-23",
+      "globalIndex": 23,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "惡性高溫（Malignant hyperthermia）是哪一個蛋白質或結構缺失？（Malignant hyperthermia is associated with the defects of ___?）",
+      "image": null,
+      "options": {
+        "A": "Dihydropyridine receptors",
+        "B": "Calcium pumps",
+        "C": "Ryanodine receptors",
+        "D": "Voltage-gated Ca²⁺ channels"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：惡性高熱（Malignant Hyperthermia, MH）】**：惡性高熱為體染色體顯性遺傳之藥物基因體學急症，主因骨骼肌肌漿網上的 **Ryanodine receptor（`RYR1` 基因）突變**。接觸吸入性全身麻醉劑（如 halothane、sevoflurane）或去極化肌鬆劑 **succinylcholine** 後，RyR1 異常持續開放釋放大量 Ca²⁺，引發全身肌肉強直、代謝亢進、高碳酸血症與體溫急劇飆升（特效藥為阻斷 RyR1 的 **Dantrolene**）。",
+        "**(C) 正確【本題應選正解】**：`Ryanodine receptors` —— **Ryanodine receptors（RyR1）**基因突變使鈣離子釋放通道對麻醉藥物過度敏感並持續開啟，造成細胞質 Ca²⁺ 失控暴增與嚴重產熱，為惡性高熱最主要病因。",
+        "**(A) 錯誤**：`Dihydropyridine receptors` —— 雖然極少數（<1%）MH 案例與 CACNA1S（DHPR）相關，但醫學考試與臨床上惡性高熱最主要（>70%）且標準的致病標的為肌漿網上的 **Ryanodine receptors（RYR1）**。",
+        "**(B) 錯誤**：`Calcium pumps` —— 肌漿網 Ca²⁺ 幫浦（SERCA）負責消耗 ATP 回收鈣離子以使肌肉舒張，非誘發惡性高熱的經典基因缺陷標的。",
+        "**(D) 錯誤**：`Voltage-gated Ca²⁺ channels` —— 骨骼肌細胞膜／T-tubule 的電壓閘門鈣離子通道（DHPR）主要作為機械性電壓感測器，惡性高熱的經典缺失受體仍為 SR 上的 RyR。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-24",
+      "globalIndex": 24,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼肌收縮過程中，影響 Excitation-Contraction coupling 中的 latent period 時間長短 的因子，不包含下列哪一項？（Which is NOT the factor that contribute to the time length of latent period during the Excitation-Contraction coupling?）",
+      "image": null,
+      "options": {
+        "A": "肌漿網釋放鈣離子的時間（Time for sarcoplasmic reticulum releases calcium ions）",
+        "B": "移開 tropomyosin 的時間（Time to move tropomyosin away from cross-bridge binding sites）",
+        "C": "進行連接橋週期的時間（Time for cross-bridge cycles operation）",
+        "D": "肌漿網回收鈣離子的時間（Time for reuptake of Ca²⁺ ions into the sarcoplasmic reticulum）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：Latent Period（潛伏期）的決定步驟】**：潛伏期涵蓋「肌膜動作電位開始 → T-tubule 傳導 → **SR 釋放 Ca²⁺** → Ca²⁺ 結合 TnC 並**移開 tropomyosin** → **橫橋週期啟動並產生初始張力**」。而**肌漿網回收 Ca²⁺（SERCA）**發生在張力達到峰值後的**舒張期（relaxation）**，不屬於收縮前的潛伏期。",
+        "**(D) 敘述錯誤【本題應選正解】**：`肌漿網回收鈣離子的時間（Time for reuptake of Ca²⁺ ions into the sarcoplasmic reticulum）` —— SERCA 幫浦將 Ca²⁺ 回收回肌漿網決定的是**肌肉舒張（relaxation）的速度**，而非收縮前的 latent period，故本選項不包含在內，為正解。",
+        "**(A) 敘述正確（非本題所求）**：`肌漿網釋放鈣離子的時間（Time for sarcoplasmic reticulum releases calcium ions）` —— T-tubule 去極化觸發 SR 經 RyR 釋放 Ca²⁺ 並擴散至肌絲，是構成潛伏期的主要時間成分之一。",
+        "**(B) 敘述正確（非本題所求）**：`移開 tropomyosin 的時間（Time to move tropomyosin away from cross-bridge binding sites）` —— Ca²⁺ 與 Troponin C 結合後誘導構型改變、將 **tropomyosin** 移開 actin 結合位，發生於橫橋形成張力之前，屬於潛伏期的一部分。",
+        "**(C) 敘述正確（非本題所求）**：`進行連接橋週期的時間（Time for cross-bridge cycles operation）` —— Myosin 結合 actin 並執行強力滑動（power stroke）產生可量測張力所需的時間，亦計入產生張力前的潛伏期內。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-25",
+      "globalIndex": 25,
+      "qNum": 25,
+      "origQ": "Q25",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請將神經肌肉交界（NMJ）的訊息傳遞順序，依序排列！（Please place the neuromuscular junction（NMJ）events in order!） ① 動作電位沿著運動神經元軸突傳遞（Action potentials propagate along the motor neuron axons） ② Release（釋放）of Acetylcholine（ACh） ③ 鈉離子流入運動終板（Na⁺ entering into motor end-plate） ④ 肌肉細胞膜產生動作電位（Generation of action potentials in the muscle membrane） ⑤ 鈣離子流入神經細胞內（Ca²⁺ entering into neurons） ⑥ Generation（產生）of End-Plate Potentials（EPP）",
+      "image": null,
+      "options": {
+        "A": "①⑤②③⑥④",
+        "B": "②③①⑤④⑥",
+        "C": "③④⑤②⑥①",
+        "D": "④①⑥③②⑤"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉接合處（NMJ）傳遞順序與作用藥物】**：**(1) 傳遞順序**：運動神經元軸突動作電位傳至末梢 → 突觸前膜 **電壓閘門 Ca²⁺ 通道開啟，Ca²⁺ 流入神經末梢** → Ca²⁺ 結合 Synaptotagmin 觸發 **SNAREs 蛋白構型改變** → 囊泡胞吐**釋放 ACh** → ACh 結合運動終板上的 **菸鹼受體（NM nAChR）開啟 Na⁺ 內流** → 產生**終板電位（EPP）** → 鄰近肌膜電位閘門 Na⁺ 通道開啟產生**肌肉細胞膜動作電位**；**(2) 藥物與毒素**：**Botox（肉毒桿菌素）**裂解突觸前 SNAREs 阻斷 ACh 釋放；**Curare / Vecuronium** 為非去極化型 nAChR 競爭性拮抗劑；**Succinylcholine** 為去極化型 **nAChR 致效劑（agonist）**。",
+        "**(A) 正確【本題應選正解】**：`①⑤②③⑥④` —— NMJ 訊息傳遞正確順序為：**① 動作電位沿運動神經元軸突傳遞** → **⑤ Ca²⁺ 流入神經細胞內** → **② 釋放 ACh** → **③ Na⁺ 經 nAChR 流入運動終板** → **⑥ 產生終板電位（EPP）** → **④ 肌肉細胞膜產生動作電位**，故為 `①⑤②③⑥④`。",
+        "**(B) 錯誤**：`②③①⑤④⑥` —— 順序錯誤：正確順序為 ① 運動神經軸突傳遞 AP → ⑤ Ca²⁺ 流入神經元 → ② 釋放 ACh → ③ Na⁺ 流入終板 → ⑥ 產生 EPP → ④ 肌膜產生 AP（`①⑤②③⑥④`）。",
+        "**(C) 錯誤**：`③④⑤②⑥①` —— 順序錯誤：正確順序為 ① 運動神經軸突傳遞 AP → ⑤ Ca²⁺ 流入神經元 → ② 釋放 ACh → ③ Na⁺ 流入終板 → ⑥ 產生 EPP → ④ 肌膜產生 AP（`①⑤②③⑥④`）。",
+        "**(D) 錯誤**：`④①⑥③②⑤` —— 順序錯誤：正確順序為 ① 運動神經軸突傳遞 AP → ⑤ Ca²⁺ 流入神經元 → ② 釋放 ACh → ③ Na⁺ 流入終板 → ⑥ 產生 EPP → ④ 肌膜產生 AP（`①⑤②③⑥④`）。"
+      ]
+    },
+    {
+      "id": "1014_Physio1-26",
+      "globalIndex": 26,
+      "qNum": 26,
+      "origQ": "Q26",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "當骨骼肌在做等張向心收縮（isotonic concentric contraction） ，下列敘述，何者正確？ （About the concentric isotonic contraction, which description is correct?）",
+      "image": null,
+      "options": {
+        "A": "肌節縮短及明帶縮短（Both the sarcomere and I band shortened）",
+        "B": "肌節縮短及暗帶縮短（Both the sarcomere and A band shortened）",
+        "C": "明帶及暗帶縮短（Both A band and I band shortened）",
+        "D": "肌節、暗帶及明帶均縮短（The sarcomere, A band and I band shortened）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：等張收縮（Isotonic Contraction）力學與肌節明暗帶變化】**：**(1) 明暗帶變化**：滑動肌絲過程中粗肌絲與細肌絲本身長度均不變，故**暗帶（A band，由粗肌絲長度決定）長度永遠不變**；而**肌節（sarcomere）、明帶（I band）與 H zone 皆會縮短**；**(2) 等張收縮與負重（Light Load vs. Heavy Load）**：等張收縮在肌肉張力尚未超過負重（load）前，必先經歷一段**長度不變而張力上升的「等長收縮期（isometric contraction period）」**，直到張力等於負重才開始縮短。相較於重負重（Heavy load），**輕負重（Light load）達到負重所需張力較小，故縮短前的等長收縮期（latent period）較短、縮短速度（shortening velocity）較快、縮短距離較大且縮短持續時間（duration of shortening）較長**。",
+        "**(A) 正確【本題應選正解】**：`肌節縮短及明帶縮短（Both the sarcomere and I band shortened）` —— 骨骼肌等張向心收縮時，細肌絲向肌節中央滑動，因此**肌節（sarcomere）縮短，且僅含細肌絲的明帶（I band）與 H zone 隨重疊增加而縮短**；但粗肌絲本身長度不變，故**暗帶（A band）長度維持不變**！",
+        "**(B) 錯誤**：`肌節縮短及暗帶縮短（Both the sarcomere and A band shortened）` —— 在滑動肌絲模型（sliding filament model）中，粗肌絲本身的長度永遠不會改變，因此由粗肌絲長度決定的**暗帶（A band）在收縮時絕對不會縮短**！",
+        "**(C) 錯誤**：`明帶及暗帶縮短（Both A band and I band shortened）` —— 在滑動肌絲模型（sliding filament model）中，粗肌絲本身的長度永遠不會改變，因此由粗肌絲長度決定的**暗帶（A band）在收縮時絕對不會縮短**！",
+        "**(D) 錯誤**：`肌節、暗帶及明帶均縮短（The sarcomere, A band and I band shortened）` —— 在滑動肌絲模型（sliding filament model）中，粗肌絲本身的長度永遠不會改變，因此由粗肌絲長度決定的**暗帶（A band）在收縮時絕對不會縮短**！"
+      ]
+    }
+  ]
+}

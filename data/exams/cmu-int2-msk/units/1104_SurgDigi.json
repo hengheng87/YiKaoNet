@@ -1,0 +1,252 @@
+{
+  "unitCode": "1104_SurgDigi",
+  "unitTitle": "11/04 外科學概論：數位骨科學",
+  "session": "B",
+  "subject": "Surg",
+  "subjectTitle": "外科學概論 (一)",
+  "prof": "蔡俊灝 醫師",
+  "examRange": "B卷 Q41–44（共4題）",
+  "unitUrl": "https://drive.google.com/file/d/13TX_e5joQ4l4wNFa-OJNu9khleWPyfih",
+  "questions": [
+    {
+      "id": "1104_SurgDigi-1",
+      "globalIndex": 482,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "電腦輔助手術系統（Computer Assistance System/Surgery）在過去20年內有了很大發展，並在 哪一年代初開始應用於骨科手術？",
+      "image": null,
+      "options": {
+        "A": "1980年代",
+        "B": "1990年代",
+        "C": "2000 年代",
+        "D": "2010年代"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：電腦輔助骨科手術（CAOS）發展史】**：機械手臂於 1985 年率先由 PUMA 560 應用於神經外科腦部切片；而**電腦輔助手術系統（Computer-Assisted Surgery, CAS）**正式應用於**骨科手術**則始於 **1990 年代初**（如 1992 年 ROBODOC 應用於全髖關節置換股骨髓腔切削）。",
+        "**(B) 正確【本題應選正解】**：`1990年代` —— 電腦輔助骨科手術系統（CAS）於 **1990 年代初**（如 1992 年 ROBODOC、1994 年 CASPAR）正式開始應用於骨科關節置換與創傷手術。",
+        "**(A) 錯誤**：`1980年代` —— 1980 年代（1985 年 PUMA 560）是機械手臂首次應用於**神經外科**腦部立體定位切片，骨科 CAS 尚未正式進入臨床應用。",
+        "**(C) 錯誤**：`2000 年代` —— 2000 年代（如 MAKO RIO 等半主動觸覺導引系統）屬於骨科機器人輔助手術的成熟與商業普及期，而非最早開始應用的年代。",
+        "**(D) 錯誤**：`2010年代` —— 2010 年代是 3D 列印個人化導板與擴增實境（AR）導航快速整合的時期，遠晚於骨科 CAS 起始的 1990 年代初。"
+      ]
+    },
+    {
+      "id": "1104_SurgDigi-2",
+      "globalIndex": 483,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "電腦輔助手術系統的主要優勢包括以下哪些方面？",
+      "image": null,
+      "options": {
+        "A": "將術前影像檢查結果與實時手術解剖結構融合",
+        "B": "提供模擬反饋，以減少手術判斷時間，定義適當和精確的切除範圍",
+        "C": "可靠地實現良好的手術結果",
+        "D": "以上全部"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心外科考點：數位骨科學（Digital Orthopedics）與電腦輔助／機器人輔助手術】**：**(1) 發展史**：1985 年 **PUMA 560** 首次用於人類腦部立體定位切片手術；骨科電腦輔助手術（CAS）於 **1990 年代初**開始應用（如 1992 ROBODOC、1994 CASPAR、2000 MAKO RIO）；**(2) 技術優勢**：CAS 將術前影像（CT/MRI）與術中即時解剖結構融合，提供模擬反饋與精確切除範圍；機器人輔助全膝關節置換（TKA）可**顯著減少機械軸偏差（mechanical axis outliers）並改善軟組織平衡（soft-tissue balance）**；3D 列印與微創骨盆手術（因應高齡化骨盆創傷增多）能縮小傷口、**縮短手術時間並降低出血、感染與併發症風險**。",
+        "**(D) 正確【本題應選正解】**：`以上全部` —— 上述三項敘述（影像融合、模擬反饋精確切除與微創降低骨盆創傷感染風險）皆為核心優勢，故選**以上全部**。",
+        "**(A) 錯誤**：`將術前影像檢查結果與實時手術解剖結構融合` —— 此選項敘述本身正確，但因其他選項亦完全正確，故本單選題應選 **(D) 以上全部**。",
+        "**(B) 錯誤**：`提供模擬反饋，以減少手術判斷時間，定義適當和精確的切除範圍` —— 此選項敘述本身正確，但因其他選項亦完全正確，故本單選題應選 **(D) 以上全部**。",
+        "**(C) 錯誤**：`可靠地實現良好的手術結果` —— 此選項敘述本身正確，但因其他選項亦完全正確，故本單選題應選 **(D) 以上全部**。"
+      ]
+    },
+    {
+      "id": "1104_SurgDigi-3",
+      "globalIndex": 484,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "數位解剖學技術可以通過什麼方式呈現人體骨骼、肌肉等結構？",
+      "image": null,
+      "options": {
+        "A": "2D 平面圖",
+        "B": "3D模型",
+        "C": "動畫演示",
+        "D": "以上全部"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：數位解剖學（Digital Anatomy）三維重建】**：數位解剖學利用 CT、MRI 等斷層影像資料進行影像分割與電腦繪圖重建，核心特色在於呈現立體的 **3D 模型（3D model）**，協助外科醫師於術前精確掌握骨骼、肌肉與神經血管的空間立體關係。",
+        "**(B) 正確【本題應選正解】**：`3D模型` —— 數位解剖學技術的核心是透過影像重建產生立體 **3D 模型**，直觀呈現人體骨骼、肌肉與血管神經的空間相對位置。",
+        "**(A) 錯誤**：`2D 平面圖` —— 傳統 X 光與未經重組的 CT/MRI 切面屬於 2D 平面圖，無法像數位解剖學重建出可旋轉觀察空間關係的立體結構（本題單選正解依課程講義設為 B）。",
+        "**(C) 錯誤**：`動畫演示` —— 動態模擬雖可作為教學或手術路徑展示輔助，但課程講義針對數位解剖學呈現人體結構之標準單選答案為 **3D 模型**。",
+        "**(D) 錯誤**：`以上全部` —— 依本課程數位骨科學講義與題庫設定，單選正解為 **(B) 3D模型**。"
+      ]
+    },
+    {
+      "id": "1104_SurgDigi-4",
+      "globalIndex": 485,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "微創手術在治療骨盆創傷方面具有優勢的主要原因是什麼？",
+      "image": null,
+      "options": {
+        "A": "隨著人口老龄化，骨盆創傷越來越常見",
+        "B": "骨盆創傷的治療往往涉及大手術創口，感染風險較高",
+        "C": "微創手術創口小，創傷更小，可有效降低感染風險",
+        "D": "以上全部"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心外科考點：數位骨科學（Digital Orthopedics）與電腦輔助／機器人輔助手術】**：**(1) 發展史**：1985 年 **PUMA 560** 首次用於人類腦部立體定位切片手術；骨科電腦輔助手術（CAS）於 **1990 年代初**開始應用（如 1992 ROBODOC、1994 CASPAR、2000 MAKO RIO）；**(2) 技術優勢**：CAS 將術前影像（CT/MRI）與術中即時解剖結構融合，提供模擬反饋與精確切除範圍；機器人輔助全膝關節置換（TKA）可**顯著減少機械軸偏差（mechanical axis outliers）並改善軟組織平衡（soft-tissue balance）**；3D 列印與微創骨盆手術（因應高齡化骨盆創傷增多）能縮小傷口、**縮短手術時間並降低出血、感染與併發症風險**。",
+        "**(D) 正確【本題應選正解】**：`以上全部` —— 上述三項敘述（影像融合、模擬反饋精確切除與微創降低骨盆創傷感染風險）皆為核心優勢，故選**以上全部**。",
+        "**(A) 錯誤**：`隨著人口老龄化，骨盆創傷越來越常見` —— 此選項敘述本身正確，但因其他選項亦完全正確，故本單選題應選 **(D) 以上全部**。",
+        "**(B) 錯誤**：`骨盆創傷的治療往往涉及大手術創口，感染風險較高` —— 此選項敘述本身正確，但因其他選項亦完全正確，故本單選題應選 **(D) 以上全部**。",
+        "**(C) 錯誤**：`微創手術創口小，創傷更小，可有效降低感染風險` —— 此選項敘述本身正確，但因其他選項亦完全正確，故本單選題應選 **(D) 以上全部**。"
+      ]
+    },
+    {
+      "id": "1104_SurgDigi-5",
+      "globalIndex": 486,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "When was the first robotic arm used in human surgery, and what was its name?",
+      "image": null,
+      "options": {
+        "A": "1985, Puma 560",
+        "B": "1992, ROBODOC",
+        "C": "1994, CASPAR",
+        "D": "2000, MAKO RIO"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心外科考點：臨床手術機器人發展里程碑】**：(1) **1985 年 PUMA 560**：史上第一台應用於人體手術的機械手臂（神經外科腦部立體定位切片）；(2) **1992 年 ROBODOC**：第一台骨科主動式手術機器人（全髖關節置換）；(3) **1994 年 CASPAR** 與 **2000 年 MAKO RIO**：後續骨科機器人系統。",
+        "**(A) 正確【本題應選正解】**：`1985, Puma 560` —— **1985 年的 PUMA 560** 是人類歷史上第一台應用於臨床手術的機械手臂（用於輔助腦部立體定位切片手術）。",
+        "**(B) 錯誤**：`1992, ROBODOC` —— **1992 年 ROBODOC** 是第一台應用於**骨科**（全髖關節置換）的手術機器人，晚於 1985 年的 PUMA 560。",
+        "**(C) 錯誤**：`1994, CASPAR` —— **1994 年 CASPAR** 為德國開發的早期骨科關節置換機器人系統，並非人類史上第一台手術機械手臂。",
+        "**(D) 錯誤**：`2000, MAKO RIO` —— **2000 年 MAKO RIO** 為觸覺反饋式（haptic）關節置換機器人系統，出現於 21 世紀初。"
+      ]
+    },
+    {
+      "id": "1104_SurgDigi-6",
+      "globalIndex": 487,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following statements best describes the advantage of Computer-Assisted Surgery (CAS)?",
+      "image": null,
+      "options": {
+        "A": "CAS eliminates the need for preoperative imaging.",
+        "B": "CAS merges preoperative images with real-time intraoperative anatomy for accurate guidance.",
+        "C": "CAS mainly focuses on postoperative rehabilitation tracking.",
+        "D": "CAS relies solely on surgeon’s visual estimation during surgery."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：電腦輔助手術（CAS）核心優勢】**：CAS 透過**影像註冊（registration）**將術前 CT/MRI 影像與術中即時解剖結構融合，為醫師提供精確的導航定位與切骨範圍反饋，而非取代術前影像或純靠肉眼估計。",
+        "**(B) 正確【本題應選正解】**：`CAS merges preoperative images with real-time intraoperative anatomy for accurate guidance.` —— **電腦輔助手術（CAS）**的核心優勢是將**術前影像與術中即時解剖結構融合**，提供高精準度的即時導航。",
+        "**(A) 錯誤**：`CAS eliminates the need for preoperative imaging.` —— CAS 仍高度依賴術前影像（如 CT/MRI）或術中掃描來建立導航參考模型，並不會免除術前影像需求。",
+        "**(C) 錯誤**：`CAS mainly focuses on postoperative rehabilitation tracking.` —— CAS 主要應用於**術前規劃與術中導航執行**，而非以術後復健追蹤為主要功能。",
+        "**(D) 錯誤**：`CAS relies solely on surgeon’s visual estimation during surgery.` —— CAS 正是為了減少醫師單純依賴肉眼估計的主觀誤差，透過光學或電磁追蹤提供客觀量化導航。"
+      ]
+    },
+    {
+      "id": "1104_SurgDigi-7",
+      "globalIndex": 488,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "What is the main benefit of robotic-assisted total knee arthroplasty (TKA) compared to conventional TKA?",
+      "image": null,
+      "options": {
+        "A": "Longer operation time and more blood loss",
+        "B": "Higher risk of mechanical axis deviation",
+        "C": "Reduced mechanical axis outliers and improved soft-tissue balance",
+        "D": "No need for preoperative planning"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：機器人輔助全膝關節置換（Robotic-Assisted TKA）】**：相較傳統手動 TKA，機器人輔助 TKA 能精準規劃切骨平面並即時評估間隙張力，顯著**減少下肢機械軸偏差（mechanical axis outliers）並改善軟組織平衡（soft-tissue balance）**。",
+        "**(C) 正確【本題應選正解】**：`Reduced mechanical axis outliers and improved soft-tissue balance` —— 機器人輔助 TKA 藉由術前 3D 規劃與術中即時張力反饋，可顯著**減少機械軸偏差並優化軟組織平衡**。",
+        "**(A) 錯誤**：`Longer operation time and more blood loss` —— 雖然初期學習曲線可能略增時間，但熟練後機器人輔助 TKA 不需開通股骨髓腔定位桿，反而可減少出血量並提升精準度。",
+        "**(B) 錯誤**：`Higher risk of mechanical axis deviation` —— 機器人輔助 TKA 的核心臨床實證優勢正是**降低**機械軸偏差率（減少 >3° outliers），而非增加偏差風險。",
+        "**(D) 錯誤**：`No need for preoperative planning` —— 機器人輔助 TKA（特別是 CT-based 系統如 MAKO）必須進行嚴謹的術前規劃以設定切骨邊界與假體尺寸。"
+      ]
+    },
+    {
+      "id": "1104_SurgDigi-8",
+      "globalIndex": 489,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "According to the lecture, what is one clinical advantage of 3D printing-assisted pelvic fracture surgery?",
+      "image": null,
+      "options": {
+        "A": "Significantly higher blood loss",
+        "B": "Increased complication rate",
+        "C": "Shorter operation time and lower complication rate compared to traditional surgery",
+        "D": "No difference in outcome but higher cost"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：3D 列印輔助骨盆骨折手術優勢】**：骨盆解剖構造複雜、深處血管神經密布。利用 **3D 列印 1:1 骨盆模型**進行術前模擬復位與鋼板預折（pre-contouring），可大幅**縮短手術時間、減少出血量並降低手術併發症風險**。",
+        "**(C) 正確【本題應選正解】**：`Shorter operation time and lower complication rate compared to traditional surgery` —— 相較傳統骨盆手術，3D 列印輔助手術可顯著**縮短手術時間並降低併發症風險**。",
+        "**(A) 錯誤**：`Significantly higher blood loss` —— 因鋼板已於術前在 3D 模型上預先塑形，術中不需反覆剝離與試裝，反而能**顯著減少出血量**。",
+        "**(B) 錯誤**：`Increased complication rate` —— 精準的術前模擬與導板定位可避開重要血管神經與關節面，有效**降低術後併發症發生率**。",
+        "**(D) 錯誤**：`No difference in outcome but higher cost` —— 臨床研究證實 3D 列印輔助在手術時間、失血量與復位精準度上皆優於傳統手術，並非毫無差異。"
+      ]
+    }
+  ]
+}

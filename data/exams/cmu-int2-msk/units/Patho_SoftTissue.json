@@ -1,0 +1,268 @@
+{
+  "unitCode": "Patho_SoftTissue",
+  "unitTitle": "歷屆補充：軟組織腫瘤病理 (Soft Tissue Tumors)",
+  "session": "A",
+  "subject": "Patho",
+  "subjectTitle": "病理學 (一)",
+  "prof": "張凱博 醫師（M65 舊彙編補充，非本屆 10/21 共筆範圍）",
+  "examRange": "歷屆補充（軟組織腫瘤，非本次 10/21 共筆）",
+  "unitUrl": "https://drive.google.com/file/d/1pPGEKoa5owsioJCRU1rCj3OO0onPkm3-",
+  "questions": [
+    {
+      "id": "1021_BonePath-41",
+      "globalIndex": 284,
+      "qNum": 41,
+      "origQ": "Q41",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一種腫瘤組織學上最常有 biphasic pattern",
+      "image": null,
+      "options": {
+        "A": "Liposarcoma",
+        "B": "Fibrosarcoma",
+        "C": "Leiomyosarcoma",
+        "D": "Rhabdomyosarcoma",
+        "E": "Synovial sarcoma"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：滑膜肉瘤（Synovial Sarcoma）之雙相型態與基因轉位】**：**滑膜肉瘤（synovial sarcoma）**雖名為「滑膜」，實為未分化間葉來源（常發生於膝周深部軟組織而非關節腔內）。其組織學經典表現為**雙相型態（biphasic pattern）**——同時存在**梭狀纖維肉瘤樣細胞**與形成管腔的**立方／柱狀上皮樣細胞（cytokeratin/EMA 陽性）**；超過 90% 具 **`t(X;18)(p11;q11)`（SS18-SSX 融合基因）**。",
+        "**(E) 正確【本題應選正解】**：`Synovial sarcoma` —— **滑膜肉瘤（synovial sarcoma）**在組織學上最具特徵性的表現為**雙相型態（biphasic pattern）**，同時包含上皮樣腺體成分與梭狀間葉細胞成分。",
+        "**(A) 錯誤**：`Liposarcoma` —— 脂肪肉瘤（liposarcoma）由不同分化程度的脂肪母細胞與間質細胞組成（如高分化、黏液樣、多形性），呈單相間葉型態而非上皮＋間葉雙相型態。",
+        "**(B) 錯誤**：`Fibrosarcoma` —— 纖維肉瘤（fibrosarcoma）由單一的惡性纖維母細胞呈人字形（herringbone pattern）交錯排列，不具上皮分化成分。",
+        "**(C) 錯誤**：`Leiomyosarcoma` —— 平滑肌肉瘤（leiomyosarcoma）由交錯束狀排列的嗜伊紅性梭狀平滑肌細胞（雪茄狀核 cigar-shaped nuclei）構成，屬單相梭狀細胞腫瘤。",
+        "**(D) 錯誤**：`Rhabdomyosarcoma` —— 橫紋肌肉瘤（rhabdomyosarcoma）由表現骨骼肌分化的橫紋肌母細胞（rhabdomyoblasts，Desmin/MyoD1/Myogenin 陽性）組成，不具腺體上皮分化。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-42",
+      "globalIndex": 285,
+      "qNum": 42,
+      "origQ": "Q42",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "哪一種 chromosomal translocation 最常出現於 alveolar rhabdomyosarcoma",
+      "image": null,
+      "options": {
+        "A": "t(2;13)(q35;q14)",
+        "B": "t(9;22)(q22;q12)",
+        "C": "t(12;15)(p13;q25)",
+        "D": "t(17;22)(q21-22;q13)",
+        "E": "t(11;22)(p13;q12)"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：肺泡型橫紋肌肉瘤（Alveolar RMS）與軟組織肉瘤經典轉位】**：**肺泡型橫紋肌肉瘤（alveolar rhabdomyosarcoma）**好發於青少年四肢深部軟組織，組織學呈肺泡狀分隔與小圓細胞聚集，約 75–85% 帶有 **`t(2;13)(q35;q14)`（產生 `PAX3-FOXO1` 融合基因，預後較差）**（少數為 `t(1;13)` PAX7-FOXO1）。",
+        "**(A) 正確【本題應選正解】**：`t(2;13)(q35;q14)` —— **t(2;13)(q35;q14)** 使第 2 號染色體的 **PAX3** 與第 13 號染色體的 **FOXO1** 融合，是**肺泡型橫紋肌肉瘤（alveolar rhabdomyosarcoma）**最常見且具診斷及不良預後意義的轉位。",
+        "**(B) 錯誤**：`t(9;22)(q22;q12)` —— `t(9;22)(q22;q12)`（EWSR1-NR4A3 融合）主要見於**骨外黏液樣軟骨肉瘤（extraskeletal myxoid chondrosarcoma）**（註：`t(9;22)(q34;q11)` 則為 CML 費城染色體）。",
+        "**(C) 錯誤**：`t(12;15)(p13;q25)` —— `t(12;15)(p13;q25)`（ETV6-NTRK3 融合）典型見於**先天性嬰兒型纖維肉瘤（infantile fibrosarcoma）**及唾液腺／乳腺分泌型癌。",
+        "**(D) 錯誤**：`t(17;22)(q21-22;q13)` —— `t(17;22)(q21-22;q13)`（COL1A1-PDGFB 融合）是**隆突性皮膚纖維肉瘤（dermatofibrosarcoma protuberans, DFSP）**的特徵性基因重排。",
+        "**(E) 錯誤**：`t(11;22)(p13;q12)` —— `t(11;22)(p13;q12)`（EWSR1-WT1 融合）典型見於**促結締組織增生性小圓細胞瘤（desmoplastic small round cell tumor, DSRCT）**（註：Ewing sarcoma 為 `t(11;22)(q24;q12)`）。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-43",
+      "globalIndex": 286,
+      "qNum": 43,
+      "origQ": "Q43",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一種腫瘤最常出現於 10 歲以下的小孩",
+      "image": null,
+      "options": {
+        "A": "myxoid/round cell liposarcoma",
+        "B": "fibrosarcoma",
+        "C": "leiomyosarcoma",
+        "D": "embryonal rhabdomyosarcoma",
+        "E": "synovial sarcoma"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：兒童最常見軟組織肉瘤——胚胎型橫紋肌肉瘤】**：**橫紋肌肉瘤（rhabdomyosarcoma）**是兒童及青少年最常見的軟組織肉瘤，其中以**胚胎型橫紋肌肉瘤（embryonal rhabdomyosarcoma）**最常見（佔約 60%），好發於 **10 歲以下幼童**的頭頸部（眼眶、鼻竇）及泌尿生殖道。",
+        "**(D) 正確【本題應選正解】**：`embryonal rhabdomyosarcoma` —— **胚胎型橫紋肌肉瘤（embryonal rhabdomyosarcoma）**好發於 10 歲以下幼童，為兒童期最常見的軟組織肉瘤（常表現葡萄狀肉瘤亞型 sarcoma botryoides）。",
+        "**(A) 錯誤**：`myxoid/round cell liposarcoma` —— 黏液樣／圓細胞型脂肪肉瘤（`t(12;16)` FUS-DDIT3）好發於 30–50 歲成人下肢深部軟組織，極少見於 10 歲以下兒童。",
+        "**(B) 錯誤**：`fibrosarcoma` —— 成人型纖維肉瘤主要好發於中老年人深部軟組織（雖有極罕見的嬰兒型纖維肉瘤，但整體遠不如橫紋肌肉瘤常見於 10 歲以下兒童）。",
+        "**(C) 錯誤**：`leiomyosarcoma` —— 平滑肌肉瘤（leiomyosarcoma）好發於中老年女性子宮與後腹腔，在 10 歲以下兒童極為罕見。",
+        "**(E) 錯誤**：`synovial sarcoma` —— 滑膜肉瘤（synovial sarcoma）主要好發於 15–40 歲青壯年四肢關節附近，非 10 歲以下幼童最常見肉瘤。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-44",
+      "globalIndex": 287,
+      "qNum": 44,
+      "origQ": "Q44",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Liposarcoma 組織學上最重要的診斷依據是",
+      "image": null,
+      "options": {
+        "A": "Chicken-wire vessel",
+        "B": "Herringbone pattern",
+        "C": "Myxoid stroma",
+        "D": "Lipoblasts",
+        "E": "Cambium layer"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：脂肪肉瘤（Liposarcoma）與脂肪母細胞（Lipoblasts）】**：診斷**脂肪肉瘤（liposarcoma）**組織學上最關鍵的依據是找到**脂肪母細胞（lipoblasts）**——細胞質內含有單個或多個清晰脂質空泡，將深染且不規則的細胞核擠壓成**扇貝狀／鋸齒狀凹陷（scalloped nucleus）**。此外，黏液樣脂肪肉瘤（myxoid liposarcoma）亦常伴隨雞爪樣血管網（chicken-wire vessels）與黏液基質（myxoid stroma），具 `t(12;16)` 轉位。",
+        "**(D) 正確【本題應選正解】**：`Lipoblasts` —— **脂肪母細胞（lipoblasts）**具備脂質空泡壓迫深染細胞核形成扇貝狀凹陷的典型特徵，是確認腫瘤具惡性脂肪分化及診斷**脂肪肉瘤**最重要的組織學依據。",
+        "**(A) 錯誤**：`Chicken-wire vessel` —— 雞爪樣微血管網（chicken-wire / plexiform capillary network）雖常見於黏液樣脂肪肉瘤（myxoid liposarcoma），但亦可見於其他黏液樣腫瘤，非所有脂肪肉瘤亞型最重要的共同診斷依據。",
+        "**(B) 錯誤**：`Herringbone pattern` —— 人字形／魚骨狀排列（herringbone pattern）為**纖維肉瘤（fibrosarcoma）**或單相滑膜肉瘤的經典梭狀細胞排列特徵，非脂肪肉瘤診斷依據。",
+        "**(C) 錯誤**：`Myxoid stroma` —— 黏液樣基質（myxoid stroma）可出現於黏液瘤、黏液纖維肉瘤等多種軟組織腫瘤，不具脂肪分化專一性。",
+        "**(E) 錯誤**：`Cambium layer` —— 生發層（cambium layer）為葡萄狀胚胎型橫紋肌肉瘤（sarcoma botryoides）在黏膜上皮下方形成之小圓細胞緻密聚集帶，與脂肪肉瘤無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-45",
+      "globalIndex": 288,
+      "qNum": 45,
+      "origQ": "Q45",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 23-year-old young male had history of trauma. He developed a tumor mass measuring 5 cm in diameter in the biceps brachii muscle for a month. The tumor shows peripheral ossification on X-ray film. The most possible diagnosis is",
+      "image": null,
+      "options": {
+        "A": "Myositis ossificans",
+        "B": "Nodular myositis",
+        "C": "Osteosarcoma",
+        "D": "Paget's disease",
+        "E": "Fibrous dysplasia"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：骨化性肌炎（Myositis Ossificans）與帶狀現象】**：**骨化性肌炎（myositis ossificans）**為良性反應性異位骨化病變，常發生於**年輕男性四肢肌肉（如股四頭肌、肱二頭肌）外傷後數週**。其關鍵影像與組織學特徵為**「帶狀現象（zoning phenomenon）」：周邊為成熟板層骨（peripheral ossification）、中央為增生活躍的纖維母細胞／骨樣組織**（與骨肉瘤「中央成熟、周邊侵襲」完全相反）。",
+        "**(A) 正確【本題應選正解】**：`Myositis ossificans` —— 年輕男性外傷後於肱二頭肌形成腫塊，X 光顯示典型**周邊骨化（peripheral ossification）**，完全符合良性**骨化性肌炎（myositis ossificans）**，臨床須避免誤診為骨外骨肉瘤。",
+        "**(B) 錯誤**：`Nodular myositis` —— 結節性肌炎（nodular myositis / proliferative myositis）為良性肌肉內反應性肌纖維母細胞增生，不以 X 光周邊成熟骨化環為特徵。",
+        "**(C) 錯誤**：`Osteosarcoma` —— 骨肉瘤（包括骨外骨肉瘤）呈現侵襲性、不規則或偏中央的骨化（reverse zoning），不會呈現界線清楚且周邊成熟骨化的良性表現。",
+        "**(D) 錯誤**：`Paget's disease` —— 柏哲德氏骨病為中老年人骨骼本身重塑異常之疾病，非外傷後骨骼肌內產生周邊骨化腫塊。",
+        "**(E) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良為骨髓腔內良性纖維骨病變，發生於骨骼內部而非肌肉外傷後腫塊。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-46",
+      "globalIndex": 289,
+      "qNum": 46,
+      "origQ": "Q46",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 5-year-old girl had a grape-like tumor measuring 3 cm in the vagina. Histology shows small round cell with cambium layer. The most possible diagnosis is",
+      "image": null,
+      "options": {
+        "A": "Neuroblastoma",
+        "B": "Yolk sac tumor",
+        "C": "Sarcoma botryoides",
+        "D": "Malignant lymphoma",
+        "E": "Wilms' tumor"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：葡萄狀肉瘤（Sarcoma Botryoides）】**：**葡萄狀肉瘤（sarcoma botryoides）**為胚胎型橫紋肌肉瘤的特殊黏膜下亞型，好發於 **5 歲以下幼童**的空腔器官（如**女童陰道**、膀胱、鼻咽）。巨觀呈半透明**葡萄串狀（grape-like）息肉腫塊**突入管腔；組織學在完整黏膜上皮下方可見小圓細胞聚集形成的緻密帶，稱為**生發層（cambium layer）**。",
+        "**(C) 正確【本題應選正解】**：`Sarcoma botryoides` —— 5 歲女童陰道出現**葡萄串狀（grape-like）**腫塊，鏡下黏膜下層見小圓細胞聚集形成**生發層（cambium layer）**，為**葡萄狀肉瘤（sarcoma botryoides）**的教科書級表現。",
+        "**(A) 錯誤**：`Neuroblastoma` —— 神經母細胞瘤（neuroblastoma）好發於嬰幼兒腎上腺髓質或交感神經鏈，鏡下見小圓藍細胞與 Homer-Wright 菊形團，不會在陰道形成葡萄串狀伴生發層腫塊。",
+        "**(B) 錯誤**：`Yolk sac tumor` —— 卵黃囊瘤（yolk sac tumor）雖偶見於幼女陰道，但鏡下特徵為網狀微囊結構與 **Schiller-Duval bodies**（且血清 AFP 顯著升高），無 cambium layer。",
+        "**(D) 錯誤**：`Malignant lymphoma` —— 惡性淋巴瘤（malignant lymphoma）少見於幼童陰道呈原發性葡萄串狀黏膜下息肉，亦無形成肌肉分化的生發層結構。",
+        "**(E) 錯誤**：`Wilms' tumor` —— 威爾姆氏瘤（Wilms' tumor / nephroblastoma）為幼童腎臟原發惡性腫瘤，由芽基、上皮管與間質三相成分組成，非陰道原發。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-47",
+      "globalIndex": 290,
+      "qNum": 47,
+      "origQ": "Q47",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Leiomyosarcoma 在下列哪一種免疫組織化學染色最常表現陽性",
+      "image": null,
+      "options": {
+        "A": "MyoD1",
+        "B": "ERG",
+        "C": "CD34",
+        "D": "Desmin",
+        "E": "S-100"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：軟組織腫瘤免疫組織化學染色（IHC）鑑別】**：(1) **平滑肌腫瘤（Leiomyosarcoma）**：**SMA（smooth muscle actin）、Desmin、h-Caldesmon** 陽性；(2) **骨骼肌腫瘤（Rhabdomyosarcoma）**：Desmin、**MyoD1、Myogenin** 陽性；(3) **血管肉瘤（Angiosarcoma）**：**ERG、CD31、CD34** 陽性；(4) **神經鞘／黑色素瘤**：**S-100、SOX10** 陽性。",
+        "**(D) 正確【本題應選正解】**：`Desmin` —— **Desmin** 為肌細胞的中間絲蛋白（intermediate filament），在**平滑肌肉瘤（leiomyosarcoma）**（以及橫紋肌肉瘤）中常呈強陽性表現（常搭配 SMA 確認平滑肌分化）。",
+        "**(A) 錯誤**：`MyoD1` —— **MyoD1** 與 Myogenin 為**骨骼肌分化（如橫紋肌肉瘤 rhabdomyosarcoma）**的專一性核轉錄因子標記，平滑肌肉瘤不會表現。",
+        "**(B) 錯誤**：`ERG` —— **ERG** 為血管內皮細胞核轉錄因子標記（亦見於部分攝護腺癌與 Ewing sarcoma），主要用於診斷血管瘤與**血管肉瘤（angiosarcoma）**。",
+        "**(C) 錯誤**：`CD34` —— **CD34** 主要標記**血管內皮細胞**、孤立性纖維瘤（SFT）、隆突性皮膚纖維肉瘤（DFSP）及胃腸道基質瘤（GIST），平滑肌肉瘤多為陰性。",
+        "**(E) 錯誤**：`S-100` —— **S-100** 主要陽性於神經鞘瘤（Schwannoma）、惡性黑色素瘤（melanoma）、軟骨腫瘤與脂肪組織，平滑肌肉瘤通常為陰性。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-48",
+      "globalIndex": 291,
+      "qNum": 48,
+      "origQ": "Q48",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Palisading pattern 最常出現在下列哪種腫瘤",
+      "image": null,
+      "options": {
+        "A": "Leiomyoma",
+        "B": "Dermatofibroma",
+        "C": "Hemangioma",
+        "D": "Synovial sarcoma",
+        "E": "Schwannoma"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心軟組織病理考點：神經鞘瘤（Schwannoma）與 Verocay 小體】**：**許旺細胞瘤／神經鞘瘤（Schwannoma / Neurilemmoma）**由具包膜的許旺細胞構成，典型呈現雙相區域：**Antoni A 區**（細胞緻密之梭狀細胞，細胞核呈柵欄狀整齊排列 **nuclear palisading**，圍繞無細胞嗜伊紅突起區形成 **Verocay bodies**）與 **Antoni B 區**（疏鬆黏液樣變性區），IHC 呈瀰漫性強 **S-100 陽性**。",
+        "**(E) 正確【本題應選正解】**：`Schwannoma` —— **神經鞘瘤（Schwannoma）**的 Antoni A 區典型可見梭狀許旺細胞核呈**柵欄狀排列（palisading pattern）**並形成特徵性的 **Verocay bodies**。",
+        "**(A) 錯誤**：`Leiomyoma` —— 平滑肌瘤（leiomyoma）呈交錯束狀平滑肌細胞與雪茄狀細胞核（cigar-shaped nuclei），通常不具典型的核柵欄狀排列（Verocay bodies）。",
+        "**(B) 錯誤**：`Dermatofibroma` —— 皮膚纖維瘤（dermatofibroma）呈真皮內纖維組織細胞（fibrohistiocytic）席紋狀（storiform pattern）排列並包夾周邊膠原纖維，無柵欄狀核排列。",
+        "**(C) 錯誤**：`Hemangioma` —— 血管瘤（hemangioma）由大小不等、內襯良性扁平內皮細胞的血管腔隙構成，不具梭狀細胞柵欄狀排列。",
+        "**(D) 錯誤**：`Synovial sarcoma` —— 滑膜肉瘤（synovial sarcoma）呈雙相型（腺體＋梭狀細胞）或單相實質梭狀細胞束狀排列，不以 Verocay 小體與柵欄狀排列為特徵。"
+      ]
+    }
+  ]
+}

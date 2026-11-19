@@ -1,0 +1,732 @@
+{
+  "unitCode": "1007_MuscleHisto",
+  "unitTitle": "10/07 組織學：肌肉組織 (Muscle Tissue)",
+  "session": "A",
+  "subject": "Histo",
+  "subjectTitle": "組織學 (一)",
+  "prof": "林成翰 教授",
+  "examRange": "A卷 Q73–80（共8題）",
+  "unitUrl": "https://drive.google.com/file/d/1OEKNk9Tq-Nbzb5oV_JJikBV9g4f8rAYr",
+  "questions": [
+    {
+      "id": "1007_MuscleHisto-1",
+      "globalIndex": 316,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following molecules initiates muscle contraction?",
+      "image": null,
+      "options": {
+        "A": "Na+",
+        "B": "Ca 2+",
+        "C": "Mg 2+",
+        "D": "K +"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：啟動肌肉收縮之關鍵離子（Ca²⁺）】**：無論骨骼肌（Ca²⁺ 結合 Troponin C）、心肌（CICR 結合 Troponin C）或平滑肌（Ca²⁺ 結合 Calmodulin 活化 MLCK），**鈣離子（Ca²⁺）**皆是啟動橫橋結合與肌肉收縮的核心訊號分子。",
+        "**(B) 正確【本題應選正解】**：`Ca 2+` —— **鈣離子（Ca²⁺）**釋放至肌漿後結合 Troponin C（橫紋肌）或 Calmodulin（平滑肌），是直接**啟動肌肉收縮**的離子。",
+        "**(A) 錯誤**：`Na+` —— 鈉離子（Na⁺）內流主要負責產生肌細胞膜去極化與動作電位，並非直接結合調節蛋白啟動橫橋收縮的離子。",
+        "**(C) 錯誤**：`Mg 2+` —— 鎂離子（Mg²⁺）作為 ATP 的輔助因子（Mg-ATP）參與酶活性，但並非啟動肌絲滑動的觸發訊號。",
+        "**(D) 錯誤**：`K +` —— 鉀離子（K⁺）外流主要負責動作電位的再極化與維持靜止膜電位，不負責觸發收縮。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-2",
+      "globalIndex": 317,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "The dense bodies of smooth muscle are the analogs of striated muscle's",
+      "image": null,
+      "options": {
+        "A": "A-band",
+        "B": "I- band",
+        "C": "H-band",
+        "D": "Z line"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：平滑肌（Smooth Muscle）超微構造與收縮比較】**：平滑肌細胞為單核（**中央單一螺旋狀核，隨細胞收縮而呈螺旋皺縮狀**），細胞外由**外板（External lamina / Basal lamina）**包圍，細胞間以**間隙接合（Gap junctions）**進行電偶聯同步收縮（無 Desmosome，亦無 T-tubule）。細胞膜具**細胞膜小凹（Caveolae）**調控 Ca²⁺ 進出，細胞質與細胞膜內側的**緻密體（Dense bodies）**功能等同於橫紋肌的 **Z line（Z 盤）**，供**細肌絲（actin filaments）直接附著**。",
+        "**(D) 正確【本題應選正解】**：`Z line` —— 平滑肌細胞質與肌膜內側的**緻密體（Dense bodies，含 α-actinin）**負責錨定細肌絲（actin），功能完全等同於橫紋肌的 **Z line（Z 盤）**！",
+        "**(A) 錯誤**：`A-band` —— **A-band（暗帶）**的寬度由**粗肌絲（thick filament / myosin）的總長度決定**；肌肉收縮時肌絲僅互相滑動重疊而不改變自身長度，因此 **A-band 的長度（例如 2.0 µm）永遠維持不變**！而 **I-band、H-band 與整個肌節（Sarcomere）皆會縮短**。",
+        "**(B) 錯誤**：`I- band` —— 平滑肌的緻密體（Dense bodies）功能等同於橫紋肌的 **Z line（Z 盤）**，負責錨定細肌絲；I-band（明帶）則是指僅含細肌絲而不含粗肌絲的區域。",
+        "**(C) 錯誤**：`H-band` —— 肌肉收縮時，細肌絲滑入 A-band 之間，造成僅含細肌絲的 **I-band**、僅含粗肌絲的 **H-band** 以及整個 **Sarcomere（肌節）**皆會**縮短**；唯有 **A-band** 長度不變。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-3",
+      "globalIndex": 318,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "During muscle contraction, which of the following structures do NOT change its length?",
+      "image": null,
+      "options": {
+        "A": "A band",
+        "B": "I band",
+        "C": "H band",
+        "D": "sacromere"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：肌節（Sarcomere）幾何與收縮計算】**：**(1) 肌節定義與帶長變化**：一個肌節介於兩條 Z line 之間，包含 **1 個 A-band（粗肌絲長度，收縮時長度永遠不變）＋ 2 個半邊 I-band（合為 1 個 I-band 長度）**，故 `Sarcomere resting length = A-band + I-band`。收縮時 **A-band 不變，I-band、H-band 與 Sarcomere 皆縮短**；**(2) 10% 縮短計算與老師申覆說明**：Resting = `2.0 + 1.5 = 3.5 µm`。若整體肌節縮短 10%（`3.5 × 0.1 = 0.35 µm`），全部縮短量皆由 I-band 吸收，理論 I-band 應為 `1.5 - 0.35 = 1.15 µm`；但本題原命題老師按「I-band 縮短 10%（`1.5 × 0.9 = 1.35 µm`）」設定答案，故申覆後維持給 **(C) 1.35 µm**。",
+        "**(A) 敘述錯誤【本題應選正解】**：`A band` —— **A-band（暗帶）**的寬度由**粗肌絲（thick filament / myosin）的總長度決定**；肌肉收縮時肌絲僅互相滑動重疊而不改變自身長度，因此 **A-band 的長度（例如 2.0 µm）永遠維持不變**！而 **I-band、H-band 與整個肌節（Sarcomere）皆會縮短**。",
+        "**(B) 敘述正確（非本題所求）**：`I band` —— 肌肉收縮時，細肌絲滑入 A-band 之間，造成僅含細肌絲的 **I-band**、僅含粗肌絲的 **H-band** 以及整個 **Sarcomere（肌節）**皆會**縮短**；唯有 **A-band** 長度不變。",
+        "**(C) 敘述正確（非本題所求）**：`H band` —— 肌肉收縮時，細肌絲滑入 A-band 之間，造成僅含細肌絲的 **I-band**、僅含粗肌絲的 **H-band** 以及整個 **Sarcomere（肌節）**皆會**縮短**；唯有 **A-band** 長度不變。",
+        "**(D) 敘述正確（非本題所求）**：`sacromere` —— 肌肉收縮時，細肌絲滑入 A-band 之間，造成僅含細肌絲的 **I-band**、僅含粗肌絲的 **H-band** 以及整個 **Sarcomere（肌節）**皆會**縮短**；唯有 **A-band** 長度不變。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-4",
+      "globalIndex": 319,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Cardiac troponin I is one of the most specific biomarkers for detection of acute myocardial infraction （AMI）. Which of the following is true about the protein?",
+      "image": null,
+      "options": {
+        "A": "binds the troponin complex to tropomyosin",
+        "B": "binds to calcium and initiates contraction",
+        "C": "binds to actin, inhibiting the interaction of myosin and actin in the resting muscle cell",
+        "D": "binds to myosin, inhibiting the interaction of myosin and actin in the resting muscle cells"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：Ca²⁺ 與 Troponin 複合體啟動橫橋週期】**：胞內 **Ca²⁺** 增加並結合至 **Troponin C（TnC）** → 構型改變使 **Troponin I（TnI，休息時直接結合於 Actin 上抑制 Myosin-Actin 結合的次單元）從 Actin 脫離** → Troponin T（TnT）拉動 Tropomyosin 移開露出結合位點 → 帶能量的 Myosin head 結合 Actin 完成功率衝程（釋放 ADP+Pi）→ **新的 ATP 取代 ADP 結合至 Myosin head 使橫橋分離** → ATP 水解為 ADP+Pi 使 Myosin head 復位（re-cocking）。",
+        "**(C) 正確【本題應選正解】**：`binds to actin, inhibiting the interaction of myosin and actin in the resting muscle cell` —— **Troponin I（TnI，inhibitory subunit）**在休息未受 Ca²⁺ 刺激的肌細胞中，直接結合於 **Actin（細肌絲）**上並協助 Tropomyosin 遮蓋結合位點，**抑制 Myosin 與 Actin 的交互作用**（心肌梗塞時心肌細胞壞死釋放至血中，為極高特異性的 AMI 生物標記）。",
+        "**(A) 錯誤**：`binds the troponin complex to tropomyosin` —— 負責將 Troponin complex 固定連結至 Tropomyosin 的是 **Troponin T（TnT）**。",
+        "**(B) 錯誤**：`binds to calcium and initiates contraction` —— 負責結合鈣離子（Ca²⁺）以啟動收縮的是 **Troponin C（TnC）**。",
+        "**(D) 錯誤**：`binds to myosin, inhibiting the interaction of myosin and actin in the resting muscle cells` —— Troponin I 是結合於細肌絲上的 **Actin**，而非直接結合於粗肌絲的 Myosin。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-5",
+      "globalIndex": 320,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Connective tissue associated with muscle is essential for muscle force transduction. Which of the following connective tissues can be found large blood vessels in it?",
+      "image": null,
+      "options": {
+        "A": "endomysium",
+        "B": "perimysium",
+        "C": "epimysium",
+        "D": "fascia"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨骼肌三層結締組織鞘膜】**：(1) **肌外膜（Epimysium）**：包圍整條肌肉的緻密結締組織；(2) **肌束膜（Perimysium）**：包圍每個肌束（fascicle）的較厚結締組織，**大型血管（large blood vessels）與神經主幹**由此進入並分支；(3) **肌內膜（Endomysium）**：包圍單一肌纖維的網狀纖維與基底板，內僅含微血管網（capillaries）。",
+        "**(B) 正確【本題應選正解】**：`perimysium` —— **肌束膜（perimysium）**包圍每一個肌束（fascicle），是肌肉內負責傳遞收縮力且內部含有**大型血管（large blood vessels）與神經分支**的結締組織層。",
+        "**(A) 錯誤**：`endomysium` —— 肌內膜（endomysium）包圍單一肌纖維，極為纖細，內部僅含**微血管（capillaries）**與細小神經末梢，沒有大型血管。",
+        "**(C) 錯誤**：`epimysium` —— 肌外膜（epimysium）為包覆整塊肌肉最外層的緻密結締組織，主要血管與神經穿透肌外膜後即分布行走於肌束膜（perimysium）隔膜中。",
+        "**(D) 錯誤**：`fascia` —— 筋膜（fascia）為包覆於肌群或皮下組織外圍的結締組織膜，不屬於肌肉內部包圍肌束傳導肌力之鞘膜層。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-6",
+      "globalIndex": 321,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A muscle fiber is _____.",
+      "image": null,
+      "options": {
+        "A": "a muscle cell",
+        "B": "an intercalated disc",
+        "C": "part of a striation of a muscle cell",
+        "D": "the same as collagen fiber that is viewed by electron microscopy"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：肌纖維（Muscle Fiber）定義】**：在肌肉組織學中，一條**肌纖維（muscle fiber）**即是指單一個**肌肉細胞（a muscle cell）**；其細胞質內含許多平行排列的肌原纖維（myofibrils），肌原纖維才是由肌絲（myofilaments）組成的收縮單元。",
+        "**(A) 正確【本題應選正解】**：`a muscle cell` —— 一條**肌纖維（muscle fiber）**在組織學上完全等同於單一個**肌肉細胞（muscle cell）**。",
+        "**(B) 錯誤**：`an intercalated disc` —— 閏盤（intercalated disc）是相鄰心肌細胞之間特有的階梯狀細胞連接構造，並非肌纖維本身。",
+        "**(C) 錯誤**：`part of a striation of a muscle cell` —— 橫紋（striation）是由肌原纖維內 A 帶與 I 帶規則排列產生的光學條紋，屬於細胞內構造而非整條肌纖維。",
+        "**(D) 錯誤**：`the same as collagen fiber that is viewed by electron microscopy` —— 膠原纖維屬於細胞外基質結締組織蛋白，與具收縮功能的肌肉細胞（muscle fiber）完全不同。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-7",
+      "globalIndex": 322,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following case for questions 7 and 8 : Length of sarcomeres in human striated muscles influence the force that can be exerted by the muscle. A length-tension curve for gastrocnemius revealed resting length for the I-band to be 1.5 M m and for the A- band to be 2.0 u m. Contraction of the muscle fiber resulted in 10% shortening of the muscle length.\nWhich of the following is the resting length for the sarcomere?",
+      "image": null,
+      "options": {
+        "A": "4.0 um",
+        "B": "3.5 um",
+        "C": "2.75 um",
+        "D": "2.0 um"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：肌節（Sarcomere）靜止長度計算】**：一個肌節介於兩條 Z line 之間，包含 **1 個完整 A-band ＋ 兩側各半個 I-band（共計 1 個完整 I-band 寬度）**。故 `Resting sarcomere length = A-band (2.0 μm) + I-band (1.5 μm) = 3.5 μm`。",
+        "**(B) 正確【本題應選正解】**：`3.5 um` —— 一個肌節包含 1 個 A-band（2.0 μm）加上兩端各半個 I-band（合計 1 個 I-band = 1.5 μm），總長為 `2.0 + 1.5 = 3.5 μm`。",
+        "**(A) 錯誤**：`4.0 um` —— 4.0 μm 並非 A-band（2.0 μm）與 I-band（1.5 μm）的正確加總結果。",
+        "**(C) 錯誤**：`2.75 um` —— 若僅加上半個 I-band（2.0 + 0.75 = 2.75 μm）會遺漏肌節另一側的半個 I-band。",
+        "**(D) 錯誤**：`2.0 um` —— 2.0 μm 僅為單純 A-band（粗肌絲）的長度，未計入兩側的 I-band。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-8",
+      "globalIndex": 323,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following case for questions 7 and 8 : Length of sarcomeres in human striated muscles influence the force that can be exerted by the muscle. A length-tension curve for gastrocnemius revealed resting length for the I-band to be 1.5 M m and for the A- band to be 2.0 u m. Contraction of the muscle fiber resulted in 10% shortening of the muscle length.\nWhich of the following is the length of the I-band after the shortening produced during muscle contraction?",
+      "image": null,
+      "options": {
+        "A": "1.5µm",
+        "B": "1.45µm",
+        "C": "1.35µm",
+        "D": "1.25µm"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C) ｜ ⚠️【林成翰老師申覆解析】：理論值 1.15 µm，老師按 I-band 縮短 10% 給 (C) 1.35 µm",
+      "explanations": [
+        "📘 **【核心組織學考點：收縮後 I-band 長度計算】**：收縮時 A-band 維持 2.0 μm 不變，唯有 I-band 與 H-band 縮短。依原考古題公式設定為 I-band 縮短 10%：`1.5 × (1 - 10%) = 1.35 μm`（註：若嚴格依肌節總長 3.5 μm 縮短 10% 即減少 0.35 μm，I-band 應為 1.15 μm，惟選項無 1.15 μm，標準答案鎖定 **C: 1.35 μm**）。",
+        "**(C) 正確【本題應選正解】**：`1.35µm` —— 依本題原題設定 I-band 縮短 10%：`1.5 × 0.9 = 1.35 μm`，為官方標準答案。",
+        "**(A) 錯誤**：`1.5µm` —— 1.5 μm 為肌肉靜止未收縮前的 I-band 原始長度，收縮後 I-band 必定縮短。",
+        "**(B) 錯誤**：`1.45µm` —— 1.45 μm 不符合 10% 縮短比例之計算結果。",
+        "**(D) 錯誤**：`1.25µm` —— 1.25 μm 不符合 10% 縮短比例之計算結果。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-9",
+      "globalIndex": 324,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following events：\n（1） detachment of troponin I from actin\n（2） binding of myosin heads to actin filaments\n（3） binding of calcium to troponin C\n（4） ADP on myosin head replaced by ATP\n（5） Splitting of ATP into ADP and Pi\nWhich of the following would be the correct order for these events to occur, following depolarization of the postsynaptic membranes, for skeletal muscles to contract？",
+      "image": null,
+      "options": {
+        "A": "3,1,2,5,4",
+        "B": "3,1,2,4,5",
+        "C": "1,3,2,5,4",
+        "D": "1,3,2,4,5"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：Ca²⁺ 與 Troponin 複合體啟動橫橋週期】**：胞內 **Ca²⁺** 增加並結合至 **Troponin C（TnC）** → 構型改變使 **Troponin I（TnI，休息時直接結合於 Actin 上抑制 Myosin-Actin 結合的次單元）從 Actin 脫離** → Troponin T（TnT）拉動 Tropomyosin 移開露出結合位點 → 帶能量的 Myosin head 結合 Actin 完成功率衝程（釋放 ADP+Pi）→ **新的 ATP 取代 ADP 結合至 Myosin head 使橫橋分離** → ATP 水解為 ADP+Pi 使 Myosin head 復位（re-cocking）。",
+        "**(A) 正確【本題應選正解】**：`3,1,2,5,4` —— 去極化後骨骼肌收縮之正確步驟順序為：**（3）Ca²⁺ 結合至 Troponin C** → **（1）Troponin I 從 Actin 脫離（移開 Tropomyosin）** → **（2）Myosin head 結合至 Actin** → **（5）ATP 水解成 ADP + Pi（或釋放完成功率衝程並重新儲能）** → **（4）Myosin head 上的 ADP 被新的 ATP 取代使橫橋分離**（註：老師題庫設計之標準順序為 `3 → 1 → 2 → 5 → 4`）。",
+        "**(B) 錯誤**：`3,1,2,4,5` —— 順序錯誤：必先 (3) Ca²⁺ 結合 TnC → (1) TnI 從 Actin 脫離 → (2) Myosin 結合 Actin → 最後才進行 ATP 結合取代 ADP 使橫橋分離（正解為 `3,1,2,5,4`）。",
+        "**(C) 錯誤**：`1,3,2,5,4` —— 順序錯誤：必先 (3) Ca²⁺ 結合 TnC → (1) TnI 從 Actin 脫離 → (2) Myosin 結合 Actin → 最後才進行 ATP 結合取代 ADP 使橫橋分離（正解為 `3,1,2,5,4`）。",
+        "**(D) 錯誤**：`1,3,2,4,5` —— 順序錯誤：必先 (3) Ca²⁺ 結合 TnC → (1) TnI 從 Actin 脫離 → (2) Myosin 結合 Actin → 最後才進行 ATP 結合取代 ADP 使橫橋分離（正解為 `3,1,2,5,4`）。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-10",
+      "globalIndex": 325,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "Connective tissue associated with muscle is essential for muscle force transduction.Which of the following connective tissues can be found large blood vessels in it？",
+      "image": null,
+      "options": {
+        "A": "endomysium",
+        "B": "perimysium",
+        "C": "epimysium",
+        "D": "fascia"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨骼肌三層結締組織鞘膜】**：(1) **肌外膜（Epimysium）**：包圍整條肌肉的緻密結締組織；(2) **肌束膜（Perimysium）**：包圍每個肌束（fascicle）的較厚結締組織，**大型血管（large blood vessels）與神經主幹**由此進入並分支；(3) **肌內膜（Endomysium）**：包圍單一肌纖維的網狀纖維與基底板，內僅含微血管網（capillaries）。",
+        "**(B) 正確【本題應選正解】**：`perimysium` —— **肌束膜（perimysium）**包圍每一個肌束（fascicle），是肌肉內負責傳遞收縮力且內部含有**大型血管（large blood vessels）與神經分支**的結締組織層。",
+        "**(A) 錯誤**：`endomysium` —— 肌內膜（endomysium）包圍單一肌纖維，極為纖細，內部僅含**微血管（capillaries）**與細小神經末梢，沒有大型血管。",
+        "**(C) 錯誤**：`epimysium` —— 肌外膜（epimysium）為包覆整塊肌肉最外層的緻密結締組織，主要血管與神經穿透肌外膜後即分布行走於肌束膜（perimysium）隔膜中。",
+        "**(D) 錯誤**：`fascia` —— 筋膜（fascia）為包覆於肌群或皮下組織外圍的結締組織膜，不屬於肌肉內部包圍肌束傳導肌力之鞘膜層。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-11",
+      "globalIndex": 326,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "The dense bodies of smooth muscle are the analogs of striated muscle’s _____.",
+      "image": null,
+      "options": {
+        "A": "A-band",
+        "B": "I-band",
+        "C": "H-band",
+        "D": "Z line"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：平滑肌（Smooth Muscle）超微構造與收縮比較】**：平滑肌細胞為單核（**中央單一螺旋狀核，隨細胞收縮而呈螺旋皺縮狀**），細胞外由**外板（External lamina / Basal lamina）**包圍，細胞間以**間隙接合（Gap junctions）**進行電偶聯同步收縮（無 Desmosome，亦無 T-tubule）。細胞膜具**細胞膜小凹（Caveolae）**調控 Ca²⁺ 進出，細胞質與細胞膜內側的**緻密體（Dense bodies）**功能等同於橫紋肌的 **Z line（Z 盤）**，供**細肌絲（actin filaments）直接附著**。",
+        "**(D) 正確【本題應選正解】**：`Z line` —— 平滑肌細胞質與肌膜內側的**緻密體（Dense bodies，含 α-actinin）**負責錨定細肌絲（actin），功能完全等同於橫紋肌的 **Z line（Z 盤）**！",
+        "**(A) 錯誤**：`A-band` —— **A-band（暗帶）**的寬度由**粗肌絲（thick filament / myosin）的總長度決定**；肌肉收縮時肌絲僅互相滑動重疊而不改變自身長度，因此 **A-band 的長度（例如 2.0 µm）永遠維持不變**！而 **I-band、H-band 與整個肌節（Sarcomere）皆會縮短**。",
+        "**(B) 錯誤**：`I-band` —— 肌肉收縮時，細肌絲滑入 A-band 之間，造成僅含細肌絲的 **I-band**、僅含粗肌絲的 **H-band** 以及整個 **Sarcomere（肌節）**皆會**縮短**；唯有 **A-band** 長度不變。",
+        "**(C) 錯誤**：`H-band` —— 肌肉收縮時，細肌絲滑入 A-band 之間，造成僅含細肌絲的 **I-band**、僅含粗肌絲的 **H-band** 以及整個 **Sarcomere（肌節）**皆會**縮短**；唯有 **A-band** 長度不變。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-12",
+      "globalIndex": 327,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following case for questions 4 to 5： A first-year medical student is leading her group for a muscle histology study session. She has chosen the accompanying image as a comprehensive guide for the subject and has prepared the following questions for the group.\nWhich of the following might be the source for this tissue？",
+      "image": "images/1007_MuscleHisto-12.jpg",
+      "options": {
+        "A": "esophagus",
+        "B": "stomach",
+        "C": "lungs",
+        "D": "heart"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：食道（Esophagus）肌肉層之分段組成】**：人體消化道中，**食道（esophagus）**的肌外層（muscularis externa）具有獨特的過渡分佈：**上 1/3 為純骨骼肌、中 1/3 為骨骼肌與平滑肌混合、下 1/3 為純平滑肌**，因此在組織切片上若同時看到橫紋骨骼肌與平滑肌交錯，最可能來自食道。",
+        "**(A) 正確【本題應選正解】**：`esophagus` —— **食道（esophagus）**中段肌層同時含有橫紋**骨骼肌**與**平滑肌**混合分布，是組織學切片鑑別肌組織混合來源的經典器官。",
+        "**(B) 錯誤**：`stomach` —— 胃（stomach）的肌層完全由三層平滑肌（內斜、中環、外縱）構成，不含骨骼肌。",
+        "**(C) 錯誤**：`lungs` —— 肺臟（lungs）氣管支氣管樹周圍僅含平滑肌（與透明軟骨），不含橫紋骨骼肌。",
+        "**(D) 錯誤**：`heart` —— 心臟（heart）心肌層完全由具閏盤與單中央核的心肌細胞（cardiac muscle）構成。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-13",
+      "globalIndex": 328,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following case for questions 4 to 5： A first-year medical student is leading her group for a muscle histology study session. She has chosen the accompanying image as a comprehensive guide for the subject and has prepared the following questions for the group.\nWhich of the following is true for the structure 2？",
+      "image": "images/1007_MuscleHisto-12.jpg",
+      "options": {
+        "A": "defines the contractile unit for the tissue",
+        "B": "comprises an overlap between actin and myosin filaments",
+        "C": "shortens during muscular contraction",
+        "D": "length is unaltered during muscular contraction"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：肌細胞分類辨識與組織學圖譜題（食道橫紋肌與平滑肌交界／肌節構造）】**：本題組圖譜來自食道（**Esophagus**）肌層（上段為骨骼肌、中段為骨骼肌與平滑肌混合、下段為平滑肌）；標記 **Structure 2** 指向橫紋肌肌節之 **I-band（明帶，或 H-zone）**，其特徵為在**肌肉收縮時會縮短（shortens during muscular contraction）**。",
+        "**(C) 正確【本題應選正解】**：`shortens during muscular contraction` —— 圖譜中標示的 **Structure 2**（I-band 明帶／H-band）在肌肉收縮時會因細肌絲滑動重疊而**縮短（shortens during muscular contraction）**。",
+        "**(A) 錯誤**：`defines the contractile unit for the tissue` —— 定義收縮功能單元（肌節 Sarcomere）的是兩條 **Z line**，而非 Structure 2。",
+        "**(B) 錯誤**：`comprises an overlap between actin and myosin filaments` —— 由粗細肌絲重疊組成且收縮時長度不變（unaltered）的是 **A-band（暗帶）**，而非 Structure 2。",
+        "**(D) 錯誤**：`length is unaltered during muscular contraction` —— 由粗細肌絲重疊組成且收縮時長度不變（unaltered）的是 **A-band（暗帶）**，而非 Structure 2。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-14",
+      "globalIndex": 329,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following case for questions 14to 16： Length of sarcomeres in human striated muscles influence the force that can be exerted by the muscle. A length–tension curve for gastrocnemius revealed resting length for the I-band to be 1.5 μm and for the A- band to be 2.0 μm. Contraction of the muscle fiber resulted in 10% shortening of the sarcomere length.\nWhich of the following is the resting length for the sarcomere？",
+      "image": null,
+      "options": {
+        "A": "4.0 µm",
+        "B": "3.5 µm",
+        "C": "2.75 µm",
+        "D": "2.0 µm"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：肌節（Sarcomere）靜止長度計算】**：一個肌節介於兩條 Z line 之間，包含 **1 個完整 A-band ＋ 兩側各半個 I-band（共計 1 個完整 I-band 寬度）**。故 `Resting sarcomere length = A-band (2.0 μm) + I-band (1.5 μm) = 3.5 μm`。",
+        "**(B) 正確【本題應選正解】**：`3.5 µm` —— 一個肌節包含 1 個 A-band（2.0 µm）加上兩端各半個 I-band（合計 1 個 I-band = 1.5 µm），總長為 `2.0 + 1.5 = 3.5 µm`。",
+        "**(A) 錯誤**：`4.0 µm` —— 4.0 µm 並非 A-band（2.0 µm）與 I-band（1.5 µm）的正確加總結果。",
+        "**(C) 錯誤**：`2.75 µm` —— 若僅加上半個 I-band（2.0 + 0.75 = 2.75 µm）會遺漏肌節另一側的半個 I-band。",
+        "**(D) 錯誤**：`2.0 µm` —— 2.0 µm 僅為單純 A-band（粗肌絲）的長度，未計入兩側的 I-band。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-15",
+      "globalIndex": 330,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following case for questions 14to 16： Length of sarcomeres in human striated muscles influence the force that can be exerted by the muscle. A length–tension curve for gastrocnemius revealed resting length for the I-band to be 1.5 μm and for the A- band to be 2.0 μm. Contraction of the muscle fiber resulted in 10% shortening of the sarcomere length.\nWhich of the following is the length of the A-band after the shortening produced during muscle contraction？",
+      "image": null,
+      "options": {
+        "A": "2.0 µm",
+        "B": "1.8 µm",
+        "C": "1.7 µm",
+        "D": "1.6 µm"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：收縮時 A-band 長度永遠不變】**：**A-band（暗帶）**的寬度取決於粗肌絲（myosin filament）的固定長度。肌肉收縮時細肌絲向中央滑動，因此 I-band 與 H-zone 變短，而 **A-band 維持原本的 2.0 μm 完全不變**。",
+        "**(A) 正確【本題應選正解】**：`2.0 µm` —— 粗肌絲本身在收縮過程中不會縮短，因此由粗肌絲全長決定的 **A-band 維持 2.0 µm 不變**。",
+        "**(B) 錯誤**：`1.8 µm` —— 1.8 µm 為誤將 A-band 乘以 90% 的錯誤選項（A-band 不隨收縮縮短）。",
+        "**(C) 錯誤**：`1.7 µm` —— 1.7 µm 不符合粗肌絲長度不變之滑動肌絲學說。",
+        "**(D) 錯誤**：`1.6 µm` —— 1.6 µm 不符合粗肌絲長度不變之滑動肌絲學說。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-16",
+      "globalIndex": 331,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "【題組背景】Consider the following case for questions 14to 16： Length of sarcomeres in human striated muscles influence the force that can be exerted by the muscle. A length–tension curve for gastrocnemius revealed resting length for the I-band to be 1.5 μm and for the A- band to be 2.0 μm. Contraction of the muscle fiber resulted in 10% shortening of the sarcomere length.\nWhich of the following is the length of the I-band after the shortening produced during muscle contraction？",
+      "image": null,
+      "options": {
+        "A": "1.5 µm",
+        "B": "1.45 µm",
+        "C": "1.35 µm",
+        "D": "1.25 µm"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C) ｜ ⚠️【林成翰老師申覆解析】：理論值 1.15 µm，老師按 I-band 縮短 10% 給 (C) 1.35 µm",
+      "explanations": [
+        "📘 **【核心組織學考點：收縮後 I-band 長度計算】**：收縮時 A-band 維持 2.0 μm 不變，唯有 I-band 與 H-band 縮短。依原考古題公式設定為 I-band 縮短 10%：`1.5 × (1 - 10%) = 1.35 μm`（註：若嚴格依肌節總長 3.5 μm 縮短 10% 即減少 0.35 μm，I-band 應為 1.15 μm，惟選項無 1.15 μm，標準答案鎖定 **C: 1.35 μm**）。",
+        "**(C) 正確【本題應選正解】**：`1.35 µm` —— 依本題原題設定 I-band 縮短 10%：`1.5 × 0.9 = 1.35 µm`，為官方標準答案。",
+        "**(A) 錯誤**：`1.5 µm` —— 1.5 µm 為肌肉靜止未收縮前的 I-band 原始長度，收縮後 I-band 必定縮短。",
+        "**(B) 錯誤**：`1.45 µm` —— 1.45 µm 不符合 10% 縮短比例之計算結果。",
+        "**(D) 錯誤**：`1.25 µm` —— 1.25 µm 不符合 10% 縮短比例之計算結果。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-17",
+      "globalIndex": 332,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在骨骼肌（skeletal muscle）中，每一個肌肉細胞（muscle cell）又稱為：",
+      "image": null,
+      "options": {
+        "A": "肌束（muscle fascicle）",
+        "B": "肌原纖維（myofibril）",
+        "C": "肌絲（myofilament）",
+        "D": "肌纖維（muscle fiber）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨骼肌層級命名（Fascicle → Fiber → Myofibril → Myofilament）】**：整塊肌肉由多個**肌束（muscle fascicle）**組成；每個肌束內含多條**肌纖維（muscle fiber，即單一肌肉細胞）**；每個肌纖維內含多條**肌原纖維（myofibril）**；肌原纖維則由粗細**肌絲（myofilament）**構成。",
+        "**(D) 正確【本題應選正解】**：`肌纖維（muscle fiber）` —— 每一個單獨的骨骼肌細胞（muscle cell）因呈長圓柱纖維狀，在組織學上稱為一條**肌纖維（muscle fiber）**。",
+        "**(A) 錯誤**：`肌束（muscle fascicle）` —— 肌束（muscle fascicle）是由肌束膜（perimysium）包圍的「一束多條」肌細胞，而非單一細胞。",
+        "**(B) 錯誤**：`肌原纖維（myofibril）` —— 肌原纖維（myofibril）是單一肌肉細胞「內部」的圓柱狀收縮胞器束。",
+        "**(C) 錯誤**：`肌絲（myofilament）` —— 肌絲（myofilament）是指構成肌原纖維的粗肌絲（myosin）與細肌絲（actin）蛋白絲。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-18",
+      "globalIndex": 333,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼肌在鬆弛情況下，肌細胞內絕大多數之鈣離子，都聚集在下列哪一種構造內？",
+      "image": null,
+      "options": {
+        "A": "粒線體（Mitochondria）",
+        "B": "肌漿小管（Sarcotubules）",
+        "C": "終池（Terminal cisternae）",
+        "D": "橫小管（Transverse tubules）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨骼肌鈣離子儲存處——終池（Terminal Cisternae）】**：骨骼肌鬆弛時，肌漿網上的鈣幫浦（SERCA）將 Ca²⁺ 主動回收，並與網腔內的鈣結合蛋白（calsequestrin）結合，高度濃縮儲存於肌漿網兩端緊鄰 T-tubule 的膨大囊泡構造——**終池（terminal cisternae）**內（1 條 T-tubule + 2 個 terminal cisternae 合稱 **Triad 三聯體**）。",
+        "**(C) 正確【本題應選正解】**：`終池（Terminal cisternae）` —— **終池（terminal cisternae）**為肌漿網兩端膨大部位，富含 calsequestrin 蛋白，是骨骼肌鬆弛時絕大多數 **Ca²⁺ 聚集儲存**的構造。",
+        "**(A) 錯誤**：`粒線體（Mitochondria）` —— 粒線體（mitochondria）主要負責氧化磷酸化產生 ATP，雖可緩衝少量鈣離子，但並非骨骼肌鬆弛時儲存 Ca²⁺ 的主要構造。",
+        "**(B) 錯誤**：`肌漿小管（Sarcotubules）` —— 肌漿小管（sarcotubules）泛指肌漿網的縱行小管網絡（L-tubules），SERCA 幫浦主要位於此處，但鈣離子主要濃縮儲存於兩端膨大的終池。",
+        "**(D) 錯誤**：`橫小管（Transverse tubules）` —— 橫小管（T-tubules）為肌細胞膜向內凹陷的管狀構造（內含細胞外液），負責將動作電位傳入細胞深處，不負責儲存細胞內鈣離子。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-19",
+      "globalIndex": 334,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關成熟骨骼肌纖維和心肌纖維的比較，下列敘述何者正確？",
+      "image": null,
+      "options": {
+        "A": "兩者都具有絲分裂的能力",
+        "B": "皆有基底板（Basal lamina）包被",
+        "C": "兩者都屬多核細胞",
+        "D": "兩者都藉肌間盤（Intercalated disk）連結相鄰的肌細胞"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨骼肌 vs. 心肌 vs. 平滑肌組織學超微特徵】**：**(1) 肌纖維（Muscle fiber）**即為單一**肌肉細胞（muscle cell）**；**(2) Ca²⁺ 儲存處**：骨骼肌放鬆時絕大多數 Ca²⁺ 儲存於肌漿網兩側膨大的**終池（Terminal cisternae）**；**(3) 基底板（Basal / External lamina）**：骨骼肌、心肌與平滑肌細胞外皆有基底板包被；成熟骨骼肌與心肌皆已終末分化**失去有絲分裂能力**（骨骼肌靠衛星細胞再生）；骨骼肌為多核、心肌為單核或雙核並藉**肌間盤（Intercalated disc）**連結（內含 **Gap junction** 負責電傳導與收縮同步，而 **Desmosome** 負責機械性抗拉連結，**不直接參與收縮動作電位或 Ca²⁺ 傳導**）。",
+        "**(B) 正確【本題應選正解】**：`皆有基底板（Basal lamina）包被` —— 成熟的骨骼肌纖維、心肌纖維（以及平滑肌細胞）表面**皆有基底板（Basal lamina / External lamina）包被**！",
+        "**(A) 錯誤**：`兩者都具有絲分裂的能力` —— 成熟的骨骼肌纖維與心肌細胞皆為高度分化之細胞，**皆已失去有絲分裂能力**（骨骼肌受傷主要靠外圍的衛星細胞 satellite cells 增殖修復）。",
+        "**(C) 錯誤**：`兩者都屬多核細胞` —— 骨骼肌為合胞體型的**周邊多核細胞**；而**心肌纖維為單核或雙核（位於細胞中央）**，並非多核細胞！",
+        "**(D) 錯誤**：`兩者都藉肌間盤（Intercalated disk）連結相鄰的肌細胞` —— 僅**心肌細胞**之間藉**肌間盤（Intercalated disc）**相連；骨骼肌細胞彼此獨立，沒有肌間盤！"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-20",
+      "globalIndex": 335,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關骨骼肌收縮時的敘述，下列何者正確？",
+      "image": null,
+      "options": {
+        "A": "I帶變短，A帶不變",
+        "B": "I帶變長，A帶變短",
+        "C": "I帶不變，A帶變短",
+        "D": "I帶變短，A帶變長"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：滑動肌絲學說與肌節帶長變化】**：骨骼肌收縮時，細肌絲（actin）在粗肌絲（myosin）之間向 M line 中央滑動，兩條 Z line 彼此靠近（肌節縮短），導致僅含細肌絲的 **I 帶（I-band）與僅含粗肌絲的 H 帶（H-zone）皆變短**；而由粗肌絲總長度決定的 **A 帶（A-band）長度永遠保持不變**。",
+        "**(A) 正確【本題應選正解】**：`I帶變短，A帶不變` —— 收縮時細肌絲滑入 A 帶重疊區，使 **I 帶（及 H 帶）變短**，而代表粗肌絲全長的 **A 帶長度維持不變**。",
+        "**(B) 錯誤**：`I帶變長，A帶變短` —— 收縮時肌節縮短，I 帶必定縮短而非變長，且 A 帶長度不變。",
+        "**(C) 錯誤**：`I帶不變，A帶變短` —— 長度永遠不變的是 **A 帶**（粗肌絲長度固定），變短的是 I 帶與 H 帶。",
+        "**(D) 錯誤**：`I帶變短，A帶變長` —— 收縮過程中粗肌絲本身並不會伸長，因此 A 帶長度不會變長。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-21",
+      "globalIndex": 336,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不參與心肌細胞之收縮？",
+      "image": null,
+      "options": {
+        "A": "肌間盤裡的間隙接合（Gap junction of intercalated disc）",
+        "B": "肌漿網（Sarcoplasmic reticulum）",
+        "C": "T小管（T-tubules）",
+        "D": "胞橋小體（Desmosomes）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：心肌閏盤（Intercalated Disc）構造功能區分】**：(1) **間隙接合（Gap junction）**：位於閏盤縱向部，傳遞動作電位使心肌同步收縮；(2) **T 小管與肌漿網（SR）**：參與興奮-收縮偶聯（CICR）釋放 Ca²⁺；(3) **胞橋小體（Desmosomes）**：位於閏盤橫向部，僅負責提供細胞間**機械性抗張錨定**，防止細胞在收縮時彼此拉斷，並不直接參與電訊號或鈣離子收縮觸發。",
+        "**(D) 敘述錯誤【本題應選正解】**：`胞橋小體（Desmosomes）` —— Desmosomes（胞橋小體）僅負責機械性連結相鄰心肌細胞以免收縮時撕裂，**不直接參與觸發或執行收縮本身**，故為本題正解。",
+        "**(A) 敘述正確（非本題所求）**：`肌間盤裡的間隙接合（Gap junction of intercalated disc）` —— Gap junction 負責讓離子與動作電位在相鄰心肌細胞間快速傳導，是心肌同步收縮（functional syncytium）的必要條件。",
+        "**(B) 敘述正確（非本題所求）**：`肌漿網（Sarcoplasmic reticulum）` —— 心肌肌漿網（SR）負責透過鈣誘導鈣釋放（CICR）提供大量 Ca²⁺ 啟動肌絲收縮。",
+        "**(C) 敘述正確（非本題所求）**：`T小管（T-tubules）` —— 心肌 T-tubules 將表面動作電位傳入細胞內並開啟 L-type Ca²⁺ 通道觸發收縮。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-22",
+      "globalIndex": 337,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者是心肌細胞和平滑肌細胞皆有的構造？",
+      "image": null,
+      "options": {
+        "A": "緻密體（Dense body）",
+        "B": "三聯體（Triad）",
+        "C": "間隙接合（Gap junction）",
+        "D": "緊密接合（Tight junction）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：平滑肌（Smooth Muscle）超微構造與收縮比較】**：平滑肌細胞為單核（**中央單一螺旋狀核，隨細胞收縮而呈螺旋皺縮狀**），細胞外由**外板（External lamina / Basal lamina）**包圍，細胞間以**間隙接合（Gap junctions）**進行電偶聯同步收縮（無 Desmosome，亦無 T-tubule）。細胞膜具**細胞膜小凹（Caveolae）**調控 Ca²⁺ 進出，細胞質與細胞膜內側的**緻密體（Dense bodies）**功能等同於橫紋肌的 **Z line（Z 盤）**，供**細肌絲（actin filaments）直接附著**。",
+        "**(C) 正確【本題應選正解】**：`間隙接合（Gap junction）` —— **間隙接合（Gap junction）**是**心肌細胞（位於肌間盤側緣）與平滑肌細胞（特別是 single-unit smooth muscle）皆有的構造**，讓動作電位離子流直接通過以達成同步收縮。",
+        "**(A) 錯誤**：`緻密體（Dense body）` —— **緻密體（Dense body）**僅存在於**平滑肌**（心肌有 Z line）。",
+        "**(B) 錯誤**：`三聯體（Triad）` —— **三聯體（Triad，1 個 T-tubule + 2 個終池）**為**骨骼肌**特徵（心肌為二聯體 Diad，平滑肌無 T-tubule）。",
+        "**(D) 錯誤**：`緊密接合（Tight junction）` —— 心肌與平滑肌細胞間進行電偶聯的構造是間隙接合（Gap junction），而非封閉細胞間隙的緊密接合（Tight junction）。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-23",
+      "globalIndex": 338,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列有關平滑肌細胞（Smooth muscle cell）的敘述，何項正確？",
+      "image": null,
+      "options": {
+        "A": "緻密體（Dense body）可供肌球蛋白絲（Myosin filament）直接附著",
+        "B": "細胞外有外板（External lamina）包圍",
+        "C": "細胞內藉由T小管（T tubule）傳遞鈣離子",
+        "D": "細胞之間藉由橋粒（Desmosome）連接"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：平滑肌（Smooth Muscle）超微構造與收縮比較】**：平滑肌細胞為單核（**中央單一螺旋狀核，隨細胞收縮而呈螺旋皺縮狀**），細胞外由**外板（External lamina / Basal lamina）**包圍，細胞間以**間隙接合（Gap junctions）**進行電偶聯同步收縮（無 Desmosome，亦無 T-tubule）。細胞膜具**細胞膜小凹（Caveolae）**調控 Ca²⁺ 進出，細胞質與細胞膜內側的**緻密體（Dense bodies）**功能等同於橫紋肌的 **Z line（Z 盤）**，供**細肌絲（actin filaments）直接附著**。",
+        "**(B) 正確【本題應選正解】**：`細胞外有外板（External lamina）包圍` —— 每一個**平滑肌細胞（Smooth muscle cell）**細胞膜外皆有一層類似基底板的**外板（External lamina）**包圍（僅在 gap junction 處中斷）。",
+        "**(A) 錯誤**：`緻密體（Dense body）可供肌球蛋白絲（Myosin filament）直接附著` —— 平滑肌的緻密體（Dense body，含 α-actinin）功能相當於 Z line，是供**細肌絲（Actin filament）**附著的構造，並非肌球蛋白絲（Myosin filament）！",
+        "**(C) 錯誤**：`細胞內藉由T小管（T tubule）傳遞鈣離子` —— 平滑肌**沒有 T 小管（T-tubule）**！平滑肌細胞膜上的凹陷稱為 **細胞膜小凹（Caveolae）**。",
+        "**(D) 錯誤**：`細胞之間藉由橋粒（Desmosome）連接` —— 平滑肌細胞之間主要藉**間隙接合（Gap junction）**進行電氣與代謝聯繫，並非 Desmosome。"
+      ]
+    },
+    {
+      "id": "1007_MuscleHisto-24",
+      "globalIndex": 339,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不是平滑肌細胞（Smooth muscle cell）的特徵？",
+      "image": null,
+      "options": {
+        "A": "多核",
+        "B": "細胞核會隨著細胞收縮而改變形狀",
+        "C": "細胞膜小凹（Caveolae）",
+        "D": "緻密體（Dense body）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：平滑肌細胞（Smooth Muscle Cell）超微結構】**：平滑肌細胞呈梭狀，為**單一中央細胞核（single central nucleus，非多核！）**，收縮時細胞核會呈螺旋狀扭曲；細胞膜內凹形成 **caveolae（功能類似 T-tubule 調節 Ca²⁺ 內流）**；細胞質與膜內側具有 **dense bodies（功能類似 Z line 固定細肌絲）**。",
+        "**(A) 敘述錯誤【本題應選正解】**：`多核` —— 平滑肌細胞為**單核（single nucleus）**細胞；「多核（multinucleated）」且核位於細胞周邊是**骨骼肌纖維**的特徵，故本選項錯誤。",
+        "**(B) 敘述正確（非本題所求）**：`細胞核會隨著細胞收縮而改變形狀` —— 平滑肌收縮時細胞變短變胖，其中央單一細胞核會隨之折疊扭轉呈螺旋狀（corkscrew shape），敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`細胞膜小凹（Caveolae）` —— 平滑肌沒有 T-tubules，取而代之的是細胞膜上的小凹（caveolae），參與鈣離子儲存與訊號傳遞，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`緻密體（Dense body）` —— 平滑肌沒有 Z line，而是以富含 α-actinin 的緻密體（dense bodies）作為細肌絲錨定與力學傳遞中心，敘述正確。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1362 @@
+{
+  "unitCode": "1029_Pharm2",
+  "unitTitle": "10/29 藥理學：膽鹼受體活化劑與膽鹼酯酶抑制劑",
+  "session": "B",
+  "subject": "Pharm",
+  "subjectTitle": "藥理學 (一)",
+  "prof": "賴弘岳 教授",
+  "examRange": "B卷 Q1–40（共40題）",
+  "unitUrl": "https://drive.google.com/file/d/1JIzFR_5bC9YafXImbIVQH_AUgk190R6W",
+  "questions": [
+    {
+      "id": "1029_Pharm2-1",
+      "globalIndex": 371,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列受體的訊息傳遞，何者非活化 Gq 蛋白？Among the following receptors, which one does not activate the Gq protein in signal transduction?",
+      "image": null,
+      "options": {
+        "A": "α1 adrenergic receptor",
+        "B": "M1 muscarinic receptor",
+        "C": "M2 muscarinic receptor",
+        "D": "M3 muscarinic receptor"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(C) 敘述錯誤【本題應選正解】**：`M2 muscarinic receptor` —— M2 蕈毒鹼受體（主要分佈於心臟 SA/AV node 與突觸前神經末梢）耦合 **Gi/o 蛋白**，會**抑制腺苷酸環化酶（adenylyl cyclase）活性使 cAMP 下降**，同時由 βγ 次單元開啟 K⁺ 通道導致過極化並抑制電壓閘門 Ca²⁺ 通道，**不會活化 Gq 蛋白**。",
+        "**(A) 敘述正確（非本題所求）**：`α1 adrenergic receptor` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。",
+        "**(B) 敘述正確（非本題所求）**：`M1 muscarinic receptor` —— M1 蕈毒鹼受體（主要分佈於中樞神經、自主神經節與胃壁細胞）耦合 Gq/11 蛋白，活化磷脂酶 C（PLC）將 PIP2 水解為 IP3（促使肌漿網釋放 Ca²⁺）與 DAG（活化 PKC）。",
+        "**(D) 敘述正確（非本題所求）**：`M3 muscarinic receptor` —— M3 蕈毒鹼受體（主要分佈於外分泌腺體、內臟平滑肌如逼尿肌與支氣管、虹膜環狀肌及血管內皮細胞）耦合 **Gq/11 蛋白**，活化 PLC 產生 IP3 與 DAG，使胞內 Ca²⁺ 上升（並於內皮細胞活化 eNOS 釋放 NO），不抑制 adenylyl cyclase。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-2",
+      "globalIndex": 372,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "膽鹼酯酶抑制劑中毒，可觀察到病患產生縮瞳症狀，其藥理機制為活化下列何種眼睛虹膜 受體所導致？ In cholinesterase inhibitor poisoning, the observation of miosis （constricted pupils）in patients is due to the activation of which type of iris receptor in the eye?",
+      "image": null,
+      "options": {
+        "A": "環狀肌蕈毒鹼受體 Circular muscle muscarinic receptor",
+        "B": "環狀肌尼古丁受體 Circular muscle nicotinic receptor",
+        "C": "輻射肌 alpha 受體 Radial muscle alpha receptor",
+        "D": "輻射肌 beta 受體 Radial muscle beta receptor"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(A) 正確【本題應選正解】**：`環狀肌蕈毒鹼受體 Circular muscle muscarinic receptor` —— 虹膜環狀肌（瞳孔括約肌 sphincter pupillae）受動眼神經副交感纖維支配，細胞膜上為 **M3 蕈毒鹼受體（muscarinic receptor）**；有機磷、沙林毒氣或膽鹼酯酶抑制劑中毒時，ACh 大量累積並過度活化環狀肌 M3 受體，導致環狀肌強烈收縮而出現針尖般瞳孔縮小（miosis）。",
+        "**(B) 錯誤**：`環狀肌尼古丁受體 Circular muscle nicotinic receptor` —— 虹膜環狀肌為平滑肌（效應器官），其膽鹼受體為蕈毒鹼受體（M3 muscarinic receptor），並無菸鹼受體（nicotinic receptor 位於自主神經節與骨骼肌終板）。",
+        "**(C) 錯誤**：`輻射肌 alpha 受體 Radial muscle alpha receptor` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。",
+        "**(D) 錯誤**：`輻射肌 beta 受體 Radial muscle beta receptor` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-3",
+      "globalIndex": 373,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者活化菸鹼受體的作用最弱，且最不易被膽鹼酯酶水解？ Which of the following has the weakest effect on nicotinic receptor activation and is least easily hydrolyzed by cholinesterase?",
+      "image": null,
+      "options": {
+        "A": "acetylcholine",
+        "B": "methacholine",
+        "C": "carbachol",
+        "D": "bethanechol"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：膽鹼酯類（Choline Esters）構效關係（SAR）】**：(1) **β-甲基取代**（Methacholine、Bethanechol）：大幅降低對菸鹼受體（N）的作用並選擇性作用於蕈毒鹼受體（M）；(2) **胺基甲酸酯（Carbamoyl）取代**（Carbachol、Bethanechol）：完全抗拒膽鹼酯酶（AChE）水解。因此 **Bethanechol** 同時具備「幾乎無 N 活性」與「極抗 AChE 水解」。",
+        "**(D) 正確【本題應選正解】**：`bethanechol` —— **Bethanechol** 同時具備 β-甲基（對 N 受體作用最弱、專一活化 M 受體）與胺基甲酸酯基（最不易被 AChE 水解）。",
+        "**(A) 錯誤**：`acetylcholine` —— **Acetylcholine（ACh）**無 β-甲基亦無胺基甲酸酯取代，對 M 與 N 受體皆具強活性，且極易被 AChE 瞬間水解。",
+        "**(B) 錯誤**：`methacholine` —— **Methacholine** 具 β-甲基（N 活性極弱），但仍為乙酸酯基，會被 AChE 緩慢水解。",
+        "**(C) 錯誤**：`carbachol` —— **Carbachol** 具胺基甲酸酯基（抗 AChE 水解），但無 β-甲基，因此仍保有相當強的菸鹼受體（N）活化作用。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-4",
+      "globalIndex": 374,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列何種受體經自主神經傳遞物質活化後，通常會抑制 adenylyl cyclase 的活性？ Which of the following receptors, when activated by autonomic neurotransmitters, typically inhibits the activity of adenylyl cyclase?",
+      "image": null,
+      "options": {
+        "A": "muscarinic M2 cholinoceptor",
+        "B": "muscarinic M3 cholinoceptor",
+        "C": "β1 adrenoceptor",
+        "D": "β3 adrenoceptor"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(A) 正確【本題應選正解】**：`muscarinic M2 cholinoceptor` —— M2 蕈毒鹼受體（主要分佈於心臟 SA/AV node 與突觸前神經末梢）耦合 **Gi/o 蛋白**，會**抑制腺苷酸環化酶（adenylyl cyclase）活性使 cAMP 下降**，同時由 βγ 次單元開啟 K⁺ 通道導致過極化並抑制電壓閘門 Ca²⁺ 通道，**不會活化 Gq 蛋白**。",
+        "**(B) 錯誤**：`muscarinic M3 cholinoceptor` —— M3 蕈毒鹼受體（主要分佈於外分泌腺體、內臟平滑肌如逼尿肌與支氣管、虹膜環狀肌及血管內皮細胞）耦合 **Gq/11 蛋白**，活化 PLC 產生 IP3 與 DAG，使胞內 Ca²⁺ 上升（並於內皮細胞活化 eNOS 釋放 NO），不抑制 adenylyl cyclase。",
+        "**(C) 錯誤**：`β1 adrenoceptor` —— β1 腎上腺素受體（分佈於心肌、SA/AV node 與腎臟近腎絲球細胞）耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升，不活化 Gq 亦不抑制 adenylyl cyclase。",
+        "**(D) 錯誤**：`β3 adrenoceptor` —— β2 與 β3 腎上腺素受體皆耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升（分別促使支氣管／血管平滑肌舒張、膀胱逼尿肌舒張與脂肪分解）。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-5",
+      "globalIndex": 375,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列關於乙醯膽鹼的敘述何項錯誤？ Which of the following statements about acetylcholine is false?",
+      "image": null,
+      "options": {
+        "A": "能作用在蕈毒鹼受體也能作用在菸鹼受體 It can act on both muscarinic and nicotinic receptors.",
+        "B": "不容易被膽鹼酯酶水解 It is not easily hydrolyzed by cholinesterase.",
+        "C": "口服吸收效果差  Oral absorption is poor.",
+        "D": "具有親水性 It is hydrophilic."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：乙醯膽鹼（ACh）藥動學與受體特性】**：ACh 為**帶正電的四級銨親水性分子**，因此**口服吸收極差且無法通過血腦屏障（BBB）**；同時可活化 M 與 N 受體，但極易被血液與突觸間隙的膽鹼酯酶（AChE / BChE）瞬間水解，故無臨床全身給藥價值。",
+        "**(B) 敘述錯誤【本題應選正解】**：`不容易被膽鹼酯酶水解 It is not easily hydrolyzed by cholinesterase.` —— ACh 極容易被乙醯膽鹼酯酶（AChE）與丁醯膽鹼酯酶（BChE）在數毫秒內迅速水解失活，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`能作用在蕈毒鹼受體也能作用在菸鹼受體 It can act on both muscarinic and nicotinic receptors.` —— ACh 為內生性膽鹼能神經傳遞物質，可同時活化 M 與 N 兩大類膽鹼受體，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`口服吸收效果差  Oral absorption is poor.` —— 因 ACh 具永久正電荷（季銨鹽）呈高度親水性且易在腸道分解，口服吸收極差，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`具有親水性 It is hydrophilic.` —— ACh 帶有永久正電的季銨基團，具高度親水性（hydrophilic），難以穿透細胞膜與 BBB，敘述正確。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-6",
+      "globalIndex": 376,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列關於 bethanechol 的敘述何項錯誤？ Which of the following statements about bethanechol is false?",
+      "image": null,
+      "options": {
+        "A": "能作用在逼尿肌蕈毒鹼 M3 受體產生收縮作用 It can act on the detrusor muscle muscarinic M3 receptor to produce a contracting effect.",
+        "B": "可用於治療手術後胃腸道張力缺乏 It can be used to treat postoperative gastrointestinal atony.",
+        "C": "屬膽鹼酯酶抑制劑 It is a cholinesterase inhibitor.",
+        "D": "可用於治療手術後尿液滯留  It can be used to treat postoperative urinary retention."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：Bethanechol 機轉與臨床用途】**：**Bethanechol** 為**直接作用型選擇性 M 受體致效劑（direct-acting muscarinic agonist，非膽鹼酯酶抑制劑）**，臨床上主要用於治療**手術後非阻塞性尿液滯留（活化膀胱逼尿肌 M3 受體）與手術後腸胃道張力缺乏／腸阻塞**；因幾乎無 N 受體活性，故無法治療重症肌無力。",
+        "**(C) 敘述錯誤【本題應選正解】**：`屬膽鹼酯酶抑制劑 It is a cholinesterase inhibitor.` —— Bethanechol 為**直接作用型 M 受體致效劑**（透過胺基甲酸酯基抵抗 AChE 水解），**並非**膽鹼酯酶抑制劑，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`能作用在逼尿肌蕈毒鹼 M3 受體產生收縮作用 It can act on the detrusor muscle muscarinic M3 receptor to produce a contracting effect.` —— Bethanechol 活化膀胱逼尿肌上的 M3 受體（Gq → ↑IP3/Ca²⁺）促使膀胱收縮排尿，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`可用於治療手術後胃腸道張力缺乏 It can be used to treat postoperative gastrointestinal atony.` —— Bethanechol 可促進腸胃道平滑肌蠕動張力，用於術後非阻塞性腸胃道無力，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`可用於治療手術後尿液滯留  It can be used to treat postoperative urinary retention.` —— 術後非阻塞性尿液滯留是 Bethanechol 最經典的臨床適應症，敘述正確。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-7",
+      "globalIndex": 377,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列何處非菸鹼受體分佈的位置？ Which of the following is not a location where nicotinic receptors are distributed?",
+      "image": null,
+      "options": {
+        "A": "骨骼肌 Skeletal muscle",
+        "B": "神經節 Ganglion",
+        "C": "中樞神經系統 Central nervous system",
+        "D": "心臟"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：菸鹼受體（Nicotinic Receptors）之體內分佈】**：菸鹼受體分佈於 **(1) 骨骼肌運動終板（NM）**、**(2) 交感與副交感自主神經節（NN）**、**(3) 腎上腺髓質嗜鉻細胞（NN）** 及 **(4) 中樞神經系統（如 α4β2、α7）**；**心臟（SA/AV node 與心肌）僅有 M2 蕈毒鹼受體與 β1 受體，無菸鹼受體**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`心臟` —— **心臟（Heart）**的竇房結、房室結與心肌細胞膜上分佈的是副交感 **M2 蕈毒鹼受體**與交感 **β1 腎上腺素受體**，心臟組織上**完全沒有菸鹼受體（nicotinic receptor）**！",
+        "**(A) 敘述正確（非本題所求）**：`骨骼肌 Skeletal muscle` —— 骨骼肌神經肌肉接合處（neuromuscular junction, NMJ）的運動終板分佈有高密度的肌肉型菸鹼受體（NM nicotinic receptor，由 α2βεδ/γ 組成）。",
+        "**(B) 敘述正確（非本題所求）**：`神經節 Ganglion` —— 所有交感與副交感自主神經節（autonomic ganglia）的節後神經元細胞本體與樹突上皆分佈有神經型菸鹼受體（NN nicotinic receptor）。",
+        "**(C) 敘述正確（非本題所求）**：`中樞神經系統 Central nervous system` —— 中樞神經系統（CNS，如大腦皮質、海馬迴、腹側被蓋區）廣泛分佈有神經型菸鹼受體（如 α4β2 與 α7 亞型），參與認知、警覺與尼古丁成癮。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-8",
+      "globalIndex": 378,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於擬副交感神經作用劑的叙述何項錯誤？Which of the following statements about parasympathomimetic agents is false?",
+      "image": null,
+      "options": {
+        "A": "使輻射肌收縮（contract the radial muscle）",
+        "B": "釋放一氧化氮（release nitric oxide）",
+        "C": "使括約肌放鬆（relax the sphincter）",
+        "D": "引起男性之勃起起反應（cause erection in men）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：擬副交感神經藥物（Cholinomimetics）之器官效應】**：活化 **M3 受體**會引起：虹膜環狀肌收縮（縮瞳）、睫狀肌收縮（看近物、開通小樑網降眼壓）、唾液腺／淚腺／支氣管分泌增加、支氣管平滑肌收縮、腸胃蠕動增加、**膀胱逼尿肌收縮**與括約肌放鬆（排尿）、血管內皮釋放 **NO（cGMP 介導海綿體勃起與血管舒張）**；但**虹膜輻射肌與皮膚豎毛肌僅受交感 α1 支配**，不受副交感調控。",
+        "**(A) 敘述錯誤【本題應選正解】**：`使輻射肌收縮（contract the radial muscle）` —— 眼睛虹膜輻射肌／瞳孔開大肌（radial / dilator pupillae muscle）受交感神經支配並表現 **α1 受體**（收縮造成散瞳 mydriasis）；擬副交感藥物則是活化**虹膜環狀肌／瞳孔括約肌（circular / sphincter pupillae muscle）的 M3 受體**使其收縮而產生縮瞳（miosis）。",
+        "**(B) 敘述正確（非本題所求）**：`釋放一氧化氮（release nitric oxide）` —— 血管內皮細胞與海綿體平滑肌受副交感神經或擬副交感藥物作用於 **M3 受體**（↑Ca²⁺）時，會活化內皮一氧化氮合酶（eNOS）**釋放一氧化氮（nitric oxide, NO）**，促使血管平滑肌舒張。",
+        "**(C) 敘述正確（非本題所求）**：`使括約肌放鬆（relax the sphincter）` —— 擬副交感神經作用劑會促進消化道與泌尿道排空，使腸胃道括約肌與膀胱內括約肌放鬆（relax the sphincter）並使逼尿肌收縮。",
+        "**(D) 敘述正確（非本題所求）**：`引起男性之勃起起反應（cause erection in men）` —— 男性陰莖勃起（erection，“Point”）由薦髓（S2–S4）**副交感神經（骨盆神經 pelvic nerve）**調控，釋放 ACh 與一氧化氮（NO）使海綿體螺旋動脈舒張充血。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-9",
+      "globalIndex": 379,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "題目敘述下列何種藥物會直接刺激唾液腺，可用來治療口乾症狀 （xerostomia）？Which of the following drugs directly stimulates the salivary glands and is used to treat dry mouth symptoms （xerostomia）?",
+      "image": null,
+      "options": {
+        "A": "scopolamine",
+        "B": "ipratropium",
+        "C": "tetraethylammonium",
+        "D": "cevimeline"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：口乾症（Xerostomia）之成因與促唾液分泌藥物】**：頭頸癌放射線治療或修格蘭氏症候群（Sjögren's syndrome）及抗膽鹼藥物（antimuscarinics）會導致口乾；臨床使用直接作用型 M3 致效劑 **Pilocarpine（毛果芸香鹼）** 與選擇性 M3 致效劑 **Cevimeline** 促進唾液腺分泌。",
+        "**(D) 正確【本題應選正解】**：`cevimeline` —— **Cevimeline** 為直接作用型、選擇性活化唾液腺與淚腺 **M3（及 M1）蕈毒鹼受體的致效劑（agonist）**，臨床用於治療修格蘭氏症候群患者的口乾症（xerostomia）。",
+        "**(A) 錯誤**：`scopolamine` —— **Scopolamine（東莨菪鹼）**為叔胺抗蕈毒鹼藥物，中樞神經穿透力比 Atropine 更強，能有效阻斷前庭核與嘔吐中樞的 M1 受體，是臨床**預防動暈症／暈船（motion sickness）**最有效的首選藥物（散瞳作用時間長達 3–7 天）。",
+        "**(B) 錯誤**：`ipratropium` —— **Ipratropium** 為季銨結構的吸入型抗蕈毒鹼藥物（SAMA），全身吸收少且不進入 CNS、不影響呼吸道纖毛清除率，臨床用於治療**慢性阻塞性肺病（COPD）與氣喘**的支氣管擴張劑（不刺激唾液分泌，不用於暈船或心搏徐緩）。",
+        "**(C) 錯誤**：`tetraethylammonium` —— **Tetraethylammonium（TEA）**為實驗用自主神經節阻斷劑（ganglionic blocker）及鉀離子通道阻斷劑，無促進唾液分泌之臨床用途。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-10",
+      "globalIndex": 380,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於重症肌無力的敘述何項錯誤？Which of the following statements about myasthenia gravis is false?",
+      "image": null,
+      "options": {
+        "A": "自體抗體會破壞神經肌肉接點的菸鹼受體（autoantibodies destroy nicotinic receptors at the neuromuscular junction）",
+        "B": "適合用 bethanechol 做治療（treatment with bethanechol is suitable）",
+        "C": "可利用 edrophonium 進行診斷（it can be diagnosed with edrophonium）",
+        "D": "可利用免疫抑制劑進行治療（it can be treated with immunosuppressant drugs）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：重症肌無力（MG）vs. Lambert-Eaton 肌無力症候群（LEMS）】**：**MG** 為自體抗體破壞骨骼肌終板 **NM 菸鹼受體**，以短效 **Edrophonium** 診斷，並以季銨類 AChE 抑制劑 **Pyridostigmine / Neostigmine**（不進 CNS）合併免疫抑制劑治療；**LEMS** 為自體抗體破壞突觸前 Ca²⁺ 通道導致 ACh 釋放減少，使用鉀通道阻斷劑 **Amifampridine** 促進 ACh 釋放。",
+        "**(B) 敘述錯誤【本題應選正解】**：`適合用 bethanechol 做治療（treatment with bethanechol is suitable）` —— **Bethanechol** 同時具備「胺基甲酸酯基（carbamoyl group，**完全不被膽鹼酯酶水解**）」與「β-甲基（**完全無菸鹼受體 N 活性**）」，為選擇性直接作用於平滑肌 **M3 受體**的擬膽鹼致效劑，臨床用於促進膀胱逼尿肌收縮與腸胃蠕動，治療**手術後或產後非阻塞性尿滯留與麻痺性腸阻塞（gastrointestinal atony / ileus）**，對重症肌無力（NM 受體）無效。",
+        "**(A) 敘述正確（非本題所求）**：`自體抗體會破壞神經肌肉接點的菸鹼受體（autoantibodies destroy nicotinic receptors at the neuromuscular junction）` —— 重症肌無力（Myasthenia gravis）屬於第二型自體免疫疾病，患者體內產生抗體攻擊並加速內吞降解骨骼肌終板上的**肌肉型菸鹼乙醯膽鹼受體（NM nicotinic receptors）**。",
+        "**(C) 敘述正確（非本題所求）**：`可利用 edrophonium 進行診斷（it can be diagnosed with edrophonium）` —— **Edrophonium** 為超短效（5–15 分鐘）季銨膽鹼酯酶抑制劑，靜脈注射若能立即短暫改善眼瞼下垂與肌力，即可用於**臨床輔助診斷重症肌無力（Tensilon test）**。",
+        "**(D) 敘述正確（非本題所求）**：`可利用免疫抑制劑進行治療（it can be treated with immunosuppressant drugs）` —— 由於重症肌無力為自體免疫抗體介導的疾病，除了症狀治療的 AChE 抑制劑外，常合併使用**類固醇或免疫抑制劑（如 Azathioprine、Mycophenolate）**及胸腺切除術。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-11",
+      "globalIndex": 381,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不是 atropine 的臨床用途？Which of the following is not a clinical use of atropine?",
+      "image": null,
+      "options": {
+        "A": "手術時減少支氣管分泌（it reduces bronchial secretions during surgery）",
+        "B": "使眼睛睫狀肌麻痺（paralysis of ciliary pary muscle）",
+        "C": "治療狹角青光眼（treatment for closed-angle glaucoma）",
+        "D": "急性有機磷中毒之解救（antidote for acute organophosphate poisoning）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：Atropine 臨床用途與絕對禁忌症（狹角型青光眼）】**：Atropine 用於：**術前減少呼吸道分泌物、散瞳及睫狀肌麻痺檢查、急性有機磷／毒氣中毒解毒劑、心搏過緩**。但 Atropine 會導致散瞳並使虹膜推擠堵塞前房隅角，引發眼壓急劇飆升，故**狹角型青光眼（closed-angle glaucoma）為絕對禁忌症**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`治療狹角青光眼（treatment for closed-angle glaucoma）` —— Atropine 散瞳會阻塞房水經小樑網排出，**絕對禁止**用於**狹角型青光眼（closed-angle glaucoma）**（反而會誘發急性青光眼發作），故非臨床用途。",
+        "**(A) 敘述正確（非本題所求）**：`手術時減少支氣管分泌（it reduces bronchial secretions during surgery）` —— Atropine 阻斷氣道腺體 M3 受體減少唾液與支氣管分泌，曾廣泛用於麻醉術前給藥，為臨床用途。",
+        "**(B) 敘述正確（非本題所求）**：`使眼睛睫狀肌麻痺（paralysis of ciliary pary muscle）` —— Atropine 阻斷睫狀肌 M3 受體產生睫狀肌麻痺（cycloplegia），用於屈光檢查與虹膜炎止痛，為臨床用途。",
+        "**(D) 敘述正確（非本題所求）**：`急性有機磷中毒之解救（antidote for acute organophosphate poisoning）` —— Atropine 可競爭性拮抗有機磷中毒堆積之大量 ACh 對中樞與周邊 M 受體的過度刺激（配合 Pralidoxime），為標準解毒劑。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-12",
+      "globalIndex": 382,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何項膽鹼酯酶抑制劑能反轉因 atropine 引起之中樞性抗膽鹼激素症狀？ Which of the following cholinesterase inhibitors can reverse the central anticholinergic symptoms caused by atropine?",
+      "image": null,
+      "options": {
+        "A": "neostigmine",
+        "B": "physostigmine",
+        "C": "pyridostigmine",
+        "D": "edrophonium"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：可穿透血腦屏障（BBB）之膽鹼酯酶抑制劑——Physostigmine】**：Neostigmine、Pyridostigmine 與 Edrophonium 皆為**帶正電的四級銨（quaternary ammonium）**化合物，無法穿透血腦屏障（BBB）；唯有天然**叔胺（tertiary amine）結構的 Physostigmine（毒扁豆鹼）**能進入中樞神經系統，專一性用來解救 Atropine、Scopolamine 或三環抗憂鬱劑引起的中樞抗膽鹼譫妄中毒。",
+        "**(B) 正確【本題應選正解】**：`physostigmine` —— **Physostigmine** 為不帶永久電荷的叔胺（tertiary amine）可逆性 AChE 抑制劑，能順利**穿透血腦屏障（BBB）**提升腦內 ACh 濃度以反轉中樞抗膽鹼症狀。",
+        "**(A) 錯誤**：`neostigmine` —— **Neostigmine** 帶有四級銨正電荷，無法通過 BBB，僅能作用於周邊（如術後腸麻痺、重症肌無力與去極化/非去極化肌鬆劑拮抗）。",
+        "**(C) 錯誤**：`pyridostigmine` —— **Pyridostigmine** 為四級銨結構（無法穿透 BBB），主要作為重症肌無力（MG）的口服長效維持用藥。",
+        "**(D) 錯誤**：`edrophonium` —— **Edrophonium** 為極短效的四級銨 AChE 抑制劑（無法穿透 BBB），僅用於周邊診斷重症肌無力（Tensilon test）或區分肌無力／膽鹼危象。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-13",
+      "globalIndex": 383,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於有機磷農藥中毒解毒劑 pralidoxime 的敘述何項錯誤？Which of the following statements about pralidoxime, an antidote for organophosphate insecticide poisoning, is false?",
+      "image": null,
+      "options": {
+        "A": "有效將老化的膽鹼酯酶再活化（it effectively reactivates aged cholinesterase）",
+        "B": "改善因菸鹼受體受抑制所造成的肌肉無力（it improves muscle weakness caused by inbibition of nicotinic receptors）",
+        "C": "無法作用於中樞神經系統（it is unable to act on the central nervous system）",
+        "D": "為親核試劑（it serves as a nucleophile）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：有機磷／沙林毒氣中毒與雙重解毒劑機轉】**：有機磷（如 Parathion）不可逆磷酸化抑制 AChE，引起 DUMBBELSS 蕈毒鹼症狀、菸鹼症狀與中樞毒性。解毒需併用：**① Atropine**（穿透 BBB 阻斷中樞與周邊 **M 受體**，但對骨骼肌菸鹼受體無效）＋ **② Pralidoxime（2-PAM）**（帶季銨正電不進 CNS，作為親核試劑切斷磷酯鍵再生 AChE 以恢復骨骼肌 **NM 菸鹼受體**功能，但**必須在酵素「老化 Aging」前儘早給藥**）。",
+        "**(A) 敘述錯誤【本題應選正解】**：`有效將老化的膽鹼酯酶再活化（it effectively reactivates aged cholinesterase）` —— 磷酸化膽鹼酯酶在數小時內會脫去一個烷基而發生**「老化（Aging）」**，一旦老化後磷酯鍵極度穩定，**Pralidoxime 就無法再將老化的酵素活化**，故必須在中毒後數小時內（老化前）儘早給藥，絕非三天內皆有效！",
+        "**(B) 敘述正確（非本題所求）**：`改善因菸鹼受體受抑制所造成的肌肉無力（it improves muscle weakness caused by inbibition of nicotinic receptors）` —— **Pralidoxime（2-PAM）**能切斷有機磷與 AChE 的共價鍵，重新恢復骨骼肌神經肌肉接合處（NMJ）的 AChE 水解活性，從而**有效緩解菸鹼受體（nicotinic receptor）過度活化與去極化阻斷造成的肌束震顫與呼吸肌無力**。",
+        "**(C) 敘述正確（非本題所求）**：`無法作用於中樞神經系統（it is unable to act on the central nervous system）` —— Pralidoxime（2-PAM）結構帶有永久正電的季銨基團（quaternary ammonium），脂溶性極低，**無法穿透血腦屏障（BBB）作用於中樞神經系統**。",
+        "**(D) 敘述正確（非本題所求）**：`為親核試劑（it serves as a nucleophile）` —— Pralidoxime 結構上的肟基（oxime group, `=N-OH`）具有高度親核性（nucleophile），能攻擊磷原子將磷酸基團從 AChE 酵素上拉走。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-14",
+      "globalIndex": 384,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "有關擬副交感神經藥物所產生之作用，下列何者錯誤？Regarding the effects produced by parasympathomimetic drugs, which of the following is false?",
+      "image": null,
+      "options": {
+        "A": "睫狀肌舒張 Relaxation of ciliary muscles",
+        "B": "逼尿肌收缩 Contraction of detrusor muscles",
+        "C": "唾液腺分泌增加 Increase in salivary gland secretion",
+        "D": "支氣管收縮 Bronchoconstriction"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：擬副交感神經藥物（Cholinomimetics）之器官效應】**：活化 **M3 受體**會引起：虹膜環狀肌收縮（縮瞳）、睫狀肌收縮（看近物、開通小樑網降眼壓）、唾液腺／淚腺／支氣管分泌增加、支氣管平滑肌收縮、腸胃蠕動增加、**膀胱逼尿肌收縮**與括約肌放鬆（排尿）、血管內皮釋放 **NO（cGMP 介導海綿體勃起與血管舒張）**；但**虹膜輻射肌與皮膚豎毛肌僅受交感 α1 支配**，不受副交感調控。",
+        "**(A) 敘述錯誤【本題應選正解】**：`睫狀肌舒張 Relaxation of ciliary muscles` —— 眼睛睫狀肌（ciliary muscle）受副交感神經（CN III）支配並表現 **M3 受體**；給予擬副交感神經藥物會使**睫狀肌收縮**（懸韌帶放鬆、水晶體變厚以看近物 accommodation），而非舒張！",
+        "**(B) 敘述正確（非本題所求）**：`逼尿肌收缩 Contraction of detrusor muscles` —— 膀胱逼尿肌（detrusor muscle）表現 M3 受體（耦合 Gq），擬副交感藥物（如 Bethanechol）活化 M3 受體會使逼尿肌收縮、膀胱內括約肌放鬆以促進排尿。",
+        "**(C) 敘述正確（非本題所求）**：`唾液腺分泌增加 Increase in salivary gland secretion` —— 唾液腺表現 M3 受體，擬副交感藥物活化 M3 受體會顯著增加水樣唾液分泌（salivation）。",
+        "**(D) 敘述正確（非本題所求）**：`支氣管收縮 Bronchoconstriction` —— 支氣管平滑肌表現 M3 受體，擬副交感藥物（如 Methacholine）活化 M3 受體會引起支氣管平滑肌收縮與呼吸道腺體分泌增加。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-15",
+      "globalIndex": 385,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種疾病不是擬膽鹼藥物的適應症？Which of the following diseases is not an indication of cholinomimetic drugs?",
+      "image": null,
+      "options": {
+        "A": "青光眼 Glaucoma",
+        "B": "巴金森氏症 Parkinson's disease",
+        "C": "手術後胃腸道或膀胱張力缺乏 Postoperative atony in the gastrointestinal tract or bladder",
+        "D": "重症肌無力 Myasthenia gravis"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：擬膽鹼藥物（Cholinomimetics）臨床適應症】**：擬膽鹼藥物（直接致效劑或 AChE 抑制劑）主要用於：**青光眼（Pilocarpine 縮瞳降眼壓）、重症肌無力（Neostigmine/Pyridostigmine）、術後尿滯留與腸胃無力（Bethanechol）、阿茲海默症（Donepezil）**。反之，**動暈症（使用 Scopolamine）與巴金森氏症（使用 Benztropine）**需用「抗膽鹼藥物」治療。",
+        "**(B) 敘述錯誤【本題應選正解】**：`巴金森氏症 Parkinson's disease` —— 巴金森氏症因黑質紋狀體多巴胺不足造成紋狀體 ACh 相對過高，治療需使用**中樞抗蕈毒鹼藥物（如 Benztropine、Trihexyphenidyl）**而非擬膽鹼藥物，故非適應症。",
+        "**(A) 敘述正確（非本題所求）**：`青光眼 Glaucoma` —— Pilocarpine 等擬膽鹼藥物可收縮睫狀肌與瞳孔括約肌促進房水排出，為青光眼適應症。",
+        "**(C) 敘述正確（非本題所求）**：`手術後胃腸道或膀胱張力缺乏 Postoperative atony in the gastrointestinal tract or bladder` —— Bethanechol 與 Neostigmine 可促進腸胃與膀胱平滑肌收縮，為術後腸胃／膀胱張力缺乏之適應症。",
+        "**(D) 敘述正確（非本題所求）**：`重症肌無力 Myasthenia gravis` —— Neostigmine、Pyridostigmine 等 AChE 抑制劑可增加 NMJ 乙醯膽鹼濃度，為重症肌無力標準用藥。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-16",
+      "globalIndex": 386,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "膽鹼酯酶抑制劑中毒，可觀察到病患產生縮瞳症狀，其藥理機制為活化下列何種眼睛虹 膜受體所導致？In cholinesterase inhibitor poisoning, the observation of miosis （constricted pupils） in patients is due to the activation of which type of iris receptor in the eye?",
+      "image": null,
+      "options": {
+        "A": "環狀肌草毒鹼受體  Circular muscle muscarinic receptor",
+        "B": "環狀肌尼古丁受體 Circular muscle nicotinic receptor",
+        "C": "幅射肌 alpha 受體 Radial muscle alpha receptor",
+        "D": "輻射肌 beta 受體 Radial muscle beta receptor"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(A) 正確【本題應選正解】**：`環狀肌草毒鹼受體  Circular muscle muscarinic receptor` —— 虹膜環狀肌（瞳孔括約肌 sphincter pupillae）受動眼神經副交感纖維支配，細胞膜上為 **M3 蕈毒鹼受體（muscarinic receptor）**；有機磷、沙林毒氣或膽鹼酯酶抑制劑中毒時，ACh 大量累積並過度活化環狀肌 M3 受體，導致環狀肌強烈收縮而出現針尖般瞳孔縮小（miosis）。",
+        "**(B) 錯誤**：`環狀肌尼古丁受體 Circular muscle nicotinic receptor` —— 虹膜環狀肌為平滑肌（效應器官），其膽鹼受體為蕈毒鹼受體（M3 muscarinic receptor），並無菸鹼受體（nicotinic receptor 位於自主神經節與骨骼肌終板）。",
+        "**(C) 錯誤**：`幅射肌 alpha 受體 Radial muscle alpha receptor` —— 眼睛虹膜輻射肌（瞳孔開大肌 radial / dilator pupillae muscle）受交感神經支配並表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生**散瞳（mydriasis）**，並非膽鹼酯酶抑制劑或沙林毒氣引起縮瞳（miosis）之機轉。",
+        "**(D) 錯誤**：`輻射肌 beta 受體 Radial muscle beta receptor` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-17",
+      "globalIndex": 387,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "殺蟲劑 parathion 因使用頻繁，意外中毒事件時有所聞，下列何者不適合做為 parathion 的解毒劑？The insecticide parathion is known for accidental poisoning due to frequent use. Which of the following is not suitable as an antidote for parathion?",
+      "image": null,
+      "options": {
+        "A": "Pralidoxime",
+        "B": "Atropine",
+        "C": "Diacetylmonoxime",
+        "D": "Carbachol"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：有機磷／沙林毒氣中毒與雙重解毒劑機轉】**：有機磷（如 Parathion）不可逆磷酸化抑制 AChE，引起 DUMBBELSS 蕈毒鹼症狀、菸鹼症狀與中樞毒性。解毒需併用：**① Atropine**（穿透 BBB 阻斷中樞與周邊 **M 受體**，但對骨骼肌菸鹼受體無效）＋ **② Pralidoxime（2-PAM）**（帶季銨正電不進 CNS，作為親核試劑切斷磷酯鍵再生 AChE 以恢復骨骼肌 **NM 菸鹼受體**功能，但**必須在酵素「老化 Aging」前儘早給藥**）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Carbachol` —— **Carbachol** 將乙醯基替換為胺基甲酸酯基（carbamoyl group），使其**完全抗拒膽鹼酯酶（AChE）水解**；且因缺乏 β-甲基，故**同時保留強效的蕈毒鹼（M）與菸鹼（N）受體活化作用**，臨床主要作為局部點眼縮瞳降眼壓劑（治療青光眼）。",
+        "**(A) 敘述正確（非本題所求）**：`Pralidoxime` —— **Pralidoxime（2-PAM）**為強效親核試劑（nucleophile），能切斷有機磷（organophosphates）與膽鹼酯酶結合的磷酯鍵使 AChE 再生，特別能有效恢復骨骼肌神經肌肉接合處（NMJ）的 AChE 活性以**緩解菸鹼受體（nicotinic）過度活化造成的肌束震顫與呼吸肌麻痺**；但因其帶季銨正電無法進入 CNS，且**必須在磷酸化酵素發生「老化（Aging）」前（中毒後數小時內）儘早投與**，無法將已老化的膽鹼酯酶再活化。",
+        "**(B) 敘述正確（非本題所求）**：`Atropine` —— **Atropine（阿托品）**為叔胺結構的非選擇性競爭性**蕈毒鹼受體阻斷劑（muscarinic antagonist）**，臨床用於：(1) 治療迷走神經興奮引起之**竇性心搏徐緩（bradycardia）**；(2) 解救**有機磷農藥、沙林毒氣與毒蕈鹼中毒**的蕈毒鹼樣症狀（但對菸鹼受體無效）；(3) 眼科長效**散瞳（mydriasis）與睫狀肌麻痺（cycloplegia）**；(4) 抑制唾液與支氣管分泌及止痙止瀉。**禁忌與限制**：對骨骼肌菸鹼受體無效（不會產生骨骼肌鬆弛），且散瞳會阻塞房水排出而**惡化隅角閉鎖型與開放型青光眼**。",
+        "**(C) 敘述正確（非本題所求）**：`Diacetylmonoxime` —— **Diacetylmonoxime（DAM）**為脂溶性肟類（oxime）膽鹼酯酶再活化劑，結構不帶季銨電荷，可穿透血腦屏障進入 CNS 再活化尚未老化的磷酸化膽鹼酯酶，可作為有機磷（如 Parathion）中毒之解毒劑。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-18",
+      "globalIndex": 388,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於重症肌無力的敘述何項錯誤？Which of the following statements about myasthenia gravis is false?",
+      "image": null,
+      "options": {
+        "A": "適合用 bethanechol 做治療 It is suitable for treatment with bethanechol.",
+        "B": "適合用膽鹼酯酶抑制劑做治療 It is suitable for treatment with cholinesterase inhibitors.",
+        "C": "可利用 edrophonium 進行診斷 Edrophonium can be used for diagnosis.",
+        "D": "自體抗體會破壞骨骼肌的菸鹼受體 Autoantibodies may destroy the nicotinic receptors of skeletal muscles."
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：重症肌無力（MG）vs. Lambert-Eaton 肌無力症候群（LEMS）】**：**MG** 為自體抗體破壞骨骼肌終板 **NM 菸鹼受體**，以短效 **Edrophonium** 診斷，並以季銨類 AChE 抑制劑 **Pyridostigmine / Neostigmine**（不進 CNS）合併免疫抑制劑治療；**LEMS** 為自體抗體破壞突觸前 Ca²⁺ 通道導致 ACh 釋放減少，使用鉀通道阻斷劑 **Amifampridine** 促進 ACh 釋放。",
+        "**(A) 敘述錯誤【本題應選正解】**：`適合用 bethanechol 做治療 It is suitable for treatment with bethanechol.` —— **Bethanechol** 同時具備「胺基甲酸酯基（carbamoyl group，**完全不被膽鹼酯酶水解**）」與「β-甲基（**完全無菸鹼受體 N 活性**）」，為選擇性直接作用於平滑肌 **M3 受體**的擬膽鹼致效劑，臨床用於促進膀胱逼尿肌收縮與腸胃蠕動，治療**手術後或產後非阻塞性尿滯留與麻痺性腸阻塞（gastrointestinal atony / ileus）**，對重症肌無力（NM 受體）無效。",
+        "**(B) 敘述正確（非本題所求）**：`適合用膽鹼酯酶抑制劑做治療 It is suitable for treatment with cholinesterase inhibitors.` —— 季銨類可逆性膽鹼酯酶抑制劑（**Pyridostigmine**、**Neostigmine**）不會通過 BBB 產生中樞副作用，能有效提升 NMJ 突觸間隙 ACh 濃度，是治療重症肌無力的標準用藥。",
+        "**(C) 敘述正確（非本題所求）**：`可利用 edrophonium 進行診斷 Edrophonium can be used for diagnosis.` —— **Edrophonium** 為超短效（5–15 分鐘）季銨膽鹼酯酶抑制劑，靜脈注射若能立即短暫改善眼瞼下垂與肌力，即可用於**臨床輔助診斷重症肌無力（Tensilon test）**。",
+        "**(D) 敘述正確（非本題所求）**：`自體抗體會破壞骨骼肌的菸鹼受體 Autoantibodies may destroy the nicotinic receptors of skeletal muscles.` —— 重症肌無力（Myasthenia gravis）屬於第二型自體免疫疾病，患者體內產生抗體攻擊並加速內吞降解骨骼肌終板上的**肌肉型菸鹼乙醯膽鹼受體（NM nicotinic receptors）**。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-19",
+      "globalIndex": 389,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於口乾症的敘述何項錯誤？Which of the following statements about xerostomia （dry mouth）is false?",
+      "image": null,
+      "options": {
+        "A": "pilocarpine 可刺激唾液腺 Pilocarpine can stimulate the salivary glands.",
+        "B": "Cevimeline is a selective M1 and M3 muscarinic receptor antagonist.",
+        "C": "Antimuscarinic drugs 會產生口乾症狀 Antimuscarinic drugs may cause dry mouth.",
+        "D": "好發於修格蘭氏症候群患者 It commonly occurs in patients with Sjogren's syndrome."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：口乾症（Xerostomia）之成因與促唾液分泌藥物】**：頭頸癌放射線治療或修格蘭氏症候群（Sjögren's syndrome）及抗膽鹼藥物（antimuscarinics）會導致口乾；臨床使用直接作用型 M3 致效劑 **Pilocarpine（毛果芸香鹼）** 與選擇性 M3 致效劑 **Cevimeline** 促進唾液腺分泌。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Cevimeline is a selective M1 and M3 muscarinic receptor antagonist.` —— **Cevimeline** 為直接作用型、選擇性活化唾液腺與淚腺 **M3（及 M1）蕈毒鹼受體的致效劑（agonist）**，臨床用於治療修格蘭氏症候群患者的口乾症（xerostomia）。",
+        "**(A) 敘述正確（非本題所求）**：`pilocarpine 可刺激唾液腺 Pilocarpine can stimulate the salivary glands.` —— **Pilocarpine（毛果芸香鹼）**為天然叔胺（tertiary amine）生物鹼，屬直接作用型蕈毒鹼（M3）受體致效劑，可穿透角膜收縮虹膜環狀肌（縮瞳）與睫狀肌（打開小樑網增加眼房水外流以治療隅角開放型與閉鎖型青光眼），且具極強的促進唾液與汗液分泌作用，口服用於治療**頭頸癌放療後或修格蘭氏症候群（Sjögren's syndrome）引起的口乾症（xerostomia）**。",
+        "**(C) 敘述正確（非本題所求）**：`Antimuscarinic drugs 會產生口乾症狀 Antimuscarinic drugs may cause dry mouth.` —— 抗蕈毒鹼藥物（Antimuscarinic drugs，如 Atropine、Oxybutynin）會阻斷唾液腺 M3 受體，臨床最常見的副作用即為**口乾（xerostomia）**。",
+        "**(D) 敘述正確（非本題所求）**：`好發於修格蘭氏症候群患者 It commonly occurs in patients with Sjogren's syndrome.` —— 修格蘭氏症候群（Sjögren's syndrome，乾燥症）為自體免疫破壞淚腺與唾液腺的疾病，患者最常表現嚴重的口乾症與乾眼症。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-20",
+      "globalIndex": 390,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何項藥物不適合用來治療隅角開放型青光眼？Which of the following drugs is not suitable for treating open-angle glaucoma?",
+      "image": null,
+      "options": {
+        "A": "B-adrenoceptor antagonists",
+        "B": "Pilocarpine",
+        "C": "Carbachol",
+        "D": "atropine"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：隅角開放型青光眼（Open-Angle Glaucoma）降眼壓藥物】**：降眼壓兩大機轉：(1) **減少房水生成**：β 受體阻斷劑（**Timolol**、Betaxolol）、α2 致效劑（**Apraclonidine**、Brimonidine）、碳酸酐酶抑制劑（Dorzolamide）；(2) **增加房水排出**：前列腺素 F2α 類似物（**Latanoprost** 增加葡萄膜鞏膜路徑排出）、擬膽鹼縮瞳劑（**Pilocarpine、Carbachol** 收縮睫狀肌打開小樑網）。而 **Atropine** 會散瞳阻礙排出，反使眼壓升高！",
+        "**(D) 敘述錯誤【本題應選正解】**：`atropine` —— **Atropine** 為抗蕈毒鹼散瞳劑，會鬆弛睫狀肌並壓迫前房隅角阻礙房水排出，**無法降低眼壓且可能誘發眼壓飆升**，極不適合用於青光眼。",
+        "**(A) 敘述正確（非本題所求）**：`B-adrenoceptor antagonists` —— β 受體阻斷劑（如 Timolol）抑制睫狀體上皮 β 受體減少房水生成，為青光眼標準治療。",
+        "**(B) 敘述正確（非本題所求）**：`Pilocarpine` —— **Pilocarpine**（M3 致效劑）收縮睫狀肌拉開小樑網促進房水排出，有效降低眼壓。",
+        "**(C) 敘述正確（非本題所求）**：`Carbachol` —— **Carbachol** 為長效擬膽鹼藥物，透過縮瞳與收縮睫狀肌增加房水外流，可用於青光眼。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-21",
+      "globalIndex": 391,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列關於 bethanechol 的敘述何項錯誤？Which of the following statements about bethanechol is false?",
+      "image": null,
+      "options": {
+        "A": "能作用在逼尿肌蕈毒鹼 M3 受體產生收縮作用 it can act on the detrusor muscle muscarinic M3 receptor to produce a contracting effect.",
+        "B": "可用於治療手術後胃腸道張力缺乏 It can be used to treat postoperative gastrointestinal atony.",
+        "C": "屬膽鹼酯酶抑制劑 It is a cholinesterase inhibitor.",
+        "D": "可用於治療手術後尿液滯留 It can be used to treat postoperative urinary retention."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：Bethanechol 機轉與臨床用途】**：**Bethanechol** 為**直接作用型選擇性 M 受體致效劑（direct-acting muscarinic agonist，非膽鹼酯酶抑制劑）**，臨床上主要用於治療**手術後非阻塞性尿液滯留（活化膀胱逼尿肌 M3 受體）與手術後腸胃道張力缺乏／腸阻塞**；因幾乎無 N 受體活性，故無法治療重症肌無力。",
+        "**(C) 敘述錯誤【本題應選正解】**：`屬膽鹼酯酶抑制劑 It is a cholinesterase inhibitor.` —— Bethanechol 為**直接作用型 M 受體致效劑**（透過胺基甲酸酯基抵抗 AChE 水解），**並非**膽鹼酯酶抑制劑，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`能作用在逼尿肌蕈毒鹼 M3 受體產生收縮作用 it can act on the detrusor muscle muscarinic M3 receptor to produce a contracting effect.` —— Bethanechol 活化膀胱逼尿肌上的 M3 受體（Gq → ↑IP3/Ca²⁺）促使膀胱收縮排尿，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`可用於治療手術後胃腸道張力缺乏 It can be used to treat postoperative gastrointestinal atony.` —— Bethanechol 可促進腸胃道平滑肌蠕動張力，用於術後非阻塞性腸胃道無力，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`可用於治療手術後尿液滯留 It can be used to treat postoperative urinary retention.` —— 術後非阻塞性尿液滯留是 Bethanechol 最經典的臨床適應症，敘述正確。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-22",
+      "globalIndex": 392,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列受體的訊息傳遊，何者是活化 Gq 蛋白？",
+      "image": null,
+      "options": {
+        "A": "Alpha1-adrenoceptor",
+        "B": "Alpha 2-adrenoceptor",
+        "C": "Beta 1-adrenoceptor",
+        "D": "Beta 2-adrenoceptor"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(A) 正確【本題應選正解】**：`Alpha1-adrenoceptor` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。",
+        "**(B) 錯誤**：`Alpha 2-adrenoceptor` —— α2 腎上腺素受體（分佈於交感突觸前末梢、中樞腦幹與部分血管平滑肌）耦合 **Gi 蛋白**，抑制 adenylyl cyclase 使 cAMP 下降，不活化 Gq 蛋白。",
+        "**(C) 錯誤**：`Beta 1-adrenoceptor` —— β1 腎上腺素受體（分佈於心肌、SA/AV node 與腎臟近腎絲球細胞）耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升，不活化 Gq 亦不抑制 adenylyl cyclase。",
+        "**(D) 錯誤**：`Beta 2-adrenoceptor` —— β2 與 β3 腎上腺素受體皆耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升（分別促使支氣管／血管平滑肌舒張、膀胱逼尿肌舒張與脂肪分解）。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-23",
+      "globalIndex": 393,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列直接作用型擬脆鹼藥物（direct-acting cholinomimetics）中，何者最易被 cholinesterase 水解而失去活性",
+      "image": null,
+      "options": {
+        "A": "methacholine",
+        "B": "carbachol",
+        "C": "bethanechol",
+        "D": "acetylcholine"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：直接型擬膽鹼藥物對 Cholinesterase 敏感度排序】**：**Acetylcholine**（極易被 AChE 瞬間水解） > **Methacholine**（具 β-甲基立體障礙，水解速度大幅減慢且不受 BChE 水解） >> **Carbachol ≈ Bethanechol**（具胺基甲酸酯基，幾乎完全不被 cholinesterase 水解）。",
+        "**(D) 正確【本題應選正解】**：`acetylcholine` —— **Acetylcholine（ACh）**為未經結構修飾的天然乙酸酯，進入體內即被突觸間隙 AChE 與血漿 BChE 瞬間水解失活。",
+        "**(A) 錯誤**：`methacholine` —— **Methacholine** 因帶有 β-甲基立體阻礙，對 AChE 親和力降低（水解較慢）且不被血漿 BChE 水解。",
+        "**(B) 錯誤**：`carbachol` —— **Carbachol** 含有胺基甲酸酯（carbamoyl）結構，幾乎完全抗拒 AChE 與 BChE 水解，作用時間長。",
+        "**(C) 錯誤**：`bethanechol` —— **Bethanechol** 同時具備 β-甲基與胺基甲酸酯基，完全不被 cholinesterase 水解。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-24",
+      "globalIndex": 394,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "關於乙醯膽鹼（acetylcholine）的敘述何項正確（true）？",
+      "image": null,
+      "options": {
+        "A": "口服吸收效果好",
+        "B": "可通過血腦屏降（blood-brain barrier）",
+        "C": "不容易被膽鹼酯酶（cholinesterase）水解",
+        "D": "能活化蕈毒鹼受體（muscarinic receptor）也能活化菸鹼受體（nicotinic receptor）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：乙醯膽鹼（ACh）藥理特性】**：ACh 同時為**蕈毒鹼受體（mAChR）與菸鹼受體（nAChR）**的內生性致效劑；但因其為永久帶電的季銨親水分子且具不穩定乙酸酯鍵，**口服吸收差、無法通過血腦屏障（BBB）、且極易被膽鹼酯酶水解**。",
+        "**(D) 正確【本題應選正解】**：`能活化蕈毒鹼受體（muscarinic receptor）也能活化菸鹼受體（nicotinic receptor）` —— ACh 可同時非選擇性地結合並活化 **muscarinic receptor** 與 **nicotinic receptor**。",
+        "**(A) 錯誤**：`口服吸收效果好` —— ACh 為永久帶正電之親水性季銨化合物，無法有效穿透胃腸道脂雙層，口服吸收極差。",
+        "**(B) 錯誤**：`可通過血腦屏降（blood-brain barrier）` —— ACh 因極性高且帶正電，無法通過血腦屏障（BBB）進入中樞神經系統。",
+        "**(C) 錯誤**：`不容易被膽鹼酯酶（cholinesterase）水解` —— ACh 是膽鹼酯酶（AChE）的天然受質，極容易在體內被瞬間水解失活。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-25",
+      "globalIndex": 395,
+      "qNum": 25,
+      "origQ": "Q25",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者活化菸鹼受體（nicotinic receptor）的作用弱，且不易被膽鹼酯酶 （cholinesterase） 水解？",
+      "image": null,
+      "options": {
+        "A": "acetylcholine",
+        "B": "methacholine",
+        "C": "bethanechol",
+        "D": "carbachol"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：Methacholine vs. Bethanechol 題意判別】**：若題目四個選項為 ACh、Methacholine、Bethanechol、Carbachol 且標準答案設為 **Methacholine**（如 1029_Pharm2-25）：**Methacholine** 因具 β-甲基取代基而對菸鹼受體作用極弱，同時也比 ACh 不易被膽鹼酯酶水解（臨床用於氣管激發試驗 methacholine challenge test）。",
+        "**(B) 正確【本題應選正解】**：`methacholine` —— **Methacholine** 具 β-甲基，使其對 N 受體作用極弱（高度選擇性作用於 M 受體），且比 ACh 更不易被膽鹼酯酶水解（本題題庫正解為 Methacholine）。",
+        "**(A) 錯誤**：`acetylcholine` —— ACh 對菸鹼受體有強效活化作用，且極易被膽鹼酯酶迅速水解。",
+        "**(C) 錯誤**：`bethanechol` —— Bethanechol 亦具備 β-甲基與胺基甲酸酯基（實質上比 Methacholine 更完全抗拒水解與無 N 活性；惟本題國考／期中題庫設定答案為 B `methacholine`）。",
+        "**(D) 錯誤**：`carbachol` —— Carbachol 無 β-甲基，仍保有強烈的菸鹼受體（N）活化作用。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-26",
+      "globalIndex": 396,
+      "qNum": 26,
+      "origQ": "Q26",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列何種疾病不是擬膽鹼藥物（cholinomimetic drugs）的適應症 （indication）？",
+      "image": null,
+      "options": {
+        "A": "青光眼（glaucoma）",
+        "B": "動暈症（motion sickness）",
+        "C": "重症肌無力（myasthenia gravis）",
+        "D": "手術後胃腸道或膀胱張力缺乏（pastoperative atony in the gastrointestinal tract or bladder）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：擬膽鹼藥物（Cholinomimetics）臨床適應症】**：擬膽鹼藥物（直接致效劑或 AChE 抑制劑）主要用於：**青光眼（Pilocarpine 縮瞳降眼壓）、重症肌無力（Neostigmine/Pyridostigmine）、術後尿滯留與腸胃無力（Bethanechol）、阿茲海默症（Donepezil）**。反之，**動暈症（使用 Scopolamine）與巴金森氏症（使用 Benztropine）**需用「抗膽鹼藥物」治療。",
+        "**(D) 敘述錯誤【本題應選正解】**：`手術後胃腸道或膀胱張力缺乏（pastoperative atony in the gastrointestinal tract or bladder）` —— Bethanechol 與 Neostigmine 可促進腸胃與膀胱平滑肌收縮，為術後腸胃／膀胱張力缺乏之適應症。",
+        "**(A) 敘述正確（非本題所求）**：`青光眼（glaucoma）` —— Pilocarpine 等擬膽鹼藥物可收縮睫狀肌與瞳孔括約肌促進房水排出，為青光眼適應症。",
+        "**(B) 敘述正確（非本題所求）**：`動暈症（motion sickness）` —— 預防動暈症（motion sickness）需使用**抗蕈毒鹼藥物（Scopolamine）**抑制前庭膽鹼能過度興奮；擬膽鹼藥物反而會加重噁心嘔吐，故非適應症。",
+        "**(C) 敘述正確（非本題所求）**：`重症肌無力（myasthenia gravis）` —— Neostigmine、Pyridostigmine 等 AChE 抑制劑可增加 NMJ 乙醯膽鹼濃度，為重症肌無力標準用藥。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-27",
+      "globalIndex": 397,
+      "qNum": 27,
+      "origQ": "Q27",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "近期臺東發生食用小米粽後多人送醫的事件，臨床症狀表現為流汗 （sweating） 、流口水（salivation） 、瞳孔縮小（miosis）、涣眼汪汪、嘔吐 （vomiting） 、腹瀉（diarrhea）甚至死亡，懷疑為農藥（insecticide）中毒。下列關於農藥的敘述 何項錯誤（false）？",
+      "image": null,
+      "options": {
+        "A": "為一種有機磷（organophosphate）藥物",
+        "B": "為一種不可逆的（irreversible）膽鹼酯酶抑制劑（cholinesterase inhibitor）",
+        "C": "可用 atropine 來缓解尼古丁受體（nicotinic receptor）過度活化症狀",
+        "D": "可用 pralidoxime 來缓解尼古丁受體（nicotinic receptor）過度活化症狀"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`可用 atropine 來缓解尼古丁受體（nicotinic receptor）過度活化症狀` —— **Atropine** 僅能阻斷**蕈毒鹼受體（muscarinic receptor）**，對骨骼肌與自主神經節的**尼古丁／菸鹼受體（nicotinic receptor）完全無效**！",
+        "**(A) 敘述正確（非本題所求）**：`為一種有機磷（organophosphate）藥物` —— 農業常用的殺蟲劑（如 Parathion 巴拉松、Malathion 馬拉松、Chlorpyrifos 陶斯松）多屬於**有機磷（organophosphates）**化合物。",
+        "**(B) 敘述正確（非本題所求）**：`為一種不可逆的（irreversible）膽鹼酯酶抑制劑（cholinesterase inhibitor）` —— 有機磷農藥會與乙醯膽鹼酯酶（AChE）活性位點的絲胺酸羥基形成極穩定的共價磷酯鍵，屬於**不可逆的（irreversible）膽鹼酯酶抑制劑**。",
+        "**(D) 敘述正確（非本題所求）**：`可用 pralidoxime 來缓解尼古丁受體（nicotinic receptor）過度活化症狀` —— **Pralidoxime（2-PAM）**能切斷有機磷與 AChE 的共價鍵，重新恢復骨骼肌神經肌肉接合處（NMJ）的 AChE 水解活性，從而**有效緩解菸鹼受體（nicotinic receptor）過度活化與去極化阻斷造成的肌束震顫與呼吸肌無力**。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-28",
+      "globalIndex": 398,
+      "qNum": 28,
+      "origQ": "Q28",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種臨床症狀，不宜使用膽鹼受體阻斷劑（cholinoceptor-blocking drugs）來治療？",
+      "image": null,
+      "options": {
+        "A": "神經毒氣（nerve gas）中毒",
+        "B": "農藥（insecticide）中毒",
+        "C": "野生赤蘑菇中森",
+        "D": "顛茄鹼中森"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：膽鹼危象解毒（Atropine）vs. 抗膽鹼中毒（Physostigmine）】**：神經毒氣（沙林等）、有機磷農藥與毒蕈鹼型赤蘑菇中毒皆造成體內 **M 受體過度興奮**，應使用 **Atropine（膽鹼受體阻斷劑）**解救；而**顛茄鹼（Belladonna alkaloids，含 Atropine/Scopolamine）中毒**本身即為抗膽鹼中毒，絕不可再給予阻斷劑，應以 **Physostigmine** 解毒。",
+        "**(D) 敘述錯誤【本題應選正解】**：`顛茄鹼中森` —— **顛茄鹼（Belladonna）本身即含有 Atropine 與 Scopolamine 等抗膽鹼生物鹼**，中毒時應給予 **Physostigmine**（不可再給膽鹼受體阻斷劑）。",
+        "**(A) 敘述正確（非本題所求）**：`神經毒氣（nerve gas）中毒` —— 神經毒氣（如 Sarin）為不可逆 AChE 抑制劑，引發嚴重膽鹼危象，需立即注射 Atropine 拮抗 M 受體。",
+        "**(B) 敘述正確（非本題所求）**：`農藥（insecticide）中毒` —— 有機磷或胺基甲酸酯類農藥抑制 AChE 引起支氣管分泌暴增與痙攣，標準急救為 Atropine（及 Pralidoxime）。",
+        "**(C) 敘述正確（非本題所求）**：`野生赤蘑菇中森` —— （選項錯字 `中森` 指中毒）毒蠅傘等含毒蕈鹼（muscarine）之蘑菇中毒會過度活化 M 受體，可使用 Atropine 解毒。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-29",
+      "globalIndex": 399,
+      "qNum": 29,
+      "origQ": "Q29",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於 bethanechol 的敘述何項錯誤（false）？",
+      "image": null,
+      "options": {
+        "A": "可用於治療手術後尿液滯留（postoperative urinary retention）",
+        "B": "可用於治療手術後腸阻塞（postoperative ileus）",
+        "C": "可用於治療重症肌無力（myasthenia gravis）",
+        "D": "屬直接作用型擬脆鹼藥物（direct-acting cholinomimetic drug）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：Bethanechol 機轉與臨床用途】**：**Bethanechol** 為**直接作用型選擇性 M 受體致效劑（direct-acting muscarinic agonist，非膽鹼酯酶抑制劑）**，臨床上主要用於治療**手術後非阻塞性尿液滯留（活化膀胱逼尿肌 M3 受體）與手術後腸胃道張力缺乏／腸阻塞**；因幾乎無 N 受體活性，故無法治療重症肌無力。",
+        "**(C) 敘述錯誤【本題應選正解】**：`可用於治療重症肌無力（myasthenia gravis）` —— 重症肌無力需增強骨骼肌終板 **NM 菸鹼受體**訊號（使用 Neostigmine/Pyridostigmine）；Bethanechol 無 N 受體活性，無法用於治療重症肌無力，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`可用於治療手術後尿液滯留（postoperative urinary retention）` —— 術後非阻塞性尿液滯留是 Bethanechol 最經典的臨床適應症，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`可用於治療手術後腸阻塞（postoperative ileus）` —— Bethanechol 活化腸道平滑肌 M3 受體促進蠕動，可用於術後非機械性腸阻塞，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`屬直接作用型擬脆鹼藥物（direct-acting cholinomimetic drug）` —— Bethanechol 直接結合並活化 M 受體，屬於直接作用型擬膽鹼藥物，敘述正確。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-30",
+      "globalIndex": 400,
+      "qNum": 30,
+      "origQ": "Q30",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於重症肌無力（myasthenia gravis）的敘述何項錯誤（false）？",
+      "image": null,
+      "options": {
+        "A": "可使用 neostigmine 来治療",
+        "B": "可使用 pyridostigmine 来治療",
+        "C": "可利用 edrophonium 進行診断（diagnosis）",
+        "D": "自體抗體（autoantibody） 會破壞骨骼肌（skeletal muscle）的蕈毒鹼受體 （muscarinic receptor）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：重症肌無力（MG）vs. Lambert-Eaton 肌無力症候群（LEMS）】**：**MG** 為自體抗體破壞骨骼肌終板 **NM 菸鹼受體**，以短效 **Edrophonium** 診斷，並以季銨類 AChE 抑制劑 **Pyridostigmine / Neostigmine**（不進 CNS）合併免疫抑制劑治療；**LEMS** 為自體抗體破壞突觸前 Ca²⁺ 通道導致 ACh 釋放減少，使用鉀通道阻斷劑 **Amifampridine** 促進 ACh 釋放。",
+        "**(D) 敘述錯誤【本題應選正解】**：`自體抗體（autoantibody） 會破壞骨骼肌（skeletal muscle）的蕈毒鹼受體 （muscarinic receptor）` —— 重症肌無力患者的自體抗體破壞的是骨骼肌終板上的**菸鹼受體（nicotinic receptor, NM）**，而非蕈毒鹼受體（muscarinic receptor）！",
+        "**(A) 敘述正確（非本題所求）**：`可使用 neostigmine 来治療` —— 季銨類可逆性膽鹼酯酶抑制劑（**Pyridostigmine**、**Neostigmine**）不會通過 BBB 產生中樞副作用，能有效提升 NMJ 突觸間隙 ACh 濃度，是治療重症肌無力的標準用藥。",
+        "**(B) 敘述正確（非本題所求）**：`可使用 pyridostigmine 来治療` —— 季銨類可逆性膽鹼酯酶抑制劑（**Pyridostigmine**、**Neostigmine**）不會通過 BBB 產生中樞副作用，能有效提升 NMJ 突觸間隙 ACh 濃度，是治療重症肌無力的標準用藥。",
+        "**(C) 敘述正確（非本題所求）**：`可利用 edrophonium 進行診断（diagnosis）` —— **Edrophonium** 為超短效（5–15 分鐘）季銨膽鹼酯酶抑制劑，靜脈注射若能立即短暫改善眼瞼下垂與肌力，即可用於**臨床輔助診斷重症肌無力（Tensilon test）**。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-31",
+      "globalIndex": 401,
+      "qNum": 31,
+      "origQ": "Q31",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不是  atropine 的藥理作用？",
+      "image": null,
+      "options": {
+        "A": "散瞳（mydriasis）",
+        "B": "睫狀肌麻痺（cycloplegia）",
+        "C": "止瀉（stop diarrhea）",
+        "D": "骨骼肌鬆弛（skeletal muscle relaxation）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：Atropine 對平滑肌／腺體（M 受體）vs. 骨骼肌（NM 受體）的選擇性】**：Atropine 專一性阻斷 **muscarinic（M）受體**，可引起**散瞳（mydriasis）、睫狀肌麻痺（cycloplegia）、抑制腸胃蠕動而止瀉、口乾及心跳加速**；但對神經肌肉接合處的 **NM 菸鹼受體沒有作用，不會引起骨骼肌鬆弛**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`骨骼肌鬆弛（skeletal muscle relaxation）` —— 骨骼肌收縮受 **NM 菸鹼受體**調控；Atropine 對 N 受體無親和力，**不會造成骨骼肌鬆弛**，故本選項為正解。",
+        "**(A) 敘述正確（非本題所求）**：`散瞳（mydriasis）` —— Atropine 阻斷虹膜括約肌 M3 受體，使瞳孔散大（mydriasis），屬於其典型眼部藥理作用。",
+        "**(B) 敘述正確（非本題所求）**：`睫狀肌麻痺（cycloplegia）` —— Atropine 阻斷睫狀肌 M3 受體使水晶體無法調焦看近物（cycloplegia），屬於其藥理作用。",
+        "**(C) 敘述正確（非本題所求）**：`止瀉（stop diarrhea）` —— Atropine 阻斷腸道平滑肌 M3 受體減少蠕動與分泌，具有解痙止瀉作用（如複方止瀉劑 Lomotil 含 atropine）。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-32",
+      "globalIndex": 402,
+      "qNum": 32,
+      "origQ": "Q32",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種膽鹼酯酶抑制劑（cholinesterase inhibitor）能反轉因 atropine 引起之中樞性 抗膽鹼症狀？",
+      "image": null,
+      "options": {
+        "A": "neostigmine",
+        "B": "pyridostigmine",
+        "C": "physostigmine",
+        "D": "edrophonium"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：可穿透血腦屏障（BBB）之膽鹼酯酶抑制劑——Physostigmine】**：Neostigmine、Pyridostigmine 與 Edrophonium 皆為**帶正電的四級銨（quaternary ammonium）**化合物，無法穿透血腦屏障（BBB）；唯有天然**叔胺（tertiary amine）結構的 Physostigmine（毒扁豆鹼）**能進入中樞神經系統，專一性用來解救 Atropine、Scopolamine 或三環抗憂鬱劑引起的中樞抗膽鹼譫妄中毒。",
+        "**(C) 正確【本題應選正解】**：`physostigmine` —— **Physostigmine** 為不帶永久電荷的叔胺（tertiary amine）可逆性 AChE 抑制劑，能順利**穿透血腦屏障（BBB）**提升腦內 ACh 濃度以反轉中樞抗膽鹼症狀。",
+        "**(A) 錯誤**：`neostigmine` —— **Neostigmine** 帶有四級銨正電荷，無法通過 BBB，僅能作用於周邊（如術後腸麻痺、重症肌無力與去極化/非去極化肌鬆劑拮抗）。",
+        "**(B) 錯誤**：`pyridostigmine` —— **Pyridostigmine** 為四級銨結構（無法穿透 BBB），主要作為重症肌無力（MG）的口服長效維持用藥。",
+        "**(D) 錯誤**：`edrophonium` —— **Edrophonium** 為極短效的四級銨 AChE 抑制劑（無法穿透 BBB），僅用於周邊診斷重症肌無力（Tensilon test）或區分肌無力／膽鹼危象。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-33",
+      "globalIndex": 403,
+      "qNum": 33,
+      "origQ": "Q33",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列受體的訊息傳遞,何者非活化 Gq 蛋白?",
+      "image": null,
+      "options": {
+        "A": "M-muscarinic receptor",
+        "B": "M2-muscarinic receptor",
+        "C": "M3-muscarinic receptor",
+        "D": "a-adrenoceptor"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(B) 敘述錯誤【本題應選正解】**：`M2-muscarinic receptor` —— M2 蕈毒鹼受體（主要分佈於心臟 SA/AV node 與突觸前神經末梢）耦合 **Gi/o 蛋白**，會**抑制腺苷酸環化酶（adenylyl cyclase）活性使 cAMP 下降**，同時由 βγ 次單元開啟 K⁺ 通道導致過極化並抑制電壓閘門 Ca²⁺ 通道，**不會活化 Gq 蛋白**。",
+        "**(A) 敘述正確（非本題所求）**：`M-muscarinic receptor` —— M1 蕈毒鹼受體（主要分佈於中樞神經、自主神經節與胃壁細胞）耦合 Gq/11 蛋白，活化磷脂酶 C（PLC）將 PIP2 水解為 IP3（促使肌漿網釋放 Ca²⁺）與 DAG（活化 PKC）。",
+        "**(C) 敘述正確（非本題所求）**：`M3-muscarinic receptor` —— M3 蕈毒鹼受體（主要分佈於外分泌腺體、內臟平滑肌如逼尿肌與支氣管、虹膜環狀肌及血管內皮細胞）耦合 **Gq/11 蛋白**，活化 PLC 產生 IP3 與 DAG，使胞內 Ca²⁺ 上升（並於內皮細胞活化 eNOS 釋放 NO），不抑制 adenylyl cyclase。",
+        "**(D) 敘述正確（非本題所求）**：`a-adrenoceptor` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-34",
+      "globalIndex": 404,
+      "qNum": 34,
+      "origQ": "Q34",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列何者非 metabotropic receptor?",
+      "image": null,
+      "options": {
+        "A": "muscarinic receptor",
+        "B": "nicotinic receptor",
+        "C": "adrenoceptor",
+        "D": "B-adrenoceptor"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：離子型（Ionotropic）vs. 代謝型（Metabotropic）受體】**：自主神經系統受體中，**Muscarinic（M1–M5）、α-腎上腺素受體（α1, α2）與 β-腎上腺素受體（β1, β2, β3）**皆為透過 G 蛋白傳遞訊號的**代謝型受體（metabotropic receptor / GPCR）**；唯有 **Nicotinic receptor（NN, NM）**為五聚體配體閘門鈉鉀離子通道（**ionotropic receptor**）。",
+        "**(B) 敘述錯誤【本題應選正解】**：`nicotinic receptor` —— **Nicotinic receptor（nAChR）**本身即為配體閘門鈉／鉀陽離子通道（**ionotropic receptor**），並非 metabotropic receptor。",
+        "**(A) 敘述正確（非本題所求）**：`muscarinic receptor` —— Muscarinic ACh 受體（M1–M5）屬於 G 蛋白偶聯代謝型受體（metabotropic receptor）。",
+        "**(C) 敘述正確（非本題所求）**：`adrenoceptor` —— 腎上腺素受體（α- / β-adrenoceptor）皆屬於 G 蛋白偶聯代謝型受體（metabotropic receptor）。",
+        "**(D) 敘述正確（非本題所求）**：`B-adrenoceptor` —— β-腎上腺素受體（β1, β2, β3 皆為 Gs）屬於 G 蛋白偶聯代謝型受體（metabotropic receptor）。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-35",
+      "globalIndex": 405,
+      "qNum": 35,
+      "origQ": "Q35",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列關於乙醯膽鹼(acetylcholine)的敘述何項正確(true)?",
+      "image": null,
+      "options": {
+        "A": "口服吸收效果好(well absorbed orally)",
+        "B": "可通過血腦屏障(blood-brain barrier)",
+        "C": "不易被膽鹼酯酶(cholinesterase)水解",
+        "D": "能活化草毒鹼受體(muscarinic receptor)也能活化菸鹼受體(nicotinic receptor)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：乙醯膽鹼（ACh）藥理特性】**：ACh 同時為**蕈毒鹼受體（mAChR）與菸鹼受體（nAChR）**的內生性致效劑；但因其為永久帶電的季銨親水分子且具不穩定乙酸酯鍵，**口服吸收差、無法通過血腦屏障（BBB）、且極易被膽鹼酯酶水解**。",
+        "**(D) 正確【本題應選正解】**：`能活化草毒鹼受體(muscarinic receptor)也能活化菸鹼受體(nicotinic receptor)` —— ACh 可同時非選擇性地結合並活化 **muscarinic receptor** 與 **nicotinic receptor**。",
+        "**(A) 錯誤**：`口服吸收效果好(well absorbed orally)` —— ACh 為永久帶正電之親水性季銨化合物，無法有效穿透胃腸道脂雙層，口服吸收極差。",
+        "**(B) 錯誤**：`可通過血腦屏障(blood-brain barrier)` —— ACh 因極性高且帶正電，無法通過血腦屏障（BBB）進入中樞神經系統。",
+        "**(C) 錯誤**：`不易被膽鹼酯酶(cholinesterase)水解` —— ACh 是膽鹼酯酶（AChE）的天然受質，極容易在體內被瞬間水解失活。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-36",
+      "globalIndex": 406,
+      "qNum": 36,
+      "origQ": "Q36",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者能活化算毒鹼受體(muscarinic receptor)也能活化菸鹼受體(nicotinic receptor), 且 不易被膽鹼酯酶(cholinesterase)水解?",
+      "image": null,
+      "options": {
+        "A": "acetylcholine",
+        "B": "methacholine",
+        "C": "bethanechol",
+        "D": "carbachol"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：Carbachol 之雙重受體活性與抗水解特性】**：**Carbachol** 保留了與 ACh 相同的無 β-甲基膽鹼骨幹，故能**同時強效活化蕈毒鹼受體（M）與菸鹼受體（N）**；同時將乙醯基改為胺基甲酸酯基（carbamoyl），使其**不易被膽鹼酯酶水解**（臨床主要用於眼科縮瞳與青光眼）。",
+        "**(D) 正確【本題應選正解】**：`carbachol` —— **Carbachol** 同時具備胺基甲酸酯基（抗 AChE 水解）且無 β-甲基（保留**同時活化 M 與 N 受體**之能力）。",
+        "**(A) 錯誤**：`acetylcholine` —— ACh 雖能同時活化 M 與 N 受體，但極易在體內被膽鹼酯酶瞬間水解。",
+        "**(B) 錯誤**：`methacholine` —— **Methacholine** 含有 β-甲基，對菸鹼受體（N）幾乎無活性。",
+        "**(C) 錯誤**：`bethanechol` —— **Bethanechol** 含有 β-甲基，僅選擇性作用於蕈毒鹼受體（M），對菸鹼受體幾乎無作用。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-37",
+      "globalIndex": 407,
+      "qNum": 37,
+      "origQ": "Q37",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "有關擬副交感藥物(parasympathomimetic drugs)所產生之作用,下列何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "膀胱逼尿肌收縮(contraction of the detrusor muscle)",
+        "B": "虹膜環狀肌收縮(contraction of the circular muscle)",
+        "C": "唾液腺分泌增加(increase in salivary gland secretion)",
+        "D": "豎毛肌收縮(contraction of the pilomotor smooth muscle"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：擬副交感神經藥物（Cholinomimetics）之器官效應】**：活化 **M3 受體**會引起：虹膜環狀肌收縮（縮瞳）、睫狀肌收縮（看近物、開通小樑網降眼壓）、唾液腺／淚腺／支氣管分泌增加、支氣管平滑肌收縮、腸胃蠕動增加、**膀胱逼尿肌收縮**與括約肌放鬆（排尿）、血管內皮釋放 **NO（cGMP 介導海綿體勃起與血管舒張）**；但**虹膜輻射肌與皮膚豎毛肌僅受交感 α1 支配**，不受副交感調控。",
+        "**(D) 敘述錯誤【本題應選正解】**：`豎毛肌收縮(contraction of the pilomotor smooth muscle` —— 皮膚豎毛肌（pilomotor / arrector pili smooth muscle）僅受**交感神經**支配並表現 **α1 腎上腺素受體**（收縮產生雞皮疙瘩），完全不受副交感神經支配，故擬副交感藥物不會引起豎毛肌收縮！",
+        "**(A) 敘述正確（非本題所求）**：`膀胱逼尿肌收縮(contraction of the detrusor muscle)` —— 膀胱逼尿肌（detrusor muscle）表現 M3 受體（耦合 Gq），擬副交感藥物（如 Bethanechol）活化 M3 受體會使逼尿肌收縮、膀胱內括約肌放鬆以促進排尿。",
+        "**(B) 敘述正確（非本題所求）**：`虹膜環狀肌收縮(contraction of the circular muscle)` —— 眼睛虹膜環狀肌（瞳孔括約肌 circular / sphincter pupillae muscle）受動眼神經（CN III）副交感纖維支配並表現 **M3 蕈毒鹼受體**，擬副交感藥物活化 M3 受體會使虹膜環狀肌收縮而產生**縮瞳（miosis）**。",
+        "**(C) 敘述正確（非本題所求）**：`唾液腺分泌增加(increase in salivary gland secretion)` —— 唾液腺表現 M3 受體，擬副交感藥物活化 M3 受體會顯著增加水樣唾液分泌（salivation）。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-38",
+      "globalIndex": 408,
+      "qNum": 38,
+      "origQ": "Q38",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一位頭頸癌患者接受合併手術切除與放射治療後,產生顯著唾液分泌減少與 口乾(dry mouth)副作用,下列何種藥物可緩解該副作用?",
+      "image": null,
+      "options": {
+        "A": "oxybutynin",
+        "B": "ipratropium",
+        "C": "pilocarpine",
+        "D": "atropine"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：口乾症（Xerostomia）之成因與促唾液分泌藥物】**：頭頸癌放射線治療或修格蘭氏症候群（Sjögren's syndrome）及抗膽鹼藥物（antimuscarinics）會導致口乾；臨床使用直接作用型 M3 致效劑 **Pilocarpine（毛果芸香鹼）** 與選擇性 M3 致效劑 **Cevimeline** 促進唾液腺分泌。",
+        "**(C) 正確【本題應選正解】**：`pilocarpine` —— **Pilocarpine（毛果芸香鹼）**為天然叔胺（tertiary amine）生物鹼，屬直接作用型蕈毒鹼（M3）受體致效劑，可穿透角膜收縮虹膜環狀肌（縮瞳）與睫狀肌（打開小樑網增加眼房水外流以治療隅角開放型與閉鎖型青光眼），且具極強的促進唾液與汗液分泌作用，口服用於治療**頭頸癌放療後或修格蘭氏症候群（Sjögren's syndrome）引起的口乾症（xerostomia）**。",
+        "**(A) 錯誤**：`oxybutynin` —— **Oxybutynin** 為具平滑肌解痙作用的蕈毒鹼（M3）受體拮抗劑，臨床用於治療**膀胱過動症（overactive bladder, OAB）**與急迫性尿失禁（常見副作用為口乾，故不會緩解口乾，亦不用於暈船或戒菸）。",
+        "**(B) 錯誤**：`ipratropium` —— **Ipratropium** 為季銨結構的吸入型抗蕈毒鹼藥物（SAMA），全身吸收少且不進入 CNS、不影響呼吸道纖毛清除率，臨床用於治療**慢性阻塞性肺病（COPD）與氣喘**的支氣管擴張劑（不刺激唾液分泌，不用於暈船或心搏徐緩）。",
+        "**(D) 錯誤**：`atropine` —— **Atropine（阿托品）**為叔胺結構的非選擇性競爭性**蕈毒鹼受體阻斷劑（muscarinic antagonist）**，臨床用於：(1) 治療迷走神經興奮引起之**竇性心搏徐緩（bradycardia）**；(2) 解救**有機磷農藥、沙林毒氣與毒蕈鹼中毒**的蕈毒鹼樣症狀（但對菸鹼受體無效）；(3) 眼科長效**散瞳（mydriasis）與睫狀肌麻痺（cycloplegia）**；(4) 抑制唾液與支氣管分泌及止痙止瀉。**禁忌與限制**：對骨骼肌菸鹼受體無效（不會產生骨骼肌鬆弛），且散瞳會阻塞房水排出而**惡化隅角閉鎖型與開放型青光眼**。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-39",
+      "globalIndex": 409,
+      "qNum": 39,
+      "origQ": "Q39",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "沙林毒氣中毒,可觀察到患者產生瞳孔縮小(miosis)的症狀,主要為活化下列何種虹膜(iris) 受體所致?",
+      "image": null,
+      "options": {
+        "A": "環狀肌菸鹼受體(circular muscle nicotinic receptor)",
+        "B": "環狀肌蕈毒鹼受體(circular muscle muscarinic receptor)",
+        "C": "輻射肌受體(radial muscle alpha-adrenoceptor)",
+        "D": "輻射肌受體(radial muscle beta-adrenoceptor)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(B) 正確【本題應選正解】**：`環狀肌蕈毒鹼受體(circular muscle muscarinic receptor)` —— 虹膜環狀肌（瞳孔括約肌 sphincter pupillae）受動眼神經副交感纖維支配，細胞膜上為 **M3 蕈毒鹼受體（muscarinic receptor）**；有機磷、沙林毒氣或膽鹼酯酶抑制劑中毒時，ACh 大量累積並過度活化環狀肌 M3 受體，導致環狀肌強烈收縮而出現針尖般瞳孔縮小（miosis）。",
+        "**(A) 錯誤**：`環狀肌菸鹼受體(circular muscle nicotinic receptor)` —— 虹膜環狀肌為平滑肌（效應器官），其膽鹼受體為蕈毒鹼受體（M3 muscarinic receptor），並無菸鹼受體（nicotinic receptor 位於自主神經節與骨骼肌終板）。",
+        "**(C) 錯誤**：`輻射肌受體(radial muscle alpha-adrenoceptor)` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。",
+        "**(D) 錯誤**：`輻射肌受體(radial muscle beta-adrenoceptor)` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-40",
+      "globalIndex": 410,
+      "qNum": 40,
+      "origQ": "Q40",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於 PDE-5 抑制劑 sildenafil 的敘述何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "可用來治療勃起功能障礙(erectile dysfunction)",
+        "B": "可使陰莖海綿體(corpus cavernosum)血管舒張(vasodilation)",
+        "C": "阻斷(block) cGMP 的降解(degradation)",
+        "D": "拮抗(antagonize) nitric oxide (NO)的作用"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：PDE-5 抑制劑（Sildenafil）與 NO-cGMP 路徑】**：副交感神經與內皮細胞釋放 **一氧化氮（NO）**活化鳥苷酸環化酶產生 **cGMP** 使陰莖海綿體平滑肌舒張充血。**Sildenafil** 抑制 **PDE-5** 以**阻斷 cGMP 降解**，進而**增強（potentiate，而非拮抗！）NO 的血管舒張作用**（故嚴禁與有機硝酸鹽類併用，以免發生致命性低血壓）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`拮抗(antagonize) nitric oxide (NO)的作用` —— Sildenafil 是透過保留下游 cGMP 來**協同增強（potentiate）NO 的作用**，並非拮抗 NO，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`可用來治療勃起功能障礙(erectile dysfunction)` —— Sildenafil 延長海綿體內 cGMP 訊號以維持勃起，為勃起功能障礙（ED）及肺動脈高壓之標準用藥，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`可使陰莖海綿體(corpus cavernosum)血管舒張(vasodilation)` —— cGMP 上升可降低平滑肌細胞內鈣離子，使陰莖海綿體小動脈與竇狀隙舒張充血，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`阻斷(block) cGMP 的降解(degradation)` —— Sildenafil 專一性抑制 PDE-5 酵素，阻斷 cGMP 水解為無活性的 5'-GMP，敘述正確。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-41",
+      "globalIndex": 411,
+      "qNum": 41,
+      "origQ": "Q41",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在我國農業生產過程中,農藥(insecticides)使用相當頻繁,因此農藥中毒事件時有所聞,中毒 症狀為流汗(sweating)、流口水(salivation)、瞳孔縮小(miosis)、淚眼汪汪、嘔吐(vomiting)、腹 瀉(diarrhea)甚至呼吸抑制。下列關於農藥的敘述何錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "屬有機磷(organophosphates)藥物",
+        "B": "屬不可逆(irreversible)膽鹼酯酶抑制劑(cholinesterase inhibitor)",
+        "C": "解毒劑 pralidoxime 可用來緩解中毒時的菸鹼樣症狀",
+        "D": "解毒劑 pralidoxime 使用時效需在中毒三天內"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`解毒劑 pralidoxime 使用時效需在中毒三天內` —— 磷酸化膽鹼酯酶在數小時內會脫去一個烷基而發生**「老化（Aging）」**，一旦老化後磷酯鍵極度穩定，**Pralidoxime 就無法再將老化的酵素活化**，故必須在中毒後數小時內（老化前）儘早給藥，絕非三天內皆有效！",
+        "**(A) 敘述正確（非本題所求）**：`屬有機磷(organophosphates)藥物` —— 農業常用的殺蟲劑（如 Parathion 巴拉松、Malathion 馬拉松、Chlorpyrifos 陶斯松）多屬於**有機磷（organophosphates）**化合物。",
+        "**(B) 敘述正確（非本題所求）**：`屬不可逆(irreversible)膽鹼酯酶抑制劑(cholinesterase inhibitor)` —— 有機磷農藥會與乙醯膽鹼酯酶（AChE）活性位點的絲胺酸羥基形成極穩定的共價磷酯鍵，屬於**不可逆的（irreversible）膽鹼酯酶抑制劑**。",
+        "**(C) 敘述正確（非本題所求）**：`解毒劑 pralidoxime 可用來緩解中毒時的菸鹼樣症狀` —— **Pralidoxime（2-PAM）**能切斷有機磷與 AChE 的共價鍵，重新恢復骨骼肌神經肌肉接合處（NMJ）的 AChE 水解活性，從而**有效緩解菸鹼受體（nicotinic receptor）過度活化與去極化阻斷造成的肌束震顫與呼吸肌無力**。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-42",
+      "globalIndex": 412,
+      "qNum": 42,
+      "origQ": "Q42",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者屬於乙醯膽鹼釋放調控劑(acetylcholine release modulator),可用於治療 Lambert- Eaton myasthenic syndrome?",
+      "image": null,
+      "options": {
+        "A": "amifampridine",
+        "B": "atropine",
+        "C": "edrophonium",
+        "D": "bethanechol"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：Lambert-Eaton 肌無力症候群（LEMS）與 Amifampridine】**：LEMS 因自體抗體攻擊突觸前**電壓閘門鈣離子通道（P/Q-type VGCC）**導致 ACh 釋放不足（常伴隨小細胞肺癌）。**Amifampridine（3,4-diaminopyridine）**阻斷突觸前**電壓閘門 K⁺ 通道**，延長動作電位去極化時間以增加 Ca²⁺ 內流，從而**促進 ACh 釋放**。",
+        "**(A) 正確【本題應選正解】**：`amifampridine` —— **Amifampridine** 阻斷運動神經末梢鉀離子通道延長去極化，促進 Ca²⁺ 內流與 ACh 胞吐釋放，為 **LEMS** 的專一治療藥物。",
+        "**(B) 錯誤**：`atropine` —— Atropine 為抗蕈毒鹼受體阻斷劑，對神經肌肉接合處 ACh 釋放與 LEMS 無治療效果。",
+        "**(C) 錯誤**：`edrophonium` —— Edrophonium 為極短效 AChE 抑制劑，僅用於診斷重症肌無力（MG），非 ACh 釋放調控劑。",
+        "**(D) 錯誤**：`bethanechol` —— Bethanechol 為直接型 M 受體致效劑，對骨骼肌 NM 受體與 LEMS 無效。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-43",
+      "globalIndex": 413,
+      "qNum": 43,
+      "origQ": "Q43",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於 bethanechol 的敘述何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "可用於治療重症肌無力(myasthenia gravis)",
+        "B": "可用於治療手術後腸阻塞(postoperative ileus)",
+        "C": "可用於治療手術後尿液滯留(postoperative urinary retention)",
+        "D": "屬直接作用型擬膽鹼藥物(direct-acting cholinomimetic drug)"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：Bethanechol 機轉與臨床用途】**：**Bethanechol** 為**直接作用型選擇性 M 受體致效劑（direct-acting muscarinic agonist，非膽鹼酯酶抑制劑）**，臨床上主要用於治療**手術後非阻塞性尿液滯留（活化膀胱逼尿肌 M3 受體）與手術後腸胃道張力缺乏／腸阻塞**；因幾乎無 N 受體活性，故無法治療重症肌無力。",
+        "**(A) 敘述錯誤【本題應選正解】**：`可用於治療重症肌無力(myasthenia gravis)` —— 重症肌無力需增強骨骼肌終板 **NM 菸鹼受體**訊號（使用 Neostigmine/Pyridostigmine）；Bethanechol 無 N 受體活性，無法用於治療重症肌無力，故本選項敘述錯誤。",
+        "**(B) 敘述正確（非本題所求）**：`可用於治療手術後腸阻塞(postoperative ileus)` —— Bethanechol 活化腸道平滑肌 M3 受體促進蠕動，可用於術後非機械性腸阻塞，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`可用於治療手術後尿液滯留(postoperative urinary retention)` —— 術後非阻塞性尿液滯留是 Bethanechol 最經典的臨床適應症，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`屬直接作用型擬膽鹼藥物(direct-acting cholinomimetic drug)` —— Bethanechol 直接結合並活化 M 受體，屬於直接作用型擬膽鹼藥物，敘述正確。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-44",
+      "globalIndex": 414,
+      "qNum": 44,
+      "origQ": "Q44",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於重症肌無力(myasthenia gravis)的敘述何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "常使用 neosTIgmine 來治療",
+        "B": "常使用 physostigmine 來治療",
+        "C": "骨骼肌(skeletal muscle)的菸鹼受體(nicotinic receptor)受到破壞",
+        "D": "可利用 edrophonium 進行診斷(diagnosis)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：重症肌無力（MG）vs. Lambert-Eaton 肌無力症候群（LEMS）】**：**MG** 為自體抗體破壞骨骼肌終板 **NM 菸鹼受體**，以短效 **Edrophonium** 診斷，並以季銨類 AChE 抑制劑 **Pyridostigmine / Neostigmine**（不進 CNS）合併免疫抑制劑治療；**LEMS** 為自體抗體破壞突觸前 Ca²⁺ 通道導致 ACh 釋放減少，使用鉀通道阻斷劑 **Amifampridine** 促進 ACh 釋放。",
+        "**(B) 敘述錯誤【本題應選正解】**：`常使用 physostigmine 來治療` —— **Physostigmine（毒扁豆鹼）**為天然叔胺（tertiary amine）結構的可逆性膽鹼酯酶抑制劑，具高脂溶性**可穿透血腦屏障（BBB）進入中樞神經系統**，因此是反轉 **Atropine（顛茄鹼）、Scopolamine 或三環抗憂鬱藥中毒引起之中樞性與周邊抗膽鹼症候群（central anticholinergic syndrome）**的特效解毒劑（因中樞毒性較大，不用於常規治療重症肌無力）。",
+        "**(A) 敘述正確（非本題所求）**：`常使用 neosTIgmine 來治療` —— 季銨類可逆性膽鹼酯酶抑制劑（**Pyridostigmine**、**Neostigmine**）不會通過 BBB 產生中樞副作用，能有效提升 NMJ 突觸間隙 ACh 濃度，是治療重症肌無力的標準用藥。",
+        "**(C) 敘述正確（非本題所求）**：`骨骼肌(skeletal muscle)的菸鹼受體(nicotinic receptor)受到破壞` —— 重症肌無力（myasthenia gravis）的致病機轉正是患者體內產生自體抗體攻擊並破壞**骨骼肌運動終板上的菸鹼受體（NM nicotinic receptor）**，導致神經肌肉傳遞功能障礙。",
+        "**(D) 敘述正確（非本題所求）**：`可利用 edrophonium 進行診斷(diagnosis)` —— **Edrophonium** 為超短效（5–15 分鐘）季銨膽鹼酯酶抑制劑，靜脈注射若能立即短暫改善眼瞼下垂與肌力，即可用於**臨床輔助診斷重症肌無力（Tensilon test）**。"
+      ]
+    },
+    {
+      "id": "1029_Pharm2-45",
+      "globalIndex": 415,
+      "qNum": 45,
+      "origQ": "Q45",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種膽鹼酯酶抑制劑(cholinesterase inhibitor)能反轉因 atropine 引起之中樞性抗 膽鹼症狀(central anticholinergic symptoms)?",
+      "image": null,
+      "options": {
+        "A": "neostigmine",
+        "B": "pyridostigmine",
+        "C": "physostigmine",
+        "D": "edrophonium"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：可穿透血腦屏障（BBB）之膽鹼酯酶抑制劑——Physostigmine】**：Neostigmine、Pyridostigmine 與 Edrophonium 皆為**帶正電的四級銨（quaternary ammonium）**化合物，無法穿透血腦屏障（BBB）；唯有天然**叔胺（tertiary amine）結構的 Physostigmine（毒扁豆鹼）**能進入中樞神經系統，專一性用來解救 Atropine、Scopolamine 或三環抗憂鬱劑引起的中樞抗膽鹼譫妄中毒。",
+        "**(C) 正確【本題應選正解】**：`physostigmine` —— **Physostigmine** 為不帶永久電荷的叔胺（tertiary amine）可逆性 AChE 抑制劑，能順利**穿透血腦屏障（BBB）**提升腦內 ACh 濃度以反轉中樞抗膽鹼症狀。",
+        "**(A) 錯誤**：`neostigmine` —— **Neostigmine** 帶有四級銨正電荷，無法通過 BBB，僅能作用於周邊（如術後腸麻痺、重症肌無力與去極化/非去極化肌鬆劑拮抗）。",
+        "**(B) 錯誤**：`pyridostigmine` —— **Pyridostigmine** 為四級銨結構（無法穿透 BBB），主要作為重症肌無力（MG）的口服長效維持用藥。",
+        "**(D) 錯誤**：`edrophonium` —— **Edrophonium** 為極短效的四級銨 AChE 抑制劑（無法穿透 BBB），僅用於周邊診斷重症肌無力（Tensilon test）或區分肌無力／膽鹼危象。"
+      ]
+    }
+  ]
+}

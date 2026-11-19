@@ -1,0 +1,1361 @@
+{
+  "unitCode": "1028_Synapse",
+  "unitTitle": "10/28 生理學：突觸傳遞 (Synaptic Transmission)",
+  "session": "A",
+  "subject": "Physio",
+  "subjectTitle": "生理學 (一)",
+  "prof": "林靜茹 教授",
+  "examRange": "A卷 Q1–32（共32題）",
+  "unitUrl": "https://drive.google.com/file/d/1rzlxN2CRgOy5FX970ZU0YBACkSKabQuD",
+  "questions": [
+    {
+      "id": "1028_Synapse-1",
+      "globalIndex": 75,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一個配對是正確的?（Which of the following matches is correct?）",
+      "image": null,
+      "options": {
+        "A": "Neurexin:連結突觸前後結構（it helps to connect the pre- and post- synaptic structure）",
+        "B": "Synaptotagmin a voltage-gated calcium ion channels",
+        "C": "SNARES: a G-protein coupled receptor",
+        "D": "以上皆非（None of the above）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：化學突觸關鍵結構蛋白功能】**：**Neurexin**（突觸前）與 Neuroligin（突觸後）負責跨越突觸間隙連結前後構造；**Synaptotagmin** 為囊泡膜上的 Ca²⁺ 感測器（非鈣離子通道）；**SNAREs** 蛋白（synaptobrevin, syntaxin, SNAP-25）負責執行囊泡融合胞吐（非 GPCR）。",
+        "**(A) 正確【本題應選正解】**：`Neurexin:連結突觸前後結構（it helps to connect the pre- and post- synaptic structure）` —— **Neurexin（軸突蛋白）**為突觸前膜上的細胞黏附分子，能跨越突觸間隙與突觸後膜上的 Neuroligin 結合，負責**對齊並連結突觸前與突觸後結構（connects pre- and post-synaptic structures）**。",
+        "**(B) 錯誤**：`Synaptotagmin a voltage-gated calcium ion channels` —— **Synaptotagmin** 是位於突觸囊泡膜上的**鈣離子感受器（Ca²⁺ sensor）**，負責在結合 Ca²⁺ 後觸發囊泡胞吐融合，它本身**不是電壓閘門鈣離子通道**，也不是破傷風毒素的破壞目標！",
+        "**(C) 錯誤**：`SNARES: a G-protein coupled receptor` —— **SNAREs 蛋白家族（Synaptobrevin、Syntaxin-1、SNAP-25）**是負責拉近突觸囊泡與突觸前膜並促成膜融合（membrane fusion / exocytosis）的核心螺旋蛋白，既不是 GPCR，也不是 Ca²⁺ sensor（Ca²⁺ sensor 為 Synaptotagmin）！",
+        "**(D) 錯誤**：`以上皆非（None of the above）` —— 選項 (A) Neurexin 負責跨突觸間隙連結突觸前後結構為正確敘述，故不選以上皆非。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-2",
+      "globalIndex": 76,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "化學性突觸中,voltage-gated Ca” channels 最可能位於以方便進行 exocytosis 來釋放神經傳導 物質。（In a chemical synapse, voltage-gated Ca\" channels are most likely to be located at _ for quick exocytosis for neurotransmitter release.）",
+      "image": null,
+      "options": {
+        "A": "Active Zone",
+        "B": "Post-synaptic density",
+        "C": "Synaptic cleft",
+        "D": "Synaptic vesicles"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：化學突觸前活性區（Active Zone）與胞吐作用】**：在化學突觸的突觸前末梢（presynaptic terminal），突觸小泡錨定與融合釋放的特定區域稱為**活性區（active zone）**。此處高度聚集**電壓閘門鈣離子通道（voltage-gated Ca²⁺ channels）**，使動作電位抵達時 Ca²⁺ 能立即就近流入並結合 synaptotagmin 觸發 SNARE 複合體進行快速胞吐（exocytosis）。",
+        "**(A) 正確【本題應選正解】**：`Active Zone` —— **Active Zone（活性區）**位於突觸前膜直接面對突觸間隙處，高度集中 **voltage-gated Ca²⁺ channels** 與停泊的突觸小泡，以確保 Ca²⁺ 內流能最快速觸發胞吐釋放。",
+        "**(B) 錯誤**：`Post-synaptic density` —— **Post-synaptic density（突觸後緻密區）**位於突觸後膜，主要聚集神經傳導物質受體（如 AMPA、NMDA 受體）與下游訊號骨架蛋白，而非突觸前 Ca²⁺ 通道。",
+        "**(C) 錯誤**：`Synaptic cleft` —— **Synaptic cleft（突觸間隙）**是突觸前與突觸後膜之間的細胞外液空間，本身不含膜離子通道。",
+        "**(D) 錯誤**：`Synaptic vesicles` —— **Synaptic vesicles（突觸小泡）**膜上含有 synaptobrevin 與 synaptotagmin，但不含感受動作電位的 voltage-gated Ca²⁺ channels。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-3",
+      "globalIndex": 77,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "破傷風菌（tetanus toxin）最可能抑制下列哪一蛋白質或結構?（Which is the most likely target protein or structure of tetanus toxin?） Note: NMJ Neuromuscular Junction",
+      "image": null,
+      "options": {
+        "A": "SNAP 25 of NMJ",
+        "B": "Synaptobrevin of NMJ",
+        "C": "Synaptobrevin of CNS inhibitory",
+        "D": "Neurexin interneurons"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉接合處（NMJ）傳遞順序與作用藥物】**：**(1) 傳遞順序**：運動神經元軸突動作電位傳至末梢 → 突觸前膜 **電壓閘門 Ca²⁺ 通道開啟，Ca²⁺ 流入神經末梢** → Ca²⁺ 結合 Synaptotagmin 觸發 **SNAREs 蛋白構型改變** → 囊泡胞吐**釋放 ACh** → ACh 結合運動終板上的 **菸鹼受體（NM nAChR）開啟 Na⁺ 內流** → 產生**終板電位（EPP）** → 鄰近肌膜電位閘門 Na⁺ 通道開啟產生**肌肉細胞膜動作電位**；**(2) 藥物與毒素**：**Botox（肉毒桿菌素）**裂解突觸前 SNAREs 阻斷 ACh 釋放；**Curare / Vecuronium** 為非去極化型 nAChR 競爭性拮抗劑；**Succinylcholine** 為去極化型 **nAChR 致效劑（agonist）**。",
+        "**(C) 正確【本題應選正解】**：`Synaptobrevin of CNS inhibitory` —— **破傷風毒素（Tetanus toxin）**由傷口進入運動神經末梢後，會經由軸突逆行運輸（retrograde transport）並跨突觸進入**中樞神經系統（脊髓）的抑制性中間神經元（CNS inhibitory interneurons，如釋放 Glycine 的 Renshaw cells）**，作為蛋白酶專一性裂解囊泡上的 **Synaptobrevin（VAMP）**，阻斷抑制性神經傳遞物質釋放，導致運動神經元失去抑制而持續放電，引發**僵直性麻痺（spastic paralysis / lockjaw）**！",
+        "**(A) 錯誤**：`SNAP 25 of NMJ` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！",
+        "**(B) 錯誤**：`Synaptobrevin of NMJ` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！",
+        "**(D) 錯誤**：`Neurexin interneurons` —— Neurexin 為突觸前膜跨膜黏附蛋白，並非破傷風毒素（Tetanus toxin）裂解的目標蛋白（破傷風毒素裂解的是中樞抑制性中間神經元的 **Synaptobrevin**）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-4",
+      "globalIndex": 78,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "若要降低 dopamine 在突觸的作用來治療成癮,你最可能會選擇哪種藥物?（If you need to give prescription to decrease the synaptic strength of dopamine transmission to treat addiction, which of the followings will you most likely to use?）",
+      "image": null,
+      "options": {
+        "A": "促進 dopamine 釋放的藥（drugs that increase dopamin release）",
+        "B": "促進 dopamine 合成的藥（Drugs that increase the synthesis of dopamine）",
+        "C": "促進分解 dopamine 的酵素活性的藥（drugs that increase the enzyme activity which degrades dopamine）",
+        "D": "給 dopamine receptor agonists"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "answerDisplay": "(C/D)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心生理考點：藥物調控突觸傳遞強度之機轉】**：要**降低**突觸間神經傳導物質（如中腦邊緣路徑的多巴胺 dopamine）的作用強度，可採取：(1) 抑制合成；(2) 抑制囊泡儲存或突觸前釋放；(3) **促進分解酵素（如 MAO 或 COMT）活性以加速清除突觸間隙內的 dopamine**；(4) 使用突觸後受體**拮抗劑（antagonist）**。",
+        "**(C) 正確【本題應選正解】**：`促進分解 dopamine 的酵素活性的藥（drugs that increase the enzyme activity which degrades dopamine）` —— 增強分解多巴胺的酵素（如 MAO、COMT）活性可加速清除多餘的突觸間多巴胺，從而有效**降低 dopamine 在突觸的作用強度**。",
+        "**(A) 錯誤**：`促進 dopamine 釋放的藥（drugs that increase dopamin release）` —— 促進突觸前釋放多巴胺（如安非他命類機制）會大幅**增強**多巴胺在突觸間隙的濃度與成癮獎賞效應，與治療目標相反。",
+        "**(B) 錯誤**：`促進 dopamine 合成的藥（Drugs that increase the synthesis of dopamine）` —— 促進多巴胺合成（如補充前驅物 L-Dopa）會增加突觸囊泡內多巴胺存量與釋放量，反而**增強**突觸傳遞。",
+        "**(D) 錯誤**：`給 dopamine receptor agonists` —— 多巴胺受體致效劑（agonists）會直接模擬多巴胺並持續活化突觸後受體，等同於**增強**多巴胺訊號。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-5",
+      "globalIndex": 79,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪些 small molecules neurotransmitter 是在突觸末梢細胞質內（不是囊泡內）製造完成的? （Which small molecule neurotransmitter's synthesis is completed in the cytosol（not inside the vesicles） of the presynaptic terminal?） ① ACh ② Norepinephrine ③ Epinephrine ④ Opioid ⑤ Serotonin",
+      "image": null,
+      "options": {
+        "A": "①②③④",
+        "B": "①②④",
+        "C": "②④⑤",
+        "D": "①③⑤"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：小分子神經傳遞物質合成位置與兒茶酚胺（Catecholamines）生合成順序】**：**(1) 兒茶酚胺合成順序**：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine** ─(進入囊泡由 **Dopamine β-hydroxylase, DBH**)→ **Norepinephrine（NE）** ─(釋出至細胞質由 **PNMT：Phenylethanolamine N-methyltransferase**)→ **Epinephrine**；**(2) 合成完成位置比較**：**Norepinephrine（NE）是唯一在「突觸囊泡（synaptic vesicle）內」合成完成的小分子神經傳遞物質**！而 **ACh、Dopamine、Epinephrine、Serotonin（5-HT）、GABA、Glutamate 都是在「突觸末梢細胞質（cytosol）內」合成完成**後才裝入囊泡（Opioid 腦內啡則屬於大分子神經胜肽 neuropeptide，在細胞本體粗糙內質網與高基氏體合成）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`①③⑤` —— 在突觸末梢**細胞質（cytosol）內合成完成**的小分子神經傳遞物質包含：**① ACh**（由細胞質 ChAT 合成）、**③ Epinephrine**（NE 從囊泡釋出至細胞質後由細胞質內的 PNMT 甲基化合成完成）與 **⑤ Serotonin（5-HT）**！相對地，**② Norepinephrine（NE）是在「突觸囊泡（vesicle）內」由 DBH 合成完成**，而 **④ Opioid（腦內啡）屬於大分子神經胜肽（neuropeptide），在「細胞本體（soma）」的內質網與高基氏體合成**，故選 `①③⑤`。",
+        "**(A) 敘述正確（非本題所求）**：`①②③④` —— ② Norepinephrine 是在**囊泡內（inside the vesicles）**由 Dopamine β-hydroxylase 合成完成的；④ Opioid 則屬於大分子神經胜肽，在細胞本體合成，故含 ② 或 ④ 之選項皆錯誤（正解為 `①③⑤`）。",
+        "**(B) 敘述正確（非本題所求）**：`①②④` —— ② Norepinephrine 是在**囊泡內（inside the vesicles）**由 Dopamine β-hydroxylase 合成完成的；④ Opioid 則屬於大分子神經胜肽，在細胞本體合成，故含 ② 或 ④ 之選項皆錯誤（正解為 `①③⑤`）。",
+        "**(C) 敘述正確（非本題所求）**：`②④⑤` —— ② Norepinephrine 是在**囊泡內（inside the vesicles）**由 Dopamine β-hydroxylase 合成完成的；④ Opioid 則屬於大分子神經胜肽，在細胞本體合成，故含 ② 或 ④ 之選項皆錯誤（正解為 `①③⑤`）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-6",
+      "globalIndex": 80,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請將 Catecholamines 的生成步驟,依序排列?（Please place the synthesis of Catecholamines in order!） ① L-Dopa ② Norepinephrine ③ Epinephrine ④ Tryptophan ⑤ Dopamine ⑥ Tyrosine",
+      "image": null,
+      "options": {
+        "A": "④①⑤②③",
+        "B": "④①⑤③②",
+        "C": "⑥①⑤②③",
+        "D": "⑥①⑤③②"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：小分子神經傳遞物質合成位置與兒茶酚胺（Catecholamines）生合成順序】**：**(1) 兒茶酚胺合成順序**：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine** ─(進入囊泡由 **Dopamine β-hydroxylase, DBH**)→ **Norepinephrine（NE）** ─(釋出至細胞質由 **PNMT：Phenylethanolamine N-methyltransferase**)→ **Epinephrine**；**(2) 合成完成位置比較**：**Norepinephrine（NE）是唯一在「突觸囊泡（synaptic vesicle）內」合成完成的小分子神經傳遞物質**！而 **ACh、Dopamine、Epinephrine、Serotonin（5-HT）、GABA、Glutamate 都是在「突觸末梢細胞質（cytosol）內」合成完成**後才裝入囊泡（Opioid 腦內啡則屬於大分子神經胜肽 neuropeptide，在細胞本體粗糙內質網與高基氏體合成）。",
+        "**(C) 正確【本題應選正解】**：`⑥①⑤②③` —— 兒茶酚胺（Catecholamines）生合成的正確順序為：**Tyrosine（酪胺酸） → L-DOPA → Dopamine（多巴胺） → Norepinephrine（正腎上腺素） → Epinephrine（腎上腺素）**（註：Tryptophan 色胺酸是合成 Serotonin 的前驅物，不參與兒茶酚胺合成！）。",
+        "**(A) 錯誤**：`④①⑤②③` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。",
+        "**(B) 錯誤**：`④①⑤③②` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。",
+        "**(D) 錯誤**：`⑥①⑤③②` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-7",
+      "globalIndex": 81,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於 serotonergic synapse 的描述,何者是對的?（Which description about the serotonergic synapse is correct?）",
+      "image": null,
+      "options": {
+        "A": "它的前驅物藉由 Ca\"-dependent transporter 運輸進入細胞（Its precusor is transported into the cell through a Ca-dependent transporter）",
+        "B": "可以被 monoamine oxidase 分解（it can be degraded by monoamine oxidase）",
+        "C": "釋放後,會被相鄰的 glia cells 吸收（After release, it can be absorbed by neighboring glia cells）",
+        "D": "只有神經細胞能釋放（Neurons are the only cells that release serotonin）."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：血清素（Serotonin, 5-HT）突觸生合成、再回收與神經傳遞物質移除】**：**(1) 5-HT 合成與代謝**：由色胺酸（**Tryptophan**，經 Na⁺-independent 大型中性胺基酸載體進入神經元）在**神經末梢細胞質**合成為 5-HTP 再轉為 **5-HT（Serotonin）**（體內 90% 以上的 5-HT 由腸道嗜鉻細胞製造，不只有神經元能釋放）；釋放後經突觸前 SERT 再回收（可被百憂解 **Prozac / Fluoxetine [SSRI]** 阻斷以增強突觸效率），並可被粒線體外膜的**單胺氧化酶（Monoamine oxidase, MAO）氧化分解**；**(2) 其他傳遞物質移除**：**ACh** 在突觸間隙被 **AChE 水解**（回收的是 Choline 而非 ACh）；**Glutamate** 主要由鄰近**星狀膠細胞（astrocytes / glia cells）經 EAAT 回收**並由 glutamine synthetase 轉為 glutamine；**NE / Dopamine** 主要由**突觸前神經末梢（NET / DAT）再回收**。",
+        "**(B) 正確【本題應選正解】**：`可以被 monoamine oxidase 分解（it can be degraded by monoamine oxidase）` —— 血清素（**Serotonin, 5-HT**）屬於單胺類神經傳遞物質，被突觸前神經末梢再回收後，可被粒線體外膜上的**單胺氧化酶（Monoamine oxidase, MAO）氧化脫胺分解**（轉為 5-HIAA 排出）。",
+        "**(A) 錯誤**：`它的前驅物藉由 Ca\"-dependent transporter 運輸進入細胞（Its precusor is transported into the cell through a Ca-dependent transporter）` —— Serotonin 的前驅物色胺酸（Tryptophan）是經由**不依賴鈣離子的大型中性胺基酸轉運蛋白（Na⁺-independent large neutral amino acid transporter）**進入神經細胞，並非 Ca²⁺-dependent carrier！",
+        "**(C) 錯誤**：`釋放後,會被相鄰的 glia cells 吸收（After release, it can be absorbed by neighboring glia cells）` —— Serotonin 釋放後主要是由**突觸前血清素神經末梢上的 SERT 主動再回收**，而非由相鄰神經膠細胞（glia cells）吸收（主要由星狀膠細胞回收的是 Glutamate）。",
+        "**(D) 錯誤**：`只有神經細胞能釋放（Neurons are the only cells that release serotonin）.` —— 人體內超過 90% 的 Serotonin 是由腸胃道黏膜的**腸嗜鉻細胞（enterochromaffin cells）**合成與釋放，並儲存於血小板（platelets）中，因此絕非只有神經細胞能釋放！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-8",
+      "globalIndex": 82,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "中風時引發的細胞與毒性（excitotoxicity）,最可能是因為大量活化哪一種 glutamate receptor? （Excitotoxicity during a stroke is most likely due to massive activation of which glutamate receptor?）",
+      "image": null,
+      "options": {
+        "A": "Ionotropic AMPA receptors",
+        "B": "Ionotropic Kinate receptors",
+        "C": "Ionotropic NMDA receptors",
+        "D": "Metabotropic glutamate receptors（mGluR）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：中風興奮毒性（Excitotoxicity）與 NMDA 受體】**：腦中風缺血缺氧時，神經元去極化且星狀膠細胞回收 glutamate 障礙，導致突觸間隙堆積大量 **Glutamate**。在持續去極化下，**NMDA 受體**通道內的 Mg²⁺ 阻斷脫離並被大量活化，因 NMDA 受體對 **Ca²⁺ 具高度通透性**，導致大量 Ca²⁺ 湧入細胞內活化蛋白酶（calpain）、核酸內切酶與凋亡路徑，引發神經元壞死（興奮毒性）。",
+        "**(C) 正確【本題應選正解】**：`Ionotropic NMDA receptors` —— **NMDA 受體**為雙重閘門離子型受體且**高度通透 Ca²⁺**；中風時大量 glutamate 過度刺激 NMDA 受體導致細胞內 Ca²⁺ 超載，是引發**興奮毒性（excitotoxicity）**的關鍵機制。",
+        "**(A) 錯誤**：`Ionotropic AMPA receptors` —— AMPA 受體主要通透 Na⁺（與 K⁺），雖參與初期去極化以幫助移開 NMDA 上的 Mg²⁺，但一般不直接通透大量 Ca²⁺（除非缺乏 GluA2 次單元），非興奮毒性鈣超載主因。",
+        "**(B) 錯誤**：`Ionotropic Kinate receptors` —— Kainate 受體亦為通透 Na⁺/K⁺ 為主的離子型麩胺酸受體，主要調節突觸傳遞，並非引起缺血性神經元大量 Ca²⁺ 內流的主導受體。",
+        "**(D) 錯誤**：`Metabotropic glutamate receptors（mGluR）` —— 代謝型麩胺酸受體（mGluR）屬於 GPCR，透過 G 蛋白慢速調節細胞內第二信使，並非中風急性期大量 Ca²⁺ 直接湧入的主通道。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-9",
+      "globalIndex": 83,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列的配對,何者是錯誤的?（Which of the following matches is Incorrect?）",
+      "image": null,
+      "options": {
+        "A": "Dopamin: motivation（引發動機）",
+        "B": "Opiate neurotransmitter powerful analgesics（止痛藥）",
+        "C": "Serotonin: control of mood（情緒調控）",
+        "D": "GABAA receptors: a K channels（自身是 K+ channel）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：中樞神經傳導物質功能與受體類型】**：**Dopamine** 負責動機獎賞與動作調控；**Opioids** 為強力內源性止痛物質；**Serotonin** 調控情緒與睡眠；**GABAA 受體**則是配體閘門的**氯離子（Cl⁻）通道**（GABAB 受體才透過 G 蛋白開啟 K⁺ 通道）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`GABAA receptors: a K channels（自身是 K+ channel）` —— **GABAA receptor 本身是離子型「氯離子通道（Cl⁻ channel）」**，而非鉀離子（K⁺）通道！（GABAB receptor 才是透過 G 蛋白間接打開 K⁺ 通道）。",
+        "**(A) 敘述正確（非本題所求）**：`Dopamin: motivation（引發動機）` —— 中腦邊緣系統（mesolimbic pathway，腹側被蓋區 VTA 至伏隔核 nucleus accumbens）的**多巴胺（Dopamine）**是調控**內在動機（motivation）、正向獎賞行為（reward behavior）與成癮**的核心神經傳遞物質（同時黑質紋狀體的多巴胺也負責動作與姿勢調控）。",
+        "**(B) 敘述正確（非本題所求）**：`Opiate neurotransmitter powerful analgesics（止痛藥）` —— 內源性鴉片類神經傳遞物質（**Opiate neurotransmitters**：Endorphins、Enkephalins、Dynorphins）作用於中樞與脊髓的 μ、δ、κ 鴉片受體，具有強效的**內源性止痛作用（powerful analgesics）**。",
+        "**(C) 敘述正確（非本題所求）**：`Serotonin: control of mood（情緒調控）` —— 中樞神經系統的**血清素（Serotonin, 5-HT）**確實負責**情緒調控（control of mood）**、睡眠與食慾調節（抗憂鬱藥 SSRI 即透過提升 5-HT 改善憂鬱情緒）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-10",
+      "globalIndex": 84,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於 acetylcholine receptors（AChR） 哪一敘述是正確的?（Which description regarding acetylcholine receptors（AChR） is correct?）",
+      "image": null,
+      "options": {
+        "A": "全部都是 G-protein coupled receptors（they are all G-protein coupled receptors）",
+        "B": "是 nicotinic AChR 的 agonist（Curare is the agonist for nicotinic AChR）",
+        "C": "Atropine 是 muscarnicAChR 的 antagonist（Atropine is the antagonist for muscarinic AChR）",
+        "D": "Nicotinic AChR 本身主要是 Kchannel（Nicotinic AChR is primarily a K+ channel）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：菸鹼型（nAChR）vs. 毒蕈鹼型（mAChR）受體】**：(1) **nAChR**：為**離子型受體（ligand-gated non-selective cation channel，同時通透 Na⁺ 內流與 K⁺ 外流，淨效應為 Na⁺ 內流導致去極化）**，位於 NMJ 與自主神經節，阻斷劑為 **curare / vecuronium**；(2) **mAChR**：為 **G-protein coupled receptor（GPCR）**，位於副交感靶器官與汗腺，經典拮抗劑為 **atropine**。",
+        "**(C) 正確【本題應選正解】**：`Atropine 是 muscarnicAChR 的 antagonist（Atropine is the antagonist for muscarinic AChR）` —— **Atropine** 為經典的 **muscarinic AChR 競爭性拮抗劑（antagonist）**，可阻斷副交感節後膽鹼作用。",
+        "**(A) 錯誤**：`全部都是 G-protein coupled receptors（they are all G-protein coupled receptors）` —— 僅 **muscarinic AChR（mAChR）** 為 GPCR；**nicotinic AChR（nAChR）** 則是五聚體配體閘門陽離子通道（ionotropic receptor）。",
+        "**(B) 錯誤**：`是 nicotinic AChR 的 agonist（Curare is the agonist for nicotinic AChR）` —— 箭毒（**Curare** / d-tubocurarine）是神經肌肉接合處 **nicotinic AChR 的競爭性拮抗劑（antagonist）**（造成弛緩性麻痺），而非致效劑（agonist）。",
+        "**(D) 錯誤**：`Nicotinic AChR 本身主要是 Kchannel（Nicotinic AChR is primarily a K+ channel）` —— Nicotinic AChR 為非選擇性陽離子通道，在靜止膜電位下因 Na⁺ 內流驅動力遠大於 K⁺ 外流，主要淨電流為 **Na⁺ 內流**產生去極化（EPP/EPSP），而非單純 K⁺ 通道。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-11",
+      "globalIndex": 85,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於在CNS的chemical synapses，下列的蛋白質的描述，何者正確？",
+      "image": null,
+      "options": {
+        "A": "SNAREs protein：Ca* sensor",
+        "B": "Voltage-gated Ca++ channels：集中於 post-synaptic density（PSD）",
+        "C": "Receptors：集中於 active zones",
+        "D": "Neurexins：connects pre- and post-synaptic structures"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：化學突觸前與突觸後關鍵蛋白定位】**：(1) **Neurexins（突觸前）與 Neuroligins（突觸後）**：跨越突觸間隙相互結合，連結對齊突觸前後結構；(2) **Synaptotagmin**：位於突觸小泡膜上的 **Ca²⁺ sensor**；(3) **SNAREs（synaptobrevin, syntaxin, SNAP-25）**：執行囊泡膜融合胞吐；(4) **Voltage-gated Ca²⁺ channels**：集中於突觸前 **active zone**；(5) **Receptors**：集中於突觸後緻密區 **PSD**。",
+        "**(D) 正確【本題應選正解】**：`Neurexins：connects pre- and post-synaptic structures` —— **Neurexins** 為突觸前細胞黏附蛋白，跨越突觸間隙與突觸後膜上的 Neuroligins 結合，負責**連接並穩定突觸前與突觸後結構**。",
+        "**(A) 錯誤**：`SNAREs protein：Ca* sensor` —— **SNAREs** 蛋白負責拉近囊泡與細胞膜並執行膜融合（membrane fusion）；真正的 **Ca²⁺ sensor（鈣離子感測器）**是囊泡膜上的 **Synaptotagmin**。",
+        "**(B) 錯誤**：`Voltage-gated Ca++ channels：集中於 post-synaptic density（PSD）` —— Voltage-gated Ca²⁺ channels 高度集中於**突觸前膜的 active zones**，而非突觸後緻密區（PSD）。",
+        "**(C) 錯誤**：`Receptors：集中於 active zones` —— 神經傳導物質受體（receptors）是集中於**突觸後緻密區（post-synaptic density, PSD）**以接收訊號；active zones 則位於突觸前膜。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-12",
+      "globalIndex": 86,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Tetanus toxin 中毒會破壞 ____ ，造成 spastic paralysis。",
+      "image": null,
+      "options": {
+        "A": "SNAP 25 at the neuromuscular junction（NMJ）",
+        "B": "Synaptobrevin at the neuromuscular junction（NMJ）",
+        "C": "Synaptobrevin at the CNS inhibitory interneurons",
+        "D": "Synaptobrevin at the CNS excitatory interneurons"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：化學突觸分子結構與破傷風毒素（Tetanus Toxin）機轉】**：**(1) 突觸前活性區（Active zone）**：高度聚集**電壓閘門 Ca²⁺ 通道（voltage-gated Ca²⁺ channels）**以快速觸發囊泡胞吐；**(2) Neurexin**：突觸前膜黏附蛋白，跨突觸間隙與突觸後 Neuroligin 結合以**連結突觸前後結構**；**(3) Synaptotagmin**：突觸囊泡上的 **Ca²⁺ 感受器（Ca²⁺ sensor）**；**(4) SNAREs 複合體（Synaptobrevin、Syntaxin-1、SNAP-25）**：介導囊泡與細胞膜融合；**(5) 破傷風毒素（Tetanus toxin）**：經軸突逆行運輸至**中樞神經系統（脊髓）的抑制性中間神經元（CNS inhibitory interneurons，釋放 GABA/Glycine）**，專一性裂解突觸前囊泡上的 **Synaptobrevin（VAMP）**，阻斷抑制性神經傳遞物質釋放，造成運動神經元去抑制過度興奮而引發**僵直性麻痺（spastic paralysis）**（對比：肉毒桿菌素 Botox 作用於周邊 NMJ 造成無力性麻痺 flaccid paralysis）。",
+        "**(C) 正確【本題應選正解】**：`Synaptobrevin at the CNS inhibitory interneurons` —— **破傷風毒素（Tetanus toxin）**由傷口進入運動神經末梢後，會經由軸突逆行運輸（retrograde transport）並跨突觸進入**中樞神經系統（脊髓）的抑制性中間神經元（CNS inhibitory interneurons，如釋放 Glycine 的 Renshaw cells）**，作為蛋白酶專一性裂解囊泡上的 **Synaptobrevin（VAMP）**，阻斷抑制性神經傳遞物質釋放，導致運動神經元失去抑制而持續放電，引發**僵直性麻痺（spastic paralysis / lockjaw）**！",
+        "**(A) 錯誤**：`SNAP 25 at the neuromuscular junction（NMJ）` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！",
+        "**(B) 錯誤**：`Synaptobrevin at the neuromuscular junction（NMJ）` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！",
+        "**(D) 錯誤**：`Synaptobrevin at the CNS excitatory interneurons` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-13",
+      "globalIndex": 87,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於 Excitatory postsynaptic potentials（EPSP） 的描述，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "膜電位需達到閾值（threshold） 才可以產生 EPSP",
+        "B": "傳遞過程中，不會變小（it will not decay）",
+        "C": "通常是鈉離子或鈣離子流入細胞引起 EPSP",
+        "D": "有summation現象"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：興奮性突觸後電位（EPSP）、突觸前抑制與自體受體（Autoreceptors）】**：**(1) EPSP 特性**：興奮性突觸後受體多為**配體閘門 Na⁺ 或 Ca²⁺ 通道**，陽離子內流產生去極化之分級電位（graded potential）——**無閾值（no threshold）**、振幅隨刺激強度與傳遞物質量變化、隨傳遞距離呈**遞減衰減（decremental decay）**，單一 EPSP 僅約 0.5–1 mV 不足以達閾值，必須透過**時間加成與空間加成（temporal & spatial summation）**才能在軸丘觸發動作電位；**(2) 突觸前抑制（Presynaptic inhibition）**：軸突-軸突突觸藉由**增加突觸前末梢 K⁺ 通透性（↑K⁺ conductance）或直接抑制 Ca²⁺ 通道**，縮短動作電位、減少 Ca²⁺ 內流與傳遞物質釋放；**(3) 突觸前自體受體（Autoreceptors，如 α2、M2、D2）**：透過**負回饋（Negative feedback）**抑制自身神經傳遞物質過度釋放與合成。",
+        "**(D) 正確【本題應選正解】**：`有summation現象` —— 單一興奮性突觸產生的 **EPSP（興奮性突觸後電位）**屬於分級電位（graded potential，幅度僅約 0.5–1 mV），具有**加成現象（summation，包含時間加成 temporal summation 與空間加成 spatial summation）**，可疊加使軸丘膜電位達到閾值而觸發動作電位。",
+        "**(A) 錯誤**：`膜電位需達到閾值（threshold） 才可以產生 EPSP` —— **EPSP 屬於分級電位（graded potential），本身沒有閾值（no threshold）**！只要有少量興奮性神經傳遞物質結合開啟陽離子通道，就會產生對應大小的 EPSP（需達到閾值才能產生的是**動作電位 Action potential**）！",
+        "**(B) 錯誤**：`傳遞過程中，不會變小（it will not decay）` —— EPSP 為局部的被動電緊張傳導（electrotonic conduction），沿著樹突與細胞本體傳遞至軸丘的過程中會因膜漏電與胞質電阻而**隨距離逐漸衰減變小（decremental decay）**；只有動作電位才具有不衰減（non-decremental）特性！",
+        "**(C) 錯誤**：`通常是鈉離子或鈣離子流入細胞引起 EPSP` —— 興奮性突觸後受體（如 AMPA、NMDA、nAChR）開啟時，確實是由**鈉離子（Na⁺）或鈣離子（Ca²⁺）流入細胞**引起去極化產生 EPSP（註：本題選項 C 與 D 皆為正確生理敘述，113 年原始解答表將第 13 題標為 D、同卷第 38 題標為 C）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-14",
+      "globalIndex": 88,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一酵素能將 norepinephrine 轉換成 epinephrine?",
+      "image": null,
+      "options": {
+        "A": "Tyrosine hydroxylase",
+        "B": "Dopa decarboxylase",
+        "C": "Dopamine β-hydroxylase",
+        "D": "Phenylethanolamine N-methyltransferase（PNMT）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：小分子神經傳遞物質合成位置與兒茶酚胺（Catecholamines）生合成順序】**：**(1) 兒茶酚胺合成順序**：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine** ─(進入囊泡由 **Dopamine β-hydroxylase, DBH**)→ **Norepinephrine（NE）** ─(釋出至細胞質由 **PNMT：Phenylethanolamine N-methyltransferase**)→ **Epinephrine**；**(2) 合成完成位置比較**：**Norepinephrine（NE）是唯一在「突觸囊泡（synaptic vesicle）內」合成完成的小分子神經傳遞物質**！而 **ACh、Dopamine、Epinephrine、Serotonin（5-HT）、GABA、Glutamate 都是在「突觸末梢細胞質（cytosol）內」合成完成**後才裝入囊泡（Opioid 腦內啡則屬於大分子神經胜肽 neuropeptide，在細胞本體粗糙內質網與高基氏體合成）。",
+        "**(D) 正確【本題應選正解】**：`Phenylethanolamine N-methyltransferase（PNMT）` —— **Phenylethanolamine N-methyltransferase（PNMT，苯乙醇胺 N-甲基轉移酶）**存在於腎上腺髓質嗜鉻細胞與部分腦幹神經元的細胞質中，負責將 Norepinephrine 加上甲基轉換成 **Epinephrine（腎上腺素）**。",
+        "**(A) 錯誤**：`Tyrosine hydroxylase` —— **Tyrosine hydroxylase** 負責第一步速率決定步驟：將 Tyrosine 羥基化為 **L-DOPA**。",
+        "**(B) 錯誤**：`Dopa decarboxylase` —— **DOPA decarboxylase（芳香族 L-胺基酸脫羧酶）**負責將 L-DOPA 脫羧轉換為 **Dopamine**。",
+        "**(C) 錯誤**：`Dopamine β-hydroxylase` —— **Dopamine β-hydroxylase（DBH）**位於突觸囊泡內，負責將 Dopamine 轉換為 **Norepinephrine（NE）**。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-15",
+      "globalIndex": 89,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "關於 noradrenergic synapse 的描述，何者是對的？（Norepinephrine：NE）",
+      "image": null,
+      "options": {
+        "A": "其前驅物 tyrosine 是經由 Na⁺-dependent exchanger（反向運輸）進入細胞",
+        "B": "NE 的合成是在突觸前細胞質內完成的",
+        "C": "降血壓藥物（reserpine）可抑制 dopamine 被轉運到小泡內來降低 NE 合成",
+        "D": "NE 釋放後通常被酵素分解代謝掉"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "answerDisplay": "(C/D)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心生理考點：正腎上腺素（NE）突觸生合成、囊泡轉運與移除】**：(1) **Tyrosine** 經 **Na⁺-dependent transporter（同向協同轉運 symporter，非反向交換 exchanger）** 進入神經末梢；(2) Tyrosine → L-DOPA → Dopamine 在細胞質完成，接著 Dopamine 必須經 **VMAT2** 進入**突觸小泡內**，才能由 **Dopamine β-hydroxylase** 轉化為 **NE**；(3) **Reserpine** 抑制 VMAT 使 Dopamine 無法進入小泡而降低 NE 合成儲存；(4) NE 釋放後**主要經突觸前 NET 再回收（reuptake）**，少部分才被 MAO/COMT 代謝。",
+        "**(C) 正確【本題應選正解】**：`降血壓藥物（reserpine）可抑制 dopamine 被轉運到小泡內來降低 NE 合成` —— **Reserpine** 不可逆阻斷囊泡單胺轉運體（**VMAT**），使細胞質內的 dopamine 無法進入小泡進行下一步轉化為 NE（且暴露於細胞質被 MAO 分解），進而耗竭 NE 存量達到降血壓效果。",
+        "**(A) 錯誤**：`其前驅物 tyrosine 是經由 Na⁺-dependent exchanger（反向運輸）進入細胞` —— 前驅物 **tyrosine** 是經由 **Na⁺-dependent transporter（同向協同運輸 symporter / cotransporter）**進入突觸前神經元，而非反向交換運輸（exchanger）。",
+        "**(B) 錯誤**：`NE 的合成是在突觸前細胞質內完成的` —— Tyrosine 至 Dopamine 的步驟在細胞質進行，但最後一步 **Dopamine → Norepinephrine** 是在**突觸小泡（synaptic vesicle）內部**由 Dopamine β-hydroxylase 催化完成（唯一在囊泡內合成的小分子傳導物質）。",
+        "**(D) 錯誤**：`NE 釋放後通常被酵素分解代謝掉` —— NE 釋放至突觸間隙後，終止訊號的主要途徑是透過突觸前膜上的 **NET（norepinephrine transporter）進行再回收（reuptake）**，而非直接被酵素分解。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-16",
+      "globalIndex": 90,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪些藥物的作用機制可能增加serotonergic synapse的效率？（Serotonin; 5-HT）①抑制 5- HT生成的藥 ②促進5-HT釋放的藥 ③阻斷5-HT釋放的藥 ④使用5-HT agonist ⑤使用5- HT antagonist ⑥阻斷 5-HT reuptake 的藥",
+      "image": null,
+      "options": {
+        "A": "①④⑥",
+        "B": "②③⑤",
+        "C": "②④⑥",
+        "D": "③⑤⑥"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：血清素（Serotonin, 5-HT）突觸生合成、再回收與神經傳遞物質移除】**：**(1) 5-HT 合成與代謝**：由色胺酸（**Tryptophan**，經 Na⁺-independent 大型中性胺基酸載體進入神經元）在**神經末梢細胞質**合成為 5-HTP 再轉為 **5-HT（Serotonin）**（體內 90% 以上的 5-HT 由腸道嗜鉻細胞製造，不只有神經元能釋放）；釋放後經突觸前 SERT 再回收（可被百憂解 **Prozac / Fluoxetine [SSRI]** 阻斷以增強突觸效率），並可被粒線體外膜的**單胺氧化酶（Monoamine oxidase, MAO）氧化分解**；**(2) 其他傳遞物質移除**：**ACh** 在突觸間隙被 **AChE 水解**（回收的是 Choline 而非 ACh）；**Glutamate** 主要由鄰近**星狀膠細胞（astrocytes / glia cells）經 EAAT 回收**並由 glutamine synthetase 轉為 glutamine；**NE / Dopamine** 主要由**突觸前神經末梢（NET / DAT）再回收**。",
+        "**(C) 正確【本題應選正解】**：`②④⑥` —— 能**增加突觸傳遞效率（synaptic efficiency / strength）**的三大藥物機轉為：**促進神經傳遞物質釋放（increase release）**、**使用受體致效劑（use agonist）**、以及**阻斷神經傳遞物質的再回收（block reuptake）**！",
+        "**(A) 錯誤**：`①④⑥` —— 能**增加突觸傳遞效率（synaptic efficiency / strength）**的三大藥物機轉為：**促進神經傳遞物質釋放（increase release）**、**使用受體致效劑（use agonist）**、以及**阻斷神經傳遞物質的再回收（block reuptake）**！",
+        "**(B) 錯誤**：`②③⑤` —— 抑制傳遞物質生成、阻斷傳遞物質釋放或使用受體拮抗劑（antagonist）皆會**降低（而非增加）**突觸傳遞效率。",
+        "**(D) 錯誤**：`③⑤⑥` —— 抑制傳遞物質生成、阻斷傳遞物質釋放或使用受體拮抗劑（antagonist）皆會**降低（而非增加）**突觸傳遞效率。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-17",
+      "globalIndex": 91,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於神經傳導物質與其功能的配對，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "Acetylcholine（ACh）：其神經細胞退化與Alzheimer's Disease有關",
+        "B": "Dopamine：sleep regulation（睡眠調控）",
+        "C": "Opioids：control of movement and posture（動作調控）",
+        "D": "Serotonin：motivation（動機）and reward behavior"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：中樞神經傳導物質主要功能與疾病關聯】**：(1) **ACh**（基底核 Meynert 核團）：記憶與認知，退化與**阿茲海默症（Alzheimer's disease）**密切相關；(2) **Dopamine**：動作調控（黑質紋狀體，帕金森氏症）與動機獎賞（中腦邊緣）；(3) **Serotonin（5-HT）**：情緒、睡眠與食慾調控；(4) **Opioids（腦內啡）**：強力內源性止痛（analgesia）。",
+        "**(A) 正確【本題應選正解】**：`Acetylcholine（ACh）：其神經細胞退化與Alzheimer's Disease有關` —— 大腦皮質與海馬迴之膽鹼性神經元（特別是基底前腦 Meynert 核團）退化與 ACh 不足，是**阿茲海默症（Alzheimer's disease）**記憶與認知退化的核心病理機轉（故臨床以 AChE 抑制劑治療）。",
+        "**(B) 錯誤**：`Dopamine：sleep regulation（睡眠調控）` —— 睡眠與覺醒週期、情緒調控主要是 **Serotonin（5-HT）**（與組織胺、食慾素等）的功能；**Dopamine** 主要負責動機獎賞與錐體外徑動作控制。",
+        "**(C) 錯誤**：`Opioids：control of movement and posture（動作調控）` —— **Opioids**（腦內啡／腦啡肽）主要功能為抑制痛覺傳遞（強力止痛）；負責動作與姿勢調控的是基底核的 **Dopamine**。",
+        "**(D) 錯誤**：`Serotonin：motivation（動機）and reward behavior` —— 動機（motivation）與獎賞行為（reward behavior，與成癮密切相關）主要由中腦邊緣路徑的 **Dopamine** 主導，而非 Serotonin。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-18",
+      "globalIndex": 92,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "關於noradrenergic synapse的描述，何者是對的？（Norepiniphrin：NE）",
+      "image": null,
+      "options": {
+        "A": "其前驅物 tyrosine 是經由Na*-dependent exchanger（反向運輸）進入細胞",
+        "B": "NE的合成是在突觸觸前細胞質內完成的",
+        "C": "降血壓藥物（reserpine）可抑制dopamine 被轉運到小泡内來降低NE合成",
+        "D": "NE釋放後通常被酵素分解代謝掉"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "answerDisplay": "(C/D)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心生理考點：正腎上腺素（NE）突觸生合成、囊泡轉運與移除】**：(1) **Tyrosine** 經 **Na⁺-dependent transporter（同向協同轉運 symporter，非反向交換 exchanger）** 進入神經末梢；(2) Tyrosine → L-DOPA → Dopamine 在細胞質完成，接著 Dopamine 必須經 **VMAT2** 進入**突觸小泡內**，才能由 **Dopamine β-hydroxylase** 轉化為 **NE**；(3) **Reserpine** 抑制 VMAT 使 Dopamine 無法進入小泡而降低 NE 合成儲存；(4) NE 釋放後**主要經突觸前 NET 再回收（reuptake）**，少部分才被 MAO/COMT 代謝。",
+        "**(C) 正確【本題應選正解】**：`降血壓藥物（reserpine）可抑制dopamine 被轉運到小泡内來降低NE合成` —— **Reserpine** 不可逆阻斷囊泡單胺轉運體（**VMAT**），使細胞質內的 dopamine 無法進入小泡進行下一步轉化為 NE（且暴露於細胞質被 MAO 分解），進而耗竭 NE 存量達到降血壓效果。",
+        "**(A) 錯誤**：`其前驅物 tyrosine 是經由Na*-dependent exchanger（反向運輸）進入細胞` —— 前驅物 **tyrosine** 是經由 **Na⁺-dependent transporter（同向協同運輸 symporter / cotransporter）**進入突觸前神經元，而非反向交換運輸（exchanger）。",
+        "**(B) 錯誤**：`NE的合成是在突觸觸前細胞質內完成的` —— Tyrosine 至 Dopamine 的步驟在細胞質進行，但最後一步 **Dopamine → Norepinephrine** 是在**突觸小泡（synaptic vesicle）內部**由 Dopamine β-hydroxylase 催化完成（唯一在囊泡內合成的小分子傳導物質）。",
+        "**(D) 錯誤**：`NE釋放後通常被酵素分解代謝掉` —— NE 釋放至突觸間隙後，終止訊號的主要途徑是透過突觸前膜上的 **NET（norepinephrine transporter）進行再回收（reuptake）**，而非直接被酵素分解。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-19",
+      "globalIndex": 93,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "對於NMDA receptor 的描述，何者是錯誤的？",
+      "image": null,
+      "options": {
+        "A": "Glycine 能促進 NMDA receptors' response to glutamate",
+        "B": "不活化時之MMDA receptor 通道被Ca2+ ions 擋住（blocked）",
+        "C": "其作用與long-term potentiation（長期增益作用）有關",
+        "D": "其作用與excitototoxicity（興奮毒性）有關"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：Glutamate NMDA 受體雙重閘門特性、LTP 與中風興奮毒性（Excitotoxicity）】**：**NMDA 受體**為離子型（ionotropic）非選擇性陽離子通道（高度通透 **Ca²⁺** 與 Na⁺）。**(1) 休息態阻斷**：靜止膜電位下，通道孔洞被胞外的 **鎂離子（Mg²⁺，而非 Ca²⁺！）**以電壓依賴方式塞住；**(2) 活化條件**：需同時滿足 ① **Glutamate** 結合、② 輔助致效劑 **Glycine（甘胺酸，或 D-serine，而非 Lysine！）**結合、③ 突觸後膜先經 AMPA 受體發生**輕微去極化（depolarization）將 Mg²⁺ 排斥移開**；**(3) 生理與病理**：適度活化引起 Ca²⁺ 內流可誘導與學習記憶相關之**長期增益作用（Long-term potentiation, LTP）**；缺血性**中風（stroke）**時大量 Glutamate 堆積過度活化 **NMDA 受體**，導致巨量 Ca²⁺ 湧入細胞活化分解酵素引發**興奮毒性（excitotoxicity）**造成神經元死亡（需用 NMDA antagonist 保護，而非 agonist）。",
+        "**(B) 敘述錯誤【本題應選正解】**：`不活化時之MMDA receptor 通道被Ca2+ ions 擋住（blocked）` —— 在靜止膜電位（不活化）時，堵住 NMDA 受體通道孔洞的是細胞外的**「鎂離子（Mg²⁺）」**，而非鈣離子（Ca²⁺ 是 NMDA 通道開啟後大量流入細胞的離子）！",
+        "**(A) 敘述正確（非本題所求）**：`Glycine 能促進 NMDA receptors' response to glutamate` —— **Glycine（甘胺酸，或 D-serine）**是 NMDA 受體必需的**共同致效劑（co-agonist）**，必須同時有 Glutamate 與 Glycine 結合在 NMDA 受體的不同位點上，通道才能被有效開啟。",
+        "**(C) 敘述正確（非本題所求）**：`其作用與long-term potentiation（長期增益作用）有關` —— NMDA 受體開啟後流入突觸後細胞的 **Ca²⁺** 會作為二級傳訊者活化 CaMKII，促使更多 AMPA 受體插入突觸後膜並增強突觸傳遞效率，是海馬迴產生**長期增益作用（Long-term potentiation, LTP）**的核心分子機制。",
+        "**(D) 敘述正確（非本題所求）**：`其作用與excitototoxicity（興奮毒性）有關` —— 過度活化 **NMDA 受體**會導致過量 Ca²⁺ 流入神經元，觸發神經元壞死與凋亡，即為中風與腦傷時的**興奮毒性（excitotoxicity）**。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-20",
+      "globalIndex": 94,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於γ-GABA 神經傳導物質的描述，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "其釋放會引起下游神經細胞 excitatory postsynaptic potential（EPSP）",
+        "B": "其作用與神經細胞的long-term potentiation有關",
+        "C": "GABAA receptor是Cl- channels",
+        "D": "它是CNS中最主要的興奮性neurotransmitters"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：GABA 與中樞抑制性突觸】**：**GABA（γ-aminobutyric acid）**是中樞神經系統（CNS）**最主要的抑制性神經傳導物質**（脊髓主要為 Glycine）。**GABAA 受體**為離子型**氯離子通道（Cl⁻ channel）**，開啟後使 Cl⁻ 流入細胞造成過極化，產生**抑制性突觸後電位（IPSP）**；**GABAB 受體**則為 GPCR（經 Gi 打開 K⁺ 通道、關閉 Ca²⁺ 通道）。",
+        "**(C) 正確【本題應選正解】**：`GABAA receptor是Cl- channels` —— **GABAA 受體**為配體閘門的**氯離子通道（Cl⁻ channel）**（鎮靜安眠藥 benzodiazepines 與 barbiturates 即作用於此受體增強 Cl⁻ 內流）。",
+        "**(A) 錯誤**：`其釋放會引起下游神經細胞 excitatory postsynaptic potential（EPSP）` —— GABA 為抑制性傳導物質，釋放後會引發下游神經細胞產生**抑制性突觸後電位（IPSP）**，降低動作電位發放機率。",
+        "**(B) 錯誤**：`其作用與神經細胞的long-term potentiation有關` —— 海馬迴的長期增益作用（LTP，記憶形成基礎）主要由興奮性神經傳導物質 **Glutamate**（透過 AMPA 與 NMDA 受體）所介導，而非 GABA。",
+        "**(D) 錯誤**：`它是CNS中最主要的興奮性neurotransmitters` —— GABA 是 CNS 中最主要的**抑制性**神經傳導物質；CNS 中最主要的興奮性神經傳導物質是 **Glutamate（麩胺酸）**。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-21",
+      "globalIndex": 95,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "將neuromuscular junction（神經肌肉交界處）的訊息傳遞順序，依序排列! ① SNAREs 蛋白 家族構型改變（Conformational change） ② Acetylcholine（ACh）binds to receptors ③ Motor end-plate 產生終板電位 End-Plate Potentials（EPP） ④ Voltage-gated Ca²⁺ channels 打開，鈣離子流入神經末梢 ⑤ 肌肉細胞膜產生動作電位（action potentials）",
+      "image": null,
+      "options": {
+        "A": "54231",
+        "B": "31524",
+        "C": "14253",
+        "D": "41235"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：神經肌肉接合處（NMJ）傳遞順序與作用藥物】**：**(1) 傳遞順序**：運動神經元軸突動作電位傳至末梢 → 突觸前膜 **電壓閘門 Ca²⁺ 通道開啟，Ca²⁺ 流入神經末梢** → Ca²⁺ 結合 Synaptotagmin 觸發 **SNAREs 蛋白構型改變** → 囊泡胞吐**釋放 ACh** → ACh 結合運動終板上的 **菸鹼受體（NM nAChR）開啟 Na⁺ 內流** → 產生**終板電位（EPP）** → 鄰近肌膜電位閘門 Na⁺ 通道開啟產生**肌肉細胞膜動作電位**；**(2) 藥物與毒素**：**Botox（肉毒桿菌素）**裂解突觸前 SNAREs 阻斷 ACh 釋放；**Curare / Vecuronium** 為非去極化型 nAChR 競爭性拮抗劑；**Succinylcholine** 為去極化型 **nAChR 致效劑（agonist）**。",
+        "**(D) 正確【本題應選正解】**：`41235` —— 神經肌肉交界處（NMJ）傳遞之正確時間順序為：**(4) 突觸前電壓閘門 Ca²⁺ 通道打開，Ca²⁺ 流入神經末梢** → **(1) SNAREs 蛋白家族構型改變促成囊泡融合釋放 ACh** → **(2) ACh 與運動終板受體結合** → **(3) 運動終板產生終板電位（EPP）** → **(5) 鄰近肌肉細胞膜達到閾值產生動作電位**，故順序為 `4 → 1 → 2 → 3 → 5`。",
+        "**(A) 錯誤**：`54231` —— 順序錯誤：正確傳遞順序應為 (4) Ca²⁺ 流入神經末梢 → (1) SNAREs 構型改變釋放 ACh → (2) ACh 結合受體 → (3) 產生終板電位 EPP → (5) 肌膜產生動作電位（`41235`）。",
+        "**(B) 錯誤**：`31524` —— 順序錯誤：正確傳遞順序應為 (4) Ca²⁺ 流入神經末梢 → (1) SNAREs 構型改變釋放 ACh → (2) ACh 結合受體 → (3) 產生終板電位 EPP → (5) 肌膜產生動作電位（`41235`）。",
+        "**(C) 錯誤**：`14253` —— 順序錯誤：正確傳遞順序應為 (4) Ca²⁺ 流入神經末梢 → (1) SNAREs 構型改變釋放 ACh → (2) ACh 結合受體 → (3) 產生終板電位 EPP → (5) 肌膜產生動作電位（`41235`）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-22",
+      "globalIndex": 96,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "突觸結構上的voltage-gatedCa2+channels，主要集中於哪一區域？",
+      "image": null,
+      "options": {
+        "A": "Active zones",
+        "B": "Post-synaptic density（PSD）",
+        "C": "Synaptic cleft",
+        "D": "Synaptic vesicles"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：化學突觸前活性區（Active Zone）與胞吐作用】**：在化學突觸的突觸前末梢（presynaptic terminal），突觸小泡錨定與融合釋放的特定區域稱為**活性區（active zone）**。此處高度聚集**電壓閘門鈣離子通道（voltage-gated Ca²⁺ channels）**，使動作電位抵達時 Ca²⁺ 能立即就近流入並結合 synaptotagmin 觸發 SNARE 複合體進行快速胞吐（exocytosis）。",
+        "**(A) 正確【本題應選正解】**：`Active zones` —— **Active zones（活性區）**位於突觸前膜直接面對突觸間隙處，高度集中 **voltage-gated Ca²⁺ channels** 與停泊的突觸小泡，以確保 Ca²⁺ 內流能最快速觸發胞吐釋放。",
+        "**(B) 錯誤**：`Post-synaptic density（PSD）` —— **Post-synaptic density（PSD）**位於突觸後膜，主要聚集神經傳導物質受體與骨架蛋白，而非突觸前 Ca²⁺ 通道。",
+        "**(C) 錯誤**：`Synaptic cleft` —— **Synaptic cleft（突觸間隙）**為突觸前後膜之間的細胞外空間，不含離子通道。",
+        "**(D) 錯誤**：`Synaptic vesicles` —— **Synaptic vesicles（突觸小泡）**儲存神經傳導物質，膜上不含 voltage-gated Ca²⁺ channels。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-23",
+      "globalIndex": 97,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Tetanus toxin 患者會產生spastic paralysis（僵直性癱瘓）的現象，其機制是 因為Tetanus toxin 破壞＿＿pre-synaptic terminal 上的＿＿蛋白而抑制 neurotransmitters 釋放。",
+      "image": null,
+      "options": {
+        "A": "Excitatory interneurons, SNAP-25",
+        "B": "Inhibitory interneurons, synaptobrevin",
+        "C": "Inhibitory interneurons, SNAP-25",
+        "D": "Motorneuron, synaptobrevin"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：化學突觸分子結構與破傷風毒素（Tetanus Toxin）機轉】**：**(1) 突觸前活性區（Active zone）**：高度聚集**電壓閘門 Ca²⁺ 通道（voltage-gated Ca²⁺ channels）**以快速觸發囊泡胞吐；**(2) Neurexin**：突觸前膜黏附蛋白，跨突觸間隙與突觸後 Neuroligin 結合以**連結突觸前後結構**；**(3) Synaptotagmin**：突觸囊泡上的 **Ca²⁺ 感受器（Ca²⁺ sensor）**；**(4) SNAREs 複合體（Synaptobrevin、Syntaxin-1、SNAP-25）**：介導囊泡與細胞膜融合；**(5) 破傷風毒素（Tetanus toxin）**：經軸突逆行運輸至**中樞神經系統（脊髓）的抑制性中間神經元（CNS inhibitory interneurons，釋放 GABA/Glycine）**，專一性裂解突觸前囊泡上的 **Synaptobrevin（VAMP）**，阻斷抑制性神經傳遞物質釋放，造成運動神經元去抑制過度興奮而引發**僵直性麻痺（spastic paralysis）**（對比：肉毒桿菌素 Botox 作用於周邊 NMJ 造成無力性麻痺 flaccid paralysis）。",
+        "**(B) 正確【本題應選正解】**：`Inhibitory interneurons, synaptobrevin` —— **破傷風毒素（Tetanus toxin）**由傷口進入運動神經末梢後，會經由軸突逆行運輸（retrograde transport）並跨突觸進入**中樞神經系統（脊髓）的抑制性中間神經元（CNS inhibitory interneurons，如釋放 Glycine 的 Renshaw cells）**，作為蛋白酶專一性裂解囊泡上的 **Synaptobrevin（VAMP）**，阻斷抑制性神經傳遞物質釋放，導致運動神經元失去抑制而持續放電，引發**僵直性麻痺（spastic paralysis / lockjaw）**！",
+        "**(A) 錯誤**：`Excitatory interneurons, SNAP-25` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！",
+        "**(C) 錯誤**：`Inhibitory interneurons, SNAP-25` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！",
+        "**(D) 錯誤**：`Motorneuron, synaptobrevin` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-24",
+      "globalIndex": 98,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於神經傳導物質的代謝或是釋放之後的移除，下列哪一配對是對的？",
+      "image": null,
+      "options": {
+        "A": "ACh:reuptake by presynaptic terminal（突觸前末梢再回收）",
+        "B": "Glutamate: degraded by glutaminase",
+        "C": "Norepinephrine: reuptake by nearby glia cells（被鄰近 glia cells 吸收）",
+        "D": "Serotonin: can be oxidized by monoamine oxidase（MAO）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：血清素（Serotonin, 5-HT）突觸生合成、再回收與神經傳遞物質移除】**：**(1) 5-HT 合成與代謝**：由色胺酸（**Tryptophan**，經 Na⁺-independent 大型中性胺基酸載體進入神經元）在**神經末梢細胞質**合成為 5-HTP 再轉為 **5-HT（Serotonin）**（體內 90% 以上的 5-HT 由腸道嗜鉻細胞製造，不只有神經元能釋放）；釋放後經突觸前 SERT 再回收（可被百憂解 **Prozac / Fluoxetine [SSRI]** 阻斷以增強突觸效率），並可被粒線體外膜的**單胺氧化酶（Monoamine oxidase, MAO）氧化分解**；**(2) 其他傳遞物質移除**：**ACh** 在突觸間隙被 **AChE 水解**（回收的是 Choline 而非 ACh）；**Glutamate** 主要由鄰近**星狀膠細胞（astrocytes / glia cells）經 EAAT 回收**並由 glutamine synthetase 轉為 glutamine；**NE / Dopamine** 主要由**突觸前神經末梢（NET / DAT）再回收**。",
+        "**(D) 正確【本題應選正解】**：`Serotonin: can be oxidized by monoamine oxidase（MAO）` —— 血清素（**Serotonin, 5-HT**）屬於單胺類神經傳遞物質，被突觸前神經末梢再回收後，可被粒線體外膜上的**單胺氧化酶（Monoamine oxidase, MAO）氧化脫胺分解**（轉為 5-HIAA 排出）。",
+        "**(A) 錯誤**：`ACh:reuptake by presynaptic terminal（突觸前末梢再回收）` —— 乙醯膽鹼（**ACh**）釋放至突觸間隙後，是直接被突觸間隙中的**乙醯膽鹼酯酶（AChE）迅速水解為膽鹼（Choline）與乙酸**；突觸前末梢經高親和力轉運蛋白再回收的是分解後的**「膽鹼（Choline）」**，而非直接回收完整的 ACh！",
+        "**(B) 錯誤**：`Glutamate: degraded by glutaminase` —— 突觸間隙的 **Glutamate** 主要是由鄰近**星狀膠細胞（astrocytes / glia）主動回收**，並在膠細胞內由 **Glutamine synthetase（麩醯胺酸合成酶）**轉化為無毒的 Glutamine；而 **Glutaminase（麩醯胺酸酶）**則是位於神經元內將 Glutamine 轉回 Glutamate 的合成酵素，並非分解酵素！",
+        "**(C) 錯誤**：`Norepinephrine: reuptake by nearby glia cells（被鄰近 glia cells 吸收）` —— **Norepinephrine（NE）**釋放後最主要（80–90%）是由**突觸前神經末梢（presynaptic terminal）上的 NET（uptake 1）主動再回收**，而非由鄰近神經膠細胞（glia cells）吸收！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-25",
+      "globalIndex": 99,
+      "qNum": 25,
+      "origQ": "Q25",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "活化somatic nervous system 下游一定是興奮性反應（骨骼肌收縮） ；而活化 autonomic nervous system（ANS）下游目標受器反應可能是興奮性（收縮）或抑制性（舒張） 。",
+      "image": null,
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(A) 正確【本題應選正解】**：`True` —— **True（正確）**：體運動神經元（somatic motor neurons）一律釋放 ACh 作用於骨骼肌終板的離子型 NM 菸鹼受體（Na⁺ 內流去極化），因此**活化體運動神經系統對骨骼肌永遠只有「興奮性（收縮）」一種反應**；相反地，**自主神經系統（ANS）**釋放的 ACh 或 NE 可作用於不同亞型的 GPCR（如 α1/M3 耦合 Gq 引起收縮、β2 耦合 Gs 或 M2 耦合 Gi 引起舒張／抑制），故**下游反應可能是興奮性或抑制性**！",
+        "**(B) 錯誤**：`False` —— 此敘述為真（True）：體神經系統對骨骼肌僅有單一興奮性作用，而自主神經系統對臟器則依受體亞型可產生興奮或抑制作用。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-26",
+      "globalIndex": 100,
+      "qNum": 26,
+      "origQ": "Q26",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "對於excitatory synapse 的描述，哪一項描述最可能是正確的（most likely to be correct）？",
+      "image": null,
+      "options": {
+        "A": "其postsynaptic membranes receptors 可能是氯離子通道",
+        "B": "其postsynaptic membranes 的 receptors 可能是鈉離子或鈣離子通道",
+        "C": "其postsynaptic membranes 可記錄到 IPSP（抑制性突觸後電位）",
+        "D": "其postsynaptic membranes 的膜電位穩定維持在-55Mv"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：興奮性突觸後電位（EPSP）的離子機制】**：在**興奮性突觸（excitatory synapse）**中，突觸後膜上的配體閘門受體多為 **Na⁺ 通道或非選擇性陽離子（Na⁺/Ca²⁺）通道**；活化後陽離子淨內流使突觸後膜產生局部漸進性去極化，稱為 **EPSP**（使膜電位更接近閾值）。",
+        "**(B) 正確【本題應選正解】**：`其postsynaptic membranes 的 receptors 可能是鈉離子或鈣離子通道` —— 興奮性突觸後膜受體（如 Glutamate AMPA/NMDA 受體、nAChR）為**鈉離子或鈣離子通透性陽離子通道**，開啟後造成去極化（EPSP）。",
+        "**(A) 錯誤**：`其postsynaptic membranes receptors 可能是氯離子通道` —— 氯離子（Cl⁻）通道（如 GABAA、Glycine 受體）開啟通常使 Cl⁻ 內流造成膜電位過極化（或固定於靜止電位），產生的是**抑制性（IPSP）**反應。",
+        "**(C) 錯誤**：`其postsynaptic membranes 可記錄到 IPSP（抑制性突觸後電位）` —— 興奮性突觸記錄到的是去極化的 **EPSP**（excitatory postsynaptic potential），抑制性突觸才記錄到 IPSP。",
+        "**(D) 錯誤**：`其postsynaptic membranes 的膜電位穩定維持在-55Mv` —— （註：-55 mV 接近神經元閾值電位）正常靜止膜電位約為 -70 mV，且 EPSP 屬於會隨距離與時間衰減的暫時性局部電位變化，並非穩定維持在 -55 mV。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-27",
+      "globalIndex": 101,
+      "qNum": 27,
+      "origQ": "Q27",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "若你需要研發新藥來提高cholinergic synapse的效用來減緩阿茲海默氏症的進 程，下列哪一方 式可能最有效果?",
+      "image": null,
+      "options": {
+        "A": "研發能促進presynaptic inhibition of the cholinergic synapse 的藥",
+        "B": "研發能抑制ACh合成的藥",
+        "C": "研發能抑制突觸前末梢ACh autoreceptors（自體受體）表現的藥",
+        "D": "研發能增加突觸前神經細胞釋放ACh的藥"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：提高膽鹼突觸（Cholinergic Synapse）效能之策略】**：阿茲海默症患者前腦膽鹼神經元退化，臨床以 AChE 抑制劑（如 donepezil）延長 ACh 停留時間。若從突觸調節角度提升傳遞效能，最直接有效的方法包含：**增加突觸前神經細胞釋放 ACh**、使用 mAChR agonist 或抑制突觸間隙 AChE 分解；注意突觸前自體受體（autoreceptors）對神經傳導物質通常為**負回饋抑制**（註：選項 C 雖提及抑制 autoreceptor，但依本題題庫標準答案設定為 D）。",
+        "**(D) 正確【本題應選正解】**：`研發能增加突觸前神經細胞釋放ACh的藥` —— 直接**增加突觸前神經細胞釋放 ACh** 可提高突觸間隙內的乙醯膽鹼濃度並強化突觸後膽鹼受體訊號，能有效彌補阿茲海默症的膽鹼功能不足。",
+        "**(A) 錯誤**：`研發能促進presynaptic inhibition of the cholinergic synapse 的藥` —— 促進突觸前抑制（presynaptic inhibition）會減少突觸前 Ca²⁺ 內流與 ACh 釋放量，反而**降低**膽鹼突觸效能，使病情惡化。",
+        "**(B) 錯誤**：`研發能抑制ACh合成的藥` —— 抑制乙醯膽鹼（ACh）合成（如阻斷 ChAT 或 choline 攝取）會耗竭突觸小泡內的 ACh 存量，大幅**削弱**膽鹼突觸傳遞。",
+        "**(C) 錯誤**：`研發能抑制突觸前末梢ACh autoreceptors（自體受體）表現的藥` —— 抑制突觸前負回饋自體受體雖在理論上可解除自我抑制，但相較於直接提升突觸前 ACh 釋放量或抑制 AChE，其效果間接且受限（本題題庫標準答案為 D）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-28",
+      "globalIndex": 102,
+      "qNum": 28,
+      "origQ": "Q28",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "關於神經傳導物質的代謝或是釋放之後的移除，下列哪一配對是對的？",
+      "image": null,
+      "options": {
+        "A": "ACh：reuptake by presynaptic terminal（突觸前末梢再回收）",
+        "B": "Glutamate：degraded by glutaminase",
+        "C": "Norepinephrine：reuptake by nearby glia cells（被鄰近glia cells吸收）",
+        "D": "Serotonin：can be oxidized by monoamine oxidase（MAO）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：血清素（Serotonin, 5-HT）突觸生合成、再回收與神經傳遞物質移除】**：**(1) 5-HT 合成與代謝**：由色胺酸（**Tryptophan**，經 Na⁺-independent 大型中性胺基酸載體進入神經元）在**神經末梢細胞質**合成為 5-HTP 再轉為 **5-HT（Serotonin）**（體內 90% 以上的 5-HT 由腸道嗜鉻細胞製造，不只有神經元能釋放）；釋放後經突觸前 SERT 再回收（可被百憂解 **Prozac / Fluoxetine [SSRI]** 阻斷以增強突觸效率），並可被粒線體外膜的**單胺氧化酶（Monoamine oxidase, MAO）氧化分解**；**(2) 其他傳遞物質移除**：**ACh** 在突觸間隙被 **AChE 水解**（回收的是 Choline 而非 ACh）；**Glutamate** 主要由鄰近**星狀膠細胞（astrocytes / glia cells）經 EAAT 回收**並由 glutamine synthetase 轉為 glutamine；**NE / Dopamine** 主要由**突觸前神經末梢（NET / DAT）再回收**。",
+        "**(D) 正確【本題應選正解】**：`Serotonin：can be oxidized by monoamine oxidase（MAO）` —— 血清素（**Serotonin, 5-HT**）屬於單胺類神經傳遞物質，被突觸前神經末梢再回收後，可被粒線體外膜上的**單胺氧化酶（Monoamine oxidase, MAO）氧化脫胺分解**（轉為 5-HIAA 排出）。",
+        "**(A) 錯誤**：`ACh：reuptake by presynaptic terminal（突觸前末梢再回收）` —— 乙醯膽鹼（**ACh**）釋放至突觸間隙後，是直接被突觸間隙中的**乙醯膽鹼酯酶（AChE）迅速水解為膽鹼（Choline）與乙酸**；突觸前末梢經高親和力轉運蛋白再回收的是分解後的**「膽鹼（Choline）」**，而非直接回收完整的 ACh！",
+        "**(B) 錯誤**：`Glutamate：degraded by glutaminase` —— 突觸間隙的 **Glutamate** 主要是由鄰近**星狀膠細胞（astrocytes / glia）主動回收**，並在膠細胞內由 **Glutamine synthetase（麩醯胺酸合成酶）**轉化為無毒的 Glutamine；而 **Glutaminase（麩醯胺酸酶）**則是位於神經元內將 Glutamine 轉回 Glutamate 的合成酵素，並非分解酵素！",
+        "**(C) 錯誤**：`Norepinephrine：reuptake by nearby glia cells（被鄰近glia cells吸收）` —— **Norepinephrine（NE）**釋放後最主要（80–90%）是由**突觸前神經末梢（presynaptic terminal）上的 NET（uptake 1）主動再回收**，而非由鄰近神經膠細胞（glia cells）吸收！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-29",
+      "globalIndex": 103,
+      "qNum": 29,
+      "origQ": "Q29",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於biochemical events at a serotonergic synapse的敘述，何者正確？",
+      "image": null,
+      "options": {
+        "A": "由tyrosine衍生而來",
+        "B": "其前驅物胺基酸（precursor amino acid）是經由Ca++-dependent carrier運輸入細胞",
+        "C": "Serotonin是在細胞本體合成再運輸至神經末梢",
+        "D": "Prozac可以抑制serotonin的再回收（reuptake）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：血清素（Serotonin, 5-HT）突觸生合成、再回收與神經傳遞物質移除】**：**(1) 5-HT 合成與代謝**：由色胺酸（**Tryptophan**，經 Na⁺-independent 大型中性胺基酸載體進入神經元）在**神經末梢細胞質**合成為 5-HTP 再轉為 **5-HT（Serotonin）**（體內 90% 以上的 5-HT 由腸道嗜鉻細胞製造，不只有神經元能釋放）；釋放後經突觸前 SERT 再回收（可被百憂解 **Prozac / Fluoxetine [SSRI]** 阻斷以增強突觸效率），並可被粒線體外膜的**單胺氧化酶（Monoamine oxidase, MAO）氧化分解**；**(2) 其他傳遞物質移除**：**ACh** 在突觸間隙被 **AChE 水解**（回收的是 Choline 而非 ACh）；**Glutamate** 主要由鄰近**星狀膠細胞（astrocytes / glia cells）經 EAAT 回收**並由 glutamine synthetase 轉為 glutamine；**NE / Dopamine** 主要由**突觸前神經末梢（NET / DAT）再回收**。",
+        "**(D) 正確【本題應選正解】**：`Prozac可以抑制serotonin的再回收（reuptake）` —— 抗憂鬱藥百憂解（**Prozac / Fluoxetine**）為選擇性血清素再回收抑制劑（**SSRI**），能專一性阻斷突觸前膜上的血清素轉運蛋白（SERT），**抑制 Serotonin 的再回收（reuptake）**以增加突觸間隙 5-HT 濃度。",
+        "**(A) 錯誤**：`由tyrosine衍生而來` —— Serotonin（5-HT）是由必需胺基酸**色胺酸（Tryptophan）**衍生合成而來，而非酪胺酸（Tyrosine 為合成 Dopamine/NE/Epinephrine 的前驅物）！",
+        "**(B) 錯誤**：`其前驅物胺基酸（precursor amino acid）是經由Ca++-dependent carrier運輸入細胞` —— Serotonin 的前驅物色胺酸（Tryptophan）是經由**不依賴鈣離子的大型中性胺基酸轉運蛋白（Na⁺-independent large neutral amino acid transporter）**進入神經細胞，並非 Ca²⁺-dependent carrier！",
+        "**(C) 錯誤**：`Serotonin是在細胞本體合成再運輸至神經末梢` —— Serotonin 為小分子神經傳遞物質，是在**突觸前神經末梢的細胞質（presynaptic terminal cytosol）**內由色胺酸就地合成，而非在細胞本體合成後再運輸至末梢（在細胞本體合成的是神經胜肽 neuropeptides）！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-30",
+      "globalIndex": 104,
+      "qNum": 30,
+      "origQ": "Q30",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "唯一在囊泡內被合成的small molecule neurotransmitter是__？",
+      "image": null,
+      "options": {
+        "A": "Norepinephrine",
+        "B": "Epinephrine",
+        "C": "Dopamine",
+        "D": "ACh"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：小分子神經傳遞物質合成位置與兒茶酚胺（Catecholamines）生合成順序】**：**(1) 兒茶酚胺合成順序**：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine** ─(進入囊泡由 **Dopamine β-hydroxylase, DBH**)→ **Norepinephrine（NE）** ─(釋出至細胞質由 **PNMT：Phenylethanolamine N-methyltransferase**)→ **Epinephrine**；**(2) 合成完成位置比較**：**Norepinephrine（NE）是唯一在「突觸囊泡（synaptic vesicle）內」合成完成的小分子神經傳遞物質**！而 **ACh、Dopamine、Epinephrine、Serotonin（5-HT）、GABA、Glutamate 都是在「突觸末梢細胞質（cytosol）內」合成完成**後才裝入囊泡（Opioid 腦內啡則屬於大分子神經胜肽 neuropeptide，在細胞本體粗糙內質網與高基氏體合成）。",
+        "**(A) 正確【本題應選正解】**：`Norepinephrine` —— **Norepinephrine（正腎上腺素, NE）**是所有小分子神經傳遞物質中，**唯一在「突觸囊泡（synaptic vesicle）內」合成完成的物質**——因為催化 Dopamine 轉化為 NE 的酵素 **Dopamine β-hydroxylase（DBH）**僅存在於突觸囊泡內部（膜結合或囊泡腔內）！",
+        "**(B) 錯誤**：`Epinephrine` —— **Epinephrine** 是在突觸末梢的**細胞質（cytosol）**內合成完成後，才經由囊泡轉運蛋白裝入突觸囊泡內（唯有 Norepinephrine 是在囊泡內合成）。",
+        "**(C) 錯誤**：`Dopamine` —— **Dopamine** 是在突觸末梢的**細胞質（cytosol）**內合成完成後，才經由囊泡轉運蛋白裝入突觸囊泡內（唯有 Norepinephrine 是在囊泡內合成）。",
+        "**(D) 錯誤**：`ACh` —— **ACh** 是在突觸末梢的**細胞質（cytosol）**內合成完成後，才經由囊泡轉運蛋白裝入突觸囊泡內（唯有 Norepinephrine 是在囊泡內合成）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-31",
+      "globalIndex": 105,
+      "qNum": 31,
+      "origQ": "Q31",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於glutamate NMDA receptor 的描述，何者是正確的 ？",
+      "image": null,
+      "options": {
+        "A": "它屬於metabotropic glutamate receptor",
+        "B": "胺基酸lysine可以增進（facilitate）它對glutamate的反應",
+        "C": "NMDA receptor agonist 可以減緩中風後的excitotoxicity",
+        "D": "其上的鎂離子需要在細胞輕微去極化時才會脫離NMDA receptor"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：Glutamate NMDA 受體雙重閘門特性、LTP 與中風興奮毒性（Excitotoxicity）】**：**NMDA 受體**為離子型（ionotropic）非選擇性陽離子通道（高度通透 **Ca²⁺** 與 Na⁺）。**(1) 休息態阻斷**：靜止膜電位下，通道孔洞被胞外的 **鎂離子（Mg²⁺，而非 Ca²⁺！）**以電壓依賴方式塞住；**(2) 活化條件**：需同時滿足 ① **Glutamate** 結合、② 輔助致效劑 **Glycine（甘胺酸，或 D-serine，而非 Lysine！）**結合、③ 突觸後膜先經 AMPA 受體發生**輕微去極化（depolarization）將 Mg²⁺ 排斥移開**；**(3) 生理與病理**：適度活化引起 Ca²⁺ 內流可誘導與學習記憶相關之**長期增益作用（Long-term potentiation, LTP）**；缺血性**中風（stroke）**時大量 Glutamate 堆積過度活化 **NMDA 受體**，導致巨量 Ca²⁺ 湧入細胞活化分解酵素引發**興奮毒性（excitotoxicity）**造成神經元死亡（需用 NMDA antagonist 保護，而非 agonist）。",
+        "**(D) 正確【本題應選正解】**：`其上的鎂離子需要在細胞輕微去極化時才會脫離NMDA receptor` —— NMDA 受體通道在靜止電位下被細胞外的 **鎂離子（Mg²⁺）**以靜電吸引塞住；必須在鄰近 AMPA 受體先開啟使突觸後細胞發生**輕微去極化（depolarization）**時，正電位才會將 **Mg²⁺ 排斥推出通道外**，讓 Na⁺ 與 Ca²⁺ 得以流入！",
+        "**(A) 錯誤**：`它屬於metabotropic glutamate receptor` —— **NMDA 受體**本身即為允許 Na⁺、Ca²⁺ 與 K⁺ 通過的配體與電壓雙重閘門離子通道，屬於**離子型受體（ionotropic glutamate receptor）**，而非代謝型受體（metabotropic receptor）！",
+        "**(B) 錯誤**：`胺基酸lysine可以增進（facilitate）它對glutamate的反應` —— 促進 NMDA 受體對 Glutamate 反應的共同致效劑胺基酸是**甘胺酸（Glycine，或 D-serine）**，而非離胺酸（Lysine）！",
+        "**(C) 錯誤**：`NMDA receptor agonist 可以減緩中風後的excitotoxicity` —— 中風後的興奮毒性（excitotoxicity）正是因為 **NMDA 受體被過度活化**導致 Ca²⁺ 超載所致；若給予 NMDA receptor agonist 會加速神經元死亡（應給予 **NMDA receptor antagonist** 才能減緩興奮毒性）！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-32",
+      "globalIndex": 106,
+      "qNum": 32,
+      "origQ": "Q32",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請將synthesis of catecholamines（兒茶酚胺）的合成步驟依序排列。①Epinephrine ② Norepinephrine ③Dopamine ④Tryptophan ⑤Tyrosine ⑥L-dopa",
+      "image": null,
+      "options": {
+        "A": "④⑥③②①",
+        "B": "⑤⑥③②①",
+        "C": "④⑥③①②",
+        "D": "⑤⑥③①②"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：小分子神經傳遞物質合成位置與兒茶酚胺（Catecholamines）生合成順序】**：**(1) 兒茶酚胺合成順序**：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine** ─(進入囊泡由 **Dopamine β-hydroxylase, DBH**)→ **Norepinephrine（NE）** ─(釋出至細胞質由 **PNMT：Phenylethanolamine N-methyltransferase**)→ **Epinephrine**；**(2) 合成完成位置比較**：**Norepinephrine（NE）是唯一在「突觸囊泡（synaptic vesicle）內」合成完成的小分子神經傳遞物質**！而 **ACh、Dopamine、Epinephrine、Serotonin（5-HT）、GABA、Glutamate 都是在「突觸末梢細胞質（cytosol）內」合成完成**後才裝入囊泡（Opioid 腦內啡則屬於大分子神經胜肽 neuropeptide，在細胞本體粗糙內質網與高基氏體合成）。",
+        "**(B) 正確【本題應選正解】**：`⑤⑥③②①` —— 兒茶酚胺（Catecholamines）生合成的正確順序為：**Tyrosine（酪胺酸） → L-DOPA → Dopamine（多巴胺） → Norepinephrine（正腎上腺素） → Epinephrine（腎上腺素）**（註：Tryptophan 色胺酸是合成 Serotonin 的前驅物，不參與兒茶酚胺合成！）。",
+        "**(A) 錯誤**：`④⑥③②①` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。",
+        "**(C) 錯誤**：`④⑥③①②` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。",
+        "**(D) 錯誤**：`⑤⑥③①②` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-33",
+      "globalIndex": 107,
+      "qNum": 33,
+      "origQ": "Q33",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列的配對，何者是對的？",
+      "image": null,
+      "options": {
+        "A": "GABAB receptors：Cl- channels",
+        "B": "Opiate receptors：all are G-protein coupled receptors（GPCR）",
+        "C": "Norepinephrine receptors：Na+ channels",
+        "D": "Glutamate AMPA receptors：G-protein coupled receptors（GPCR）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：中樞神經傳導物質受體分類（Ionotropic vs. GPCR）】**：(1) **Opiate receptors（μ, δ, κ）**：**全部皆為 G-protein coupled receptors（GPCR, Gi 蛋白）**；(2) **GABAB receptors**：屬於 **GPCR**（GABAA 才是 Cl⁻ 通道）；(3) **Norepinephrine receptors（α, β）**：全部皆為 **GPCR**（非 Na⁺ 通道）；(4) **Glutamate AMPA/Kainate/NMDA receptors**：屬於 **離子型受體（ionotropic cation channels）**（mGluR 才是 GPCR）。",
+        "**(B) 正確【本題應選正解】**：`Opiate receptors：all are G-protein coupled receptors（GPCR）` —— **鴉片類受體（Opiate receptors：μ、δ、κ）全部皆為 GPCR**（透過 Gi/Go 蛋白減少 cAMP、開啟 K⁺ 通道並抑制突觸前 Ca²⁺ 通道來產生強效止痛）。",
+        "**(A) 錯誤**：`GABAB receptors：Cl- channels` —— **GABAB 受體**屬於 **GPCR**（透過 Gi 蛋白開啟 K⁺ 通道與關閉 Ca²⁺ 通道）；本身為 Cl⁻ 通道的是 **GABAA 受體**。",
+        "**(C) 錯誤**：`Norepinephrine receptors：Na+ channels` —— 所有腎上腺素受體（α1、α2、β1、β2、β3）皆為代謝型 **GPCR**，而非直接構成 Na⁺ 離子通道。",
+        "**(D) 錯誤**：`Glutamate AMPA receptors：G-protein coupled receptors（GPCR）` —— **AMPA 受體**為快速傳導的**離子型陽離子通道（ionotropic Na⁺/K⁺ channel）**，代謝型麩胺酸受體（mGluR）才是 GPCR。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-34",
+      "globalIndex": 108,
+      "qNum": 34,
+      "origQ": "Q34",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "請將synthesis of catecholamines（兒茶酚胺）的合成步驟依序排列。 ① Epinephrine② Norepinephrine③ Dopamine④ Tryptophan⑤ Tyrosine⑥ L-dopa",
+      "image": null,
+      "options": {
+        "A": "④ ⑥ ③ ② ①",
+        "B": "⑤ ⑥ ③ ② ①",
+        "C": "④ ⑥ ③ ① ②",
+        "D": "⑤ ⑥ ③ ① ②"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：小分子神經傳遞物質合成位置與兒茶酚胺（Catecholamines）生合成順序】**：**(1) 兒茶酚胺合成順序**：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine** ─(進入囊泡由 **Dopamine β-hydroxylase, DBH**)→ **Norepinephrine（NE）** ─(釋出至細胞質由 **PNMT：Phenylethanolamine N-methyltransferase**)→ **Epinephrine**；**(2) 合成完成位置比較**：**Norepinephrine（NE）是唯一在「突觸囊泡（synaptic vesicle）內」合成完成的小分子神經傳遞物質**！而 **ACh、Dopamine、Epinephrine、Serotonin（5-HT）、GABA、Glutamate 都是在「突觸末梢細胞質（cytosol）內」合成完成**後才裝入囊泡（Opioid 腦內啡則屬於大分子神經胜肽 neuropeptide，在細胞本體粗糙內質網與高基氏體合成）。",
+        "**(B) 正確【本題應選正解】**：`⑤ ⑥ ③ ② ①` —— 兒茶酚胺（Catecholamines）生合成的正確順序為：**Tyrosine（酪胺酸） → L-DOPA → Dopamine（多巴胺） → Norepinephrine（正腎上腺素） → Epinephrine（腎上腺素）**（註：Tryptophan 色胺酸是合成 Serotonin 的前驅物，不參與兒茶酚胺合成！）。",
+        "**(A) 錯誤**：`④ ⑥ ③ ② ①` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。",
+        "**(C) 錯誤**：`④ ⑥ ③ ① ②` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。",
+        "**(D) 錯誤**：`⑤ ⑥ ③ ① ②` —— 順序錯誤：Tryptophan（色胺酸）是 Serotonin 的前驅物而非兒茶酚胺前驅物；正確合成順序必從 **Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine**。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-35",
+      "globalIndex": 109,
+      "qNum": 35,
+      "origQ": "Q35",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "關於 biochemical events at a serotonergic synapse 的敘述，何者正確?",
+      "image": null,
+      "options": {
+        "A": "由tyrosine 衍生而來",
+        "B": "其前驅物胺基酸（precursor amino acid）是經由Ca2+-dependent carrier 運輸入細胞",
+        "C": "Serotonin 是在細胞本體合成再運輸至神經末梢",
+        "D": "Prozac 可以抑制serotonin的再回收（reuptake）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：血清素（Serotonin, 5-HT）突觸生合成、再回收與神經傳遞物質移除】**：**(1) 5-HT 合成與代謝**：由色胺酸（**Tryptophan**，經 Na⁺-independent 大型中性胺基酸載體進入神經元）在**神經末梢細胞質**合成為 5-HTP 再轉為 **5-HT（Serotonin）**（體內 90% 以上的 5-HT 由腸道嗜鉻細胞製造，不只有神經元能釋放）；釋放後經突觸前 SERT 再回收（可被百憂解 **Prozac / Fluoxetine [SSRI]** 阻斷以增強突觸效率），並可被粒線體外膜的**單胺氧化酶（Monoamine oxidase, MAO）氧化分解**；**(2) 其他傳遞物質移除**：**ACh** 在突觸間隙被 **AChE 水解**（回收的是 Choline 而非 ACh）；**Glutamate** 主要由鄰近**星狀膠細胞（astrocytes / glia cells）經 EAAT 回收**並由 glutamine synthetase 轉為 glutamine；**NE / Dopamine** 主要由**突觸前神經末梢（NET / DAT）再回收**。",
+        "**(D) 正確【本題應選正解】**：`Prozac 可以抑制serotonin的再回收（reuptake）` —— 抗憂鬱藥百憂解（**Prozac / Fluoxetine**）為選擇性血清素再回收抑制劑（**SSRI**），能專一性阻斷突觸前膜上的血清素轉運蛋白（SERT），**抑制 Serotonin 的再回收（reuptake）**以增加突觸間隙 5-HT 濃度。",
+        "**(A) 錯誤**：`由tyrosine 衍生而來` —— Serotonin（5-HT）是由必需胺基酸**色胺酸（Tryptophan）**衍生合成而來，而非酪胺酸（Tyrosine 為合成 Dopamine/NE/Epinephrine 的前驅物）！",
+        "**(B) 錯誤**：`其前驅物胺基酸（precursor amino acid）是經由Ca2+-dependent carrier 運輸入細胞` —— Serotonin 的前驅物色胺酸（Tryptophan）是經由**不依賴鈣離子的大型中性胺基酸轉運蛋白（Na⁺-independent large neutral amino acid transporter）**進入神經細胞，並非 Ca²⁺-dependent carrier！",
+        "**(C) 錯誤**：`Serotonin 是在細胞本體合成再運輸至神經末梢` —— Serotonin 為小分子神經傳遞物質，是在**突觸前神經末梢的細胞質（presynaptic terminal cytosol）**內由色胺酸就地合成，而非在細胞本體合成後再運輸至末梢（在細胞本體合成的是神經胜肽 neuropeptides）！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-36",
+      "globalIndex": 110,
+      "qNum": 36,
+      "origQ": "Q36",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "唯一在囊泡內被合成的small molecule neurotransmitter 是?",
+      "image": null,
+      "options": {
+        "A": "Norepinephrine",
+        "B": "Epinephrine",
+        "C": "Dopamine",
+        "D": "ACh"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：小分子神經傳遞物質合成位置與兒茶酚胺（Catecholamines）生合成順序】**：**(1) 兒茶酚胺合成順序**：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine** ─(進入囊泡由 **Dopamine β-hydroxylase, DBH**)→ **Norepinephrine（NE）** ─(釋出至細胞質由 **PNMT：Phenylethanolamine N-methyltransferase**)→ **Epinephrine**；**(2) 合成完成位置比較**：**Norepinephrine（NE）是唯一在「突觸囊泡（synaptic vesicle）內」合成完成的小分子神經傳遞物質**！而 **ACh、Dopamine、Epinephrine、Serotonin（5-HT）、GABA、Glutamate 都是在「突觸末梢細胞質（cytosol）內」合成完成**後才裝入囊泡（Opioid 腦內啡則屬於大分子神經胜肽 neuropeptide，在細胞本體粗糙內質網與高基氏體合成）。",
+        "**(A) 正確【本題應選正解】**：`Norepinephrine` —— **Norepinephrine（正腎上腺素, NE）**是所有小分子神經傳遞物質中，**唯一在「突觸囊泡（synaptic vesicle）內」合成完成的物質**——因為催化 Dopamine 轉化為 NE 的酵素 **Dopamine β-hydroxylase（DBH）**僅存在於突觸囊泡內部（膜結合或囊泡腔內）！",
+        "**(B) 錯誤**：`Epinephrine` —— **Epinephrine** 是在突觸末梢的**細胞質（cytosol）**內合成完成後，才經由囊泡轉運蛋白裝入突觸囊泡內（唯有 Norepinephrine 是在囊泡內合成）。",
+        "**(C) 錯誤**：`Dopamine` —— **Dopamine** 是在突觸末梢的**細胞質（cytosol）**內合成完成後，才經由囊泡轉運蛋白裝入突觸囊泡內（唯有 Norepinephrine 是在囊泡內合成）。",
+        "**(D) 錯誤**：`ACh` —— **ACh** 是在突觸末梢的**細胞質（cytosol）**內合成完成後，才經由囊泡轉運蛋白裝入突觸囊泡內（唯有 Norepinephrine 是在囊泡內合成）。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-37",
+      "globalIndex": 111,
+      "qNum": 37,
+      "origQ": "Q37",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Tetanus toxin 中毒引發spastic paralysis，因為它會破壞？",
+      "image": null,
+      "options": {
+        "A": "Synaptobrevin at the CNS excitatory interneurons",
+        "B": "Synaptobrevin at the CNS inhibitory interneurons",
+        "C": "SNAREsattheneuromuscular junction（NMJ）",
+        "D": "Synaptotagmin at the neuromuscular junction（NMJ）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：化學突觸分子結構與破傷風毒素（Tetanus Toxin）機轉】**：**(1) 突觸前活性區（Active zone）**：高度聚集**電壓閘門 Ca²⁺ 通道（voltage-gated Ca²⁺ channels）**以快速觸發囊泡胞吐；**(2) Neurexin**：突觸前膜黏附蛋白，跨突觸間隙與突觸後 Neuroligin 結合以**連結突觸前後結構**；**(3) Synaptotagmin**：突觸囊泡上的 **Ca²⁺ 感受器（Ca²⁺ sensor）**；**(4) SNAREs 複合體（Synaptobrevin、Syntaxin-1、SNAP-25）**：介導囊泡與細胞膜融合；**(5) 破傷風毒素（Tetanus toxin）**：經軸突逆行運輸至**中樞神經系統（脊髓）的抑制性中間神經元（CNS inhibitory interneurons，釋放 GABA/Glycine）**，專一性裂解突觸前囊泡上的 **Synaptobrevin（VAMP）**，阻斷抑制性神經傳遞物質釋放，造成運動神經元去抑制過度興奮而引發**僵直性麻痺（spastic paralysis）**（對比：肉毒桿菌素 Botox 作用於周邊 NMJ 造成無力性麻痺 flaccid paralysis）。",
+        "**(B) 正確【本題應選正解】**：`Synaptobrevin at the CNS inhibitory interneurons` —— **破傷風毒素（Tetanus toxin）**由傷口進入運動神經末梢後，會經由軸突逆行運輸（retrograde transport）並跨突觸進入**中樞神經系統（脊髓）的抑制性中間神經元（CNS inhibitory interneurons，如釋放 Glycine 的 Renshaw cells）**，作為蛋白酶專一性裂解囊泡上的 **Synaptobrevin（VAMP）**，阻斷抑制性神經傳遞物質釋放，導致運動神經元失去抑制而持續放電，引發**僵直性麻痺（spastic paralysis / lockjaw）**！",
+        "**(A) 錯誤**：`Synaptobrevin at the CNS excitatory interneurons` —— 破傷風毒素（Tetanus toxin）專一性破壞的是**「中樞抑制性中間神經元（CNS inhibitory interneurons）」**突觸前囊泡上的 **Synaptobrevin**，而非作用於周邊 NMJ、興奮性中間神經元或裂解 SNAP-25（裂解 NMJ 之 SNAP-25 為肉毒桿菌毒素 Botulinum toxin A/E）！",
+        "**(C) 錯誤**：`SNAREsattheneuromuscular junction（NMJ）` —— 破壞周邊神經肌肉接合處（NMJ）SNAREs 蛋白導致無力性麻痺（flaccid paralysis）的是**肉毒桿菌毒素（Botulinum toxin）**；而**破傷風毒素（Tetanus toxin）**則是逆行進入中樞脊髓破壞**抑制性中間神經元的 Synaptobrevin**！",
+        "**(D) 錯誤**：`Synaptotagmin at the neuromuscular junction（NMJ）` —— **Synaptotagmin** 是位於突觸囊泡膜上的**鈣離子感受器（Ca²⁺ sensor）**，負責在結合 Ca²⁺ 後觸發囊泡胞吐融合，它本身**不是電壓閘門鈣離子通道**，也不是破傷風毒素的破壞目標！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-38",
+      "globalIndex": 112,
+      "qNum": 38,
+      "origQ": "Q38",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於Excitatory postsynaptic potentials（EPSP）的描述，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "其大小與刺激強度無關",
+        "B": "傳遞過程中，不會變小（it will not decay）",
+        "C": "鈉離子或鈣離子流入細胞可引起EPSP",
+        "D": "一個EPSP即足夠把膜電位帶到閱值（threshold）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：興奮性突觸後電位（EPSP）、突觸前抑制與自體受體（Autoreceptors）】**：**(1) EPSP 特性**：興奮性突觸後受體多為**配體閘門 Na⁺ 或 Ca²⁺ 通道**，陽離子內流產生去極化之分級電位（graded potential）——**無閾值（no threshold）**、振幅隨刺激強度與傳遞物質量變化、隨傳遞距離呈**遞減衰減（decremental decay）**，單一 EPSP 僅約 0.5–1 mV 不足以達閾值，必須透過**時間加成與空間加成（temporal & spatial summation）**才能在軸丘觸發動作電位；**(2) 突觸前抑制（Presynaptic inhibition）**：軸突-軸突突觸藉由**增加突觸前末梢 K⁺ 通透性（↑K⁺ conductance）或直接抑制 Ca²⁺ 通道**，縮短動作電位、減少 Ca²⁺ 內流與傳遞物質釋放；**(3) 突觸前自體受體（Autoreceptors，如 α2、M2、D2）**：透過**負回饋（Negative feedback）**抑制自身神經傳遞物質過度釋放與合成。",
+        "**(C) 正確【本題應選正解】**：`鈉離子或鈣離子流入細胞可引起EPSP` —— 興奮性突觸（excitatory synapse）的突觸後膜受體多為配體閘門陽離子通道（如 AMPA、NMDA、nAChR），開啟時讓帶正電的**鈉離子（Na⁺）或鈣離子（Ca²⁺）順電化學梯度流入細胞內**，使膜電位去極化而產生 **EPSP**。",
+        "**(A) 錯誤**：`其大小與刺激強度無關` —— EPSP 為分級電位（graded potential），**其振幅大小與突觸前刺激強度（釋放的神經傳遞物質數量）成正比**（只有遵循全有全無律的動作電位大小才與刺激強度無關）！",
+        "**(B) 錯誤**：`傳遞過程中，不會變小（it will not decay）` —— EPSP 為局部的被動電緊張傳導（electrotonic conduction），沿著樹突與細胞本體傳遞至軸丘的過程中會因膜漏電與胞質電阻而**隨距離逐漸衰減變小（decremental decay）**；只有動作電位才具有不衰減（non-decremental）特性！",
+        "**(D) 錯誤**：`一個EPSP即足夠把膜電位帶到閱值（threshold）` —— 在中樞神經系統中，單一個興奮性突觸產生的 **EPSP 幅度極小（僅約 0.5–1 mV）**，遠不足以將靜止膜電位（約 -70 mV）帶到閾值（約 -55 mV），必須仰賴數十個 EPSP 進行空間與時間加成（summation）！"
+      ]
+    },
+    {
+      "id": "1028_Synapse-39",
+      "globalIndex": 113,
+      "qNum": 39,
+      "origQ": "Q39",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Presynaptic inhibition 的機制最可能是下列哪一種？",
+      "image": null,
+      "options": {
+        "A": "關閉突觸前神經末梢Conductance（通透性）",
+        "B": "增加突觸前神經末梢K+ conductance",
+        "C": "關閉突觸前神經末梢K*channels",
+        "D": "降低突觸前神經末梢autoreceptors的表現"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：突觸前抑制（Presynaptic Inhibition）之離子機轉】**：**突觸前抑制**指抑制性軸突-軸突突觸（axoaxonic synapse）作用於目標神經元軸突末梢，透過**開啟突觸前末梢的 K⁺ 通道（增加 K⁺ conductance）**或 **Cl⁻ 通道**，加速再極化並縮短動作電位時程（或抑制電壓閘門 Ca²⁺ 通道開啟），進而**減少 Ca²⁺ 內流與神經傳導物質的胞吐釋放量**。",
+        "**(B) 正確【本題應選正解】**：`增加突觸前神經末梢K+ conductance` —— **增加突觸前神經末梢 K⁺ 通透性（conductance）**會促進 K⁺ 外流、縮短動作電位寬度並使膜電位趨向過極化，減少電壓閘門 Ca²⁺ 通道開啟與鈣內流，從而減少神經傳導物質釋放。",
+        "**(A) 錯誤**：`關閉突觸前神經末梢Conductance（通透性）` —— 單純籠統關閉通透性並不精確；突觸前抑制通常是藉由**開啟（增加）抑制性離子通道通透性（如 K⁺ 或 Cl⁻）**或專一關閉 Ca²⁺ 通道來減少釋放。",
+        "**(C) 錯誤**：`關閉突觸前神經末梢K*channels` —— 關閉突觸前 K⁺ 通道會延長動作電位去極化時間、增加 Ca²⁺ 內流與神經傳導物質釋放（造成 **presynaptic facilitation**，而非 inhibition）。",
+        "**(D) 錯誤**：`降低突觸前神經末梢autoreceptors的表現` —— 突觸前自體受體（autoreceptors）多為負回饋抑制；若降低其表現反而會減弱負回饋而使傳導物質釋放增加。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-40",
+      "globalIndex": 114,
+      "qNum": 40,
+      "origQ": "Q40",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪些藥物的作用機制能增加突觸的效率？（NT = Neurotransmitter） ①增加 NT 釋放的藥 ②阻斷 NT 釋放的藥 ③抑制 NT 的生成的藥 ④使用 agonist ⑤使用 antagonist ⑥阻斷 NT 的再回收（reuptake）的藥",
+      "image": null,
+      "options": {
+        "A": "①④⑥",
+        "B": "②③⑤",
+        "C": "②④⑥",
+        "D": "③⑤⑥"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：提升突觸傳遞效率（Synaptic Strength）之藥理機轉】**：能**增強**突觸效率的藥物機制包含：**① 增加神經傳導物質（NT）釋放**、**④ 使用突觸後受體致效劑（agonist）**、**⑥ 阻斷 NT 再回收（reuptake inhibitor，如 SSRI）**或抑制分解酵素（如 AChE inhibitor）。相反地，阻斷釋放、抑制合成或使用受體拮抗劑（antagonist）皆會降低突觸效率。",
+        "**(A) 正確【本題應選正解】**：`①④⑥` —— **① 增加 NT 釋放、④ 使用 agonist 直接活化受體、⑥ 阻斷 NT 再回收（延長 NT 停留突觸間隙時間）**，三者皆能有效提升突觸傳遞效率。",
+        "**(B) 錯誤**：`②③⑤` —— ② 阻斷 NT 釋放、③ 抑制 NT 生成、⑤ 使用 antagonist 阻斷受體，三者皆會全面**降低**突觸傳遞效率。",
+        "**(C) 錯誤**：`②④⑥` —— ④ 與 ⑥ 可增加突觸效率，但 **② 阻斷 NT 釋放**會降低突觸前神經傳導物質輸出，使突觸效率下降。",
+        "**(D) 錯誤**：`③⑤⑥` —— ⑥ 可增加突觸效率，但 **③ 抑制 NT 生成**與 **⑤ 使用 antagonist** 皆會削弱突觸傳遞。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-41",
+      "globalIndex": 115,
+      "qNum": 41,
+      "origQ": "Q41",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "請把Catecholamine的synthesis過程依序排列？ ①Tyrosine ②Tryptophan ③Dopamine ④ Epinephrine ⑤Norepinephrine ⑥L-dopa",
+      "image": null,
+      "options": {
+        "A": "①⑥③④⑤",
+        "B": "①⑥③⑤④",
+        "C": "②⑥③⑤④",
+        "D": "②⑥③④⑤"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：兒茶酚胺（Catecholamines）生合成途徑】**：標準生合成順序為：**Tyrosine（酪胺酸）** ─(Tyrosine hydroxylase，速率決定步驟)→ **L-DOPA** ─(DOPA decarboxylase)→ **Dopamine（多巴胺）** ─(Dopamine β-hydroxylase，於突觸小泡內)→ **Norepinephrine（正腎上腺素）** ─(PNMT，主要於腎上腺髓質)→ **Epinephrine（腎上腺素）**。注意 **Tryptophan** 是 Serotonin（5-HT）的前驅物，而非兒茶酚胺。",
+        "**(B) 正確【本題應選正解】**：`①⑥③⑤④` —— 完全符合兒茶酚胺生合成順序：**① Tyrosine → ⑥ L-DOPA → ③ Dopamine → ⑤ Norepinephrine → ④ Epinephrine**。",
+        "**(A) 錯誤**：`①⑥③④⑤` —— 此選項將 Epinephrine（④）排在 Norepinephrine（⑤）之前；實際上必須先合成 **Norepinephrine（⑤）**，再經 PNMT 甲基化才能生成 **Epinephrine（④）**。",
+        "**(C) 錯誤**：`②⑥③⑤④` —— **② Tryptophan（色胺酸）**為血清素（Serotonin / 5-HT）的前驅胺基酸，並非兒茶酚胺的起始前驅物。",
+        "**(D) 錯誤**：`②⑥③④⑤` —— 不僅錯誤以 ② Tryptophan 作為起始前驅物，亦將 ④ Epinephrine 與 ⑤ Norepinephrine 的順序顛倒。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-42",
+      "globalIndex": 116,
+      "qNum": 42,
+      "origQ": "Q42",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於神經傳導物質與其功能的配對，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "Acetylcholine（ACh）：emotion control（情緒的調控）",
+        "B": "Dopamine：motivation（動機）and reward behavior",
+        "C": "Opioids：sleep regulation（睡眠調控）",
+        "D": "Serotonin：control of movement and posture（動作調控）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：中樞神經傳導物質主要功能與疾病關聯】**：(1) **ACh**（基底核 Meynert 核團）：記憶與認知，退化與**阿茲海默症（Alzheimer's disease）**密切相關；(2) **Dopamine**：動作調控（黑質紋狀體，帕金森氏症）與動機獎賞（中腦邊緣）；(3) **Serotonin（5-HT）**：情緒、睡眠與食慾調控；(4) **Opioids（腦內啡）**：強力內源性止痛（analgesia）。",
+        "**(B) 正確【本題應選正解】**：`Dopamine：motivation（動機）and reward behavior` —— 中腦邊緣路徑（mesolimbic pathway，VTA → nucleus accumbens）的 **Dopamine** 主要調控**動機（motivation）與獎賞行為（reward behavior）**（亦與藥物成癮密切相關）。",
+        "**(A) 錯誤**：`Acetylcholine（ACh）：emotion control（情緒的調控）` —— 中樞 **ACh**（基底前腦 Meynert 核團）主要與**記憶、認知與警覺**（以及阿茲海默症退化）相關，情緒調控主要由 Serotonin（5-HT）與邊緣系統主導。",
+        "**(C) 錯誤**：`Opioids：sleep regulation（睡眠調控）` —— **Opioids**（腦內啡／腦啡肽）主要功能為強力鎮痛（抑制痛覺傳遞），睡眠調控主要由 Serotonin（5-HT）與腦幹網狀結構等神經調控。",
+        "**(D) 錯誤**：`Serotonin：control of movement and posture（動作調控）` —— 動作與姿勢的精細協調主要由基底核黑質紋狀體路徑的 **Dopamine**（及小腦、運動皮質）調控；Serotonin 主要調控情緒、睡眠與食慾。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-43",
+      "globalIndex": 117,
+      "qNum": 43,
+      "origQ": "Q43",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於Glutamate receptor項下NMDA receptor 的描述，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "為G-protein coupled metabotropic glutamate receptor",
+        "B": "不活化時之NMDA receptor 通道被Ca++ions 擋住（blocked）",
+        "C": "其作用與excitotoxicity（興奮毒性）有關",
+        "D": "當Glutamate與NMDA receptor結合就能直接打開NMDA receptor"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：NMDA 受體雙重閘門特性、LTP 與興奮毒性】**：**NMDA 受體**為**離子型受體**（通透 Na⁺、K⁺ 與 **Ca²⁺**），需同時具備兩個條件才能開啟：(1) **配體結合**：Glutamate 與共致效劑 **Glycine** 結合；(2) **電壓依賴解除阻斷**：細胞膜須先輕微去極化（通常由 AMPA 受體介導），才能將原本堵在通道內的 **Mg²⁺（鎂離子）**彈開。異常過度活化會因 Ca²⁺ 大量內流導致中風**興奮毒性（excitotoxicity）**。",
+        "**(C) 正確【本題應選正解】**：`其作用與excitotoxicity（興奮毒性）有關` —— 腦缺血／中風時過量 glutamate 持續活化 NMDA 受體，使大量 **Ca²⁺ 湧入神經元**啟動細胞死亡級聯反應，與**興奮毒性（excitotoxicity）**密切相關。",
+        "**(A) 錯誤**：`為G-protein coupled metabotropic glutamate receptor` —— NMDA 受體屬於快速開啟的**離子型麩胺酸受體（ionotropic glutamate receptor）**，而非 G 蛋白偶聯代謝型受體（mGluR）。",
+        "**(B) 錯誤**：`不活化時之NMDA receptor 通道被Ca++ions 擋住（blocked）` —— 靜止未去極化時，阻塞在 NMDA 受體通道孔隙內的離子是**鎂離子（Mg²⁺）**，而非鈣離子（Ca²⁺）。",
+        "**(D) 錯誤**：`當Glutamate與NMDA receptor結合就能直接打開NMDA receptor` —— NMDA 受體具**雙重閘門（配體＋電壓依賴）**特性：單純結合 glutamate 不足以為繼，還需要共致效劑 glycine 結合以及**突觸後膜去極化移除 Mg²⁺ 阻斷**才能打開通透離子。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-44",
+      "globalIndex": 118,
+      "qNum": 44,
+      "origQ": "Q44",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於γ-GABA 神經傳導物質的描述，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "屬於 neuropeptides",
+        "B": "GABAB receptor是G-protein coupled，間接打開K+ channels",
+        "C": "其作用與神經細胞的long-term potentiation有關",
+        "D": "其釋放會引起下游神經細胞 excitatory postsynaptic potential（EPSP）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心生理考點：GABA 與中樞抑制性突觸】**：**GABA（γ-aminobutyric acid）**是中樞神經系統（CNS）**最主要的抑制性神經傳導物質**（脊髓主要為 Glycine）。**GABAA 受體**為離子型**氯離子通道（Cl⁻ channel）**，開啟後使 Cl⁻ 流入細胞造成過極化，產生**抑制性突觸後電位（IPSP）**；**GABAB 受體**則為 GPCR（經 Gi 打開 K⁺ 通道、關閉 Ca²⁺ 通道）。",
+        "**(B) 正確【本題應選正解】**：`GABAB receptor是G-protein coupled，間接打開K+ channels` —— **GABAB 受體**屬於代謝型 **GPCR（Gi 蛋白）**，活化後透過 Gβγ 次單元**間接開啟突觸後 K⁺ 通道**（使 K⁺ 外流過極化）並抑制突觸前 Ca²⁺ 通道。",
+        "**(A) 錯誤**：`屬於 neuropeptides` —— GABA（γ-aminobutyric acid）為由 Glutamate 經 GAD 脫羧生成的**小分子胺基酸衍生物神經傳導物質**（於突觸末梢合成），並非由核糖體在細胞本體合成的神經胜肽（neuropeptides）。",
+        "**(C) 錯誤**：`其作用與神經細胞的long-term potentiation有關` —— 海馬迴的長期增益作用（LTP，記憶形成基礎）主要由興奮性神經傳導物質 **Glutamate**（透過 AMPA 與 NMDA 受體）所介導，而非 GABA。",
+        "**(D) 錯誤**：`其釋放會引起下游神經細胞 excitatory postsynaptic potential（EPSP）` —— GABA 為抑制性傳導物質，釋放後會引發下游神經細胞產生**抑制性突觸後電位（IPSP）**，降低動作電位發放機率。"
+      ]
+    },
+    {
+      "id": "1028_Synapse-45",
+      "globalIndex": 119,
+      "qNum": 45,
+      "origQ": "Q45",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在 CNS 的 chemical synapses 的 autoreceptors 通常是藉由何種機制來調控突觸的效率 (synaptic strength)？",
+      "image": null,
+      "options": {
+        "A": "Negative feedback",
+        "B": "Positive feedback",
+        "C": "Presynaptic facilitation",
+        "D": "Presynaptic inhibition"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：突觸前自體受體（Autoreceptors）與負回饋調控】**：中樞化學突觸前膜上的 **autoreceptors（自體受體，多為 GPCR 如 α2、D2、5-HT1A/1B、mGluR）**會感測突觸間隙中剛釋放的同種神經傳導物質濃度，當濃度過高時即透過抑制突觸前 Ca²⁺ 通道或開啟 K⁺ 通道，以**負回饋（negative feedback）**機制減少後續神經傳導物質釋放，藉此維持突觸恆定。",
+        "**(A) 正確【本題應選正解】**：`Negative feedback` —— 突觸前自體受體感測自身釋放的神經傳導物質後，普遍透過抑制進一步釋放的**負回饋（negative feedback）**機制來微調突觸傳遞效率、防止過度興奮。",
+        "**(B) 錯誤**：`Positive feedback` —— 自體受體的生理功能主要是防止突觸間隙神經傳導物質過度堆積，極少採用會引發失控放大的正回饋（positive feedback）機制。",
+        "**(C) 錯誤**：`Presynaptic facilitation` —— 突觸前促進（presynaptic facilitation）是指增強突觸前 Ca²⁺ 內流以增加傳導物質釋放（通常由異突觸調節介導），與多數抑制型自體受體的作用方向相反。",
+        "**(D) 錯誤**：`Presynaptic inhibition` —— （註：突觸前抑制多指另一抑制性神經元透過 axoaxonic synapse 抑制目標末梢；而題幹問自體受體「自我調控」的核心控制迴路原則，標準答案對應 **Negative feedback**）。"
+      ]
+    }
+  ]
+}

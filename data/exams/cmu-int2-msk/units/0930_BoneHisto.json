@@ -1,0 +1,734 @@
+{
+  "unitCode": "0930_BoneHisto",
+  "unitTitle": "09/30 組織學：軟骨與骨組織 (Cartilage & Bone)",
+  "session": "A",
+  "subject": "Histo",
+  "subjectTitle": "組織學 (一)",
+  "prof": "吳政訓 教授",
+  "examRange": "A卷 Q65–72（共8題）",
+  "unitUrl": "https://drive.google.com/file/d/1UMAkglo0kul9HBXW1sTDAPJR_5fgzEFL",
+  "questions": [
+    {
+      "id": "0930_BoneHisto-1",
+      "globalIndex": 292,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Please arrange the following zone from primary ossification center to secondary ossification center.",
+      "image": null,
+      "options": {
+        "A": "ABCDE",
+        "B": "BAEDE",
+        "C": "CBEAD",
+        "D": "BEADC"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：軟骨內骨化（Endochondral Ossification）與生長板五區】**：由遠端（次級骨化中心／骨骺側）向近端（初級骨化中心／骨幹側）依序為：**① 靜止區（Resting / Reserve zone）**：透明軟骨細胞散在分布；**② 增殖區（Proliferation zone）**：軟骨細胞進行**間質性生長（interstitial growth）**有絲分裂排成縱行（isogenous groups）；**③ 肥大區（Hypertrophic zone）**：老化軟骨細胞體積變大、累積肝醣；**④ 鈣化區（Calcification zone）**：基質鈣化、軟骨細胞凋亡退化（degenerating chondrocytes）；**⑤ 骨化區（Ossification zone）**：血管與骨母細胞入侵形成**新生的骨組織（newly formed bone tissue）**。",
+        "**(D) 正確【本題應選正解】**：`BEADC` —— 從初級骨化中心（骨幹 diaphysis 側）往次級骨化中心（骨骺 epiphysis 側）由近端至遠端排列，依序為：Ossification zone → Calcification zone → Hypertrophic zone → Proliferation zone → Resting zone（對應原題圖標號 `B → E → A → D → C`）。",
+        "**(A) 錯誤**：`ABCDE` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(B) 錯誤**：`BAEDE` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(C) 錯誤**：`CBEAD` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-2",
+      "globalIndex": 293,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "Under a microscope, what cells can be observed in the periosteum, except?",
+      "image": null,
+      "options": {
+        "A": "Osteoclast",
+        "B": "Osteoblast",
+        "C": "Osteocyte",
+        "D": "Osteoprogenitor"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C",
+        "A"
+      ],
+      "answerDisplay": "(C/A)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心組織學考點：骨組織四大細胞與骨膜（Periosteum / Endosteum）分佈】**：**(1) 骨內膜／骨外膜存在的細胞**：**Osteoprogenitor cells（骨原細胞，扁平紡錘狀）**、**Osteoblasts（骨母細胞，立方狀，分泌第一型膠原蛋白 Type I collagen 與類骨質 osteoid）**、**Osteoclasts（蝕骨細胞，大型多核，吸收骨基質）**與**Bone-lining cells（骨襯細胞，扁平，調控 Ca²⁺/P 進出並營養骨細胞）**；**(2) Osteocytes（骨細胞）**：位於**骨基質內的骨陷窩（lacunae）**中，並伸出細胞突起進入骨小管（canaliculi）交換養分，**不存在於骨外膜或骨內膜表面**（註：`0930_BoneHisto-2` 原題曾誤選 A，申覆後 C 與 A 並列給分）。",
+        "⚠️ **【申覆給分說明】**：本題官方核定給分答案為 **(C/A)（申覆後並列給分）**！",
+        "**(C) 敘述錯誤【本題應選正解】**：`Osteocyte` —— **Osteocytes（骨細胞）**是已經被包埋在鈣化骨基質**骨陷窩（lacunae）內**的成熟骨細胞（透過小管 canaliculi 與外界聯繫），**不存在於骨外膜（periosteum）或骨內膜（endosteum）表面**！",
+        "**(A) 申覆並列給分**：`Osteoclast` —— Osteoclast（蝕骨細胞）雖主要位於骨內膜表面與 Howship's lacunae 進行骨吸收，但在生長期骨外膜重塑時亦可見；原題曾誤將 (A) 設為答案，經考後申覆判定 **(C) Osteocyte 與 (A) Osteoclast 並列給分**。",
+        "**(B) 敘述正確（非本題所求）**：`Osteoblast` —— **Osteoblast** 為負責骨生成、骨重塑或分化的活性表面細胞，可於骨內膜（endosteum）與骨外膜（periosteum）內層觀察到。",
+        "**(D) 敘述正確（非本題所求）**：`Osteoprogenitor` —— **Osteoprogenitor** 為負責骨生成、骨重塑或分化的活性表面細胞，可於骨內膜（endosteum）與骨外膜（periosteum）內層觀察到。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-3",
+      "globalIndex": 294,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "The following which statements is correct?",
+      "image": null,
+      "options": {
+        "A": "Sharpey's fibers in the periosteum run parallel to the longitudinal axis of the long bone",
+        "B": "Haversian' canal contains endosteum, arteries and veins, but no nerves.",
+        "C": "Volkmanns' canal has surrounding bone plates arranged in a scattered manner",
+        "D": "The function of the canaliculi is closely related to nutrient transport, which can be observed in the structure of the bone spicule."
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨組織微細構造（Sharpey's Fibers, Canals, Canaliculi）】**：(1) **骨小管（Canaliculi）**連結相鄰骨陷窩（lacunae）並與哈氏管／骨髓腔相通，負責**營養物質與代謝廢物運輸**，於緻密骨與**海綿骨骨小樑（bone spicule）**皆可觀察到；(2) **Sharpey's fibers** 垂直／斜向穿透骨外膜進入骨基質；(3) **Haversian canal** 內含血管、神經與骨內膜（endosteum）；(4) **Volkmann's canal** 周圍無同心圓骨板排列。",
+        "**(D) 正確【本題應選正解】**：`The function of the canaliculi is closely related to nutrient transport, which can be observed in the structure of the bone spicule.` —— **骨小管（canaliculi）**內有骨細胞的細胞質突起相連（gap junctions），負責營養輸送，且在緻密骨與海綿骨的**骨小樑（bone spicule）**中皆能觀察到。",
+        "**(A) 錯誤**：`Sharpey's fibers in the periosteum run parallel to the longitudinal axis of the long bone` —— Sharpey's fibers（穿通纖維，Type I collagen）是從骨外膜**垂直或斜向穿入**骨外環骨板以固定骨膜，而非平行於長骨縱軸。",
+        "**(B) 錯誤**：`Haversian' canal contains endosteum, arteries and veins, but no nerves.` —— Haversian canal（中央管）內同時含有**血管（小動脈、微血管、小靜脈）、神經纖維及骨內膜（endosteum）**，並非沒有神經。",
+        "**(C) 錯誤**：`Volkmanns' canal has surrounding bone plates arranged in a scattered manner` —— Volkmann's canal（穿通管）橫向連接不同 Haversian canals，其周圍**並沒有**圍繞成同心圓或特定散在骨板（骨板屬 osteon 結構）。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-4",
+      "globalIndex": 295,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following pairings of regions on the growth plate is incorrect?",
+      "image": null,
+      "options": {
+        "A": "Calcification zone; Degenerating chondrocyte",
+        "B": "Ossification zone; Newly formed bone tissue",
+        "C": "Resting zone; Hyaline cartilage",
+        "D": "Proliferation zone; Intramembranous bone formation"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：軟骨內骨化（Endochondral Ossification）與生長板五區】**：由遠端（次級骨化中心／骨骺側）向近端（初級骨化中心／骨幹側）依序為：**① 靜止區（Resting / Reserve zone）**：透明軟骨細胞散在分布；**② 增殖區（Proliferation zone）**：軟骨細胞進行**間質性生長（interstitial growth）**有絲分裂排成縱行（isogenous groups）；**③ 肥大區（Hypertrophic zone）**：老化軟骨細胞體積變大、累積肝醣；**④ 鈣化區（Calcification zone）**：基質鈣化、軟骨細胞凋亡退化（degenerating chondrocytes）；**⑤ 骨化區（Ossification zone）**：血管與骨母細胞入侵形成**新生的骨組織（newly formed bone tissue）**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Proliferation zone; Intramembranous bone formation` —— **增殖區（Proliferation zone）**是軟骨細胞進行有絲分裂排成縱柱的區域，整個生長板屬於**軟骨內骨化（endochondral ossification）**，絕非膜內骨化（intramembranous bone formation）！",
+        "**(A) 敘述正確（非本題所求）**：`Calcification zone; Degenerating chondrocyte` —— **鈣化區（Calcification zone）**中，軟骨基質被鈣鹽沉積硬化導致營養擴散受阻，因此肥大的軟骨細胞會凋亡退化（degenerating chondrocytes / chondrocyte die and matrix deteriorates）。",
+        "**(B) 敘述正確（非本題所求）**：`Ossification zone; Newly formed bone tissue` —— **骨化區（Ossification zone）**由侵入的微血管帶來骨原細胞分化為骨母細胞，在鈣化軟骨基質表面沉積類骨質形成**新生的骨組織（newly formed bone tissue）**。",
+        "**(C) 敘述正確（非本題所求）**：`Resting zone; Hyaline cartilage` —— **靜止區（Resting zone）**由典型排列散在（scattered pattern）、尚未進入分裂週期的**透明軟骨（Hyaline cartilage）**組成。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-5",
+      "globalIndex": 296,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding the microstructure of the bone, the following statements which one is correct",
+      "image": null,
+      "options": {
+        "A": "The epiphyseal plate is composed of hyaline cartilage",
+        "B": "Lacunae （or lacuna） are structures that can only be observed in compact bone",
+        "C": "Volkmanns' canals do not have an endosteum",
+        "D": "The entire outer surface of the bone is covered by an endosteum"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨微細構造（Epiphyseal Plate, Lacunae, Endosteum, Periosteum）】**：(1) **生長板／骨骺板（epiphyseal plate）**由**透明軟骨（hyaline cartilage）**組成；(2) **骨陷窩（lacunae）**於緻密骨與海綿骨皆可見；(3) **Volkmann's canals** 與 Haversian canals 內壁皆襯有骨內膜（endosteum）；(4) 骨頭關節面覆蓋關節軟骨，沒有骨外膜或骨內膜包覆。",
+        "**(A) 正確【本題應選正解】**：`The epiphyseal plate is composed of hyaline cartilage` —— **骨骺板／生長板（epiphyseal plate）**是由**透明軟骨（hyaline cartilage）**構成，負責青春期前長骨的軟骨內骨化縱向生長。",
+        "**(B) 錯誤**：`Lacunae （or lacuna） are structures that can only be observed in compact bone` —— 容納骨細胞的**骨陷窩（lacunae）**同時存在於**緻密骨（compact bone）與海綿骨（spongy bone）**的骨基質中。",
+        "**(C) 錯誤**：`Volkmanns' canals do not have an endosteum` —— Volkmann's canals 與 Haversian canals 內部皆襯有一層**骨內膜（endosteum）**（含骨原細胞）。",
+        "**(D) 錯誤**：`The entire outer surface of the bone is covered by an endosteum` —— 骨頭外表面主要覆蓋**骨外膜（periosteum）**（且關節軟骨面無骨膜），骨內膜（endosteum）則是襯於骨髓腔與骨小樑表面。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-6",
+      "globalIndex": 297,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Under a microscope, the following statements which one is incorrect?",
+      "image": null,
+      "options": {
+        "A": "Osteoclast： Larg, multinucleated, resorb bone matrix.",
+        "B": "Osteoprogenitor： Flattened, nutritional the osteocytes and regulate the Ca, P ion into and out of the bone",
+        "C": "Osteocyte： Flattened or squamous",
+        "D": "Osteoblast： Cuboidal, secretes type I collagen fibers and bone matrix-osteoid"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨組織四大細胞形態與功能】**：(1) **Osteoprogenitor cells（骨原細胞）**：扁平鱗狀（flattened/squamous）；(2) **Osteoblast（成骨細胞）**：立方／柱狀（cuboidal），分泌 Type I collagen 與 osteoid；(3) **Osteocyte（骨細胞）**：星形／樹突狀（stellate/dendritic）位於 lacuna 內，突起伸入 canaliculi；(4) **Osteoclast（蝕骨細胞）**：大型多核，位於 Howship's lacuna 吸收骨基質；(5) **Bone-lining cells**：扁平狀，調節骨內外鈣磷離子交換。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Osteocyte： Flattened or squamous` —— 骨細胞（osteocyte）埋藏於骨陷窩（lacunae）中，具有許多細長突起伸入骨小管，整體呈**星狀／卵圓樹突狀（dendritic/stellate）**而非扁平鱗狀（扁平鱗狀為 osteoprogenitor／bone-lining cell），故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Osteoclast： Larg, multinucleated, resorb bone matrix.` —— 蝕骨細胞（osteoclast）為源自單核／巨噬細胞融合的**大型多核細胞**，具皺褶緣（ruffled border），負責吸收骨基質，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`Osteoprogenitor： Flattened, nutritional the osteocytes and regulate the Ca, P ion into and out of the bone` —— （註：貼附骨表面的靜止骨內膜細胞／bone-lining cells 源自骨原細胞，呈扁平狀並調節 Ca、P 進出骨組織；本題課堂答案設定此項為正確敘述，而 C 為明顯形態錯誤）。",
+        "**(D) 敘述正確（非本題所求）**：`Osteoblast： Cuboidal, secretes type I collagen fibers and bone matrix-osteoid` —— 活化的成骨細胞（osteoblast）呈**立方形（cuboidal）**排列於骨面，分泌第一型膠原蛋白與未礦化骨基質（osteoid），敘述正確。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-7",
+      "globalIndex": 298,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Under a microscope, which one is not true",
+      "image": null,
+      "options": {
+        "A": "In NO.136 Compact bone; Decalcified, L.S.; Osteons are clearly seen. The air-filled black lacunae formerly occupied by osteocytes surround the central",
+        "B": "In NO.133 Compact bone, Ground section. CS; Osteocytes processes in canaliculi.",
+        "C": "In NO.136 Compact bone; Decalcified, L.S.; Volkman' s canals was cut longitudinally",
+        "D": "In NO.136 Compact bone; Decalcified, L.S.; Osteocytes is not in canaliculi"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：緻密骨切片（Decalcified L.S. vs. Ground Section C.S.）】**：(1) **Ground section（磨片，C.S.）**：保留礦物質，可見同心圓骨板、充滿空氣呈黑色的 **lacunae** 與放射狀 **canaliculi**（細胞已死）；(2) **Decalcified L.S.（脫鈣縱切，NO.136）**：可清晰見到縱向走行的 **Haversian canals（central canals）**與橫向連接的 **Volkmann's canals（為橫切或斜切面，而非縱切）**，且能看見骨細胞本身（osteocytes 位於 lacunae 內，突起才伸入 canaliculi）。",
+        "**(C) 敘述錯誤【本題應選正解】**：`In NO.136 Compact bone; Decalcified, L.S.; Volkman' s canals was cut longitudinally` —— （註：在縱切面 L.S. 玻片中，平行骨幹走行的 Haversian canals 呈縱切，而**垂直橫穿骨幹的 Volkmann's canals 多呈橫切或斜切**，並非縱切面；依題庫設定此項為錯誤敘述正解）。",
+        "**(A) 敘述正確（非本題所求）**：`In NO.136 Compact bone; Decalcified, L.S.; Osteons are clearly seen. The air-filled black lacunae formerly occupied by osteocytes surround the central` —— 此敘述符合組織學實驗玻片對骨單位（osteons）及環繞中央管之 lacunae 排列的觀察重點（依本題題庫設定為非所求選項）。",
+        "**(B) 敘述正確（非本題所求）**：`In NO.133 Compact bone, Ground section. CS; Osteocytes processes in canaliculi.` —— 在 NO.133 磨片橫切（Ground section, C.S.）中，可清楚觀察到放射狀排列、曾容納骨細胞突起的**骨小管（canaliculi）**，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`In NO.136 Compact bone; Decalcified, L.S.; Osteocytes is not in canaliculi` —— 骨細胞的細胞本體位於 **lacunae（骨陷窩）**內，並非位於 canaliculi（骨小管內僅為其細胞質突起），敘述正確。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-8",
+      "globalIndex": 299,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "About bone tissue, the following which one is not true",
+      "image": null,
+      "options": {
+        "A": "Compact bone consists of structural units called osteons",
+        "B": "General structures of the bones tissues： Spongy and compact bone",
+        "C": "Extracellular matrix： It is calcified, which provide support and protect; regulates Ca ion concentration in the blood",
+        "D": "Bone formation two types： Intra-membrane bone formation and apposition bone formation."
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨形成（Ossification）兩大類型】**：骨組織生成分為兩種方式：(1) **膜內骨化（Intramembranous ossification）**：間葉細胞直接分化為成骨細胞（如顱頂扁骨、鎖骨）；(2) **軟骨內骨化（Endochondral ossification）**：先形成透明軟骨模型再被骨組織取代（如四肢長骨）。所謂「附加生長（appositional growth）」是骨變粗的生長方式，而非兩大骨化類型之一。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Bone formation two types： Intra-membrane bone formation and apposition bone formation.` —— 骨形成（osteogenesis）的兩大類型為**膜內骨化（intramembranous ossification）**與**軟骨內骨化（endochondral ossification）**，而非 apposition bone formation，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Compact bone consists of structural units called osteons` —— 緻密骨（compact bone）的基本結構功能單位即為骨單位（osteons / Haversian systems），敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`General structures of the bones tissues： Spongy and compact bone` —— 肉眼與組織學上骨組織主要分為外層的緻密骨（compact bone）與內部的海綿骨（spongy / cancellous bone），敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Extracellular matrix： It is calcified, which provide support and protect; regulates Ca ion concentration in the blood` —— 骨細胞外基質高度鈣化以提供支撐保護，同時作為體內最大鈣磷儲庫參與血鈣濃度調節，敘述正確。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-9",
+      "globalIndex": 300,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding \"Growth of cartilage\", which of the following only grows by interstitial growth, except?",
+      "image": null,
+      "options": {
+        "A": "Articular disc in TM Joint",
+        "B": "Cartilage of the bronchus",
+        "C": "Menisci of the knee joint",
+        "D": "Cartilage of the joint"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：軟骨生長方式——間質生長（Interstitial）vs. 附加生長（Appositional）】**：**缺少軟骨膜（perichondrium）的軟骨**（如關節軟骨 articular cartilage、纖維軟骨 fibrocartilage：膝半月板 menisci、顳顎關節盤 articular disc、椎間盤）**僅能依賴間質生長（interstitial growth）**；而具有軟骨膜的**支氣管透明軟骨（cartilage of bronchus）**則同時可進行附加生長（appositional growth）與間質生長。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Cartilage of the bronchus` —— **支氣管軟骨**為具有完整**軟骨膜（perichondrium）**的透明軟骨，軟骨膜內層的軟骨原細胞可分化進行**附加生長（appositional growth）**，並非「僅靠」間質生長，故為本題例外正解。",
+        "**(A) 敘述正確（非本題所求）**：`Articular disc in TM Joint` —— 顳顎關節盤（articular disc in TMJ）屬於**纖維軟骨（fibrocartilage）**，外圍無軟骨膜包覆，僅能進行間質生長。",
+        "**(C) 敘述正確（非本題所求）**：`Menisci of the knee joint` —— 膝關節半月板（menisci）屬於**纖維軟骨（fibrocartilage）**，缺乏軟骨膜，僅靠軟骨細胞分裂進行間質生長。",
+        "**(D) 敘述正確（非本題所求）**：`Cartilage of the joint` —— 關節面透明軟骨（articular cartilage）表面沒有軟骨膜覆蓋，亦僅能進行間質生長。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-10",
+      "globalIndex": 301,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding the statement \"fibrous cartilage\", which of the following statements is incorrect?",
+      "image": null,
+      "options": {
+        "A": "Fibrous cartilage is a dense regular connective tissue",
+        "B": "In the fibrocartilage section, the pale pink cylindrical structure is Type I collagen fiber",
+        "C": "The nucleus of the fibroblast is irregularly flat.",
+        "D": "Interfibrous chondrocytes, arranged in a scattered manner."
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：三種軟骨（透明軟骨、彈性軟骨、纖維軟骨）比較】**：**(1) 透明軟骨（Hyaline cartilage）**：分佈於關節面、鼻中膈（NO.54，多為含 2–4 個細胞的同源細胞群 isogenous groups）、**氣管與支氣管（bronchus）**、生長板；ECM 呈均質均一狀（因**第二型膠原蛋白 Type II collagen 纖維與基質折射率相近**而在 H&E 染色下看不見纖維）；軟骨膜（perichondrium）含血管，靠近軟骨膜的軟骨細胞較扁平幼小（越往深層才越圓越肥大），**軟骨陷窩周圍之被膜基質（capsular / territorial matrix）因富含硫酸蛋白多醣而呈深嗜鹼性深染**；**(2) 彈性軟骨（Elastic cartilage）**：含大量彈性纖維，軟骨細胞單一或成小群埋於絮狀基質；**(3) 纖維軟骨（Fibrocartilage）**：無軟骨膜（僅行**間質性生長 interstitial growth**，包含關節盤、膝關節半月板 menisci、椎間盤），含大量平行排列之**第一型膠原蛋白（Type I collagen）**與扁平纖維母細胞，軟骨細胞呈**縱列成排（rows）**夾於膠原束之間。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Interfibrous chondrocytes, arranged in a scattered manner.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(A) 敘述正確（非本題所求）**：`Fibrous cartilage is a dense regular connective tissue` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(B) 敘述正確（非本題所求）**：`In the fibrocartilage section, the pale pink cylindrical structure is Type I collagen fiber` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(C) 敘述正確（非本題所求）**：`The nucleus of the fibroblast is irregularly flat.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-11",
+      "globalIndex": 302,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following statements is correct",
+      "image": null,
+      "options": {
+        "A": "Under microanatomy, blood vessels are observed in the perichondrium.",
+        "B": "In the cartilage tissue of NO.54 （nasal septum）, there is only one chondrocyte in most lacunas.",
+        "C": "The capsule matrix of cartilage tissue around the lacuna shows light staining.",
+        "D": "Hyaline cartilage extracellular matrix （ECM） is homogenous because most of it is Type II collagen fiber"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：軟骨膜血管與透明軟骨顯微特徵】**：軟骨本身為**無血管（avascular）**組織，營養必須仰賴包圍其外層的**軟骨膜（perichondrium）內之血管**擴散供應。鼻中膈（NO.54）常見 2–4 個軟骨細胞聚成同源細胞群（isogenous group）；陷窩周圍的囊狀基質（capsular / territorial matrix）因富含硫酸軟骨素而染色**較深（嗜鹼性強）**；透明軟骨基質在光鏡下呈均質狀是因細小的 Type II collagen 與基質蛋白多醣折射率相近。",
+        "**(A) 正確【本題應選正解】**：`Under microanatomy, blood vessels are observed in the perichondrium.` —— **軟骨膜（perichondrium）**為緻密結締組織，內含**血管、神經與軟骨原細胞**，負責供應無血管的軟骨實質營養，在顯微鏡下可觀察到血管。",
+        "**(B) 錯誤**：`In the cartilage tissue of NO.54 （nasal septum）, there is only one chondrocyte in most lacunas.` —— 鼻中膈透明軟骨（NO.54）因經歷間質生長，大多數陷窩（lacunae）內含有 **2–4 個以上的軟骨細胞**組成同源細胞群（isogenous groups），而非僅單一個細胞。",
+        "**(C) 錯誤**：`The capsule matrix of cartilage tissue around the lacuna shows light staining.` —— 緊鄰陷窩周圍的囊狀／區域性基質（capsular / territorial matrix）富含高度硫酸化的蛋白多醣（GAGs），在 H&E 染色下呈**深染（強嗜鹼性）**而非淺染。",
+        "**(D) 錯誤**：`Hyaline cartilage extracellular matrix （ECM） is homogenous because most of it is Type II collagen fiber` —— 透明軟骨 ECM 呈均質玻璃狀是因為極細的 Type II collagen fibrils 與周圍水合基質（GAGs/proteoglycans）**折射率（refractive index）幾乎相同**（且基質成分佔比極高），而非因為它大部分都是膠原纖維。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-12",
+      "globalIndex": 303,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "About the cells of the bone tissue, which one is incorrect?",
+      "image": null,
+      "options": {
+        "A": "Osteocytes present multiple processes in the canaliculi, located in the endosteum.",
+        "B": "Active osteoclast is large and multinucleated",
+        "C": "Osteoblast is cuboidal and secret osteoid.",
+        "D": "Endosteal cell is flattened, nutritional the osteocytes and regulate calcium ions into and out of the bone."
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨組織四大細胞與骨膜（Periosteum / Endosteum）分佈】**：**(1) 骨內膜／骨外膜存在的細胞**：**Osteoprogenitor cells（骨原細胞，扁平紡錘狀）**、**Osteoblasts（骨母細胞，立方狀，分泌第一型膠原蛋白 Type I collagen 與類骨質 osteoid）**、**Osteoclasts（蝕骨細胞，大型多核，吸收骨基質）**與**Bone-lining cells（骨襯細胞，扁平，調控 Ca²⁺/P 進出並營養骨細胞）**；**(2) Osteocytes（骨細胞）**：位於**骨基質內的骨陷窩（lacunae）**中，並伸出細胞突起進入骨小管（canaliculi）交換養分，**不存在於骨外膜或骨內膜表面**（註：`0930_BoneHisto-2` 原題曾誤選 A，申覆後 C 與 A 並列給分）。",
+        "**(A) 敘述錯誤【本題應選正解】**：`Osteocytes present multiple processes in the canaliculi, located in the endosteum.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(B) 敘述正確（非本題所求）**：`Active osteoclast is large and multinucleated` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(C) 敘述正確（非本題所求）**：`Osteoblast is cuboidal and secret osteoid.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(D) 敘述正確（非本題所求）**：`Endosteal cell is flattened, nutritional the osteocytes and regulate calcium ions into and out of the bone.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-13",
+      "globalIndex": 304,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following statements is correct?",
+      "image": null,
+      "options": {
+        "A": "Volkmanns' canal contains only arteries and veins but no nerves.",
+        "B": "Red bone marrow can be observed in the bone marrow cavity of the most adults.",
+        "C": "Sharpey' s fibers in the periosteum run parallel to the longitudinal axis of the long bone.",
+        "D": "Bone plate structures can be observed in both spongy bone and compact bone."
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨板結構、Volkmann's 管與成人骨髓】**：(1) **骨板（bone plates / lamellae）**在緻密骨（同心圓、間質、內外環骨板）與**海綿骨（骨小樑內平行骨板）**皆可觀察到；(2) Volkmann's canal 內含血管與神經；(3) 多數成人四肢長骨骨髓腔主要為**黃骨髓（yellow bone marrow，脂肪組織）**；(4) Sharpey's fibers 垂直／斜向穿入骨皮質。",
+        "**(D) 正確【本題應選正解】**：`Bone plate structures can be observed in both spongy bone and compact bone.` —— 成熟骨組織無論是**海綿骨（bone spicules/trabeculae）或緻密骨（osteons）**，皆由規則排列的**骨板（bone plates / lamellae）**構成。",
+        "**(A) 錯誤**：`Volkmanns' canal contains only arteries and veins but no nerves.` —— Volkmann's canal（穿通管）連接不同 Haversian canals，內部同時含有**血管（動靜脈）與神經**。",
+        "**(B) 錯誤**：`Red bone marrow can be observed in the bone marrow cavity of the most adults.` —— 多數成年人長骨骨幹骨髓腔已被脂肪細胞取代為**黃骨髓（yellow bone marrow）**；紅骨髓主要保留於中軸骨（胸骨、肋骨、骨盆、脊椎）與近端骨骺。",
+        "**(C) 錯誤**：`Sharpey' s fibers in the periosteum run parallel to the longitudinal axis of the long bone.` —— Sharpey's fibers（穿通纖維）是**垂直或斜向**從骨外膜穿入骨基質以錨定骨膜，而非平行長骨縱軸。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-14",
+      "globalIndex": 305,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "About \"microstructure of the bone\", which of the following statements is correct?",
+      "image": null,
+      "options": {
+        "A": "The epiphyseal plate is composed of elastic cartilage.",
+        "B": "The lacuna structure of bone tissue can only be observed in compact bone.",
+        "C": "There are bone plates in spongy bone",
+        "D": "The entire outer surface of the bone is surrounded by an outer layer of periosteum."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：海綿骨骨板與骨微細構造】**：**海綿骨（spongy bone）**的骨小樑（trabeculae / bone spicules）雖不形成完整的哈氏系統（osteons），但其內部仍是由**平行或層狀排列的骨板（bone plates / lamellae）**所構成。此外，骨骺板為透明軟骨、lacunae 存在於所有骨組織、關節面無骨外膜。",
+        "**(C) 正確【本題應選正解】**：`There are bone plates in spongy bone` —— **海綿骨（spongy bone）**的骨小樑由多層平行或交錯排列的**骨板（bone plates / lamellae）**構成（只是缺乏中央血管管腔形成之完整同心圓 osteon）。",
+        "**(A) 錯誤**：`The epiphyseal plate is composed of elastic cartilage.` —— 骨骺板（epiphyseal plate / 生長板）是由**透明軟骨（hyaline cartilage）**組成，而非彈性軟骨。",
+        "**(B) 錯誤**：`The lacuna structure of bone tissue can only be observed in compact bone.` —— 容納骨細胞的骨陷窩（lacunae）在緻密骨與**海綿骨（spongy bone）**的骨小樑中皆可清楚觀察到。",
+        "**(D) 錯誤**：`The entire outer surface of the bone is surrounded by an outer layer of periosteum.` —— 長骨關節端覆蓋關節透明軟骨的表面**沒有**骨外膜（periosteum），且肌腱韌帶附著處亦直接穿入。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-15",
+      "globalIndex": 306,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A description of the growth plate, which of the following statements is incorrect?",
+      "image": null,
+      "options": {
+        "A": "Calcification zone, chondrocyte die and matrix begin deteriorating.",
+        "B": "Proliferation zone, chondrocyte undergo apposition growth.",
+        "C": "Hypertrophic zone, older chondrocyles enlarge",
+        "D": "Resting zone, cells are arranged in a scattered patter."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：軟骨內骨化（Endochondral Ossification）與生長板五區】**：由遠端（次級骨化中心／骨骺側）向近端（初級骨化中心／骨幹側）依序為：**① 靜止區（Resting / Reserve zone）**：透明軟骨細胞散在分布；**② 增殖區（Proliferation zone）**：軟骨細胞進行**間質性生長（interstitial growth）**有絲分裂排成縱行（isogenous groups）；**③ 肥大區（Hypertrophic zone）**：老化軟骨細胞體積變大、累積肝醣；**④ 鈣化區（Calcification zone）**：基質鈣化、軟骨細胞凋亡退化（degenerating chondrocytes）；**⑤ 骨化區（Ossification zone）**：血管與骨母細胞入侵形成**新生的骨組織（newly formed bone tissue）**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Proliferation zone, chondrocyte undergo apposition growth.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(A) 敘述正確（非本題所求）**：`Calcification zone, chondrocyte die and matrix begin deteriorating.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(C) 敘述正確（非本題所求）**：`Hypertrophic zone, older chondrocyles enlarge` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
+        "**(D) 敘述正確（非本題所求）**：`Resting zone, cells are arranged in a scattered patter.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-16",
+      "globalIndex": 307,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following statements is correct?",
+      "image": null,
+      "options": {
+        "A": "The osteon bone plates are arranged in a scattered manner.",
+        "B": "The function of canaliculi is closely related to the transportation of nutrients, but it cannot be observed in the bone spicule structure.",
+        "C": "In mature bone tissue, osteocytes are regularly arranged.",
+        "D": "The bone plate structure cannot be observed in spongy bone."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：成熟板層骨（Lamellar Bone）規則排列】**：成熟骨組織（包含緻密骨 osteons 與海綿骨 trabeculae）皆為板層骨（lamellar bone），其骨板與埋藏其中的**骨細胞（osteocytes）呈規則排列**；骨小管（canaliculi）與骨板（bone plates）在海綿骨骨小樑中皆可見到。",
+        "**(C) 正確【本題應選正解】**：`In mature bone tissue, osteocytes are regularly arranged.` —— 成熟骨組織（板層骨）中的骨陷窩與**骨細胞（osteocytes）沿著骨板呈規則排列**（相較於未成熟編織骨 woven bone 的雜亂排列）。",
+        "**(A) 錯誤**：`The osteon bone plates are arranged in a scattered manner.` —— 骨單位（osteon）內的骨板是圍繞中央哈氏管呈**規則的同心圓（concentric rings）**排列，並非散亂分布。",
+        "**(B) 錯誤**：`The function of canaliculi is closely related to the transportation of nutrients, but it cannot be observed in the bone spicule structure.` —— 骨小管（canaliculi）在海綿骨的**骨小樑（bone spicule）中同樣可以觀察到**，負責骨細胞營養輸送。",
+        "**(D) 錯誤**：`The bone plate structure cannot be observed in spongy bone.` —— 海綿骨（spongy bone）的骨小樑同樣是由多層**骨板（bone plates）**構成，顯微鏡下可見。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-17",
+      "globalIndex": 308,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following cells does not exist in the endosteum?",
+      "image": null,
+      "options": {
+        "A": "Osteoblast",
+        "B": "Osteoclast",
+        "C": "Osteoproenitor cells",
+        "D": "Osteocytes"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：骨內膜（Endosteum）細胞組成】**：骨內膜覆蓋骨髓腔、海綿骨骨小樑及哈氏管內壁，含有**骨原細胞（osteoprogenitor cells）、成骨細胞（osteoblasts）、蝕骨細胞（osteoclasts）**及骨襯細胞（bone-lining cells）；而**骨細胞（osteocytes）**是完全被包埋在鈣化骨基質陷窩（lacunae）內的成熟細胞，**不存在於骨內膜表面**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Osteocytes` —— **骨細胞（osteocytes）**被完全包埋在鈣化骨基質的骨陷窩（lacunae）內部，**不存在於骨內膜（endosteum）**中，故為本題正解。",
+        "**(A) 敘述正確（非本題所求）**：`Osteoblast` —— 成骨細胞（osteoblast）位於骨內膜與骨外膜內層表面，負責分泌新骨基質。",
+        "**(B) 敘述正確（非本題所求）**：`Osteoclast` —— 蝕骨細胞（osteoclast）貼附於骨內膜表面之 Howship's lacuna 進行骨吸收與骨重塑。",
+        "**(C) 敘述正確（非本題所求）**：`Osteoproenitor cells` —— （選項拼為 `Osteoproenitor cells`，指 **osteoprogenitor cells**）骨原細胞是骨內膜中負責補充成骨細胞的幹細胞群。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-18",
+      "globalIndex": 309,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following statements is incorrect?",
+      "image": null,
+      "options": {
+        "A": "Hyalin cartilage is distinguished by homogeneous ECM.",
+        "B": "Fibrous cartilage, large amount of collagen fibers （type I collagen fibers）, take difference Direction.",
+        "C": "Elastic cartilage, single or small groups of chondrocytes embedded in flocculent matrix",
+        "D": "Hyalin cartilage, fibers not visible in H&E preparation due to same reflex index with that"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：三種軟骨（透明、彈性、纖維軟骨）基質比較】**：(1) **透明軟骨**：均質基質，Type II collagen 與基質折射率相近故光鏡下看不見纖維；(2) **彈性軟骨**：軟骨細胞單個或小群埋於含豐富彈性纖維的基質中（flocculent/fibrillar matrix）；(3) **纖維軟骨（Fibrocartilage）**：富含粗大的 **Type I collagen fibers**，沿著受張力／壓力方向呈**規則平行束狀排列（而非隨意不同方向）**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Fibrous cartilage, large amount of collagen fibers （type I collagen fibers）, take difference Direction.` —— 纖維軟骨（fibrocartilage）內含大量 **Type I collagen fibers**，其膠原纖維束會**沿著機械應力方向呈平行規則排列**（且夾雜成列軟骨細胞），而非雜亂朝不同方向（take different directions），故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Hyalin cartilage is distinguished by homogeneous ECM.` —— 透明軟骨（hyaline cartilage）在 H&E 切片下最顯著的特徵即為平滑均質（homogeneous）的嗜鹼性細胞外基質，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Elastic cartilage, single or small groups of chondrocytes embedded in flocculent matrix` —— 彈性軟骨（elastic cartilage）由單個或小群軟骨細胞埋藏於富含彈性纖維的網狀／絮狀基質（flocculent matrix）中，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Hyalin cartilage, fibers not visible in H&E preparation due to same reflex index with that` —— 透明軟骨中的 Type II collagen 細纖維因與周圍基質具有**相同的折射率（refractive index）**，在一般 H&E 染色下無法看清纖維，敘述正確。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-19",
+      "globalIndex": 310,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Please arrange the following regions in the epiphysis plate in the order of occurrence.\n(1) Ossification; 2.Calcification; 3.Proliferation; 4.Hypertrophic; 5.Hyaline cartilage",
+      "image": null,
+      "options": {
+        "A": "53421.",
+        "B": "35412",
+        "C": "54321",
+        "D": "34125."
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：生長板（Epiphyseal Plate）軟骨內骨化五區順序】**：從**骨骺（靜止端）往骨幹（骨化端）**依序為：**5. 靜止透明軟骨區（Reserve / Hyaline cartilage）→ 3. 增殖區（Proliferation，形成銅錢堆疊樣細胞柱）→ 4. 肥大區（Hypertrophic）→ 2. 鈣化軟骨區（Calcification）→ 1. 骨化區（Ossification）**（記憶口訣：**R-P-H-C-O**，對應題號 **5-3-4-2-1**）。",
+        "**(A) 正確【本題應選正解】**：`53421.` —— 從骨骺往骨幹的正確發生順序為：**5. Hyaline cartilage（靜止區）→ 3. Proliferation（增殖區）→ 4. Hypertrophic（肥大區）→ 2. Calcification（鈣化區）→ 1. Ossification（骨化區）**。",
+        "**(B) 錯誤**：`35412` —— 軟骨必須先有靜止透明軟骨區（5）才進入增殖區（3），且鈣化（2）必先於骨化（1）。",
+        "**(C) 錯誤**：`54321` —— 軟骨細胞必須先經過增殖分裂（3）才會進一步膨大進入肥大區（4），此選項將 3 與 4 顛倒。",
+        "**(D) 錯誤**：`34125.` —— 此選項將起始的靜止透明軟骨區（5）誤置於最後，且將骨化（1）誤置於鈣化（2）之前。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-20",
+      "globalIndex": 311,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Under a microscope, which of the following statements is incorrect?",
+      "image": null,
+      "options": {
+        "A": "Fibrocartilage, a row of chondrocytes that increases by interstitial growth.",
+        "B": "Hyaline cartilage, the chondrocytes close to the perichondrium are hypertrophic.",
+        "C": "Elastic cartilage, the space where chondrocytes exist is called a lacunae",
+        "D": "Fibrocartilage, dense connective tissue morphology."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：透明軟骨細胞成熟梯度與軟骨膜下區域】**：在**透明軟骨（hyaline cartilage）**中，**緊鄰軟骨膜（close to perichondrium）**的軟骨細胞剛由軟骨母細胞分化而來，呈**扁平／卵圓形（flattened / elliptical）且體積較小**；越往軟骨**深處中央**，軟骨細胞才逐漸變圓、變大並形成同源細胞群（而在生長板是靠近骨化區才呈肥大 hypertrophic）。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Hyaline cartilage, the chondrocytes close to the perichondrium are hypertrophic.` —— 在透明軟骨中，靠近軟骨膜（perichondrium）表層的軟骨細胞呈現**扁平（flattened）且較小**的未成熟形態，而非肥大（hypertrophic）細胞，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Fibrocartilage, a row of chondrocytes that increases by interstitial growth.` —— 纖維軟骨無軟骨膜，軟骨細胞透過間質生長（interstitial growth）常排列成一排（rows）夾於膠原纖維束之間，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Elastic cartilage, the space where chondrocytes exist is called a lacunae` —— 所有軟骨（透明、彈性、纖維軟骨）中軟骨細胞所居住的基質空腔皆稱為 **lacunae（軟骨陷窩）**，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Fibrocartilage, dense connective tissue morphology.` —— 纖維軟骨介於緻密結締組織與透明軟骨之間，鏡下呈現類似緻密規則結締組織的粗大膠原纖維束形態，敘述正確。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-21",
+      "globalIndex": 312,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding the skeletal system, which of the following statements is correct?",
+      "image": null,
+      "options": {
+        "A": "Inorganic salts can only be stored in compact bone and cannot be stored in spongy bone.",
+        "B": "Endosteum tissue cannot be observed in compact bone.",
+        "C": "The endosteum has no perforating fibers attached to the surface of the spongy bone",
+        "D": "The cartilage in the bronchi is elastic cartilage"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心組織學考點：穿通纖維（Sharpey's Fibers）位置與支氣管軟骨】**：(1) **穿通纖維（perforating / Sharpey's fibers）**源自**骨外膜（periosteum）**，將骨外膜錨定至緻密骨外表面；**骨內膜（endosteum）與海綿骨表面沒有穿通纖維**；(2) 緻密骨與海綿骨皆可儲存無機鈣磷鹽；(3) 支氣管軟骨為透明軟骨（hyaline cartilage）。",
+        "**(C) 正確【本題應選正解】**：`The endosteum has no perforating fibers attached to the surface of the spongy bone` —— 穿通纖維（Sharpey's fibers）僅存在於**骨外膜（periosteum）**以固定於緻密骨外表；**骨內膜（endosteum）確實沒有穿通纖維**附著於海綿骨表面。",
+        "**(A) 錯誤**：`Inorganic salts can only be stored in compact bone and cannot be stored in spongy bone.` —— 緻密骨與**海綿骨（spongy bone）**的骨基質皆高度礦化，兩者都能儲存鈣、磷等無機鹽（海綿骨因表面積大，代謝動員甚至更快）。",
+        "**(B) 錯誤**：`Endosteum tissue cannot be observed in compact bone.` —— 緻密骨內部的 Haversian canals 與 Volkmann's canals 內壁皆襯有**骨內膜（endosteum）**，可觀察到骨內膜組織。",
+        "**(D) 錯誤**：`The cartilage in the bronchi is elastic cartilage` —— 氣管與支氣管壁上的軟骨環／軟骨板屬於**透明軟骨（hyaline cartilage）**，而非彈性軟骨。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-22",
+      "globalIndex": 313,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "The following which is not correct?",
+      "image": null,
+      "options": {
+        "A": "Around the central canal of an osteon, the bone plates are arranged in a concentric ring",
+        "B": "The function of canaliculi is closely related to the transportation of nutrients, but it cannot be observed in the bone spicule structure.",
+        "C": "Mature compact bone tissue （compact bone tissue）, with osteocytes arranged regularly",
+        "D": "Bone plates can be observed in spongy bone tissue."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心組織學考點：海綿骨骨小樑（Bone Spicule）與骨小管】**：海綿骨（spongy bone）的**骨小樑（bone spicule / trabecula）**內部同樣含有骨板（bone plates / lamellae）、骨陷窩（lacunae）、骨細胞以及連通至骨髓腔表面的**骨小管（canaliculi）**，骨細胞即依賴骨小管自骨髓腔血管獲取營養。",
+        "**(B) 敘述錯誤【本題應選正解】**：`The function of canaliculi is closely related to the transportation of nutrients, but it cannot be observed in the bone spicule structure.` —— 骨小管（canaliculi）負責營養運輸，在海綿骨的**骨小樑（bone spicule）結構中同樣可以清楚觀察到**（骨細胞藉此自骨髓腔擴散獲取養分），故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Around the central canal of an osteon, the bone plates are arranged in a concentric ring` —— 緻密骨骨單位（osteon）的骨板（lamellae）圍繞中央哈氏管（central canal）呈同心圓狀（concentric rings）排列，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Mature compact bone tissue （compact bone tissue）, with osteocytes arranged regularly` —— 成熟緻密骨（lamellar compact bone）中的骨細胞隨同心圓骨板呈規則環狀排列，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Bone plates can be observed in spongy bone tissue.` —— 海綿骨骨小樑內由多層骨板（bone plates / lamellae）構成，顯微鏡下可觀察到骨板結構，敘述正確。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-23",
+      "globalIndex": 314,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following statements is correct?",
+      "image": null,
+      "options": {
+        "A": "No bone plate structure can be observed in spongy bone.",
+        "B": "The bone marrow observed in the bone marrow cavity of most adults is red bone marrow.",
+        "C": "Sharpey' s fibers in the periosteum run parallel to the longitudinal axis of the long bone.",
+        "D": "Volkmanns' canal contains arteries, veins and nerves!."
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心組織學考點：Volkmann's Canal 血管神經與成人骨髓分佈】**：(1) **Volkmann's canal（穿通管）**橫向連結 Haversian canals 與骨外／內膜，內含**動脈、靜脈與神經**；(2) 海綿骨的骨小樑可見骨板（bone plates）；(3) 多數成人長骨骨髓腔為黃骨髓；(4) Sharpey's fibers 垂直／斜向穿入骨基質。",
+        "**(D) 正確【本題應選正解】**：`Volkmanns' canal contains arteries, veins and nerves!.` —— **Volkmann's canal（穿通管）**負責將骨外膜與骨髓腔的血管神經橫向引入並連通 Haversian canals，內含**動脈、靜脈與神經**。",
+        "**(A) 錯誤**：`No bone plate structure can be observed in spongy bone.` —— 海綿骨（spongy bone）的骨小樑同樣是由多層**骨板（bone plates / lamellae）**構成，顯微鏡下可觀察到。",
+        "**(B) 錯誤**：`The bone marrow observed in the bone marrow cavity of most adults is red bone marrow.` —— 大多數成人四肢長骨骨髓腔已被脂肪取代為**黃骨髓（yellow bone marrow）**，而非紅骨髓。",
+        "**(C) 錯誤**：`Sharpey' s fibers in the periosteum run parallel to the longitudinal axis of the long bone.` —— Sharpey's fibers 是**垂直或斜向**穿入骨皮質以固定骨外膜，而非平行長骨縱軸。"
+      ]
+    },
+    {
+      "id": "0930_BoneHisto-24",
+      "globalIndex": 315,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding the description of bone tissue cells, which of the following statements is not correct?",
+      "image": null,
+      "options": {
+        "A": "Osteoblast, cuboidal, secretes type II collagen fibers and bone matrix----Osteoid.",
+        "B": "Osteoclast, large, multinucleated, resorb bone matrix.",
+        "C": "Osteprogenitor, flattened or squamous.",
+        "D": "Bone-ling cells, flattened, nutritional the osteocytes and regulate the Ca and P into and out of the Bone."
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心組織學考點：成骨細胞分泌膠原蛋白型別（Type I vs. Type II）】**：骨組織有機基質（osteoid）中最主要的膠原蛋白是**第一型膠原蛋白（Type I collagen）**，由立方形的**成骨細胞（osteoblast）**所分泌；而**第二型膠原蛋白（Type II collagen）**則是**透明軟骨與彈性軟骨**的主要膠原纖維，並非由成骨細胞分泌。",
+        "**(A) 敘述錯誤【本題應選正解】**：`Osteoblast, cuboidal, secretes type II collagen fibers and bone matrix----Osteoid.` —— 成骨細胞（osteoblast）呈立方形，分泌的是**第一型膠原蛋白（Type I collagen）**與類骨質（osteoid），而非 Type II collagen（軟骨才含 Type II collagen），故本選項敘述錯誤。",
+        "**(B) 敘述正確（非本題所求）**：`Osteoclast, large, multinucleated, resorb bone matrix.` —— 蝕骨細胞（osteoclast）為大型多核細胞，負責釋放酸與蛋白酶吸收分解骨基質，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Osteprogenitor, flattened or squamous.` —— 骨原細胞（osteoprogenitor cell）位於骨外膜內層與骨內膜，呈扁平或鱗狀（flattened or squamous），敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Bone-ling cells, flattened, nutritional the osteocytes and regulate the Ca and P into and out of the Bone.` —— 骨襯細胞（bone-lining cells）為覆蓋於靜止骨表面的扁平細胞，參與骨細胞營養維持並調節鈣、磷離子進出骨組織，敘述正確。"
+      ]
+    }
+  ]
+}

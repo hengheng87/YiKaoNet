@@ -1,0 +1,492 @@
+{
+  "unitCode": "1106_SurgTrauma",
+  "unitTitle": "11/06 外科學概論：常見骨科創傷",
+  "session": "B",
+  "subject": "Surg",
+  "subjectTitle": "外科學概論 (一)",
+  "prof": "邱詠証 醫師",
+  "examRange": "B卷 Q53–60（共8題）",
+  "unitUrl": "https://drive.google.com/file/d/1uVWGolrle1FGK4qof8b9yYTZhUPe-fik",
+  "questions": [
+    {
+      "id": "1106_SurgTrauma-1",
+      "globalIndex": 506,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關遠端橈骨骨折（distal radius fracture），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "TFCC tear won't happen in distal radius fr.",
+        "B": "\"dinner-fork \" deformity will be happened in Colle’s fr.",
+        "C": "Smith fr. also called reverse Colle’s fr. will induce Garden spade deformity",
+        "D": "Barton’s type distal fr. means intraarticular fr. with displacement of fr. Fragmen"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心外科考點：遠端橈骨骨折（Distal Radius Fractures）分型與 TFCC 損傷】**：**(1) Colles' fracture**：遠端骨片向背側移位，呈**餐叉樣畸形（dinner-fork deformity）**；**(2) Smith's fracture（Reverse Colles'）**：向掌側移位，呈**園丁鏟畸形（garden-spade deformity）**；**(3) Barton's fracture**：合併關節面骨折與脫位（intra-articular fracture-dislocation）；**(4) 併發症**：遠端橈骨骨折常合併**三角纖維軟骨複合體撕裂（TFCC tear）**（尤其尺骨莖突骨折或遠端橈尺關節不穩定時）。",
+        "**(A) 敘述錯誤【本題應選正解】**：`TFCC tear won't happen in distal radius fr.` —— 遠端橈骨骨折（distal radius fracture）在腕部承受軸向或旋轉衝擊時，**相當常合併三角纖維軟骨複合體撕裂（TFCC tear）**（題幹選項稱 `won't happen` 絕不會發生，明顯錯誤）！",
+        "**(B) 敘述正確（非本題所求）**：`\"dinner-fork \" deformity will be happened in Colle’s fr.` —— **Colles' fracture**（遠端橈骨關節外骨折且遠端骨片向**背側**移位），外觀呈經典的**餐叉樣畸形（dinner-fork deformity）**。",
+        "**(C) 敘述正確（非本題所求）**：`Smith fr. also called reverse Colle’s fr. will induce Garden spade deformity` —— **Smith's fracture**（又稱 Reverse Colles' fracture，遠端骨片向**掌側**移位），外觀呈**園丁鏟畸形（garden-spade deformity）**。",
+        "**(D) 敘述正確（非本題所求）**：`Barton’s type distal fr. means intraarticular fr. with displacement of fr. Fragmen` —— **Barton's fracture** 為累及橈骨遠端關節面的**關節內骨折（intra-articular fracture）**並伴隨腕骨與骨折片移位脫位。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-2",
+      "globalIndex": 507,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關鎖骨中段骨折（middle third clavicle fr.），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "保守治療conservative treatment：三角巾或八字肩帶sling or figure of 8 bandage",
+        "B": "shortening>lcm , 考慮手術治療",
+        "C": "skin tenting, 考慮手術治療",
+        "D": "open fracture, 考慮手術治療"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：鎖骨中段骨折（Middle-Third Clavicle Fracture）治療原則】**：大多數可採**保守治療（三角巾 sling 或八字肩帶 figure-of-8 bandage）**；手術適應症包括：**開放性骨折（open fracture）、皮膚頂起缺血風險（skin tenting）、鎖骨短縮大於 2 公分（shortening > 2 cm，而非 > 1 cm！）**或合併神經血管損傷。",
+        "**(B) 敘述錯誤【本題應選正解】**：`shortening>lcm , 考慮手術治療` —— 鎖骨中段骨折考慮手術切開復位內固定（ORIF）的短縮標準為**大於 2 公分（shortening > 2 cm）**，而非 > 1 cm，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`保守治療conservative treatment：三角巾或八字肩帶sling or figure of 8 bandage` —— 無移位或輕微移位的鎖骨中段骨折，標準處置為使用三角巾（sling）或八字肩帶（figure-of-8 bandage）固定保守治療。",
+        "**(C) 敘述正確（非本題所求）**：`skin tenting, 考慮手術治療` —— 骨折尖端頂起皮膚（skin tenting）有造成皮膚缺血壞死穿孔並轉為開放性骨折之高度風險，屬於明確手術適應症。",
+        "**(D) 敘述正確（非本題所求）**：`open fracture, 考慮手術治療` —— 開放性骨折（open fracture）因有感染與軟組織暴露風險，須緊急清創並進行手術內固定治療。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-3",
+      "globalIndex": 508,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關肩關節脫臼（shoulder dislocation），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "多為前位脫臼（most anterior dislocation）",
+        "B": "老年人肩關節脫臼，較容易復發成為習慣性脫臼",
+        "C": "約25%肩關節脫臼會合併發生肩部骨折（fracture）",
+        "D": "約20-25%肩關節脫臼會合併發生臂神經叢損傷"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節脫臼流行病學與併發症】**：**95% 以上為前位脫臼**；**年輕患者（< 20–30 歲）**因活動力強且盂唇不易癒合，**極易復發成為習慣性脫臼**（老年人反而較常合併旋轉肌袖撕裂）；約 25% 合併骨折（如大結節、Hill-Sachs），約 20–25% 合併臂神經叢或腋神經（axillary nerve）損傷。",
+        "**(B) 敘述錯誤【本題應選正解】**：`老年人肩關節脫臼，較容易復發成為習慣性脫臼` —— 肩關節脫臼後最容易復發成為習慣性脫臼的是**年輕人**；老年人復發率相對較低（但較易伴隨旋轉肌袖撕裂），故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`多為前位脫臼（most anterior dislocation）` —— 肩關節脫臼約 95% 以上屬於向前下方脫出之**前位脫臼（anterior dislocation）**，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`約25%肩關節脫臼會合併發生肩部骨折（fracture）` —— 約 25% 肩關節脫臼會合併大結節撕裂骨折、關節盂邊緣骨折（bony Bankart）或 Hill-Sachs 骨折，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`約20-25%肩關節脫臼會合併發生臂神經叢損傷` —— 肩關節脫臼牽拉下方神經血管束，約 20–25% 可能合併**腋神經（axillary nerve）**或臂神經叢損傷，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-4",
+      "globalIndex": 509,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關舟狀骨骨折（scaphoid fracture），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "the most common carpal bone fracture",
+        "B": "waist area is the most common scaphoid fracture site",
+        "C": "proximal pole of scaphoid fr. has high union rate",
+        "D": "P.E. showed tenderness over \"snuff-box\" area"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：手舟狀骨骨折（Scaphoid Fracture）】**：為**最常見的腕骨骨折**，最常斷在**腰部（waist area）**，理學檢查於**解剖鼻煙壺（anatomical snuff-box）**有壓痛。因血液供應由遠端**逆行（retrograde）**流向近端，**近端極（proximal pole）骨折極易發生缺血性壞死（AVN）與不癒合（癒合率低）**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`proximal pole of scaphoid fr. has high union rate` —— 因舟狀骨血供為遠端向近端逆行供應，**近端極（proximal pole）骨折會阻斷血流，導致癒合率極低（low union rate）且易發生 AVN**，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`the most common carpal bone fracture` —— 舟狀骨（scaphoid）是人體八塊腕骨中**最常發生骨折**的骨頭（常見於跌倒手腕背伸撐地），敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`waist area is the most common scaphoid fracture site` —— 舟狀骨腰部（waist area）承受最大應力，是舟狀骨骨折最常見的部位（約佔 65–70%），敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`P.E. showed tenderness over \"snuff-box\" area` —— 舟狀骨位於解剖鼻煙壺（anatomical snuff-box）底部，骨折時該處壓痛為經典理學檢查徵象，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-5",
+      "globalIndex": 510,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關肘關節脫臼（elbow dislocation），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "the 2nd most frequent dislocated joint in body",
+        "B": "30 to 40% elbow dislocation is associated with fracture",
+        "C": "anterior dislocation is the most common in elbow dislocation",
+        "D": "early reduction and Rehab program is recommended"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：肘關節脫臼（Elbow Dislocation）】**：為人體**第二常見的大關節脫臼**（僅次於肩關節），以**向後脫臼（posterior dislocation）最為常見**，約 30–40% 合併骨折，治療原則為及早復位與早期復健避免關節僵硬。",
+        "**(C) 敘述錯誤【本題應選正解】**：`anterior dislocation is the most common in elbow dislocation` —— 肘關節脫臼中以**向後脫臼（posterior dislocation）**最為常見，前位脫臼極罕見，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`the 2nd most frequent dislocated joint in body` —— 肘關節是人體僅次於肩關節的**第二常見脫臼大關節**，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`30 to 40% elbow dislocation is associated with fracture` —— 約 30–40% 的肘關節脫臼會合併冠狀突、橈骨頭或內外上髁骨折，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`early reduction and Rehab program is recommended` —— 肘關節極易因長期固定產生僵硬與異位骨化，故建議**及早復位並盡快展開復健活動**，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-6",
+      "globalIndex": 511,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關前臂骨折（forearm fracture），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "In adult, ORIF with plate is the major treatment method",
+        "B": "Monteggia fracture means proximal ulnar shaft fr. with radial head dislocation",
+        "C": "Galeazzi's fracture means distal or middle radial shaft fr. with distal ulna fr.",
+        "D": "Twisting force can cause spiral fracture"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：成人前臂骨折、Monteggia 與 Galeazzi 骨折脫位】**：成人前臂雙骨骨折多採**鋼板開放復位內固定（ORIF with plate）**；扭轉力常造成螺旋骨折。**(1) Monteggia**：近端尺骨幹骨折＋橈骨頭脫位；**(2) Galeazzi**：中遠端橈骨幹骨折＋**遠端橈尺關節（DRUJ）脫位**（非遠端尺骨骨折）。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Galeazzi's fracture means distal or middle radial shaft fr. with distal ulna fr.` —— **Galeazzi's fracture** 定義為中遠端橈骨幹骨折合併**遠端橈尺關節（DRUJ）脫位**，並非合併遠端尺骨骨折，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`In adult, ORIF with plate is the major treatment method` —— 成人前臂雙骨（橈骨與尺骨）骨折視為關節相關功能單位，主要採**鋼板開放復位內固定（ORIF with plate）**以恢復旋轉功能，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`Monteggia fracture means proximal ulnar shaft fr. with radial head dislocation` —— **Monteggia fracture** 定義為近端尺骨幹骨折合併橈骨頭（PRUJ）脫位，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Twisting force can cause spiral fracture` —— 旋轉／扭轉外力（twisting force）作用於長骨幹時，典型會造成**螺旋形骨折（spiral fracture）**，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-7",
+      "globalIndex": 512,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關股骨頸骨折（femoral neck fracture），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "an intra-capsular fracture.",
+        "B": "In Garden classification, type V means complete fr. with more than 50% displacement.",
+        "C": "In Pauwel Classification, type III means fr. angle more than 70 degrees.",
+        "D": "In age >60 y/o with displaced femoral neck fr., prosthetic replacement is suggested"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：股骨頸骨折（Femoral Neck Fracture）分類與治療】**：屬**關節囊內骨折**；**(1) Garden 分類**：僅分 **Type I–IV 四級**（無 Type V！）；**(2) Pauwels 分類**：依骨折線角度分 Type I–III；**(3) 治療**：> 60 歲移位性骨折建議行**人工半髖關節置換（prosthetic replacement）**以避免股骨頭 AVN 與不癒合。",
+        "**(B) 敘述錯誤【本題應選正解】**：`In Garden classification, type V means complete fr. with more than 50% displacement.` —— Garden classification **僅分為 Type I 至 Type IV 共四型**（I 不完全／嵌插；II 完全無移位；III 部分移位；IV 完全移位），**沒有 Type V**，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`an intra-capsular fracture.` —— 股骨頸位於髖關節囊內部，因此股骨頸骨折屬於**關節囊內骨折（intracapsular fracture）**，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`In Pauwel Classification, type III means fr. angle more than 70 degrees.` —— 依該堂骨科講義定義，Pauwels classification Type III 代表高垂直剪力角骨折（講義設定 > 70°；部分教科書為 > 50°），為課堂正確敘述。",
+        "**(D) 敘述正確（非本題所求）**：`In age >60 y/o with displaced femoral neck fr., prosthetic replacement is suggested` —— 60 歲以上高齡患者若發生移位性股骨頸骨折，因缺血性壞死與內固定失敗率高，建議直接行**人工關節置換（hemiarthroplasty / THR）**，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-8",
+      "globalIndex": 513,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關腔室症候群（compartment syndrome），下列何者為非（which statement is wrong）？",
+      "image": null,
+      "options": {
+        "A": "Increased compartment pressure due to trauma, bleeding, and inflammation.",
+        "B": "There are Five compartments in the leg: anterior, lateral, medial, superior and posterior",
+        "C": "Five \"P\" sign: Pain, Pallor, Paresthesia, Paralysis and Pulseless",
+        "D": "can happen in tibia shaft fracture"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：急性腔室症候群（Acute Compartment Syndrome）】**：常併發於**脛骨幹骨折**。小腿共有 **4 個筋膜腔室**：**前室（anterior）、外側室（lateral）、淺後室（superficial posterior）與深後室（deep posterior）**（非 5 個）；臨床表現為 **5P 徵象**，須緊急筋膜切開減壓。",
+        "**(B) 敘述錯誤【本題應選正解】**：`There are Five compartments in the leg: anterior, lateral, medial, superior and posterior` —— 小腿（leg）總共只有 **4 個筋膜腔室（anterior, lateral, superficial posterior, deep posterior）**，沒有 5 個腔室亦無 medial/superior compartment，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Increased compartment pressure due to trauma, bleeding, and inflammation.` —— 創傷、骨折出血與組織水腫發炎會使不可擴張的筋膜腔室內壓力急劇升高並阻斷微循環灌流，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Five \"P\" sign: Pain, Pallor, Paresthesia, Paralysis and Pulseless` —— 腔室症候群經典 **5P 徵象**即為 Pain（最早且最重要）、Pallor、Paresthesia、Paralysis 與 Pulselessness（最晚期），敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`can happen in tibia shaft fracture` —— 脛骨幹骨折（tibial shaft fracture）是引發下肢急性腔室症候群最常見的骨折類型，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-9",
+      "globalIndex": 514,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding distal radius fracture, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "TFCC tear won't happen in distal radius fracture.",
+        "B": "\"Dinner-fork \" deformity appears in Colle’s fracture.",
+        "C": "Smith fracture, also called reverse Colle’s fracture, results in a “garden spade” deformity",
+        "D": "Barton’s type distal fracture is an intra-articular fracture with displacement of fracture fragment."
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心外科考點：遠端橈骨骨折（Distal Radius Fractures）分型與 TFCC 損傷】**：**(1) Colles' fracture**：遠端骨片向背側移位，呈**餐叉樣畸形（dinner-fork deformity）**；**(2) Smith's fracture（Reverse Colles'）**：向掌側移位，呈**園丁鏟畸形（garden-spade deformity）**；**(3) Barton's fracture**：合併關節面骨折與脫位（intra-articular fracture-dislocation）；**(4) 併發症**：遠端橈骨骨折常合併**三角纖維軟骨複合體撕裂（TFCC tear）**（尤其尺骨莖突骨折或遠端橈尺關節不穩定時）。",
+        "**(A) 敘述錯誤【本題應選正解】**：`TFCC tear won't happen in distal radius fracture.` —— 遠端橈骨骨折（distal radius fracture）在腕部承受軸向或旋轉衝擊時，**相當常合併三角纖維軟骨複合體撕裂（TFCC tear）**（題幹選項稱 `won't happen` 絕不會發生，明顯錯誤）！",
+        "**(B) 敘述正確（非本題所求）**：`\"Dinner-fork \" deformity appears in Colle’s fracture.` —— **Colles' fracture**（遠端橈骨關節外骨折且遠端骨片向**背側**移位），外觀呈經典的**餐叉樣畸形（dinner-fork deformity）**。",
+        "**(C) 敘述正確（非本題所求）**：`Smith fracture, also called reverse Colle’s fracture, results in a “garden spade” deformity` —— **Smith's fracture**（又稱 Reverse Colles' fracture，遠端骨片向**掌側**移位），外觀呈**園丁鏟畸形（garden-spade deformity）**。",
+        "**(D) 敘述正確（非本題所求）**：`Barton’s type distal fracture is an intra-articular fracture with displacement of fracture fragment.` —— **Barton's fracture** 為累及橈骨遠端關節面的**關節內骨折（intra-articular fracture）**並伴隨腕骨與骨折片移位脫位。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-10",
+      "globalIndex": 515,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding middle-third clavicle fracture, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "Conservative treatment includes a sling or figure-of-eight bandage.",
+        "B": "Surgical treatment is considered when shortening >1 cm.",
+        "C": "Surgical treatment is considered in cases of skin tenting.",
+        "D": "Surgical treatment is considered for open fractures."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：鎖骨中段骨折（Middle-Third Clavicle Fracture）治療原則】**：大多數可採**保守治療（三角巾 sling 或八字肩帶 figure-of-8 bandage）**；手術適應症包括：**開放性骨折（open fracture）、皮膚頂起缺血風險（skin tenting）、鎖骨短縮大於 2 公分（shortening > 2 cm，而非 > 1 cm！）**或合併神經血管損傷。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Surgical treatment is considered when shortening >1 cm.` —— 鎖骨中段骨折考慮手術復位內固定（ORIF）的短縮適應症標準為 **shortening > 2 cm**，並非 > 1 cm，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Conservative treatment includes a sling or figure-of-eight bandage.` —— 無移位或輕微移位的鎖骨中段骨折，標準保守治療即為三角巾（sling）或八字肩帶（figure-of-eight bandage）。",
+        "**(C) 敘述正確（非本題所求）**：`Surgical treatment is considered in cases of skin tenting.` —— 骨折端頂起皮膚（skin tenting）有穿破皮膚演變為開放性骨折的風險，應考慮手術治療。",
+        "**(D) 敘述正確（非本題所求）**：`Surgical treatment is considered for open fractures.` —— 開放性鎖骨骨折（open fracture）為絕對手術適應症，需清創並固定。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-11",
+      "globalIndex": 516,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding shoulder dislocation, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "Most cases are anterior dislocation.",
+        "B": "Shoulder dislocation in elderly patients tends to recur easily, becoming habitual dislocation.",
+        "C": "About 25% of shoulder dislocations are associated with fractures.",
+        "D": "About 20-25% of shoulder dislocations are associated with brachial plexus injury."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：肩關節脫臼流行病學與併發症】**：**95% 以上為前位脫臼**；**年輕患者（< 20–30 歲）**因活動力強且盂唇不易癒合，**極易復發成為習慣性脫臼**（老年人反而較常合併旋轉肌袖撕裂）；約 25% 合併骨折（如大結節、Hill-Sachs），約 20–25% 合併臂神經叢或腋神經損傷。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Shoulder dislocation in elderly patients tends to recur easily, becoming habitual dislocation.` —— 最容易復發變成習慣性脫臼的族群是**年輕患者（young patients）**，而非老年人，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Most cases are anterior dislocation.` —— 超過 95% 的肩關節脫臼皆為前位脫臼（anterior dislocation），敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`About 25% of shoulder dislocations are associated with fractures.` —— 約 25% 的肩關節脫臼病例會伴隨肩部骨折（如肱骨大結節或關節盂緣骨折），敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`About 20-25% of shoulder dislocations are associated with brachial plexus injury.` —— 約 20–25% 的肩關節脫臼會合併臂神經叢或腋神經牽拉損傷，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-12",
+      "globalIndex": 517,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding scaphoid fracture, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "It is the most common carpal bone fracture.",
+        "B": "The waist area is the most common fracture site.",
+        "C": "The proximal pole of the scaphoid has a high union rate.",
+        "D": "Physical exam shows tenderness over the \"anatomical snuff-box.\""
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：手舟狀骨骨折（Scaphoid Fracture）】**：為**最常見的腕骨骨折**，最常斷在**腰部（waist area）**，理學檢查於**解剖鼻煙壺（anatomical snuff-box）**有壓痛。因血液供應由遠端**逆行（retrograde）**流向近端，**近端極（proximal pole）骨折極易發生缺血性壞死（AVN）與不癒合（癒合率低）**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`The proximal pole of the scaphoid has a high union rate.` —— 舟狀骨近端極因逆行血供受阻，**癒合率極低（low union rate）**且缺血性壞死（AVN）風險極高，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`It is the most common carpal bone fracture.` —— 手舟狀骨（scaphoid）為所有腕骨中最常發生骨折的骨骼，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`The waist area is the most common fracture site.` —— 舟狀骨腰部（waist）是舟狀骨骨折最常發生的部位，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Physical exam shows tenderness over the \"anatomical snuff-box.\"` —— 解剖鼻煙壺（anatomical snuff-box）處壓痛是舟狀骨骨折最典型之理學檢查發現，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-13",
+      "globalIndex": 518,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding elbow dislocation, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "It is the second most frequently dislocated joint in the body.",
+        "B": "About 30-40% of elbow dislocations are associated with fractures.",
+        "C": "Anterior dislocation is the most common type of elbow dislocation.",
+        "D": "Early reduction and rehabilitation are recommended."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：肘關節脫臼（Elbow Dislocation）】**：為人體**第二常見的大關節脫臼**（僅次於肩關節），以**向後脫臼（posterior dislocation）最為常見**，約 30–40% 合併骨折，治療原則為及早復位與早期復健避免關節僵硬。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Anterior dislocation is the most common type of elbow dislocation.` —— 肘關節最常見的是**向後脫位（posterior dislocation）**，而非前位脫位，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`It is the second most frequently dislocated joint in the body.` —— 肘關節為人體第二常見脫臼之大關節（僅次於肩關節），敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`About 30-40% of elbow dislocations are associated with fractures.` —— 約 30–40% 的肘關節脫臼合併周圍骨折，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Early reduction and rehabilitation are recommended.` —— 儘早復位與早期復健有助於保留肘關節活動度，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-14",
+      "globalIndex": 519,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding forearm fracture, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "In adults, ORIF with plate fixation is the main treatment method.",
+        "B": "Monteggia fracture means proximal ulnar shaft fracture with radial head dislocation.",
+        "C": "Galeazzi fracture means distal or middle radial shaft fracture with distal ulnar fracture.",
+        "D": "Twisting force can cause a spiral fracture."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：成人前臂骨折、Monteggia 與 Galeazzi 骨折脫位】**：成人前臂雙骨骨折多採**鋼板開放復位內固定（ORIF with plate）**；扭轉力常造成螺旋骨折。**(1) Monteggia**：近端尺骨幹骨折＋橈骨頭脫位；**(2) Galeazzi**：中遠端橈骨幹骨折＋**遠端橈尺關節（DRUJ）脫位**（非遠端尺骨骨折）。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Galeazzi fracture means distal or middle radial shaft fracture with distal ulnar fracture.` —— Galeazzi 骨折應為中遠端橈骨幹骨折伴隨**遠端橈尺關節（DRUJ）脫位**，而非遠端尺骨骨折，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`In adults, ORIF with plate fixation is the main treatment method.` —— 成人前臂骨折為了精準恢復前臂旋前／旋後功能，主要治療方式為鋼板內固定（ORIF with plate），敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`Monteggia fracture means proximal ulnar shaft fracture with radial head dislocation.` —— Monteggia 骨折正確定義即為近端尺骨幹骨折伴隨橈骨頭脫位，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Twisting force can cause a spiral fracture.` —— 扭轉應力作用於骨幹典型產生螺旋形骨折（spiral fracture），敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-15",
+      "globalIndex": 520,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding femoral neck fracture, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "It is an intracapsular fracture.",
+        "B": "In Garden classification, type V means complete fracture with more than 50% displacement.",
+        "C": "In Pauwels classification, type III means fracture angle more than 70 degrees.",
+        "D": "For patients older than 60 years with displaced femoral neck fracture, prosthetic replacement is suggested."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：股骨頸骨折（Femoral Neck Fracture）分類與治療】**：屬**關節囊內骨折**；**(1) Garden 分類**：僅分 **Type I–IV 四級**（無 Type V！）；**(2) Pauwels 分類**：依骨折線角度分 Type I–III；**(3) 治療**：> 60 歲移位性骨折建議行**人工半髖關節置換（prosthetic replacement）**以避免股骨頭 AVN 與不癒合。",
+        "**(B) 敘述錯誤【本題應選正解】**：`In Garden classification, type V means complete fracture with more than 50% displacement.` —— Garden 分類只有 Type I 到 Type IV 四級，**不存在 Type V**，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`It is an intracapsular fracture.` —— 股骨頸骨折發生於髖關節囊內，屬於關節囊內骨折，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`In Pauwels classification, type III means fracture angle more than 70 degrees.` —— 依課程講義分類標準，Pauwels Type III 為垂直角度大（>70°）且剪力不穩定的骨折，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`For patients older than 60 years with displaced femoral neck fracture, prosthetic replacement is suggested.` —— 60 歲以上移位性股骨頸骨折建議行人工關節置換（prosthetic replacement）以降低再手術率並利早期下床，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-16",
+      "globalIndex": 521,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Regarding compartment syndrome, which statement is wrong？",
+      "image": null,
+      "options": {
+        "A": "Increased compartment pressure may result from trauma, bleeding, or inflammation.",
+        "B": "There are five compartments in the leg: anterior, lateral, medial, superior, and posterior.",
+        "C": "The \"five P's\" are pain, pallor, paresthesia, paralysis, and pulselessness.",
+        "D": "It can occur in tibial shaft fractures.."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：急性腔室症候群（Acute Compartment Syndrome）】**：常併發於**脛骨幹骨折**。小腿共有 **4 個筋膜腔室**：**前室（anterior）、外側室（lateral）、淺後室（superficial posterior）與深後室（deep posterior）**（非 5 個）；臨床表現為 **5P 徵象**，須緊急筋膜切開減壓。",
+        "**(B) 敘述錯誤【本題應選正解】**：`There are five compartments in the leg: anterior, lateral, medial, superior, and posterior.` —— 小腿僅有 **4 個筋膜腔室**（anterior, lateral, superficial posterior, deep posterior），並非 5 個，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`Increased compartment pressure may result from trauma, bleeding, or inflammation.` —— 創傷、腔室內出血與發炎水腫皆會導致腔室壓力上升進而壓迫微血管與神經，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`The \"five P's\" are pain, pallor, paresthesia, paralysis, and pulselessness.` —— 急性腔室症候群之經典 5P 徵象為 Pain、Pallor、Paresthesia、Paralysis、Pulselessness，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`It can occur in tibial shaft fractures..` —— 脛骨幹骨折（tibial shaft fracture）最常併發小腿急性腔室症候群，敘述正確。"
+      ]
+    }
+  ]
+}

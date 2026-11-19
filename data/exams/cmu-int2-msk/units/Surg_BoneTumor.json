@@ -1,0 +1,132 @@
+{
+  "unitCode": "Surg_BoneTumor",
+  "unitTitle": "歷屆補充：骨腫瘤外科學 (Bone Tumors)",
+  "session": "B",
+  "subject": "Surg",
+  "subjectTitle": "外科學概論 (一)",
+  "prof": "馮逸卿 醫師（舊課綱補充，非本屆 11/06 創傷共筆範圍）",
+  "examRange": "歷屆補充（骨腫瘤，非本次 11/06 共筆）",
+  "unitUrl": "https://drive.google.com/file/d/1uVWGolrle1FGK4qof8b9yYTZhUPe-fik",
+  "questions": [
+    {
+      "id": "1106_SurgTrauma-17",
+      "globalIndex": 522,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "111/112 舊課綱（彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "In radiographic findings of \"benign lesions of bone tumor\", the followings are true, except?",
+      "image": null,
+      "options": {
+        "A": "Well defined, sclerotic border",
+        "B": "Lack of soft tissue mass",
+        "C": "Moth-eaten bone destruction",
+        "D": "Solid periosteal reaction"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：良性 vs. 惡性骨腫瘤影像學特徵】**：**良性骨腫瘤**生長緩慢，X 光常呈現**邊界清楚合併硬化緣（well-defined sclerotic border）、無軟組織腫塊、實質性（solid）骨膜反應**；而**惡性骨腫瘤**則因快速侵襲骨質，呈現**蟲蛀狀／滲透性骨破壞（moth-eaten / permeative destruction）**、Codman 三角或日光放射狀骨膜反應。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Moth-eaten bone destruction` —— **蟲蛀狀骨破壞（moth-eaten bone destruction）**代表快速且具高度侵襲性的骨質溶解，屬於**惡性骨腫瘤**（或急性骨髓炎）的影像特徵，非良性病灶，故本選項為正解。",
+        "**(A) 敘述正確（非本題所求）**：`Well defined, sclerotic border` —— 邊界清楚且有反應性硬化邊緣（geographic lesion with sclerotic rim）代表骨質有足夠時間修復包圍病灶，為良性骨腫瘤典型特徵。",
+        "**(B) 敘述正確（非本題所求）**：`Lack of soft tissue mass` —— 良性骨腫瘤通常局限於骨皮質內或外生性生長，不會穿透骨皮質形成侵襲性軟組織腫塊，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Solid periosteal reaction` —— 實質性（solid / thick）均質骨膜反應代表緩慢而穩定的骨膜新骨形成，常見於良性病灶（如 osteoid osteoma），敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-18",
+      "globalIndex": 523,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "111/112 舊課綱（彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "About principle of \"biopsy of bone tumor\", which is wrong?",
+      "image": null,
+      "options": {
+        "A": "As small as possible",
+        "B": "Transverse skin incision",
+        "C": "Direct approach",
+        "D": "Hemostasis"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：骨腫瘤切片（Biopsy of Bone Tumor）手術原則】**：骨腫瘤切片通道被視為已受腫瘤細胞汙染，日後廣泛切除時必須將切片疤痕整塊切除（en bloc excision）。因此切片必須：**傷口盡量小、走最直接路徑（不跨越無關筋膜室）、徹底止血（避免血腫擴散腫瘤）、採用「縱向皮膚切口（longitudinal incision）」**，絕不可使用橫向切口。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Transverse skin incision` —— 骨腫瘤切片**絕對禁止使用橫向皮膚切口（transverse skin incision）**，因橫向疤痕在日後進行四肢縱向廣泛切除保肢手術時難以一併完整切除；必須採用**縱向切口（longitudinal incision）**，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`As small as possible` —— 切片傷口應盡可能小且減少組織剝離，以降低腫瘤細胞汙染周邊正常組織與日後皮瓣重建困難，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Direct approach` —— 應採取最短、最直接的路徑（direct approach）穿過單一受累筋膜室直達腫瘤，避免繞道汙染重要神經血管束，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`Hemostasis` —— 術中徹底止血（hemostasis）可防止術後血腫（hematoma）帶著腫瘤細胞沿筋膜面擴散，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-19",
+      "globalIndex": 524,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "111/112 舊課綱（彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "About \"Bone tumor stage\", which is wrong?",
+      "image": null,
+      "options": {
+        "A": "The staging system developed by Dr. Enneking",
+        "B": "Malignant tumor are classified into stage I, II, III",
+        "C": "Stage IIB has metastasis",
+        "D": "The purpose of staging is to give a prognosis and to guide treatment"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心外科考點：Enneking 惡性骨腫瘤分期系統】**：由 Dr. William Enneking 提出，用於評估預後與決定手術切除範圍。惡性腫瘤分為三期：**Stage I（低惡性度 G1，無轉移）**、**Stage II（高惡性度 G2，無轉移）**（依解剖位置再分 A 腔室內 / B 腔室外）、**Stage III（無論惡性度高低，只要出現遠端或淋巴結轉移即屬之）**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Stage IIB has metastasis` —— Enneking **Stage IIB** 代表「高度惡性（G2）、侵犯至筋膜腔室外（T2）、但**無遠端轉移（M0）**」；有轉移者應歸類為 **Stage III**，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`The staging system developed by Dr. Enneking` —— 骨與軟組織肉瘤經典的 Enneking staging system 確實是由 Dr. Enneking 所建立，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`Malignant tumor are classified into stage I, II, III` —— Enneking 分期將惡性骨腫瘤分為 Stage I（低度惡性）、Stage II（高度惡性）與 Stage III（合併轉移），敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`The purpose of staging is to give a prognosis and to guide treatment` —— 骨腫瘤分期的核心目的即是預測患者預後並指導手術切除邊界（如廣泛切除或根治性切除）與輔助治療，敘述正確。"
+      ]
+    },
+    {
+      "id": "1106_SurgTrauma-20",
+      "globalIndex": 525,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "111/112 舊課綱（彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "The most common malignant primary tumor of bone in child or young adult, is?",
+      "image": null,
+      "options": {
+        "A": "Chondrosarcoma",
+        "B": "Osteogenic sarcoma (osteosarcoma)",
+        "C": "Ewing's sarcoma",
+        "D": "Fibrosarcoma"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心外科考點：兒童與青少年原發性惡性骨腫瘤盛行率】**：整體而言成人最常見骨腫瘤為轉移癌與多發性骨髓瘤；而在**兒童與青少年（child or young adult）**族群中，最常見的原發性惡性骨腫瘤是**骨肉瘤（Osteogenic sarcoma / Osteosarcoma，好發於膝關節周圍幹骺端）**，第二常見則為 **Ewing's sarcoma**（好發於骨幹）。",
+        "**(B) 正確【本題應選正解】**：`Osteogenic sarcoma (osteosarcoma)` —— **骨肉瘤（osteosarcoma）**好發於 10–25 歲快速生長期青少年長骨幹骺端，是兒童與青少年**最常見的原發性惡性骨腫瘤**。",
+        "**(A) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤（chondrosarcoma）主要好發於 **40–60 歲以上中老年人**及中軸骨（骨盆、肋骨、肩胛骨），很少發生於兒童。",
+        "**(C) 錯誤**：`Ewing's sarcoma` —— **尤文氏肉瘤（Ewing's sarcoma）**好發於 10–20 歲兒童與青少年長骨骨幹，是該年齡層**第二常見**的原發性惡性骨腫瘤（次於骨肉瘤）。",
+        "**(D) 錯誤**：`Fibrosarcoma` —— 骨纖維肉瘤（fibrosarcoma of bone）在臨床上極為罕見，且多見於成人，遠不如骨肉瘤與尤文氏肉瘤常見於兒童青少年。"
+      ]
+    }
+  ]
+}

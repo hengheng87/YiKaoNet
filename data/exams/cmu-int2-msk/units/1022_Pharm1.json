@@ -1,0 +1,946 @@
+{
+  "unitCode": "1022_Pharm1",
+  "unitTitle": "10/22 藥理學：自主神經藥理與神經傳遞",
+  "session": "B",
+  "subject": "Pharm",
+  "subjectTitle": "藥理學 (一)",
+  "prof": "賴弘岳 教授",
+  "examRange": "B卷 Q1–40（共40題）",
+  "unitUrl": "https://drive.google.com/file/d/1OekFrDnu0Zch5ipE-nohWS39E0asEN9D",
+  "questions": [
+    {
+      "id": "1022_Pharm1-1",
+      "globalIndex": 340,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者非副交感神經系統的特點？Which of the following is not a feature of the parasympathetic nervous system?",
+      "image": null,
+      "options": {
+        "A": "活化副交感神經系統可抑制心跳Activating the parasympathetic nervous system can lower the heart rate.",
+        "B": "抑制副交感神經系統會導致口乾Inhibiting the parasympathetic nervous system may lead to dry mouth.",
+        "C": "副交感神經系統以乙醯膽鹼做為神經傳遞物質The parasympathetic nervous system uses acetylcholine as the neurotransmitter",
+        "D": "副交感神經系統之節後神經纖維比交感神經系統之節後神經纖維長 The postganglionic nerve fibers of the parasympathetic nervous system are longer than those of the sympathetic nervous system."
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：交感 vs. 副交感神經系統解剖與生理比較】**：副交感神經屬顱薦傳出（Craniosacral outflow: CN III, VII, IX, X 及 S2–S4），神經節位於效應器官旁或壁內，故**「節前纖維長、節後纖維短」**，節前與節後皆釋放 **ACh**；交感神經屬胸腰傳出（Thoracolumbar outflow: T1–L2/L3），神經節位於交感神經幹或椎前神經節，故**「節前纖維短、節後纖維長」**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`副交感神經系統之節後神經纖維比交感神經系統之節後神經纖維長 The postganglionic nerve fibers of the parasympathetic nervous system are longer than those of the sympathetic nervous system.` —— 副交感神經節位於效應器官附近或器官壁內（terminal/intramural ganglia），故「節前纖維長、節後纖維極短」；交感神經節則位於脊柱旁（paravertebral）或椎前（prevertebral），故「節前纖維短、節後纖維長」。",
+        "**(A) 敘述正確（非本題所求）**：`活化副交感神經系統可抑制心跳Activating the parasympathetic nervous system can lower the heart rate.` —— 副交感迷走神經釋放乙醯膽鹼（ACh），作用於心臟竇房結（SA node）與房室結（AV node）的 M2 蕈毒鹼受體（耦合 Gi/o 蛋白），抑制 cAMP 並開啟 IK(ACh) 鉀離子通道造成過極化，使心跳減慢。",
+        "**(B) 敘述正確（非本題所求）**：`抑制副交感神經系統會導致口乾Inhibiting the parasympathetic nervous system may lead to dry mouth.` —— 唾液腺的漿液性分泌主要由副交感神經透過 M3 受體（耦合 Gq）促進；抑制副交感神經（或使用抗膽鹼藥物如 atropine）會顯著減少唾液分泌，導致口乾（xerostomia）。",
+        "**(C) 敘述正確（非本題所求）**：`副交感神經系統以乙醯膽鹼做為神經傳遞物質The parasympathetic nervous system uses acetylcholine as the neurotransmitter` —— **Acetylcholine（乙醯膽鹼, ACh）**為內生性季銨膽鹼酯，可同時強效活化蕈毒鹼受體（M1–M5）與菸鹼受體（NN、NM），但因酯鍵極易被乙醯膽鹼酯酶（AChE）與假性膽鹼酯酶瞬間水解（半衰期極短），且帶永久正電無法口服吸收或通過血腦屏障（BBB）。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-2",
+      "globalIndex": 341,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列受體的訊息傳遞，何者非活化Gq蛋白？Among the following receptors, which one does not activate the Gq protein in signal transduction?",
+      "image": null,
+      "options": {
+        "A": "α1 adrenergic receptor",
+        "B": "M1 muscarinic receptor",
+        "C": "M2 muscarinic receptor",
+        "D": "M3 muscarinic receptor"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(C) 敘述錯誤【本題應選正解】**：`M2 muscarinic receptor` —— M2 蕈毒鹼受體（主要分佈於心臟 SA/AV node 與突觸前神經末梢）耦合 **Gi/o 蛋白**，會**抑制腺苷酸環化酶（adenylyl cyclase）活性使 cAMP 下降**，同時由 βγ 次單元開啟 K⁺ 通道導致過極化並抑制電壓閘門 Ca²⁺ 通道，**不會活化 Gq 蛋白**。",
+        "**(A) 敘述正確（非本題所求）**：`α1 adrenergic receptor` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。",
+        "**(B) 敘述正確（非本題所求）**：`M1 muscarinic receptor` —— M1 蕈毒鹼受體（主要分佈於中樞神經、自主神經節與胃壁細胞）耦合 Gq/11 蛋白，活化磷脂酶 C（PLC）將 PIP2 水解為 IP3（促使肌漿網釋放 Ca²⁺）與 DAG（活化 PKC）。",
+        "**(D) 敘述正確（非本題所求）**：`M3 muscarinic receptor` —— M3 蕈毒鹼受體（主要分佈於外分泌腺體、內臟平滑肌如逼尿肌與支氣管、虹膜環狀肌及血管內皮細胞）耦合 **Gq/11 蛋白**，活化 PLC 產生 IP3 與 DAG，使胞內 Ca²⁺ 上升（並於內皮細胞活化 eNOS 釋放 NO），不抑制 adenylyl cyclase。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-3",
+      "globalIndex": 342,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關擬副交感神經藥物所產生之作用，下列何者錯誤？ Regarding the effects produced by parasympathomimetic drugs, which of the following is false?",
+      "image": null,
+      "options": {
+        "A": "睫狀肌舒張 Relaxation of ciliary muscles",
+        "B": "逼尿肌收縮 Contraction of detrusor muscles",
+        "C": "唾液腺分泌增加 Increase in salivary gland secretion",
+        "D": "支氣管收縮 Bronchoconstriction"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：擬副交感神經藥物（Cholinomimetics）之器官效應】**：活化 **M3 受體**會引起：虹膜環狀肌收縮（縮瞳）、睫狀肌收縮（看近物、開通小樑網降眼壓）、唾液腺／淚腺／支氣管分泌增加、支氣管平滑肌收縮、腸胃蠕動增加、**膀胱逼尿肌收縮**與括約肌放鬆（排尿）、血管內皮釋放 **NO（cGMP 介導海綿體勃起與血管舒張）**；但**虹膜輻射肌與皮膚豎毛肌僅受交感 α1 支配**，不受副交感調控。",
+        "**(A) 敘述錯誤【本題應選正解】**：`睫狀肌舒張 Relaxation of ciliary muscles` —— 眼睛睫狀肌（ciliary muscle）受副交感神經（CN III）支配並表現 **M3 受體**；給予擬副交感神經藥物會使**睫狀肌收縮**（懸韌帶放鬆、水晶體變厚以看近物 accommodation），而非舒張！",
+        "**(B) 敘述正確（非本題所求）**：`逼尿肌收縮 Contraction of detrusor muscles` —— 膀胱逼尿肌（detrusor muscle）表現 M3 受體（耦合 Gq），擬副交感藥物（如 Bethanechol）活化 M3 受體會使逼尿肌收縮、膀胱內括約肌放鬆以促進排尿。",
+        "**(C) 敘述正確（非本題所求）**：`唾液腺分泌增加 Increase in salivary gland secretion` —— 唾液腺表現 M3 受體，擬副交感藥物活化 M3 受體會顯著增加水樣唾液分泌（salivation）。",
+        "**(D) 敘述正確（非本題所求）**：`支氣管收縮 Bronchoconstriction` —— 支氣管平滑肌表現 M3 受體，擬副交感藥物（如 Methacholine）活化 M3 受體會引起支氣管平滑肌收縮與呼吸道腺體分泌增加。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-4",
+      "globalIndex": 343,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "膽鹼酯酶抑制劑中毒，可觀察到病患產生縮瞳症狀，其藥理機制為活化下列何種眼睛虹膜受體 所導致？ In cholinesterase inhibitor poisoning, the observation of miosis (constricted pupils) in patients is due to the activation of which type of iris receptor in the eye?",
+      "image": null,
+      "options": {
+        "A": "環狀肌蕈毒鹼受體 Circular muscle muscarinic receptor",
+        "B": "環狀肌尼古丁受體 Circular muscle nicotinic receptor",
+        "C": "輻射肌 alpha 受體 Radial muscle alpha receptor",
+        "D": "輻射肌 beta 受體 Radial muscle beta receptor"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(A) 正確【本題應選正解】**：`環狀肌蕈毒鹼受體 Circular muscle muscarinic receptor` —— 虹膜環狀肌（瞳孔括約肌 sphincter pupillae）受動眼神經副交感纖維支配，細胞膜上為 **M3 蕈毒鹼受體（muscarinic receptor）**；有機磷、沙林毒氣或膽鹼酯酶抑制劑中毒時，ACh 大量累積並過度活化環狀肌 M3 受體，導致環狀肌強烈收縮而出現針尖般瞳孔縮小（miosis）。",
+        "**(B) 錯誤**：`環狀肌尼古丁受體 Circular muscle nicotinic receptor` —— 虹膜環狀肌為平滑肌（效應器官），其膽鹼受體為蕈毒鹼受體（M3 muscarinic receptor），並無菸鹼受體（nicotinic receptor 位於自主神經節與骨骼肌終板）。",
+        "**(C) 錯誤**：`輻射肌 alpha 受體 Radial muscle alpha receptor` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。",
+        "**(D) 錯誤**：`輻射肌 beta 受體 Radial muscle beta receptor` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-5",
+      "globalIndex": 344,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者活化菸鹼受體的作用最弱，且最不易被膽鹼酯酶水解？ Which of the following has the weakest effect on nicotinic receptor activation and is least easily hydrolyzed by cholinesterase?",
+      "image": null,
+      "options": {
+        "A": "acetylcholine",
+        "B": "methacholine",
+        "C": "carbachol",
+        "D": "bethanechol"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：膽鹼酯類（Choline Esters）構效關係（SAR）】**：(1) **β-甲基取代**（Methacholine、Bethanechol）：大幅降低對菸鹼受體（N）的作用並選擇性作用於蕈毒鹼受體（M）；(2) **胺基甲酸酯（Carbamoyl）取代**（Carbachol、Bethanechol）：完全抗拒膽鹼酯酶（AChE）水解。因此 **Bethanechol** 同時具備「幾乎無 N 活性」與「極抗 AChE 水解」。",
+        "**(D) 正確【本題應選正解】**：`bethanechol` —— **Bethanechol** 同時具備 β-甲基（對 N 受體作用最弱、專一活化 M 受體）與胺基甲酸酯基（最不易被 AChE 水解）。",
+        "**(A) 錯誤**：`acetylcholine` —— **Acetylcholine（ACh）**無 β-甲基亦無胺基甲酸酯取代，對 M 與 N 受體皆具強活性，且極易被 AChE 瞬間水解。",
+        "**(B) 錯誤**：`methacholine` —— **Methacholine** 具 β-甲基（N 活性極弱），但仍為乙酸酯基，會被 AChE 緩慢水解。",
+        "**(C) 錯誤**：`carbachol` —— **Carbachol** 具胺基甲酸酯基（抗 AChE 水解），但無 β-甲基，因此仍保有相當強的菸鹼受體（N）活化作用。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-6",
+      "globalIndex": 345,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種受體經自主神經傳遞物質活化後，通常會抑制 adenylyl cyclase 的活性？ Which of the following receptors, when activated by autonomic neurotransmitters, typically inhibits the activity of adenylyl cyclase?",
+      "image": null,
+      "options": {
+        "A": "muscarinic M2 cholinoceptor",
+        "B": "muscarinic M3 cholinoceptor",
+        "C": "β1 adrenoceptor",
+        "D": "β3 adrenoceptor"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(A) 正確【本題應選正解】**：`muscarinic M2 cholinoceptor` —— M2 蕈毒鹼受體（主要分佈於心臟 SA/AV node 與突觸前神經末梢）耦合 **Gi/o 蛋白**，會**抑制腺苷酸環化酶（adenylyl cyclase）活性使 cAMP 下降**，同時由 βγ 次單元開啟 K⁺ 通道導致過極化並抑制電壓閘門 Ca²⁺ 通道，**不會活化 Gq 蛋白**。",
+        "**(B) 錯誤**：`muscarinic M3 cholinoceptor` —— M3 蕈毒鹼受體（主要分佈於外分泌腺體、內臟平滑肌如逼尿肌與支氣管、虹膜環狀肌及血管內皮細胞）耦合 **Gq/11 蛋白**，活化 PLC 產生 IP3 與 DAG，使胞內 Ca²⁺ 上升（並於內皮細胞活化 eNOS 釋放 NO），不抑制 adenylyl cyclase。",
+        "**(C) 錯誤**：`β1 adrenoceptor` —— β1 腎上腺素受體（分佈於心肌、SA/AV node 與腎臟近腎絲球細胞）耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升，不活化 Gq 亦不抑制 adenylyl cyclase。",
+        "**(D) 錯誤**：`β3 adrenoceptor` —— β2 與 β3 腎上腺素受體皆耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升（分別促使支氣管／血管平滑肌舒張、膀胱逼尿肌舒張與脂肪分解）。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-7",
+      "globalIndex": 346,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於乙醯膽鹼的敘述何項錯誤？ Which of the following statements about acetylcholine is false?",
+      "image": null,
+      "options": {
+        "A": "能作用在蕈毒鹼受體也能作用在菸鹼受體 It can act on both muscarinic and nicotinic receptors.",
+        "B": "不容易被膽鹼酯酶水解 It is not easily hydrolyzed by cholinesterase.",
+        "C": "口服吸收效果差 Oral absorption is poor.",
+        "D": "具有親水性 It is hydrophilic."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：乙醯膽鹼（ACh）藥動學與受體特性】**：ACh 為**帶正電的四級銨親水性分子**，因此**口服吸收極差且無法通過血腦屏障（BBB）**；同時可活化 M 與 N 受體，但極易被血液與突觸間隙的膽鹼酯酶（AChE / BChE）瞬間水解，故無臨床全身給藥價值。",
+        "**(B) 敘述錯誤【本題應選正解】**：`不容易被膽鹼酯酶水解 It is not easily hydrolyzed by cholinesterase.` —— ACh 極容易被乙醯膽鹼酯酶（AChE）與丁醯膽鹼酯酶（BChE）在數毫秒內迅速水解失活，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`能作用在蕈毒鹼受體也能作用在菸鹼受體 It can act on both muscarinic and nicotinic receptors.` —— ACh 為內生性膽鹼能神經傳遞物質，可同時活化 M 與 N 兩大類膽鹼受體，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`口服吸收效果差 Oral absorption is poor.` —— 因 ACh 具永久正電荷（季銨鹽）呈高度親水性且易在腸道分解，口服吸收極差，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`具有親水性 It is hydrophilic.` —— ACh 帶有永久正電的季銨基團，具高度親水性（hydrophilic），難以穿透細胞膜與 BBB，敘述正確。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-8",
+      "globalIndex": 347,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於 bethanechol 的敘述何項錯誤？ Which of the following statements about bethanechol is false?",
+      "image": null,
+      "options": {
+        "A": "能作用在逼尿肌蕈毒鹼 M3 受體產生收縮作用 It can act on the detrusor muscle muscarinic M3 receptor to produce a contracting effect.",
+        "B": "可用於治療手術後胃腸道張力缺乏 It can be used to treat postoperative gastrointestinal atony.",
+        "C": "屬膽鹼酯酶抑制劑 It is a cholinesterase inhibitor.",
+        "D": "可用於治療手術後尿液滯留 It can be used to treat postoperative urinary retention."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：Bethanechol 機轉與臨床用途】**：**Bethanechol** 為**直接作用型選擇性 M 受體致效劑（direct-acting muscarinic agonist，非膽鹼酯酶抑制劑）**，臨床上主要用於治療**手術後非阻塞性尿液滯留（活化膀胱逼尿肌 M3 受體）與手術後腸胃道張力缺乏／腸阻塞**；因幾乎無 N 受體活性，故無法治療重症肌無力。",
+        "**(C) 敘述錯誤【本題應選正解】**：`屬膽鹼酯酶抑制劑 It is a cholinesterase inhibitor.` —— Bethanechol 為**直接作用型 M 受體致效劑**（透過胺基甲酸酯基抵抗 AChE 水解），**並非**膽鹼酯酶抑制劑，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`能作用在逼尿肌蕈毒鹼 M3 受體產生收縮作用 It can act on the detrusor muscle muscarinic M3 receptor to produce a contracting effect.` —— Bethanechol 活化膀胱逼尿肌上的 M3 受體（Gq → ↑IP3/Ca²⁺）促使膀胱收縮排尿，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`可用於治療手術後胃腸道張力缺乏 It can be used to treat postoperative gastrointestinal atony.` —— Bethanechol 可促進腸胃道平滑肌蠕動張力，用於術後非阻塞性腸胃道無力，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`可用於治療手術後尿液滯留 It can be used to treat postoperative urinary retention.` —— 術後非阻塞性尿液滯留是 Bethanechol 最經典的臨床適應症，敘述正確。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-9",
+      "globalIndex": 348,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何處非菸鹼受體分佈的位置？ Which of the following is not a location where nicotinic receptors are distributed?",
+      "image": null,
+      "options": {
+        "A": "骨骼肌 Skeletal muscle",
+        "B": "神經節 Ganglion",
+        "C": "中樞神經系統 Central nervous system",
+        "D": "心臟 Heart"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：菸鹼受體（Nicotinic Receptors）之體內分佈】**：菸鹼受體分佈於 **(1) 骨骼肌運動終板（NM）**、**(2) 交感與副交感自主神經節（NN）**、**(3) 腎上腺髓質嗜鉻細胞（NN）** 及 **(4) 中樞神經系統（如 α4β2、α7）**；**心臟（SA/AV node 與心肌）僅有 M2 蕈毒鹼受體與 β1 受體，無菸鹼受體**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`心臟 Heart` —— **心臟（Heart）**的竇房結、房室結與心肌細胞膜上分佈的是副交感 **M2 蕈毒鹼受體**與交感 **β1 腎上腺素受體**，心臟組織上**完全沒有菸鹼受體（nicotinic receptor）**！",
+        "**(A) 敘述正確（非本題所求）**：`骨骼肌 Skeletal muscle` —— 骨骼肌神經肌肉接合處（neuromuscular junction, NMJ）的運動終板分佈有高密度的肌肉型菸鹼受體（NM nicotinic receptor，由 α2βεδ/γ 組成）。",
+        "**(B) 敘述正確（非本題所求）**：`神經節 Ganglion` —— 所有交感與副交感自主神經節（autonomic ganglia）的節後神經元細胞本體與樹突上皆分佈有神經型菸鹼受體（NN nicotinic receptor）。",
+        "**(C) 敘述正確（非本題所求）**：`中樞神經系統 Central nervous system` —— 中樞神經系統（CNS，如大腦皮質、海馬迴、腹側被蓋區）廣泛分佈有神經型菸鹼受體（如 α4β2 與 α7 亞型），參與認知、警覺與尼古丁成癮。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-10",
+      "globalIndex": 349,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "關於noradrenergic synapse 的描述,何者是對的?",
+      "image": null,
+      "options": {
+        "A": "Norepinephrine : NE其前驅物tyrosine是經由Na+-dependent exhcanger(反向運輸)進入細胞",
+        "B": "NE的合成是在突觸前細胞質內完成的",
+        "C": "降血壓藥物(reserpine)可抑制dopamine 被轉運到小泡內來降低NE合成",
+        "D": "NE釋放後通常被酵素分解代謝掉"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "answerDisplay": "(C/D)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心考點：正腎上腺素（NE）突觸合成、儲存、釋放與回收】**：Tyrosine 經同向轉運進入神經元 → Tyrosine hydroxylase（速率決定步驟，被 **Metyrosine** 抑制）轉為 L-DOPA → 轉為 Dopamine → 經 **VMAT**（被 **Reserpine** 抑制）進入囊泡內轉化為 **NE**；釋放後 **80–90% 經突觸前 NET（被 Cocaine、TCA、Atomoxetine 抑制）主動再回收（reuptake）**。",
+        "⚠️ **【申覆多解並列給分】**：本題經考後申覆，選擇 **(C/D)（申覆後並列給分）** 任一選項皆給分！",
+        "**(C) 正確【本題應選正解】**：`降血壓藥物(reserpine)可抑制dopamine 被轉運到小泡內來降低NE合成` —— 降血壓植物鹼 Reserpine 會不可逆地抑制囊泡單胺轉運蛋白（VMAT），阻斷細胞質內的 Dopamine 與 NE 被轉運至突觸小泡內儲存與合成，使細胞質內的單胺被 MAO 分解耗竭，從而降低交感神經末梢 NE 釋放。",
+        "**(A) 錯誤**：`Norepinephrine : NE其前驅物tyrosine是經由Na+-dependent exhcanger(反向運輸)進入細胞` —— **Epinephrine（腎上腺素，α1=α2, β1=β2）**能同時透過 α1 收縮血管升壓並消退黏膜水腫、β1 強心提升心輸出量、β2 擴張支氣管並穩定肥大細胞膜抑制組織胺釋放，是**過敏性休克（anaphylactic shock）**與心跳停止急救的第一線首選用藥。",
+        "**(B) 錯誤**：`NE的合成是在突觸前細胞質內完成的` —— Tyrosine 在細胞質內先轉為 L-DOPA 再轉為 Dopamine；隨後 Dopamine 必須經由 VMAT 轉運進入**突觸囊泡（synaptic vesicle）內**，由囊泡內的 Dopamine β-hydroxylase（DBH）催化合成為 Norepinephrine（NE），故 NE 是在**突觸囊泡內**合成完成的，而非細胞質內！",
+        "**(D) 申覆並列給分**：`NE釋放後通常被酵素分解代謝掉` —— Norepinephrine（NE）釋放至突觸間隙後，最主要的終止方式（約 80%–90%）是經由突觸前膜上的正腎上腺素轉運蛋白（NET, uptake 1）**主動再回收（reuptake）**回突觸前神經末梢，而非直接被酵素分解（註：113年藥理因部分教材提及回收後被 MAO 代謝，申覆後 C、D 並列給分）。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-11",
+      "globalIndex": 350,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於r-GABA 神經傳導物質的描述,何者是正確的?",
+      "image": null,
+      "options": {
+        "A": "其釋放會引起下游神經細胞 excitatory postsynaptic potential(EPSP)",
+        "B": "其作用與神經細胞的long-term potentiation 有關",
+        "C": "GABAA receptor 是 Cl channels",
+        "D": "它是CNS中最主要的興奮性 neurotransmitters"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：GABA 受體亞型】**：GABA 為中樞最主要的**抑制性神經傳遞物質**（產生 IPSP）。**GABAA 受體**為離子型 **Cl⁻ 通道**（Benzodiazepines 如 Diazepam 作用位點）；**GABAB 受體**為代謝型 **GPCR（耦合 Gi/o）**（中樞抗痙攣藥 **Baclofen** 作用位點）。",
+        "**(C) 正確【本題應選正解】**：`GABAA receptor 是 Cl channels` —— GABA 是中樞神經系統最主要的抑制性神經傳遞物質；其 GABAA 受體為五聚體離子型氯離子通道（ligand-gated Cl⁻ channel），開啟時 Cl⁻ 內流造成突觸後膜過極化（產生抑制性突觸後電位 IPSP），並非引起 EPSP 或 LTP。",
+        "**(A) 錯誤**：`其釋放會引起下游神經細胞 excitatory postsynaptic potential(EPSP)` —— GABA 活化 GABAA（Cl⁻ 內流）或 GABAB（K⁺ 外流）皆會使突觸後神經元過極化，產生**抑制性突觸後電位（IPSP, inhibitory postsynaptic potential）**，而非興奮性突觸後電位（EPSP）！",
+        "**(B) 錯誤**：`其作用與神經細胞的long-term potentiation 有關` —— 神經細胞的長期增益現象（Long-term potentiation, LTP，與學習記憶相關）主要是由興奮性神經傳遞物質 **Glutamate（麩胺酸）活化 NMDA 與 AMPA 受體**（促使 Ca²⁺ 內流）所介導，而非抑制性的 GABA！",
+        "**(D) 錯誤**：`它是CNS中最主要的興奮性 neurotransmitters` —— 中樞神經系統（CNS）中最主要的「興奮性」神經傳遞物質是 **Glutamate（麩胺酸）**；而 **γ-GABA 是 CNS 中最主要的「抑制性（inhibitory）」神經傳遞物質**！"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-12",
+      "globalIndex": 351,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列關於副交感神經分支結構的描述,何者是正確的?",
+      "image": null,
+      "options": {
+        "A": "其 preganglionic fibers 由 T1-L3 離開 CNS",
+        "B": "腦神經 III,VII,IX and X 屬於副交感分支",
+        "C": "其神經節主要位於sympathetic trunk 上",
+        "D": "淚腺(lacrimal gland)完全只有副交感神經分支調控"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：交感 vs. 副交感神經系統解剖與生理比較】**：副交感神經屬顱薦傳出（Craniosacral outflow: CN III, VII, IX, X 及 S2–S4），神經節位於效應器官旁或壁內，故**「節前纖維長、節後纖維短」**，節前與節後皆釋放 **ACh**；交感神經屬胸腰傳出（Thoracolumbar outflow: T1–L2/L3），神經節位於交感神經幹或椎前神經節，故**「節前纖維短、節後纖維長」**。",
+        "**(B) 正確【本題應選正解】**：`腦神經 III,VII,IX and X 屬於副交感分支` —— 副交感神經顱部傳出包含動眼神經（CN III，支配瞳孔括約肌與睫狀肌）、顏面神經（CN VII，支配淚腺與唾液腺）、舌咽神經（CN IX，支配耳下腺）及迷走神經（CN X，支配胸腹腔臟器）。",
+        "**(A) 錯誤**：`其 preganglionic fibers 由 T1-L3 離開 CNS` —— 由胸腰髓（thoracolumbar outflow, T1–L2/L3）離開中樞神經系統的是「交感神經（sympathetic）」節前纖維；副交感節前纖維則源自顱薦部（craniosacral outflow：腦神經 CN III、VII、IX、X 與薦髓 S2–S4）。",
+        "**(C) 錯誤**：`其神經節主要位於sympathetic trunk 上` —— 交感神經幹（sympathetic trunk / paravertebral ganglia）為交感神經節所在處；副交感神經節則為終末神經節（terminal ganglia，靠近或位於標的器官內）與顱部四大副交感神經節（睫狀、翼腭、下頷下、耳神經節）。",
+        "**(D) 錯誤**：`淚腺(lacrimal gland)完全只有副交感神經分支調控` —— 淚腺（lacrimal gland）主要由顏面神經（CN VII）副交感纖維促分泌，但同時也接受頸上交感神經節的節後交感纖維調控血管舒縮與部分分泌，並非完全只有副交感調控。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-13",
+      "globalIndex": 352,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列哪一個神經纖維不是使用ACh當神經傳導物質?",
+      "image": null,
+      "options": {
+        "A": "Sympathetic postganglionic fibers that controls sweat gland",
+        "B": "Sympathetic postganglionic fibers that controls SA node",
+        "C": "Sympathetic preganglionic fibers",
+        "D": "Parasympathetic postganglionic fibers that controls heart"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統之神經傳遞物質】**：所有交感與副交感**節前纖維**、所有副交感**節後纖維**，以及支配**外泌汗腺（sweat glands）的交感節後纖維**皆釋放 **乙醯膽鹼（ACh）**；一般交感節後纖維（如支配心臟 SA node、血管平滑肌）則釋放 **正腎上腺素（Norepinephrine, NE）**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Sympathetic postganglionic fibers that controls SA node` —— 支配心臟竇房結（SA node）的交感節後神經纖維釋放正腎上腺素（norepinephrine, NE），作用於心肌 β1 受體（耦合 Gs），並非使用乙醯膽鹼（ACh）。",
+        "**(A) 敘述正確（非本題所求）**：`Sympathetic postganglionic fibers that controls sweat gland` —— 支配外泌汗腺（eccrine sweat glands，參與體溫調節）的交感節後神經纖維屬於解剖上交感、化學傳遞上膽鹼能（sympathetic cholinergic fibers），釋放乙醯膽鹼（ACh）作用於汗腺 M3 受體。",
+        "**(C) 敘述正確（非本題所求）**：`Sympathetic preganglionic fibers` —— 所有自主神經（包含交感與副交感）的節前神經纖維（preganglionic fibers）以及支配腎上腺髓質的節前交感纖維，一律釋放乙醯膽鹼（ACh）作用於神經型菸鹼受體（NN）。",
+        "**(D) 敘述正確（非本題所求）**：`Parasympathetic postganglionic fibers that controls heart` —— 副交感節後神經纖維釋放乙醯膽鹼（ACh），作用於心臟 M2 受體或平滑肌／腺體 M3 受體。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-14",
+      "globalIndex": 353,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "關於 muscarinic acetylcholine receptors(mAChR)哪一敘述是對的?",
+      "image": null,
+      "options": {
+        "A": "mAChR 屬離子通道,可以讓鈉離子通過",
+        "B": "Curare 是它的antagonist",
+        "C": "臨床上,mAChR antagonist 藥物的副作用之一是唾液腺分泌增加",
+        "D": "臨床上,mAChR antagonist 藥物可提高心跳(firing of SA node)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：Muscarinic ACh 受體（mAChR）特性與拮抗劑】**：**mAChR** 屬於 **G-protein coupled receptors（GPCR，M1/M3/M5 偶聯 Gq；M2/M4 偶聯 Gi）**，而非離子通道；經典拮抗劑為 **Atropine**（Curare 則阻斷 nAChR）。阻斷 mAChR 會導致口乾（唾液減少），並解除心臟 M2 受體抑制而**提高心跳（SA node firing rate 上升）**。",
+        "**(D) 正確【本題應選正解】**：`臨床上,mAChR antagonist 藥物可提高心跳(firing of SA node)` —— mAChR 拮抗劑（如 Atropine）阻斷迷走神經作用於 SA node 的 **M2 受體**，解除副交感剎車而**提高心跳速率**。",
+        "**(A) 錯誤**：`mAChR 屬離子通道,可以讓鈉離子通過` —— 屬於配體閘門離子通道（Na⁺/K⁺）的是 **nicotinic AChR（nAChR）**；mAChR 為代謝型 **GPCR**。",
+        "**(B) 錯誤**：`Curare 是它的antagonist` —— **Curare** 是骨骼肌 **nicotinic AChR（NM）**的競爭性拮抗劑；mAChR 的拮抗劑為 **Atropine / Scopolamine**。",
+        "**(C) 錯誤**：`臨床上,mAChR antagonist 藥物的副作用之一是唾液腺分泌增加` —— 阻斷唾液腺上的 M3 受體會抑制唾液分泌，引起**口乾（唾液分泌減少）**而非增加。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-15",
+      "globalIndex": 354,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列哪一生理現象是興奮交感神經分支時會有的反應?",
+      "image": null,
+      "options": {
+        "A": "Increased watery saliva secretion(增加漿液分泌)",
+        "B": "Penis erection(陰莖勃起)",
+        "C": "皮膚表皮血管收縮",
+        "D": "促進消化作用"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：交感神經興奮之心血管與器官效應】**：交感神經興奮時，末梢釋放 NE 作用於**皮膚與內臟微動脈 α1 受體引起血管收縮**，將血流優先導向骨骼肌；同時抑制腸胃蠕動。反之，大量稀薄水樣唾液、陰莖勃起與促進消化皆由副交感神經主導。",
+        "**(C) 正確【本題應選正解】**：`皮膚表皮血管收縮` —— 交感神經透過 **α1 受體**使皮膚表皮及黏膜小動脈收縮，以維持核心血壓與骨骼肌灌流。",
+        "**(A) 錯誤**：`Increased watery saliva secretion(增加漿液分泌)` —— 大量水樣漿液性唾液分泌是由**副交感神經（M3 受體）**促進；交感興奮僅使唾液變少而黏稠。",
+        "**(B) 錯誤**：`Penis erection(陰莖勃起)` —— 陰莖勃起是由**副交感神經**釋放 NO 擴張海綿體血管所致；交感神經負責射精。",
+        "**(D) 錯誤**：`促進消化作用` —— 促進胃腸蠕動與消化液分泌屬於**副交感神經**在休息消化時的作用；交感興奮會抑制消化。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-16",
+      "globalIndex": 355,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": true,
+      "isCrossDup": true,
+      "stem": "關於交感與副交感分支對於小動脈(arterioles)的調控,何者正確?",
+      "image": null,
+      "options": {
+        "A": "副交感分支參與調控全身臟器的小動脈",
+        "B": "活化骨骼肌小動脈上的β2 receptors 讓小動脈舒張",
+        "C": "活化副交感分支讓小動脈舒張",
+        "D": "交感分支只有在緊急(Fight-or-Flight)時才調控小動脈收縮"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "answerDisplay": "(B/C)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心考點：自主神經對全身小動脈之調控】**：全身絕大多數臟器小動脈僅有**交感神經**支配（平時維持張力性收縮，活化 **α1** 收縮皮膚與內臟血管，活化骨骼肌小動脈 **β2** 使其舒張）；多數小動脈無副交感神經支配（但血管內皮細胞具有 M3 受體，外源性給予 ACh 可活化內皮 eNOS 釋放 NO 使血管舒張）。",
+        "⚠️ **【申覆多解並列給分】**：本題經考後申覆，選擇 **(B/C)（申覆後並列給分）** 任一選項皆給分！",
+        "**(B) 正確【本題應選正解】**：`活化骨骼肌小動脈上的β2 receptors 讓小動脈舒張` —— 骨骼肌小動脈平滑肌富含 **β2 腎上腺素受體**（耦合 Gs → ↑cAMP → 抑制 MLCK），受腎上腺髓質釋放的 Epinephrine 活化後會促使骨骼肌小動脈舒張以增加運動時血流供應。",
+        "**(A) 錯誤**：`副交感分支參與調控全身臟器的小動脈` —— 全身絕大多數臟器的小動脈（arterioles）**僅受交感神經支配**，缺乏副交感神經纖維分布，故副交感神經並不參與調控全身多數臟器的小動脈阻力。",
+        "**(C) 申覆並列給分**：`活化副交感分支讓小動脈舒張` —— 全身絕大多數臟器的小動脈僅受交感神經張力性調控（缺乏副交感神經支配），僅少數特殊局部血管（如外生殖器海綿體螺旋動脈、部分唾液腺與腦膜血管）受副交感神經釋放 ACh/NO 促使舒張（113年申覆後 B、C 並列給分）。",
+        "**(D) 錯誤**：`交感分支只有在緊急(Fight-or-Flight)時才調控小動脈收縮` —— 交感神經對全身小動脈具有持續性的**基礎張力性調控（sympathetic tone）**，在平時休息狀態下即維持適度放電以維持正常周邊血管阻力與血壓，並非只有在緊急（Fight-or-Flight）時才調控！"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-17",
+      "globalIndex": 356,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列受體的訊息傳遞,何者是活化Gq蛋白?",
+      "image": null,
+      "options": {
+        "A": "a1-adrenoceptor",
+        "B": "a2-adrenoceptor",
+        "C": "ß1-adrenoceptor",
+        "D": "ß2-adrenoceptor"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(A) 正確【本題應選正解】**：`a1-adrenoceptor` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。",
+        "**(B) 錯誤**：`a2-adrenoceptor` —— α2 腎上腺素受體（分佈於交感突觸前末梢、中樞腦幹與部分血管平滑肌）耦合 **Gi 蛋白**，抑制 adenylyl cyclase 使 cAMP 下降，不活化 Gq 蛋白。",
+        "**(C) 錯誤**：`ß1-adrenoceptor` —— β1 腎上腺素受體（分佈於心肌、SA/AV node 與腎臟近腎絲球細胞）耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升，不活化 Gq 亦不抑制 adenylyl cyclase。",
+        "**(D) 錯誤**：`ß2-adrenoceptor` —— β2 與 β3 腎上腺素受體皆耦合 **Gs 蛋白**，活化 adenylyl cyclase 使 cAMP 上升（分別促使支氣管／血管平滑肌舒張、膀胱逼尿肌舒張與脂肪分解）。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-18",
+      "globalIndex": 357,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於乙醯膽鹼(acetylcholine)的敘述何項正確(true)?",
+      "image": null,
+      "options": {
+        "A": "口服吸收效果好",
+        "B": "可通過血腦屏障(blood-brain barrier)",
+        "C": "不容易被膽鹼酯酶(cholinesterase)水解",
+        "D": "能活化蕈毒鹼受體(muscarinic receptor)也能活化菸鹼受體(nicotinic receptor)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：乙醯膽鹼（ACh）藥理特性】**：ACh 同時為**蕈毒鹼受體（mAChR）與菸鹼受體（nAChR）**的內生性致效劑；但因其為永久帶電的季銨親水分子且具不穩定乙酸酯鍵，**口服吸收差、無法通過血腦屏障（BBB）、且極易被膽鹼酯酶水解**。",
+        "**(D) 正確【本題應選正解】**：`能活化蕈毒鹼受體(muscarinic receptor)也能活化菸鹼受體(nicotinic receptor)` —— ACh 可同時非選擇性地結合並活化 **muscarinic receptor** 與 **nicotinic receptor**。",
+        "**(A) 錯誤**：`口服吸收效果好` —— ACh 為永久帶正電之親水性季銨化合物，無法有效穿透胃腸道脂雙層，口服吸收極差。",
+        "**(B) 錯誤**：`可通過血腦屏障(blood-brain barrier)` —— ACh 因極性高且帶正電，無法通過血腦屏障（BBB）進入中樞神經系統。",
+        "**(C) 錯誤**：`不容易被膽鹼酯酶(cholinesterase)水解` —— ACh 是膽鹼酯酶（AChE）的天然受質，極容易在體內被瞬間水解失活。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-19",
+      "globalIndex": 358,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關擬副交感藥物(parasympathomimetic drugs)所產生之作用,下列何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "逼尿肌收縮(contraction of the detrusor muscle)",
+        "B": "輻射肌收縮(contraction of the radial muscle)",
+        "C": "唾液腺分泌增加(increase in salivary gland secretion)",
+        "D": "支氣管平滑肌收縮(contraction of the bronchial smooth muscle)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：擬副交感神經藥物（Cholinomimetics）之器官效應】**：活化 **M3 受體**會引起：虹膜環狀肌收縮（縮瞳）、睫狀肌收縮（看近物、開通小樑網降眼壓）、唾液腺／淚腺／支氣管分泌增加、支氣管平滑肌收縮、腸胃蠕動增加、**膀胱逼尿肌收縮**與括約肌放鬆（排尿）、血管內皮釋放 **NO（cGMP 介導海綿體勃起與血管舒張）**；但**虹膜輻射肌與皮膚豎毛肌僅受交感 α1 支配**，不受副交感調控。",
+        "**(B) 敘述錯誤【本題應選正解】**：`輻射肌收縮(contraction of the radial muscle)` —— 眼睛虹膜輻射肌／瞳孔開大肌（radial / dilator pupillae muscle）受交感神經支配並表現 **α1 受體**（收縮造成散瞳 mydriasis）；擬副交感藥物則是活化**虹膜環狀肌／瞳孔括約肌（circular / sphincter pupillae muscle）的 M3 受體**使其收縮而產生縮瞳（miosis）。",
+        "**(A) 敘述正確（非本題所求）**：`逼尿肌收縮(contraction of the detrusor muscle)` —— 膀胱逼尿肌（detrusor muscle）表現 M3 受體（耦合 Gq），擬副交感藥物（如 Bethanechol）活化 M3 受體會使逼尿肌收縮、膀胱內括約肌放鬆以促進排尿。",
+        "**(C) 敘述正確（非本題所求）**：`唾液腺分泌增加(increase in salivary gland secretion)` —— 唾液腺表現 M3 受體，擬副交感藥物活化 M3 受體會顯著增加水樣唾液分泌（salivation）。",
+        "**(D) 敘述正確（非本題所求）**：`支氣管平滑肌收縮(contraction of the bronchial smooth muscle)` —— 支氣管平滑肌表現 M3 受體，擬副交感藥物（如 Methacholine）活化 M3 受體會引起支氣管平滑肌收縮與呼吸道腺體分泌增加。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-20",
+      "globalIndex": 359,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "膽鹼酯酶抑制劑(cholinesterase inhibitors)中毒,可觀察到病患產生縮瞳(miosis)症狀,其藥理作用 為活化下列何種眼睛虹膜(iris)受體所導致?",
+      "image": null,
+      "options": {
+        "A": "環狀肌尼古丁受體(circular muscle nicotinic receptor)",
+        "B": "環狀肌蕈毒鹼受體(circular muscle muscarinic receptor)",
+        "C": "輻射肌α受體(radial muscle alpha receptor)",
+        "D": "輻射肌β受體(radial muscle beta receptor)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(B) 正確【本題應選正解】**：`環狀肌蕈毒鹼受體(circular muscle muscarinic receptor)` —— 虹膜環狀肌（瞳孔括約肌 sphincter pupillae）受動眼神經副交感纖維支配，細胞膜上為 **M3 蕈毒鹼受體（muscarinic receptor）**；有機磷、沙林毒氣或膽鹼酯酶抑制劑中毒時，ACh 大量累積並過度活化環狀肌 M3 受體，導致環狀肌強烈收縮而出現針尖般瞳孔縮小（miosis）。",
+        "**(A) 錯誤**：`環狀肌尼古丁受體(circular muscle nicotinic receptor)` —— 虹膜環狀肌為平滑肌（效應器官），其膽鹼受體為蕈毒鹼受體（M3 muscarinic receptor），並無菸鹼受體（nicotinic receptor 位於自主神經節與骨骼肌終板）。",
+        "**(C) 錯誤**：`輻射肌α受體(radial muscle alpha receptor)` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。",
+        "**(D) 錯誤**：`輻射肌β受體(radial muscle beta receptor)` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-21",
+      "globalIndex": 360,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種疾病不是擬膽鹼藥物(cholinomimetic drugs)的適應症(indication)?",
+      "image": null,
+      "options": {
+        "A": "青光眼(glaucoma)",
+        "B": "動暈症(motion sickness)",
+        "C": "重症肌無力(myasthenia gravis)",
+        "D": "手術後胃腸道或膀胱張力缺乏(postoperative atony in the gastrointestinal tract or bladder)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：擬膽鹼藥物（Cholinomimetics）臨床適應症】**：擬膽鹼藥物（直接致效劑或 AChE 抑制劑）主要用於：**青光眼（Pilocarpine 縮瞳降眼壓）、重症肌無力（Neostigmine/Pyridostigmine）、術後尿滯留與腸胃無力（Bethanechol）、阿茲海默症（Donepezil）**。反之，**動暈症（使用 Scopolamine）與巴金森氏症（使用 Benztropine）**需用「抗膽鹼藥物」治療。",
+        "**(B) 敘述錯誤【本題應選正解】**：`動暈症(motion sickness)` —— 預防動暈症（motion sickness）需使用**抗蕈毒鹼藥物（Scopolamine）**抑制前庭膽鹼能過度興奮；擬膽鹼藥物反而會加重噁心嘔吐，故非適應症。",
+        "**(A) 敘述正確（非本題所求）**：`青光眼(glaucoma)` —— Pilocarpine 等擬膽鹼藥物可收縮睫狀肌與瞳孔括約肌促進房水排出，為青光眼適應症。",
+        "**(C) 敘述正確（非本題所求）**：`重症肌無力(myasthenia gravis)` —— Neostigmine、Pyridostigmine 等 AChE 抑制劑可增加 NMJ 乙醯膽鹼濃度，為重症肌無力標準用藥。",
+        "**(D) 敘述正確（非本題所求）**：`手術後胃腸道或膀胱張力缺乏(postoperative atony in the gastrointestinal tract or bladder)` —— Bethanechol 與 Neostigmine 可促進腸胃與膀胱平滑肌收縮，為術後腸胃／膀胱張力缺乏之適應症。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-22",
+      "globalIndex": 361,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不是蕈毒鹼受體阻斷劑(muscarinic receptor-blocking drugs)之適應症(indication) ?",
+      "image": null,
+      "options": {
+        "A": "睫狀肌痙攣(ciliary spasm)",
+        "B": "膀胱過動症(overactive bladder)",
+        "C": "慢性阻塞性肺病(chronic obstructive pulmonary disease)",
+        "D": "姿勢性低血壓(orthostatic hypotension)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：抗蕈毒鹼藥物（Antimuscarinics）臨床適應症】**：M 受體阻斷劑用於：**散瞳／睫狀肌麻痺（Atropine/Tropicamide 治療睫狀肌痙攣與眼底檢查）、膀胱過動症（Oxybutynin/Solifenacin 阻斷 M3）、COPD／氣喘（Ipratropium/Tiotropium 擴張支氣管）**。而**姿勢性低血壓**需靠血管 **α1 受體**收縮升壓（如 Midodrine），與 M 受體無關。",
+        "**(D) 敘述錯誤【本題應選正解】**：`姿勢性低血壓(orthostatic hypotension)` —— 全身阻力小動脈主要由交感 α1 受體調控，無副交感神經支配；抗蕈毒鹼藥物無法升壓治療**姿勢性低血壓**，故非適應症。",
+        "**(A) 敘述正確（非本題所求）**：`睫狀肌痙攣(ciliary spasm)` —— 抗蕈毒鹼點眼液（如 Homatropine、Atropine）可麻痺睫狀肌，緩解虹膜睫狀體炎引起的疼痛性痙攣，為適應症。",
+        "**(B) 敘述正確（非本題所求）**：`膀胱過動症(overactive bladder)` —— M3 選擇性拮抗劑（如 Darifenacin、Solifenacin、Oxybutynin）可抑制逼尿肌過度收縮，為治療 OAB 適應症。",
+        "**(C) 敘述正確（非本題所求）**：`慢性阻塞性肺病(chronic obstructive pulmonary disease)` —— 吸入型抗膽鹼藥物（Ipratropium、Tiotropium）可阻斷氣管 M3 受體舒張支氣管，為 COPD 第一線用藥。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-23",
+      "globalIndex": 362,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列有關腎上腺素受體(adrenergic receptors)之敘述,何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "活化血管平滑肌α1受體,可↑Ca2+,促使血管平滑肌收縮(vascular smooth muscle contraction)",
+        "B": "α2受體主要分佈於突觸前(presynaptic)交感神經末梢細胞膜上",
+        "C": "活化心肌β1受體,可↑cAMP,促使心肌收縮(cardiac muscle contraction)",
+        "D": "活化平滑肌β2受體,可↓cAMP,促使平滑肌放鬆(smooth muscle relaxation)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：腎上腺素受體（α1, α2, β1, β2）G 蛋白訊號傳遞】**：(1) **α1（Gq）**：活化 PLC → ↑IP3/DAG → ↑Ca²⁺ → 血管平滑肌**收縮**；(2) **α2（Gi）**：抑制腺苷酸環化酶 → **↓cAMP**（突觸前負回饋抑制 NE 釋放；血管突觸後亦引起**收縮而非放鬆**）；(3) **β1（Gs）**：↑cAMP → 心肌收縮力與心跳上升；(4) **β2（Gs）**：**↑cAMP**（抑制 MLCK）→ 支氣管與血管平滑肌**放鬆**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`活化平滑肌β2受體,可↓cAMP,促使平滑肌放鬆(smooth muscle relaxation)` —— **β2 受體**偶聯的是 **Gs 蛋白**，活化後會使 **cAMP「上升（↑cAMP）」**進而抑制 MLCK 使平滑肌放鬆，而非 ↓cAMP，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`活化血管平滑肌α1受體,可↑Ca2+,促使血管平滑肌收縮(vascular smooth muscle contraction)` —— α1 受體偶聯 Gq 蛋白增加細胞內 Ca²⁺，促使血管平滑肌收縮，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`α2受體主要分佈於突觸前(presynaptic)交感神經末梢細胞膜上` —— α2 受體（特別是 α2A）主要作為交感神經末梢突觸前自體受體負回饋抑制 NE 釋放，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`活化心肌β1受體,可↑cAMP,促使心肌收縮(cardiac muscle contraction)` —— β1 受體偶聯 Gs 蛋白增加 cAMP 與 PKA 活性，增強心肌收縮力與心跳，敘述正確。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-24",
+      "globalIndex": 363,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列受體的訊息傳遞，何者非活化 Gq 蛋白？",
+      "image": null,
+      "options": {
+        "A": "M1-muscarinic receptor",
+        "B": "M2-muscarinic receptor",
+        "C": "M3-muscarinic receptor",
+        "D": "α1-adrenoceptor"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經受體 G 蛋白偶聯口訣】**：**(1) 耦合 Gq（活化 PLC → ↑IP3/DAG → ↑Ca²⁺）**：**M1、M3、M5** 及 **α1** 受體；**(2) 耦合 Gi/o（抑制 Adenylyl cyclase → ↓cAMP、開啟 K⁺ 通道過極化）**：**M2、M4** 及 **α2** 受體；**(3) 耦合 Gs（活化 Adenylyl cyclase → ↑cAMP → 活化 PKA）**：**β1、β2、β3** 及 **D1** 受體。",
+        "**(B) 敘述錯誤【本題應選正解】**：`M2-muscarinic receptor` —— M2 蕈毒鹼受體（主要分佈於心臟 SA/AV node 與突觸前神經末梢）耦合 **Gi/o 蛋白**，會**抑制腺苷酸環化酶（adenylyl cyclase）活性使 cAMP 下降**，同時由 βγ 次單元開啟 K⁺ 通道導致過極化並抑制電壓閘門 Ca²⁺ 通道，**不會活化 Gq 蛋白**。",
+        "**(A) 敘述正確（非本題所求）**：`M1-muscarinic receptor` —— M1 蕈毒鹼受體（主要分佈於中樞神經、自主神經節與胃壁細胞）耦合 Gq/11 蛋白，活化磷脂酶 C（PLC）將 PIP2 水解為 IP3（促使肌漿網釋放 Ca²⁺）與 DAG（活化 PKC）。",
+        "**(C) 敘述正確（非本題所求）**：`M3-muscarinic receptor` —— M3 蕈毒鹼受體（主要分佈於外分泌腺體、內臟平滑肌如逼尿肌與支氣管、虹膜環狀肌及血管內皮細胞）耦合 **Gq/11 蛋白**，活化 PLC 產生 IP3 與 DAG，使胞內 Ca²⁺ 上升（並於內皮細胞活化 eNOS 釋放 NO），不抑制 adenylyl cyclase。",
+        "**(D) 敘述正確（非本題所求）**：`α1-adrenoceptor` —— α1 腎上腺素受體（分佈於血管平滑肌、虹膜輻射肌、膀胱內括約肌與攝護腺）耦合 **Gq/11 蛋白**，活化 PLC → ↑IP3/DAG → ↑Ca²⁺ 引起平滑肌收縮。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-25",
+      "globalIndex": 364,
+      "qNum": 25,
+      "origQ": "Q25",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者非 metabotropic receptor？",
+      "image": null,
+      "options": {
+        "A": "muscarinic receptor",
+        "B": "nicotinic receptor",
+        "C": "α-adrenoceptor",
+        "D": "β-adrenoceptor"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：離子型（Ionotropic）vs. 代謝型（Metabotropic）受體】**：自主神經系統受體中，**Muscarinic（M1–M5）、α-腎上腺素受體（α1, α2）與 β-腎上腺素受體（β1, β2, β3）**皆為透過 G 蛋白傳遞訊號的**代謝型受體（metabotropic receptor / GPCR）**；唯有 **Nicotinic receptor（NN, NM）**為五聚體配體閘門鈉鉀離子通道（**ionotropic receptor**）。",
+        "**(B) 敘述錯誤【本題應選正解】**：`nicotinic receptor` —— **Nicotinic receptor（nAChR）**本身即為配體閘門鈉／鉀陽離子通道（**ionotropic receptor**），並非 metabotropic receptor。",
+        "**(A) 敘述正確（非本題所求）**：`muscarinic receptor` —— Muscarinic ACh 受體（M1–M5）屬於 G 蛋白偶聯代謝型受體（metabotropic receptor）。",
+        "**(C) 敘述正確（非本題所求）**：`α-adrenoceptor` —— α-腎上腺素受體（α1 為 Gq；α2 為 Gi）屬於 G 蛋白偶聯代謝型受體（metabotropic receptor）。",
+        "**(D) 敘述正確（非本題所求）**：`β-adrenoceptor` —— β-腎上腺素受體（β1, β2, β3 皆為 Gs）屬於 G 蛋白偶聯代謝型受體（metabotropic receptor）。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-26",
+      "globalIndex": 365,
+      "qNum": 26,
+      "origQ": "Q26",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於乙醯膽鹼（acetylcholine）的敘述何項正確（true）？",
+      "image": null,
+      "options": {
+        "A": "口服吸收效果好（well absorbed orally）",
+        "B": "可通過血腦屏障（blood–brain barrier）",
+        "C": "不易被膽鹼酯酶（cholinesterase）水解",
+        "D": "能活化蕈毒鹼受體（muscarinic receptor）也能活化菸鹼受體（nicotinic receptor）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：乙醯膽鹼（ACh）藥理特性】**：ACh 同時為**蕈毒鹼受體（mAChR）與菸鹼受體（nAChR）**的內生性致效劑；但因其為永久帶電的季銨親水分子且具不穩定乙酸酯鍵，**口服吸收差、無法通過血腦屏障（BBB）、且極易被膽鹼酯酶水解**。",
+        "**(D) 正確【本題應選正解】**：`能活化蕈毒鹼受體（muscarinic receptor）也能活化菸鹼受體（nicotinic receptor）` —— ACh 可同時非選擇性地結合並活化 **muscarinic receptor** 與 **nicotinic receptor**。",
+        "**(A) 錯誤**：`口服吸收效果好（well absorbed orally）` —— ACh 為永久帶正電之親水性季銨化合物，無法有效穿透胃腸道脂雙層，口服吸收極差。",
+        "**(B) 錯誤**：`可通過血腦屏障（blood–brain barrier）` —— ACh 因極性高且帶正電，無法通過血腦屏障（BBB）進入中樞神經系統。",
+        "**(C) 錯誤**：`不易被膽鹼酯酶（cholinesterase）水解` —— ACh 是膽鹼酯酶（AChE）的天然受質，極容易在體內被瞬間水解失活。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-27",
+      "globalIndex": 366,
+      "qNum": 27,
+      "origQ": "Q27",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關擬副交感藥物（parasympathomimetic drugs）所產生之作用，下列何項錯誤（false）？",
+      "image": null,
+      "options": {
+        "A": "膀胱逼尿肌收縮（contraction of the detrusor muscle）",
+        "B": "虹膜環狀肌收縮（contraction of the circular muscle）",
+        "C": "唾液腺分泌增加（increase in salivary secretion）",
+        "D": "豎毛肌收縮（contraction of the pilomotor smooth muscle）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：擬副交感神經藥物（Cholinomimetics）之器官效應】**：活化 **M3 受體**會引起：虹膜環狀肌收縮（縮瞳）、睫狀肌收縮（看近物、開通小樑網降眼壓）、唾液腺／淚腺／支氣管分泌增加、支氣管平滑肌收縮、腸胃蠕動增加、**膀胱逼尿肌收縮**與括約肌放鬆（排尿）、血管內皮釋放 **NO（cGMP 介導海綿體勃起與血管舒張）**；但**虹膜輻射肌與皮膚豎毛肌僅受交感 α1 支配**，不受副交感調控。",
+        "**(D) 敘述錯誤【本題應選正解】**：`豎毛肌收縮（contraction of the pilomotor smooth muscle）` —— 皮膚豎毛肌（pilomotor / arrector pili smooth muscle）僅受**交感神經**支配並表現 **α1 腎上腺素受體**（收縮產生雞皮疙瘩），完全不受副交感神經支配，故擬副交感藥物不會引起豎毛肌收縮！",
+        "**(A) 敘述正確（非本題所求）**：`膀胱逼尿肌收縮（contraction of the detrusor muscle）` —— 膀胱逼尿肌（detrusor muscle）表現 M3 受體（耦合 Gq），擬副交感藥物（如 Bethanechol）活化 M3 受體會使逼尿肌收縮、膀胱內括約肌放鬆以促進排尿。",
+        "**(B) 敘述正確（非本題所求）**：`虹膜環狀肌收縮（contraction of the circular muscle）` —— 眼睛虹膜環狀肌（瞳孔括約肌 circular / sphincter pupillae muscle）受動眼神經（CN III）副交感纖維支配並表現 **M3 蕈毒鹼受體**，擬副交感藥物活化 M3 受體會使虹膜環狀肌收縮而產生**縮瞳（miosis）**。",
+        "**(C) 敘述正確（非本題所求）**：`唾液腺分泌增加（increase in salivary secretion）` —— 唾液腺表現 M3 受體，擬副交感藥物活化 M3 受體會顯著增加水樣唾液分泌（salivation）。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-28",
+      "globalIndex": 367,
+      "qNum": 28,
+      "origQ": "Q28",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "沙林毒氣中毒，可觀察到患者產生瞳孔縮小（miosis）的症狀，主要為活化下列何種虹膜受體 所致？",
+      "image": null,
+      "options": {
+        "A": "環狀肌菸鹼受體",
+        "B": "環狀肌蕈毒鹼受體",
+        "C": "輻射肌α受體",
+        "D": "輻射肌β受體"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(B) 正確【本題應選正解】**：`環狀肌蕈毒鹼受體` —— 虹膜環狀肌（瞳孔括約肌 sphincter pupillae）受動眼神經副交感纖維支配，細胞膜上為 **M3 蕈毒鹼受體（muscarinic receptor）**；有機磷、沙林毒氣或膽鹼酯酶抑制劑中毒時，ACh 大量累積並過度活化環狀肌 M3 受體，導致環狀肌強烈收縮而出現針尖般瞳孔縮小（miosis）。",
+        "**(A) 錯誤**：`環狀肌菸鹼受體` —— 虹膜環狀肌為平滑肌（效應器官），其膽鹼受體為蕈毒鹼受體（M3 muscarinic receptor），並無菸鹼受體（nicotinic receptor 位於自主神經節與骨骼肌終板）。",
+        "**(C) 錯誤**：`輻射肌α受體` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。",
+        "**(D) 錯誤**：`輻射肌β受體` —— 虹膜輻射肌（瞳孔開大肌 dilator pupillae）受交感神經支配，主要表現 **α1 腎上腺素受體**，活化時會引起輻射肌收縮而產生散瞳（mydriasis），並非縮瞳。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-29",
+      "globalIndex": 368,
+      "qNum": 29,
+      "origQ": "Q29",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於肉毒桿菌毒素（botulinum toxin）的敘述何項錯誤？",
+      "image": null,
+      "options": {
+        "A": "可促進膽鹼酯酶水解乙醯膽鹼",
+        "B": "可用於治療中風後肌肉痙攣",
+        "C": "可用於治療膀胱過動症",
+        "D": "可用於預防慢性偏頭痛"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：肉毒桿菌毒素（Botulinum Toxin）機轉與適應症】**：藉由裂解突觸前 **SNARE 蛋白（如 SNAP-25）**阻斷乙醯膽鹼囊泡釋放；臨床核准用於**中風後肌肉痙攣、膀胱過動症、預防慢性偏頭痛（非急性發作治療！）**、斜視與眼瞼痙攣。",
+        "**(A) 敘述錯誤【本題應選正解】**：`可促進膽鹼酯酶水解乙醯膽鹼` —— 肉毒桿菌毒素的作用機轉是裂解 SNARE 蛋白**抑制突觸前 ACh 釋放**，並不會促進膽鹼酯酶水解 ACh，故本選項敘述錯誤。",
+        "**(B) 敘述正確（非本題所求）**：`可用於治療中風後肌肉痙攣` —— 局部注射可抑制過度興奮之運動神經元 ACh 釋放，改善中風後肌肉痙攣（spasticity），敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`可用於治療膀胱過動症` —— 注射於膀胱逼尿肌可抑制副交感 ACh 釋放，用於治療難治型膀胱過動症，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`可用於預防慢性偏頭痛` —— OnabotulinumtoxinA 獲准用於**預防**慢性偏頭痛發作頻率，敘述正確。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-30",
+      "globalIndex": 369,
+      "qNum": 30,
+      "origQ": "Q30",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列有關腎上腺素受體（adrenergic receptors）之敘述，何項錯誤？",
+      "image": null,
+      "options": {
+        "A": "活化血管平滑肌 α1 受體，可↑Ca²⁺，促使血管平滑肌收縮",
+        "B": "活化血管平滑肌 α2 受體，可↓cAMP，促使血管平滑肌放鬆",
+        "C": "活化心肌 β1 受體，可↑cAMP，促使心肌收縮",
+        "D": "活化平滑肌 β2 受體，可↑cAMP，促使平滑肌放鬆"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：腎上腺素受體（α1, α2, β1, β2）G 蛋白訊號傳遞】**：(1) **α1（Gq）**：活化 PLC → ↑IP3/DAG → ↑Ca²⁺ → 血管平滑肌**收縮**；(2) **α2（Gi）**：抑制腺苷酸環化酶 → **↓cAMP**（突觸前負回饋抑制 NE 釋放；血管突觸後亦引起**收縮而非放鬆**）；(3) **β1（Gs）**：↑cAMP → 心肌收縮力與心跳上升；(4) **β2（Gs）**：**↑cAMP**（抑制 MLCK）→ 支氣管與血管平滑肌**放鬆**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`活化血管平滑肌 α2 受體，可↓cAMP，促使血管平滑肌放鬆` —— 突觸後血管平滑肌上的 **α2 受體**偶聯 Gi 蛋白使 cAMP 下降（↓cAMP，解除對平滑肌收縮之抑制並促進鈣內流），結果是引起**血管平滑肌「收縮」**而非放鬆，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`活化血管平滑肌 α1 受體，可↑Ca²⁺，促使血管平滑肌收縮` —— α1 受體偶聯 Gq 蛋白增加細胞內 Ca²⁺，促使血管平滑肌收縮，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`活化心肌 β1 受體，可↑cAMP，促使心肌收縮` —— β1 受體偶聯 Gs 蛋白增加 cAMP 與 PKA 活性，增強心肌收縮力與心跳，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`活化平滑肌 β2 受體，可↑cAMP，促使平滑肌放鬆` —— β2 受體偶聯 Gs 蛋白使 cAMP 上升（↑cAMP），促使支氣管、子宮與骨骼肌血管平滑肌放鬆，敘述正確。"
+      ]
+    },
+    {
+      "id": "1022_Pharm1-31",
+      "globalIndex": 370,
+      "qNum": 31,
+      "origQ": "Q31",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物是經由阻斷 norepinephrine 的生合成（biosynthesis） ，達到控制嗜鉻細胞瘤 （pheochromocytoma）引起的高血壓症狀？",
+      "image": null,
+      "options": {
+        "A": "Metyrosine",
+        "B": "Phenoxybenzamine",
+        "C": "Phentolamine",
+        "D": "Droxidopa"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：嗜鉻細胞瘤（Pheochromocytoma）藥物治療】**：**(1) α 受體阻斷劑**：術前長效不可逆共價阻斷劑 **Phenoxybenzamine**、術中短效可逆阻斷劑 **Phentolamine**（注意專治 BPH 的 α1A 選擇性 **Tamsulosin** 無法降血壓，不適用於嗜鉻細胞瘤）；**(2) 兒茶酚胺生合成抑制劑**：**Metyrosine（α-methyltyrosine）**競爭性抑制速率決定酵素 Tyrosine hydroxylase，直接阻斷 NE/Epi 合成。",
+        "**(A) 正確【本題應選正解】**：`Metyrosine` —— **Metyrosine（α-methyltyrosine）**為酪胺酸羥化酶（Tyrosine hydroxylase，兒茶酚胺合成速率決定步驟）的競爭性抑制劑，能直接**阻斷 Norepinephrine 與 Epinephrine 的生合成（biosynthesis）**，用於控制嗜鉻細胞瘤（pheochromocytoma）引起的高血壓。",
+        "**(B) 錯誤**：`Phenoxybenzamine` —— **Phenoxybenzamine** 為鹵代烷胺類（haloalkylamine），在體內與 **α1 及 α2 受體形成不可逆的共價鍵結合（covalent binding）**（作用長達 14–48 小時），臨床用於**嗜鉻細胞瘤（pheochromocytoma）**術前與慢性高血壓控制（並非抑制 NE 生合成；且會引發嚴重的姿勢性低血壓與反射性心跳過速）。",
+        "**(C) 錯誤**：`Phentolamine` —— **Phentolamine** 為咪唑啉類**可逆性競爭性非選擇性 α1 / α2 受體拮抗劑**，臨床用於**嗜鉻細胞瘤（pheochromocytoma）**手術期間短效控制高血壓危象，以及擬交感血管收縮劑外滲時的局部浸潤解救（並非抑制 NE 生合成）。",
+        "**(D) 錯誤**：`Droxidopa` —— **Droxidopa（L-DOPS）**為合成的胺基酸前驅藥（prodrug），可口服吸收並在周邊與中樞經由 DOPA decarboxylase 直接轉化為**正腎上腺素（Norepinephrine, NE）**，透過活化血管 α1 受體升壓以治療神經源性**姿勢性低血壓（orthostatic hypotension）**（非阻斷 NE 合成，故不用於嗜鉻細胞瘤）。"
+      ]
+    }
+  ]
+}

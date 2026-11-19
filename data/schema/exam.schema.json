@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "YiKao Exam Metadata Schema",
+  "type": "object",
+  "required": [
+    "slug",
+    "version",
+    "badge",
+    "title",
+    "subtitle",
+    "source",
+    "sessions",
+    "subjects",
+    "yearGroups",
+    "units"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "version": { "type": "string" },
+    "badge": { "type": "string" },
+    "title": { "type": "string" },
+    "subtitle": { "type": "string" },
+    "source": {
+      "type": "object",
+      "required": ["name", "url"],
+      "properties": {
+        "name": { "type": "string" },
+        "url": { "type": "string" },
+        "notebookId": { "type": "string" }
+      }
+    },
+    "sessions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "label"],
+        "properties": {
+          "code": { "type": "string" },
+          "label": { "type": "string" },
+          "emoji": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "label", "session"],
+        "properties": {
+          "code": { "type": "string" },
+          "label": { "type": "string" },
+          "emoji": { "type": "string" },
+          "session": { "type": "string" },
+          "profs": { "type": "string" }
+        }
+      }
+    },
+    "yearGroups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "label"],
+        "properties": {
+          "code": { "type": "string" },
+          "label": { "type": "string" }
+        }
+      }
+    },
+    "units": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["unitCode", "shortLabel", "file"],
+        "properties": {
+          "unitCode": { "type": "string" },
+          "shortLabel": { "type": "string" },
+          "file": { "type": "string" },
+          "highlight": { "type": "boolean" },
+          "isOutOfScope": { "type": "boolean" },
+          "exemptFromCrossDupFilter": { "type": "boolean" }
+        }
+      }
+    }
+  }
+}

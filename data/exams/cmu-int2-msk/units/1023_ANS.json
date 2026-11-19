@@ -1,0 +1,734 @@
+{
+  "unitCode": "1023_ANS",
+  "unitTitle": "10/23 生理學：自主神經系統 (ANS)",
+  "session": "A",
+  "subject": "Physio",
+  "subjectTitle": "生理學 (一)",
+  "prof": "林靜茹 教授",
+  "examRange": "A卷 Q1–32（共32題）",
+  "unitUrl": "https://drive.google.com/file/d/1A66FF0AW34ug3k1I74ioyalKI7gE4-gv",
+  "questions": [
+    {
+      "id": "1023_ANS-1",
+      "globalIndex": 51,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於 parasympathetic nervous division 描述，何者為真？(Which description about the parasympathetic nervous division is true?)",
+      "image": null,
+      "options": {
+        "A": "節前神經纖維從 T1-L3 離開脊髓(Its preganglionic fibers leave the spinal cord at the levels of T1-L3)",
+        "B": "它包含 cranial nerves III, VII, IX and X",
+        "C": "亦調控腎上腺髓質的活性 (It also controls the activity of adrenal medulla)",
+        "D": "其神經節全部位於所控制的臟器內上 (All of its ganglia lie within the target organs)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(B) 正確【本題應選正解】**：`它包含 cranial nerves III, VII, IX and X` —— 副交感神經的顱部傳出包含四對腦神經：**動眼神經（CN III）、顏面神經（CN VII）、舌咽神經（CN IX）與迷走神經（CN X）**。",
+        "**(A) 錯誤**：`節前神經纖維從 T1-L3 離開脊髓(Its preganglionic fibers leave the spinal cord at the levels of T1-L3)` —— 節前神經纖維由胸腰髓（**T1–L2/L3**）離開脊髓的是**交感神經系統（sympathetic division）**；副交感神經則是從腦幹（CN III、VII、IX、X）與薦髓（S2–S4）離開中樞。",
+        "**(C) 錯誤**：`亦調控腎上腺髓質的活性 (It also controls the activity of adrenal medulla)` —— 腎上腺髓質（adrenal medulla）完全僅受**交感神經節前纖維**（釋放 ACh 作用於嗜鉻細胞 NN 受體）支配以釋放 Epinephrine 與 NE，**完全不受副交感神經調控**！",
+        "**(D) 錯誤**：`其神經節全部位於所控制的臟器內上 (All of its ganglia lie within the target organs)` —— 副交感神經節屬於終末神經節（terminal ganglia），多位於效應臟器**附近（near）或臟器壁內（within）**（例如頭頸部四大副交感神經節位於器官外，並非「全部」位於臟器內，亦非多位於腹腔內）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-2",
+      "globalIndex": 52,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪些交感神經纖維，釋放 ACh？(Which of the following sympathetic fibers release ACh?) ① Sympathetic preganglionic fibers ②Sympathetic postganglionic fibers that innervate(支配) the heart ③Sympathetic postganglionic fibers that innervate the GI track(消化道) ④Sympathetic postganglionic fibers that innervate the sweat gland",
+      "image": null,
+      "options": {
+        "A": "①④",
+        "B": "②③",
+        "C": "①③",
+        "D": "②④"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心生理考點：交感神經節前與節後纖維之乙醯膽鹼（ACh）特例】**：自主神經系統中，**所有節前神經纖維**（包含交感與副交感）及所有副交感節後纖維皆釋放 **ACh**；交感節後纖維雖多釋放正腎上腺素（NE），但**支配汗腺（sweat glands）的交感節後纖維**為經典例外，同樣釋放 **ACh** 作用於汗腺 mAChR。",
+        "**(A) 正確【本題應選正解】**：`①④` —— 交感神經系統中釋放乙醯膽鹼（ACh）的纖維包含：**① 所有交感節前神經纖維（Sympathetic preganglionic fibers）**，以及特例的 **④ 支配汗腺的交感節後神經纖維（Sympathetic postganglionic fibers innervating sweat glands）**；而支配 ② 心臟與 ③ 消化道的交感節後纖維皆釋放正腎上腺素（NE）。",
+        "**(B) 錯誤**：`②③` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(C) 錯誤**：`①③` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(D) 錯誤**：`②④` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-3",
+      "globalIndex": 53,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "臨床上，給予 muscarinic ACh receptor blocker 最可能引發下列哪一副作用？(Clinically, which is most likely to be the side effect of muscarinic ACh receptors blocker?)",
+      "image": null,
+      "options": {
+        "A": "腸胃活動過度增加 (excessive increase of the gastrointestinal activity )",
+        "B": "瞳孔縮小 (Pupil constriction)",
+        "C": "唾液腺分泌過少 (excessive decrease of saliva secretion)",
+        "D": "夜咳加劇 (aggravation of nocturnal cough)"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：毒蕈鹼受體阻斷劑（mAChR Blocker / Antimuscarinic）之抗膽鹼副作用】**：副交感神經節後纖維透過 **ACh 作用於 mAChR** 促進唾液分泌、腸胃蠕動、瞳孔縮小與減慢心跳。給予 mAChR blocker（如 atropine）會阻斷副交感作用，引發典型抗膽鹼副作用：**口乾（唾液分泌過少）、視力模糊／散瞳（瞳孔放大）、心搏過速、便祕（腸胃蠕動減少）與尿滯留**。",
+        "**(C) 正確【本題應選正解】**：`唾液腺分泌過少 (excessive decrease of saliva secretion)` —— 唾液腺大量漿液分泌主要受副交感 mAChR 驅動；給予 mAChR blocker 會強烈抑制唾液分泌，導致臨床最常見的**口乾（xerostomia）**副作用。",
+        "**(A) 錯誤**：`腸胃活動過度增加 (excessive increase of the gastrointestinal activity )` —— 副交感 mAChR 負責促進腸胃蠕動與消化液分泌；阻斷 mAChR 會使腸胃活動**減弱**導致便祕，而非過度增加。",
+        "**(B) 錯誤**：`瞳孔縮小 (Pupil constriction)` —— 瞳孔括約肌受副交感 mAChR 控制引起縮瞳（miosis）；阻斷 mAChR 會造成**瞳孔放大（mydriasis）**而非縮小。",
+        "**(D) 錯誤**：`夜咳加劇 (aggravation of nocturnal cough)` —— 副交感 mAChR 興奮會引起支氣管收縮與黏液分泌；阻斷 mAChR 反而能使氣管平滑肌舒張並減少分泌物（臨床用於治療 COPD／氣喘）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-4",
+      "globalIndex": 54,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "活化 adrenergic ____ receptors 會引起骨骼肌血管舒張。(Activation of adrenergic ____ receptors will cause vasodilation in the skeletal muscle.)",
+      "image": null,
+      "options": {
+        "A": "Alpha 1 (α1)",
+        "B": "Alpha 2 (α2)",
+        "C": "Beta 1(β1)",
+        "D": "Beta 2 (β2)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：腎上腺素受體（Adrenergic Receptors）對血管與心臟之調控】**：(1) **α1 受體**（Gq）：引起皮膚、內臟與大多數周邊小動脈**收縮**；(2) **β2 受體**（Gs，對 **Epinephrine** 親和力高）：分布於**骨骼肌小動脈、冠狀動脈與支氣管平滑肌**，活化後增加 cAMP 引起**血管舒張（vasodilation）**與氣管擴張；(3) **β1 受體**（Gs）：主要位於心臟（增加心跳與收縮力）及腎臟 JG cells（促進 renin 釋放）。",
+        "**(D) 正確【本題應選正解】**：`Beta 2 (β2)` —— **β2 受體**透過 Gs 蛋白活化腺苷酸環化酶增加 cAMP 並抑制 MLCK，使**骨骼肌小動脈舒張**，在「戰或逃」反應中將血液重新導向骨骼肌。",
+        "**(A) 錯誤**：`Alpha 1 (α1)` —— **α1 受體**活化磷脂酶 C（IP3/DAG 路徑），使血管平滑肌細胞內 Ca²⁺ 上升，引起**血管收縮（vasoconstriction）**（主要見於皮膚與內臟血管）。",
+        "**(B) 錯誤**：`Alpha 2 (α2)` —— **α2 受體**主要為突觸前自體受體（Gi 蛋白），負回饋抑制正腎上腺素釋放（在部分血管亦可介導輕微收縮，非骨骼肌血管舒張主因）。",
+        "**(C) 錯誤**：`Beta 1(β1)` —— **β1 受體**主要分布於心肌（SA node、AV node、心室肌）與腎臟近腎絲球器，負責正性變時、變力作用與分泌腎素，並非骨骼肌血管舒張受體。"
+      ]
+    },
+    {
+      "id": "1023_ANS-5",
+      "globalIndex": 55,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在 fight or flight response 中，下列哪一現象屬於交感的抑制性作用?(In a fight or flight response, which of the followings is considered as the inhibitory sympathetic effect?)",
+      "image": null,
+      "options": {
+        "A": "瞳孔放大(pupil dilation)",
+        "B": "肝臟釋放葡萄糖 (the liver releases glucose)",
+        "C": "心跳增加(increased heart rate)",
+        "D": "流到皮膚體表的血流量降低(decreased blood flow to the skin)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心生理考點：交感神經的興奮性 vs. 抑制性作用】**：在 Fight-or-Flight 反應中，交感神經對不同器官產生不同調控：心臟心跳與收縮力增加、瞳孔放射肌收縮（散瞳）、肝臟肝醣分解釋放葡萄糖皆屬促進／興奮性代謝與器官反應；而使非急需器官（如**皮膚體表與腸胃道**）血管收縮進而**降低血流量**，以及抑制腸胃道蠕動，在生理功能上屬於抑制性／限流調控。",
+        "**(D) 正確【本題應選正解】**：`流到皮膚體表的血流量降低(decreased blood flow to the skin)` —— 交感神經使皮膚微動脈強烈收縮以減少流向體表的血流量（將血液保留給骨骼肌與腦心），在該器官血流與活動調控上屬於本題所指的**抑制性（減少）作用**。",
+        "**(A) 錯誤**：`瞳孔放大(pupil dilation)` —— 交感神經透過 α1 受體使虹膜放射肌（radial muscle）收縮導致瞳孔放大，屬於交感興奮性平滑肌收縮反應。",
+        "**(B) 錯誤**：`肝臟釋放葡萄糖 (the liver releases glucose)` —— 交感神經透過 β2 受體促進肝醣分解（glycogenolysis）與糖質新生以釋放葡萄糖供能，屬於促進性代謝反應。",
+        "**(C) 錯誤**：`心跳增加(increased heart rate)` —— 交感神經透過 β1 受體提高 SA node 自發去極化斜率，使心跳加快與心輸出量增加，屬於典型正性興奮作用。"
+      ]
+    },
+    {
+      "id": "1023_ANS-6",
+      "globalIndex": 56,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "低血糖生理現象類似交感神經過度興奮(hyperactivity of sympathetic division)，患者最可能會有 那一症狀? (The physiological conditions of low blood glucose is similar to hyperactivity of sympathetic division. Which symptom is most likely to be observed?)",
+      "image": null,
+      "options": {
+        "A": "姿態性低血壓(Orthostatic hypotension )",
+        "B": "血管迷走神經性昏厥（Vasovagal syncope ）",
+        "C": "拉肚子(diarrhea)",
+        "D": "盜汗(Sweating)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "answerDisplay": "(B/D)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心生理考點：低血糖與自主神經反應（交感亢進 vs. 血管迷走神經性昏厥）】**：低血糖時會刺激強烈的交感腎上腺髓質反應（心跳加快、冒冷汗、焦慮震顫）並影響中樞調節；依本題課堂考題設定（對照 ANS failure 題組），答案選 **(B) 血管迷走神經性昏厥（Vasovagal syncope）**（註：實務上低血糖極常見盜汗 sweating，因腎上腺素與交感膽鹼汗腺同時亢進；課堂考古題解答鎖定 B，作答時須留意題庫標準答案）。",
+        "**(B) 正確【本題應選正解】**：`血管迷走神經性昏厥（Vasovagal syncope ）` —— 依本課程題庫標準答案為 **(B) Vasovagal syncope**：強烈壓力、低血糖或交感過度興奮後可能引發迷走神經反彈性過度活化（Bezold-Jarisch 反射），導致血管擴張、心跳減慢與腦血流不足而昏厥。",
+        "**(A) 錯誤**：`姿態性低血壓(Orthostatic hypotension )` —— 姿態性低血壓典型見於**交感神經功能低下（ANS failure）**導致站立時血管無法代償性收縮，而非交感神經過度興奮。",
+        "**(C) 錯誤**：`拉肚子(diarrhea)` —— 腸胃蠕動加速與腹瀉屬於**副交感神經過度興奮**的表現，交感興奮反而會抑制腸胃蠕動。",
+        "**(D) 錯誤**：`盜汗(Sweating)` —— 汗腺雖由交感節後纖維支配但使用 **ACh（mAChR）**（低血糖臨床確實會冒冷汗，惟本題題庫答案設定為 B，須特別注意）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-7",
+      "globalIndex": 57,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於副交感神經分支結構的描述，何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "其 preganglionic fibers 由 T1-L3 離開 CNS",
+        "B": "腦神經 III，VII，IX and X 屬於副交感分支",
+        "C": "其神經節主要位於 sympathetic trunk 上",
+        "D": "淚腺（lacrimal gland）完全只有副交感神經分支調控"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(B) 正確【本題應選正解】**：`腦神經 III，VII，IX and X 屬於副交感分支` —— 副交感神經的顱部傳出包含四對腦神經：**動眼神經（CN III）、顏面神經（CN VII）、舌咽神經（CN IX）與迷走神經（CN X）**。",
+        "**(A) 錯誤**：`其 preganglionic fibers 由 T1-L3 離開 CNS` —— 節前神經纖維由胸腰髓（**T1–L2/L3**）離開脊髓的是**交感神經系統（sympathetic division）**；副交感神經則是從腦幹（CN III、VII、IX、X）與薦髓（S2–S4）離開中樞。",
+        "**(C) 錯誤**：`其神經節主要位於 sympathetic trunk 上` —— 交感神經幹（sympathetic trunk / paravertebral ganglia）為交感神經節所在處；副交感神經節則為終末神經節（terminal ganglia，靠近或位於標的器官內）與顱部四大副交感神經節（睫狀、翼腭、下頷下、耳神經節）。",
+        "**(D) 錯誤**：`淚腺（lacrimal gland）完全只有副交感神經分支調控` —— 淚腺（lacrimal gland）主要由顏面神經（CN VII）副交感纖維促分泌，但同時也接受頸上交感神經節的節後交感纖維調控血管舒縮與部分分泌，並非完全只有副交感調控。"
+      ]
+    },
+    {
+      "id": "1023_ANS-8",
+      "globalIndex": 58,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一個神經纖維不是使用 ACh 當神經傳導物質？",
+      "image": null,
+      "options": {
+        "A": "Sympathetic postganglionic fibers that controls sweat gland",
+        "B": "Sympathetic postganglionic fibers that controls SA node",
+        "C": "Sympathetic preganglionic fibers",
+        "D": "Parasympathetic postganglionic fibers that controls heart"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`Sympathetic postganglionic fibers that controls SA node` —— 支配心臟竇房結（SA node）的交感節後神經纖維釋放正腎上腺素（norepinephrine, NE），作用於心肌 β1 受體（耦合 Gs），並非使用乙醯膽鹼（ACh）。",
+        "**(A) 敘述正確（非本題所求）**：`Sympathetic postganglionic fibers that controls sweat gland` —— 支配外泌汗腺（eccrine sweat glands，參與體溫調節）的交感節後神經纖維屬於解剖上交感、化學傳遞上膽鹼能（sympathetic cholinergic fibers），釋放乙醯膽鹼（ACh）作用於汗腺 M3 受體。",
+        "**(C) 敘述正確（非本題所求）**：`Sympathetic preganglionic fibers` —— 所有自主神經（包含交感與副交感）的節前神經纖維（preganglionic fibers）以及支配腎上腺髓質的節前交感纖維，一律釋放乙醯膽鹼（ACh）作用於神經型菸鹼受體（NN）。",
+        "**(D) 敘述正確（非本題所求）**：`Parasympathetic postganglionic fibers that controls heart` —— 副交感節後神經纖維釋放乙醯膽鹼（ACh），作用於心臟 M2 受體或平滑肌／腺體 M3 受體。"
+      ]
+    },
+    {
+      "id": "1023_ANS-9",
+      "globalIndex": 59,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於 muscarinic acetylcholine receptors（mAChR）哪一敘述是對的？",
+      "image": null,
+      "options": {
+        "A": "mAChR 屬離子通道，可以讓鈉離子通過",
+        "B": "Curare 是它的 antagonist",
+        "C": "臨床上，mAChR antagonist 藥物的副作用之一是唾液腺分泌增加",
+        "D": "臨床上，mAChR antagonist 藥物可提高心跳（firing of SA node）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(D) 正確【本題應選正解】**：`臨床上，mAChR antagonist 藥物可提高心跳（firing of SA node）` —— mAChR 拮抗劑（如 Atropine）能阻斷心臟竇房結（SA node）上的 M2 受體，解除迷走神經對心跳的抑制作用，臨床上可用於提高心率、治療迷走神經興奮引起的心搏徐緩（bradycardia）。",
+        "**(A) 錯誤**：`mAChR 屬離子通道，可以讓鈉離子通過` —— **蕈毒鹼受體（mAChR）屬於 G 蛋白偶聯受體（GPCR，代謝型受體）**，本身不是讓鈉離子直接通過的離子通道（本身為 Na⁺/K⁺ 離子通道的是 **菸鹼受體 nAChR**）！",
+        "**(B) 錯誤**：`Curare 是它的 antagonist` —— **Curare（箭毒）**是骨骼肌**菸鹼受體（nicotinic AChR, NM）**的競爭性拮抗劑；蕈毒鹼受體（mAChR）的拮抗劑則是 **Atropine**！",
+        "**(C) 錯誤**：`臨床上，mAChR antagonist 藥物的副作用之一是唾液腺分泌增加` —— mAChR 拮抗劑（如 Atropine）會阻斷唾液腺 M3 受體，導致唾液分泌顯著減少（口乾 xerostomia），而非增加。"
+      ]
+    },
+    {
+      "id": "1023_ANS-10",
+      "globalIndex": 60,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一生理現象是興奮交感神經分支時會有的反應？",
+      "image": null,
+      "options": {
+        "A": "Increased watery saliva secretion（增加漿液分泌）",
+        "B": "Penis erection（陰莖勃起）",
+        "C": "皮膚表皮血管收縮",
+        "D": "促進消化作用"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：交感神經 vs. 副交感神經器官效應對照】**：交感神經興奮時：瞳孔放大（α1）、唾液分泌減少或僅呈少許濃稠黏液、支氣管擴張（β2）、心跳加快（β1）、消化道蠕動抑制、**皮膚與內臟微動脈收縮（α1）**、射精（emission/ejaculation）。副交感則主導：大量稀薄漿液性唾液、陰莖勃起（NO 介導）、促進消化與縮瞳。",
+        "**(C) 正確【本題應選正解】**：`皮膚表皮血管收縮` —— 交感神經節後纖維釋放 NE 作用於皮膚小動脈上的 **α1 受體**，引起**皮膚表皮血管收縮**，以在緊急狀況下將血液優先分配至核心器官與骨骼肌。",
+        "**(A) 錯誤**：`Increased watery saliva secretion（增加漿液分泌）` —— 大量水樣漿液性唾液分泌是由**副交感神經（CN VII, IX）**刺激 mAChR 所主導；交感興奮僅使唾液腺分泌少量黏稠唾液。",
+        "**(B) 錯誤**：`Penis erection（陰莖勃起）` —— 陰莖勃起（point = parasympathetic）主要由**骨盆內臟神經（副交感分支）**釋放 NO 使海綿體血管舒張充血達成；交感則主導射精（shoot = sympathetic）。",
+        "**(D) 錯誤**：`促進消化作用` —— 促進腸胃道平滑肌蠕動與消化腺體分泌為**副交感神經（迷走神經）**在休息與消化（Rest and Digest）狀態下的作用，交感興奮會抑制消化。"
+      ]
+    },
+    {
+      "id": "1023_ANS-11",
+      "globalIndex": 61,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "關於交感與副交感分支對於小動脈（arterioles）的調控，何者正確？",
+      "image": null,
+      "options": {
+        "A": "副交感分支參與調控全身臟器的小動脈",
+        "B": "活化骨骼肌小動脈上的β2 receptors 讓小動脈舒張",
+        "C": "活化副交感分支讓小動脈舒張",
+        "D": "交感分支只有在緊急（Fight-or-Flight）時才調控小動脈收縮"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "answerDisplay": "(B/C)（申覆後並列給分）",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "⚠️ **【申覆多解／送分說明】**：本題經考後申覆，官方核定給分答案為 **(B/C)（申覆後並列給分）**！",
+        "**(B) 正確【本題應選正解】**：`活化骨骼肌小動脈上的β2 receptors 讓小動脈舒張` —— 骨骼肌小動脈平滑肌富含 **β2 腎上腺素受體**（耦合 Gs → ↑cAMP → 抑制 MLCK），受腎上腺髓質釋放的 Epinephrine 活化後會促使骨骼肌小動脈舒張以增加運動時血流供應。",
+        "**(A) 錯誤**：`副交感分支參與調控全身臟器的小動脈` —— 全身絕大多數臟器的小動脈（arterioles）**僅受交感神經支配**，缺乏副交感神經纖維分布，故副交感神經並不參與調控全身多數臟器的小動脈阻力。",
+        "**(C) 申覆並列給分**：`活化副交感分支讓小動脈舒張` —— 全身絕大多數臟器的小動脈僅受交感神經張力性調控（缺乏副交感神經支配），僅少數特殊局部血管（如外生殖器海綿體螺旋動脈、部分唾液腺與腦膜血管）受副交感神經釋放 ACh/NO 促使舒張（113年申覆後 B、C 並列給分）。",
+        "**(D) 錯誤**：`交感分支只有在緊急（Fight-or-Flight）時才調控小動脈收縮` —— 交感神經對全身小動脈具有持續性的**基礎張力性調控（sympathetic tone）**，在平時休息狀態下即維持適度放電以維持正常周邊血管阻力與血壓，並非只有在緊急（Fight-or-Flight）時才調控！"
+      ]
+    },
+    {
+      "id": "1023_ANS-12",
+      "globalIndex": 62,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一症狀或疾病，與 autonomic nervous system（ANS）failure 最沒有關聯（least likely to be associated with ANS failure）？",
+      "image": null,
+      "options": {
+        "A": "Chronic obstructive lung disease",
+        "B": "Orthostatic hypotension",
+        "C": "Vasovagal syncope",
+        "D": "Impotence"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(A) 敘述錯誤【本題應選正解】**：`Chronic obstructive lung disease` —— **慢性阻塞性肺病（Chronic obstructive lung disease, COPD）**主要是由長期吸菸或有害微粒引起的慢性氣道發炎與肺實質破壞（肺氣腫與慢性支氣管炎），與**自主神經系統衰竭（ANS failure / autonomic neuropathy）最沒有直接關聯**！",
+        "**(B) 敘述正確（非本題所求）**：`Orthostatic hypotension` —— **Orthostatic hypotension** 與自主神經系統功能失調（ANS failure）密切相關（站立時交感血管收縮反射失靈導致姿態性低血壓；迷走與交感失衡導致血管迷走性昏厥；副交感 S2–S4 骨盆神經受損導致陽痿勃起障礙；腸道自主神經失調導致胃腸蠕動異常）。",
+        "**(C) 敘述正確（非本題所求）**：`Vasovagal syncope` —— **Vasovagal syncope** 與自主神經系統功能失調（ANS failure）密切相關（站立時交感血管收縮反射失靈導致姿態性低血壓；迷走與交感失衡導致血管迷走性昏厥；副交感 S2–S4 骨盆神經受損導致陽痿勃起障礙；腸道自主神經失調導致胃腸蠕動異常）。",
+        "**(D) 敘述正確（非本題所求）**：`Impotence` —— **Impotence** 與自主神經系統功能失調（ANS failure）密切相關（站立時交感血管收縮反射失靈導致姿態性低血壓；迷走與交感失衡導致血管迷走性昏厥；副交感 S2–S4 骨盆神經受損導致陽痿勃起障礙；腸道自主神經失調導致胃腸蠕動異常）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-13",
+      "globalIndex": 63,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "活化 somatic nervous system 下游一定是興奮性反應（骨骼肌收縮） ；而活化 autonomic nervous system（ANS）下游目標受器反應可能是興奮性（收縮）或抑制性（舒張）",
+      "image": null,
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(A) 正確【本題應選正解】**：`True` —— **True（正確）**：體運動神經元（somatic motor neurons）一律釋放 ACh 作用於骨骼肌終板的離子型 NM 菸鹼受體（Na⁺ 內流去極化），因此**活化體運動神經系統對骨骼肌永遠只有「興奮性（收縮）」一種反應**；相反地，**自主神經系統（ANS）**釋放的 ACh 或 NE 可作用於不同亞型的 GPCR（如 α1/M3 耦合 Gq 引起收縮、β2 耦合 Gs 或 M2 耦合 Gi 引起舒張／抑制），故**下游反應可能是興奮性或抑制性**！",
+        "**(B) 錯誤**：`False` —— 此敘述為真（True）：體神經系統對骨骼肌僅有單一興奮性作用，而自主神經系統對臟器則依受體亞型可產生興奮或抑制作用。"
+      ]
+    },
+    {
+      "id": "1023_ANS-14",
+      "globalIndex": 64,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於 parasympathetic nervous division 描述，何者為真？",
+      "image": null,
+      "options": {
+        "A": "其中一個分支 vagus nerve 是人體分布範圍最廣的一組神經",
+        "B": "其神經節多位在腹腔內",
+        "C": "只有在 fight or flight emergency responses 才被活化",
+        "D": "其 preganglionic fibers 由 T1-L3 離開脊髓"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(A) 正確【本題應選正解】**：`其中一個分支 vagus nerve 是人體分布範圍最廣的一組神經` —— 第十對腦神經**迷走神經（Vagus nerve, CN X）**包辦了人體約 75% 以上的副交感神經纖維，廣泛支配心臟、肺臟、食道、胃、肝膽胰、小腸與大腸前段，是人體分布與控制範圍最廣的一組副交感神經。",
+        "**(B) 錯誤**：`其神經節多位在腹腔內` —— 副交感神經節屬於終末神經節（terminal ganglia），多位於效應臟器**附近（near）或臟器壁內（within）**（例如頭頸部四大副交感神經節位於器官外，並非「全部」位於臟器內，亦非多位於腹腔內）。",
+        "**(C) 錯誤**：`只有在 fight or flight emergency responses 才被活化` —— 在緊急戰或逃（Fight-or-Flight）反應時活化的是**交感神經系統**；副交感神經系統則主導平時休息與消化（Rest and Digest）狀態。",
+        "**(D) 錯誤**：`其 preganglionic fibers 由 T1-L3 離開脊髓` —— 節前神經纖維由胸腰髓（**T1–L2/L3**）離開脊髓的是**交感神經系統（sympathetic division）**；副交感神經則是從腦幹（CN III、VII、IX、X）與薦髓（S2–S4）離開中樞。"
+      ]
+    },
+    {
+      "id": "1023_ANS-15",
+      "globalIndex": 65,
+      "qNum": 15,
+      "origQ": "Q15",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "阿托品（atropine）是 muscarinic ACh receptors（M-AChR）blockers。在臨床上，你認為 atropine 最可能產生哪一副作用？",
+      "image": null,
+      "options": {
+        "A": "汗腺過度分泌",
+        "B": "淚腺分泌過多",
+        "C": "唾液分泌過少",
+        "D": "心跳過慢"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：Atropine（mAChR 拮抗劑）之臨床藥理與副作用】**：**Atropine** 為競爭性 **muscarinic ACh receptor（mAChR）拮抗劑**，阻斷副交感節後膽鹼訊號及交感膽鹼性汗腺受體，因此最常見副作用為**口乾（唾液分泌過少）、無汗發熱、瞳孔放大畏光、心搏過速（tachycardia）、便祕與排尿困難**（記憶口訣：Hot as a hare, dry as a bone, blind as a bat, mad as a hatter）。",
+        "**(C) 正確【本題應選正解】**：`唾液分泌過少` —— 副交感 mAChR 控制大量水樣唾液分泌；給予 atropine 阻斷 mAChR 後會顯著減少唾液分泌，造成臨床最常見的**口乾（唾液分泌過少）**副作用。",
+        "**(A) 錯誤**：`汗腺過度分泌` —— 汗腺受交感節後膽鹼性神經釋放 ACh 作用於 mAChR 調控；給予 atropine 會**抑制出汗（無汗症 anhidrosis）**，而非過度分泌。",
+        "**(B) 錯誤**：`淚腺分泌過多` —— 淚腺分泌由副交感 mAChR 促進；給予 atropine 會抑制淚液分泌導致**眼乾**，而非淚液過多。",
+        "**(D) 錯誤**：`心跳過慢` —— 副交感迷走神經透過 mAChR（M2）抑制 SA node 減慢心跳；給予 atropine 解除迷走抑制後會導致**心跳過快（tachycardia）**（臨床上反而用來治療心搏過緩）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-16",
+      "globalIndex": 66,
+      "qNum": 16,
+      "origQ": "Q16",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "哪一種 adrenergic receptor 會引起骨骼肌上的小動脈舒張？",
+      "image": null,
+      "options": {
+        "A": "α1-Adrenergic receptor",
+        "B": "β2-Adrenergic receptor",
+        "C": "N-AChR",
+        "D": "M-AChR"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerDisplay": "(B)（申覆後送分，選任一選項皆給分）",
+      "explanations": [
+        "📘 **【核心生理考點：骨骼肌小動脈上的 β2-Adrenergic Receptor】**：雖然大多數血管平滑肌主要表現引起收縮的 α1 受體，但**骨骼肌小動脈與冠狀動脈**同時富含 **β2-adrenergic receptor**。當腎上腺髓質在交感興奮時釋放大量 **Epinephrine**，結合 β2 受體透過 Gs→cAMP 路徑使**骨骼肌小動脈舒張**，大幅增加運動肌群血流量。",
+        "**(B) 正確【本題應選正解】**：`β2-Adrenergic receptor` —— **β2-Adrenergic receptor**（Gs 蛋白）對 Epinephrine 高度敏感，活化後使細胞內 cAMP 上升並抑制肌球蛋白輕鏈激酶，引起**骨骼肌小動脈舒張**。",
+        "**(A) 錯誤**：`α1-Adrenergic receptor` —— **α1 受體**（Gq 蛋白）在皮膚、腸胃道與靜止狀態小動脈上負責介導血管平滑肌**收縮**，而非舒張。",
+        "**(C) 錯誤**：`N-AChR` —— 菸鹼型乙醯膽鹼受體（N-AChR）為離子通道型受體，主要分布於神經肌肉接合處（NMJ）與自主神經節，不屬於腎上腺素受體（adrenergic receptor）。",
+        "**(D) 錯誤**：`M-AChR` —— 毒蕈鹼型乙醯膽鹼受體（M-AChR）為副交感膽鹼受體，並非腎上腺素受體。"
+      ]
+    },
+    {
+      "id": "1023_ANS-17",
+      "globalIndex": 67,
+      "qNum": 17,
+      "origQ": "Q17",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一神經纖維（fibers）或組織，釋放 norepinephrine 當作其神經傳導物質？",
+      "image": null,
+      "options": {
+        "A": "Fibers of the somatic motor system（SNS）",
+        "B": "Postganglionic fibers of the parasympathetic division that innervates（調控）heart",
+        "C": "Postganglionic fiber of the sympathetic division that innervates heart",
+        "D": "Postganglionic fiber of the sympathetic division that innervates sweat glands（汗腺）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心生理考點：自主神經節前／節後神經傳導物質總整理】**：(1) **釋放 ACh 者**：所有體運動神經元（SNS）、所有交感與副交感**節前**纖維、所有副交感**節後**纖維，以及例外支配**汗腺（sweat glands）的交感節後纖維**；(2) **釋放 Norepinephrine（NE）者**：絕大多數**交感節後纖維**（如支配心臟、血管、支氣管、腸胃道者）。",
+        "**(C) 正確【本題應選正解】**：`Postganglionic fiber of the sympathetic division that innervates heart` —— 支配心臟（SA node、AV node 及心室肌）的**交感節後神經纖維**釋放**正腎上腺素（norepinephrine）**作用於 β1 受體，使心跳加快、收縮力增強。",
+        "**(A) 錯誤**：`Fibers of the somatic motor system（SNS）` —— 體運動神經系統（SNS）直接支配骨骼肌，在神經肌肉接合處（NMJ）釋放**乙醯膽鹼（ACh）**作用於骨骼肌 Nm 受體。",
+        "**(B) 錯誤**：`Postganglionic fibers of the parasympathetic division that innervates（調控）heart` —— 所有副交感神經節後纖維（包含支配心臟 SA/AV node 的迷走神經節後纖維）皆釋放 **ACh** 作用於 M2 受體。",
+        "**(D) 錯誤**：`Postganglionic fiber of the sympathetic division that innervates sweat glands（汗腺）` —— 支配汗腺的交感節後纖維是交感系統中的經典例外，其末梢釋放的是 **ACh**（作用於汗腺上的 mAChR），而非 norepinephrine。"
+      ]
+    },
+    {
+      "id": "1023_ANS-18",
+      "globalIndex": 68,
+      "qNum": 18,
+      "origQ": "Q18",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "當 ANS 功能失調（ANS failure） ，下列哪一症狀最不可能發生？",
+      "image": null,
+      "options": {
+        "A": "Gastrointestinal dysmotility（如腸躁症）",
+        "B": "Orthostatic hypotension（姿態性低血壓）",
+        "C": "Vasovagal syncope",
+        "D": "Skeletal muscle weakness"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Skeletal muscle weakness` —— **骨骼肌（skeletal muscle）**是由**體運動神經系統（somatic motor nervous system, SNS）**支配，完全不受自主神經系統（ANS）支配，因此 ANS 功能失調最不可能直接發生骨骼肌無力（skeletal muscle weakness）！",
+        "**(A) 敘述正確（非本題所求）**：`Gastrointestinal dysmotility（如腸躁症）` —— **Gastrointestinal dysmotility（如腸躁症）** 與自主神經系統功能失調（ANS failure）密切相關（站立時交感血管收縮反射失靈導致姿態性低血壓；迷走與交感失衡導致血管迷走性昏厥；副交感 S2–S4 骨盆神經受損導致陽痿勃起障礙；腸道自主神經失調導致胃腸蠕動異常）。",
+        "**(B) 敘述正確（非本題所求）**：`Orthostatic hypotension（姿態性低血壓）` —— **Orthostatic hypotension（姿態性低血壓）** 與自主神經系統功能失調（ANS failure）密切相關（站立時交感血管收縮反射失靈導致姿態性低血壓；迷走與交感失衡導致血管迷走性昏厥；副交感 S2–S4 骨盆神經受損導致陽痿勃起障礙；腸道自主神經失調導致胃腸蠕動異常）。",
+        "**(C) 敘述正確（非本題所求）**：`Vasovagal syncope` —— **Vasovagal syncope** 與自主神經系統功能失調（ANS failure）密切相關（站立時交感血管收縮反射失靈導致姿態性低血壓；迷走與交感失衡導致血管迷走性昏厥；副交感 S2–S4 骨盆神經受損導致陽痿勃起障礙；腸道自主神經失調導致胃腸蠕動異常）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-19",
+      "globalIndex": 69,
+      "qNum": 19,
+      "origQ": "Q19",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列關於副交感神經分支結構的描述，何者是正確的?",
+      "image": null,
+      "options": {
+        "A": "其 preganglionic fibers 由 T1-L 3 離開 CNS",
+        "B": "腦神經 III，V，IX 屬於副交感分支",
+        "C": "其部分神經節位於 collateral ganglion 上",
+        "D": "其中控制與器最大的分支為迷走神經（vagus nerve，CN X）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(D) 正確【本題應選正解】**：`其中控制與器最大的分支為迷走神經（vagus nerve，CN X）` —— 第十對腦神經**迷走神經（Vagus nerve, CN X）**包辦了人體約 75% 以上的副交感神經纖維，廣泛支配心臟、肺臟、食道、胃、肝膽胰、小腸與大腸前段，是人體分布與控制範圍最廣的一組副交感神經。",
+        "**(A) 錯誤**：`其 preganglionic fibers 由 T1-L 3 離開 CNS` —— 節前神經纖維由胸腰髓（**T1–L2/L3**）離開脊髓的是**交感神經系統（sympathetic division）**；副交感神經則是從腦幹（CN III、VII、IX、X）與薦髓（S2–S4）離開中樞。",
+        "**(B) 錯誤**：`腦神經 III，V，IX 屬於副交感分支` —— 第五對腦神經（CN V，三叉神經 Trigeminal nerve）為感覺與咀嚼運動神經，**不含副交感神經纖維**（副交感腦神經為 **CN III、VII、IX、X**）！",
+        "**(C) 錯誤**：`其部分神經節位於 collateral ganglion 上` —— 椎前／側枝神經節（**collateral / prevertebral ganglia**，如腹腔神經節 celiac、腸繫膜上下神經節）屬於**交感神經系統**的神經節，而非副交感神經節！"
+      ]
+    },
+    {
+      "id": "1023_ANS-20",
+      "globalIndex": 70,
+      "qNum": 20,
+      "origQ": "Q20",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一個神經纖維不是使用 ACh 當神經傳導物質?",
+      "image": null,
+      "options": {
+        "A": "Sympathetic postganglionic fibers that controls heart",
+        "B": "Sympathetic postganglionic fibers that controls sweat gland",
+        "C": "Parasympathetic postganglionic fibers that controls small intestine",
+        "D": "Parasympathetic preganglionic fibers"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(A) 敘述錯誤【本題應選正解】**：`Sympathetic postganglionic fibers that controls heart` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(B) 敘述正確（非本題所求）**：`Sympathetic postganglionic fibers that controls sweat gland` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(C) 敘述正確（非本題所求）**：`Parasympathetic postganglionic fibers that controls small intestine` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(D) 敘述正確（非本題所求）**：`Parasympathetic preganglionic fibers` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-21",
+      "globalIndex": 71,
+      "qNum": 21,
+      "origQ": "Q21",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於muscarinic acetylcholine receptors（mAChR）哪一敘述是對的？",
+      "image": null,
+      "options": {
+        "A": "Curare 是它的 antagonist",
+        "B": "它位於 all sympathetic target organ （所有交感分支調控的臟器）",
+        "C": "臨床上，mAChR antagonist 藥物的副作用之一是唾液腺分泌過少",
+        "D": "mAChR 可以讓鈉離子通過"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(C) 正確【本題應選正解】**：`臨床上，mAChR antagonist 藥物的副作用之一是唾液腺分泌過少` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(A) 錯誤**：`Curare 是它的 antagonist` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(B) 錯誤**：`它位於 all sympathetic target organ （所有交感分支調控的臟器）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(D) 錯誤**：`mAChR 可以讓鈉離子通過` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-22",
+      "globalIndex": 72,
+      "qNum": 22,
+      "origQ": "Q22",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一生理現象是興奮副交感神經分支時會有的反應?",
+      "image": null,
+      "options": {
+        "A": "Increased viscous saliva secretion（增加黏稠黏液分泌）",
+        "B": "Penis erection（陰莖勃起）",
+        "C": "皮膚表皮血管收縮",
+        "D": "瞳孔放大（pupil dilation）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(B) 正確【本題應選正解】**：`Penis erection（陰莖勃起）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(A) 錯誤**：`Increased viscous saliva secretion（增加黏稠黏液分泌）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(C) 錯誤**：`皮膚表皮血管收縮` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(D) 錯誤**：`瞳孔放大（pupil dilation）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-23",
+      "globalIndex": 73,
+      "qNum": 23,
+      "origQ": "Q23",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一組織結構上沒有受到 postganglionic fibers of the sympathetic nervous division 的支配， 但卻有 epinephrine β2 receptor?",
+      "image": null,
+      "options": {
+        "A": "Arterioles of the skeletal muscle（骨骼肌的小動脈）",
+        "B": "Bronchial smooth muscle（支氣管平滑肌）",
+        "C": "Lacrimal gland（淚腺）",
+        "D": "Ventricular muscle（心室肌肉）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(B) 正確【本題應選正解】**：`Bronchial smooth muscle（支氣管平滑肌）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(A) 錯誤**：`Arterioles of the skeletal muscle（骨骼肌的小動脈）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(C) 錯誤**：`Lacrimal gland（淚腺）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(D) 錯誤**：`Ventricular muscle（心室肌肉）` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。"
+      ]
+    },
+    {
+      "id": "1023_ANS-24",
+      "globalIndex": 74,
+      "qNum": 24,
+      "origQ": "Q24",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一症狀或疾病，與 autonomic nervous system（ANS）failure 最沒有關聯（least likely to be associated with ANS failure）?",
+      "image": null,
+      "options": {
+        "A": "Orthostatic hypotension",
+        "B": "Vasovagal syncope",
+        "C": "Gastrointestinal dysmotility",
+        "D": "Chronic obstructive lung disease"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：自主神經系統（ANS）解剖、傳遞物質、受體與臨床失調】**：**(1) 解剖**：副交感由**腦神經 CN III、VII、IX、X（迷走神經 vagus nerve 為人體分布最廣神經）及 S2–S4** 離開 CNS；交感由 **T1–L2/L3** 離開脊髓並支配腎上腺髓質；**(2) 傳遞物質**：所有節前纖維、所有副交感節後纖維及**支配汗腺的交感節後纖維**皆釋放 **ACh**；支配心臟與血管的交感節後纖維釋放 **NE**；**(3) 特殊調控**：**支氣管平滑肌**不受交感節後神經直接支配，但表現豐富的 **β2 受體**受血液中腎上腺素（Epinephrine）擴張；**骨骼肌小動脈**受交感 α1（收縮）與 **β2（舒張）**雙重調控；**(4) ANS Failure 相關病症**：包含姿態性低血壓（orthostatic hypotension）、血管迷走性昏厥（vasovagal syncope）、胃腸蠕動異常與勃起功能障礙（impotence）；**慢性阻塞性肺病（COPD）與骨骼肌無力（屬體神經 SNS）則與 ANS 失調無直接關聯**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Chronic obstructive lung disease` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(A) 敘述正確（非本題所求）**：`Orthostatic hypotension` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(B) 敘述正確（非本題所求）**：`Vasovagal syncope` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。",
+        "**(C) 敘述正確（非本題所求）**：`Gastrointestinal dysmotility` —— 支配 ② 心臟與 ③ 消化道的交感節後神經纖維釋放的是正腎上腺素（Norepinephrine, NE），僅 ① 交感節前纖維與 ④ 支配汗腺的交感節後纖維釋放 ACh（應選 `①④`）。"
+      ]
+    }
+  ]
+}

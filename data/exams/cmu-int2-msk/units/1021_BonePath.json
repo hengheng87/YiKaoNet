@@ -1,0 +1,1291 @@
+{
+  "unitCode": "1021_BonePath",
+  "unitTitle": "10/21 病理學：骨與關節病理 (Bone & Joint)",
+  "session": "A",
+  "subject": "Patho",
+  "subjectTitle": "病理學 (一)",
+  "prof": "張凱博 醫師（含歷屆骨關節題庫）",
+  "examRange": "A卷 Q57–64（共8題）",
+  "unitUrl": "https://drive.google.com/file/d/1pPGEKoa5owsioJCRU1rCj3OO0onPkm3-",
+  "questions": [
+    {
+      "id": "1021_BonePath-1",
+      "globalIndex": 244,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Thanatophoric dwarfism 的病人是因為哪一個基因的變異",
+      "image": null,
+      "options": {
+        "A": "Type 1 collagen",
+        "B": "Fibronectin",
+        "C": "Alkaline phosphatase",
+        "D": "PDGF",
+        "E": "FGF receptor 3"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：FGFR3 功能獲得性突變與軟骨發育異常】**：**致死性軟骨發育不全（thanatophoric dwarfism）**與最常見的侏儒症——**軟骨發育不全（achondroplasia）**，皆源於 **`FGFR3`（纖維母細胞生長因子受體 3）**的功能獲得性突變（gain-of-function mutation），導致生長板軟骨細胞過度抑制而發生軟骨內骨化（endochondral ossification）障礙。",
+        "**(E) 正確【本題應選正解】**：`FGF receptor 3` —— **FGFR3** 功能獲得性突變會持續啟動抑制軟骨細胞增殖的訊號，導致四肢極度短小、胸廓狹窄致呼吸衰竭的**致死性軟骨發育不全（thanatophoric dwarfism）**。",
+        "**(A) 錯誤**：`Type 1 collagen` —— 第一型膠原蛋白（Type I collagen，COL1A1/COL1A2）突變造成的是**成骨不全症／脆骨症（osteogenesis imperfecta）**，而非致死性軟骨發育不全。",
+        "**(B) 錯誤**：`Fibronectin` —— 纖連蛋白（fibronectin）為細胞外基質黏附醣蛋白，並非引起致死性軟骨發育不全的致病突變基因。",
+        "**(C) 錯誤**：`Alkaline phosphatase` —— 鹼性磷酸酶（ALP）缺乏（ALPL 基因突變）導致的是低磷酸酶症（hypophosphatasia）與骨骼礦化不良，而非 FGFR3 相關軟骨發育不全。",
+        "**(D) 錯誤**：`PDGF` —— 血小板衍生生長因子（PDGF）主要參與傷口癒合、血管平滑肌與纖維母細胞增殖，與致死性軟骨發育不全無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-2",
+      "globalIndex": 245,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Osteoporosis 造成的 compression fracture 最常發生在",
+      "image": null,
+      "options": {
+        "A": "Rib",
+        "B": "Spine",
+        "C": "Pelvis",
+        "D": "Long bone",
+        "E": "Skull"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨質疏鬆症（Osteoporosis）好發骨折部位】**：骨質疏鬆症最先且最嚴重影響代謝轉換率較高的**海綿骨／小樑骨（trabecular / cancellous bone）**，因此壓迫性骨折（compression fracture）最常發生於**脊椎椎體（spine / vertebral bodies，特別是胸腰椎交界）**，造成身高變矮與駝背（kyphosis）；其次常見股骨頸與遠端橈骨（Colles fracture）。",
+        "**(B) 正確【本題應選正解】**：`Spine` —— 脊椎椎體富含海綿骨（小樑骨），在承重下最易發生骨小樑變細斷裂，故**脊椎（spine）**是骨質疏鬆造成壓迫性骨折最常見的位置。",
+        "**(A) 錯誤**：`Rib` —— 肋骨（rib）雖偶見骨折，但並非骨質疏鬆症最典型的「壓迫性骨折（compression fracture）」好發部位。",
+        "**(C) 錯誤**：`Pelvis` —— 骨盆（pelvis）骨折常見於高能量創傷或嚴重骨質軟化／轉移癌，不如脊椎壓迫性骨折常見於骨質疏鬆。",
+        "**(D) 錯誤**：`Long bone` —— 長骨骨幹以皮質骨（cortical bone）為主，骨質疏鬆較常發生於股骨頸等近端海綿骨區，且長骨多呈橫向或斜向骨折而非椎體樣壓迫性骨折。",
+        "**(E) 錯誤**：`Skull` —— 顱骨（skull）幾乎不受負重壓力影響，極少發生骨質疏鬆相關之壓迫性骨折。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-3",
+      "globalIndex": 246,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一種疾病可以用 bone marrow transplantation 治療",
+      "image": null,
+      "options": {
+        "A": "Osteopetrosis",
+        "B": "Fibrous dysplasia",
+        "C": "Paget's disease",
+        "D": "Osteoarthritis",
+        "E": "Gout"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：大理石骨病（Osteopetrosis）與蝕骨細胞譜系】**：**大理石骨病（osteopetrosis）**因遺傳性基因缺陷（如碳酸酐酶 II 或質子幫浦 TCIRG1 突變）導致**蝕骨細胞（osteoclast）**無法酸化吸收骨基質，使骨骼緻密卻脆弱（石頭骨）。因蝕骨細胞源自造血系統的**單核／巨噬細胞譜系（monocyte/macrophage lineage）**，**骨髓移植（bone marrow transplantation）**是唯一能提供正常蝕骨細胞前驅物以根治本病的方法。",
+        "**(A) 正確【本題應選正解】**：`Osteopetrosis` —— **大理石骨病（osteopetrosis）**的根本病因是造血幹細胞衍生之蝕骨細胞功能障礙，因此異體**骨髓移植（BMT）**可重建具正常骨吸收能力的蝕骨細胞而達到治療效果。",
+        "**(B) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為體細胞 **GNAS1** 突變導致骨幹細胞分化異常，無法藉由骨髓移植提供正常成骨前驅細胞來治療。",
+        "**(C) 錯誤**：`Paget's disease` —— 柏哲德氏骨病（Paget's disease of bone）為後天性局部骨重塑混亂（臨床以雙磷酸鹽類藥物抑制蝕骨細胞為主），不需亦不以骨髓移植治療。",
+        "**(D) 錯誤**：`Osteoarthritis` —— 退化性關節炎（osteoarthritis）為關節軟骨磨損退化所致，治療以止痛、復健或關節置換為主，與骨髓移植無關。",
+        "**(E) 錯誤**：`Gout` —— 痛風（gout）為尿酸鈉結晶沈積於關節引起之發炎反應，治療以消炎止痛與降尿酸藥物為主，與骨髓移植無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-4",
+      "globalIndex": 247,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Osteoma 最常發生的部位是",
+      "image": null,
+      "options": {
+        "A": "Skull",
+        "B": "Spine",
+        "C": "Femur",
+        "D": "Pelvis",
+        "E": "Hand"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨瘤（Osteoma）好發部位與 Gardner 症候群】**：**骨瘤（osteoma）**為生長緩慢的良性成熟皮質骨突起，幾乎專一性好發於膜內骨化（intramembranous ossification）來源的**顱顏骨與副鼻竇（skull & paranasal sinuses，如額竇、篩竇與下頷骨）**；若呈多發性骨瘤，須高度懷疑合併大腸息肉的 **Gardner syndrome（APC 突變）**。",
+        "**(A) 正確【本題應選正解】**：`Skull` —— **顱骨與副鼻竇（skull）**是骨瘤（osteoma）最常見的好發部位，多為單發性、無症狀且界線清楚的高密度骨腫瘤。",
+        "**(B) 錯誤**：`Spine` —— 脊椎（特別是後弓 posterior elements）較常發生骨樣骨瘤（osteoid osteoma）或成骨細胞瘤（osteoblastoma），而非單純骨瘤（osteoma）。",
+        "**(C) 錯誤**：`Femur` —— 股骨（femur）等長骨為骨肉瘤（osteosarcoma）、骨軟骨瘤（osteochondroma）與骨樣骨瘤的好發部位，極少發生純骨瘤。",
+        "**(D) 錯誤**：`Pelvis` —— 骨盆（pelvis）為軟骨肉瘤（chondrosarcoma）與尤文氏肉瘤的常見好發位置，並非骨瘤好發部位。",
+        "**(E) 錯誤**：`Hand` —— 手部短管狀骨最常發生的良性骨軟骨腫瘤為**內生軟骨瘤（enchondroma / chondroma）**，而非骨瘤。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-5",
+      "globalIndex": 248,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 13-year-old boy had knee pain for a few months. Physical exam found tumor mass at right lower leg. X-ray showed an-illed defined, hetergenous osteolytic lesion in the metaphysis of proximal tibia and presence of codman triangle. Which of the following is the most possible diagnosis",
+      "image": null,
+      "options": {
+        "A": "Osteochondroma",
+        "B": "Chondrosarcoma",
+        "C": "Paget's disease",
+        "D": "Fibrous dysplasia",
+        "E": "Osteosarcoma"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨肉瘤（Osteosarcoma）與 Codman 三角】**：原發性**骨肉瘤（osteosarcoma）**好發於 **10–20 歲青少年**膝關節周圍長骨的**幹骺端（metaphysis，如股骨遠端、脛骨近端）**。腫瘤穿透骨皮質並將骨膜頂起，在 X 光下形成骨膜反應性新骨三角形邊緣，稱為 **Codman triangle**（以及日光放射狀針刺樣 sunburst appearance）。",
+        "**(E) 正確【本題應選正解】**：`Osteosarcoma` —— 13 歲少年於脛骨近端幹骺端出現界線不清、異質性溶骨病灶合併 **Codman triangle**，為原發性**骨肉瘤（osteosarcoma）**最經典的臨床與影像表現。",
+        "**(A) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）雖亦好發於長骨幹骺端，但為良性帶軟骨帽的外生性骨疣（exostosis），不會呈現界線不清的溶骨破壞與 Codman triangle。",
+        "**(B) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤（chondrosarcoma）好發於 40 歲以上中老年人及中軸骨（骨盆、肩胛骨、近端股骨），極少發生於 13 歲少年脛骨近端。",
+        "**(C) 錯誤**：`Paget's disease` —— 柏哲德氏骨病（Paget's disease）幾乎只見於中老年人（>50 歲），雖可併發次發性骨肉瘤，但不會是 13 歲少年的原發診斷。",
+        "**(D) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為良性骨髓腔纖維化病變，X 光典型呈界線較清的毛玻璃狀（ground-glass）與牧羊人拐杖變形，無 Codman triangle。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-6",
+      "globalIndex": 249,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 25-year-old man has had pain in the right 2nd finger for two months. Findings include a well defined osteolytic lesion in the middle phalanx of right 2nd finger. Histological sections show hyaline cartilage with mild cellular pleomorphism and atypia. These findings are most consistent with",
+      "image": null,
+      "options": {
+        "A": "Chondroma",
+        "B": "Chondrosarcoma",
+        "C": "Osteoid osteoma",
+        "D": "Osteochondroma",
+        "E": "Osteoma"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：指骨內生軟骨瘤（Enchondroma / Chondroma）的良性診斷陷阱】**：**軟骨瘤／內生軟骨瘤（chondroma / enchondroma）**最常發生於年輕成人**手部或足部短管狀骨（如指骨 phalanges、掌骨）**。病理考點陷阱在於：手足短骨的軟骨瘤在顯微鏡下**允許出現輕度細胞密集與輕微非典型性（mild pleomorphism and atypia）**，只要影像界線清楚無皮質破壞，仍應診斷為良性 **Chondroma**，切忌過度診斷為軟骨肉瘤。",
+        "**(A) 正確【本題應選正解】**：`Chondroma` —— 年輕成人第二指中節指骨出現界線清楚的溶骨性病灶，鏡下為透明軟骨伴輕微細胞多形性，符合手部短骨良性**內生軟骨瘤（chondroma / enchondroma）**。",
+        "**(B) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤（chondrosarcoma）好發於中老年人中軸骨（骨盆、肋骨、肩胛骨）且具侵襲性皮質破壞；手足小骨即使鏡下見輕微 atypia 仍屬良性軟骨瘤，極少為軟骨肉瘤。",
+        "**(C) 錯誤**：`Osteoid osteoma` —— 骨樣骨瘤（osteoid osteoma）影像呈小於 2 cm 的透亮病灶（nidus）周圍包繞濃厚反應性硬化骨，鏡下為交織骨樣小樑而非透明軟骨。",
+        "**(D) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）為骨表面外生性突起（exostosis）覆蓋軟骨帽，而非位於指骨骨髓腔內的界線清楚溶骨性病灶。",
+        "**(E) 錯誤**：`Osteoma` —— 骨瘤（osteoma）好發於顱骨與副鼻竇，由緻密成熟板層骨構成，不會在指骨形成含透明軟骨的溶骨病灶。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-7",
+      "globalIndex": 250,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 10-year-old boy has a bone tumor in the diaphysis of femur. Biopsy specimen shows diffuse infiltration of small round cells mimicking leukemia or lymphoma. The most possible diagnosis is",
+      "image": null,
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Chondrosarcoma",
+        "C": "Liposarcoma",
+        "D": "Synovial sarcoma",
+        "E": "Ewing sarcoma/PNET"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：尤文氏肉瘤（Ewing Sarcoma / PNET）】**：**尤文氏肉瘤**好發於 10–20 歲兒童與青少年，是少數典型好發於長骨**骨幹（diaphysis，如股骨骨幹）**及骨盆的惡性骨腫瘤。組織學為形態均一的**小圓藍細胞（small round blue cells）**瀰漫性浸潤（有時形成 Homer-Wright rosettes），細胞質含肝醣（PAS 陽性），且約 85% 具 **`t(11;22)(q24;q12)`（EWSR1-FLI1 融合基因）**。",
+        "**(E) 正確【本題應選正解】**：`Ewing sarcoma/PNET` —— 10 歲男童股骨**骨幹（diaphysis）**腫瘤合併瀰漫性**小圓藍細胞（small round cells）**浸潤（外觀類似白血病／淋巴瘤），為 **Ewing sarcoma / PNET** 的標準題型。",
+        "**(A) 錯誤**：`Osteosarcoma` —— 骨肉瘤好發於幹骺端（metaphysis），組織學以多形性紡錘或骨母細胞直接產生腫瘤性類骨質（osteoid）為診斷特徵，非均一小圓藍細胞。",
+        "**(B) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤好發於中老年人中軸骨，鏡下為惡性軟骨細胞位於軟骨陷窩內並伴軟骨基質，不會呈小圓藍細胞浸潤。",
+        "**(C) 錯誤**：`Liposarcoma` —— 脂肪肉瘤（liposarcoma）為軟組織惡性腫瘤，鏡下特徵為含有脂質空泡壓迫細胞核的脂肪母細胞（lipoblasts），非兒童股骨幹原發骨腫瘤。",
+        "**(D) 錯誤**：`Synovial sarcoma` —— 滑膜肉瘤（synovial sarcoma）主要發生於年輕成人關節附近深部軟組織（如膝周），具雙相或單相梭狀細胞形態與 `t(X;18)` 轉位，非兒童骨幹原發病灶。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-8",
+      "globalIndex": 251,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Osteoarthritis 的病因是",
+      "image": null,
+      "options": {
+        "A": "Infection",
+        "B": "Autoimmune disease",
+        "C": "Degenertive joint disease",
+        "D": "Congential malformation",
+        "E": "Genetic disease"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心骨病理考點：退化性關節炎（Osteoarthritis, OA）本質】**：**退化性關節炎（osteoarthritis）**又稱**退化性關節疾病（degenerative joint disease, DJD）**，本質是關節軟骨因長期機械應力與年齡老化導致的進行性退化與磨損（伴軟骨下骨硬化 eburnation 與骨刺 osteophyte 形成），而非自體免疫或感染發炎性疾病。",
+        "**(C) 正確【本題應選正解】**：`Degenertive joint disease` —— （題幹印為 `Degenertive joint disease`，即 **Degenerative joint disease**）退化性關節炎本質即關節軟骨基質蛋白多醣流失與磨損引起的**退化性關節病變**。",
+        "**(A) 錯誤**：`Infection` —— 細菌感染造成的是化膿性關節炎（septic / suppurative arthritis，常見 *S. aureus* 或淋病雙球菌），呈急性紅腫熱痛與關節腔大量嗜中性球浸潤。",
+        "**(B) 錯誤**：`Autoimmune disease` —— 自體免疫關節炎的典型代表為類風濕性關節炎（rheumatoid arthritis）或 SLE，特徵為滑膜血管翳（pannus）增生侵犯關節。",
+        "**(D) 錯誤**：`Congential malformation` —— 先天性關節發育畸形（如先天性髖關節發育不良 DDH）雖可繼發早發性關節退化，但並非多數原發性 OA 的主要病因分類。",
+        "**(E) 錯誤**：`Genetic disease` —— OA 雖有部分多基因易感性，但病理本質歸類為機械性磨損與老化相關的退化性關節疾病，而非單純遺傳疾病。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-9",
+      "globalIndex": 252,
+      "qNum": 9,
+      "origQ": "Q1",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨骼之 organic matrix 中最主要的成分是",
+      "image": null,
+      "options": {
+        "A": "Type I collagen",
+        "B": "Osteopontin",
+        "C": "TGF-β",
+        "D": "Prostaglandin",
+        "E": "Albumin"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨基質組成（Organic vs. Inorganic Matrix）】**：骨骼基質分為無機礦物質（約佔 65%，主要為氫氧基磷灰石 hydroxyapatite）與有機基質（約佔 35%，osteoid）。有機基質中約 **90% 為第一型膠原蛋白（Type I collagen）**，其餘約 10% 為非膠原蛋白（如 osteocalcin、osteonectin、osteopontin 及蛋白多醣）。",
+        "**(A) 正確【本題應選正解】**：`Type I collagen` —— **第一型膠原蛋白（Type I collagen）**佔骨骼有機基質（osteoid）總量的約 90%，賦予骨骼抗張強度（tensile strength），也是氫氧基磷灰石沉積的支架。",
+        "**(B) 錯誤**：`Osteopontin` —— 骨橋蛋白（osteopontin）屬於骨骼有機基質中的非膠原蛋白，負責調節礦化與協助蝕骨細胞附著骨面，但含量遠少於第一型膠原蛋白。",
+        "**(C) 錯誤**：`TGF-β` —— TGF-β 為儲存於骨基質中的調節性生長因子，參與骨重塑訊號傳遞，並非骨基質的主要結構成分。",
+        "**(D) 錯誤**：`Prostaglandin` —— 前列腺素（prostaglandin，如 PGE2）為局部發炎與骨代謝調節介質，不屬於骨骼有機結構基質。",
+        "**(E) 錯誤**：`Albumin` —— 白蛋白（albumin）為血漿中最主要的蛋白質，負責維持膠體滲透壓，並非骨骼有機基質的主要成分。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-10",
+      "globalIndex": 253,
+      "qNum": 10,
+      "origQ": "Q2",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "造成侏儒症（dwarfism）最常見的原因是",
+      "image": null,
+      "options": {
+        "A": "Osteoporosis",
+        "B": "Achondroplasia",
+        "C": "Syndactyly",
+        "D": "Paget's disease",
+        "E": "Fibrous dysplasia"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心骨病理考點：軟骨發育不全症（Achondroplasia）】**：**軟骨發育不全症（achondroplasia）**是人類**最常見的侏儒症（dwarfism）病因**，屬體染色體顯性遺傳（但 >80% 為父親高齡相關之新發突變），因 **`FGFR3` 功能獲得性突變**抑制生長板軟骨細胞增殖，導致四肢近端短小但軀幹與頭顱（膜內骨化正常）相對正常。",
+        "**(B) 正確【本題應選正解】**：`Achondroplasia` —— **軟骨發育不全症（achondroplasia）**因 FGFR3 突變使長骨生長板軟骨內骨化受阻，是臨床上**最常見的先天性侏儒症**（四肢短小、前額突出、鼻樑塌陷）。",
+        "**(A) 錯誤**：`Osteoporosis` —— 骨質疏鬆症（osteoporosis）為成人或老年骨量減少導致的骨脆性增加與骨折，不會造成先天性軟骨內骨化障礙型侏儒症。",
+        "**(C) 錯誤**：`Syndactyly` —— 併指症（syndactyly）為手足指間分離不全的先天肢端畸形，與全身長骨生長板受抑制的侏儒症無關。",
+        "**(D) 錯誤**：`Paget's disease` —— 柏哲德氏骨病（Paget's disease）為中老年人局部骨重塑異常導致的骨骼增厚與變形，非侏儒症原因。",
+        "**(E) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為局限性骨髓腔纖維化與編織骨取代正常骨小樑，不會造成典型軟骨發育不全型侏儒症。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-11",
+      "globalIndex": 254,
+      "qNum": 11,
+      "origQ": "Q3",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Osteogenesis imperfecta （brittle bone disease）是因為哪一種基因的突變",
+      "image": null,
+      "options": {
+        "A": "FF receptor 3",
+        "B": "EWS-FLI",
+        "C": "Type 1 collagen",
+        "D": "IL-1",
+        "E": "Collagenase"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心骨病理考點：成骨不全症／脆骨症（Osteogenesis Imperfecta, OI）】**：OI 又稱脆骨症（brittle bone disease），絕大多數源於編碼**第一型膠原蛋白（Type I collagen）的 `COL1A1` 或 `COL1A2` 基因突變**，導致全身結締組織脆弱，臨床特徵為**反覆多發性骨折、藍色鞏膜（blue sclerae，因鞏膜變薄透出脈絡膜）、聽力喪失及牙本質發育不全**。",
+        "**(C) 正確【本題應選正解】**：`Type 1 collagen` —— **第一型膠原蛋白（Type I collagen）**基因（COL1A1/COL1A2）突變使骨基質膠原纖維合成不足或結構異常，導致骨骼極度脆弱易折，即為**成骨不全症（osteogenesis imperfecta）**。",
+        "**(A) 錯誤**：`FF receptor 3` —— （選項印為 `FF receptor 3`，指 `FGF receptor 3` / `FGFR3`）FGFR3 突變導致的是軟骨發育不全（achondroplasia）與致死性軟骨發育不全，而非成骨不全症。",
+        "**(B) 錯誤**：`EWS-FLI` —— EWS-FLI1 為 `t(11;22)` 轉位產生的融合致癌基因，是 **Ewing sarcoma** 的分子標記，與先天性脆骨症無關。",
+        "**(D) 錯誤**：`IL-1` —— 介白素-1（IL-1）為促進發炎與刺激蝕骨細胞活性的細胞激素，非成骨不全症的致病突變基因。",
+        "**(E) 錯誤**：`Collagenase` —— 膠原蛋白酶（collagenase，如 MMP）負責降解膠原蛋白進行組織重塑，並非成骨不全症的遺傳突變標的。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-12",
+      "globalIndex": 255,
+      "qNum": 12,
+      "origQ": "Q4",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一種疾病可以用 esotrogen 預防",
+      "image": null,
+      "options": {
+        "A": "Osteopetrosis",
+        "B": "Osteogenesis imperfecta",
+        "C": "Paget's disease",
+        "D": "Achondroplasia",
+        "E": "Osteoporosis"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：雌激素（Estrogen）與停經後骨質疏鬆症】**：雌激素可抑制骨髓基質細胞與成骨細胞分泌發炎因子（IL-1、IL-6、TNF-α）並提升 OPG/RANKL 比值，進而**抑制蝕骨細胞（osteoclast）活性與骨吸收**。停經後女性因雌激素銳減導致高轉換型骨流失，補充 **Estrogen** 可有效預防**骨質疏鬆症（osteoporosis）**。",
+        "**(E) 正確【本題應選正解】**：`Osteoporosis` —— 停經後雌激素缺乏會解除對蝕骨細胞的抑制而引發快速骨流失，故補充 **Estrogen** 可抑制骨吸收並預防停經後**骨質疏鬆症（osteoporosis）**。",
+        "**(A) 錯誤**：`Osteopetrosis` —— 大理石骨病（osteopetrosis）為先天性蝕骨細胞骨吸收「功能不足」導致骨密度過高，補充抑制骨吸收的雌激素毫無幫助。",
+        "**(B) 錯誤**：`Osteogenesis imperfecta` —— 成骨不全症為第一型膠原蛋白基因突變導致的先天結構異常，無法藉由補充雌激素預防。",
+        "**(C) 錯誤**：`Paget's disease` —— 柏哲德氏骨病為局部蝕骨與成骨異常亢進（好發男性略多），標準藥物為雙磷酸鹽類（bisphosphonates），非以雌激素預防。",
+        "**(D) 錯誤**：`Achondroplasia` —— 軟骨發育不全症為先天 FGFR3 突變所致之軟骨內骨化障礙，無法以雌激素預防。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-13",
+      "globalIndex": 256,
+      "qNum": 13,
+      "origQ": "Q5",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列哪一種疾病可以用 bone marrow transplantation 治療",
+      "image": null,
+      "options": {
+        "A": "Osteopetrosis",
+        "B": "Fibrous dysplasia",
+        "C": "Paget's disease",
+        "D": "Osteoporosis",
+        "E": "Gout"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：大理石骨病（Osteopetrosis）與蝕骨細胞譜系】**：**大理石骨病（osteopetrosis）**因遺傳性基因缺陷（如碳酸酐酶 II 或質子幫浦 TCIRG1 突變）導致**蝕骨細胞（osteoclast）**無法酸化吸收骨基質，使骨骼緻密卻脆弱（石頭骨）。因蝕骨細胞源自造血系統的**單核／巨噬細胞譜系（monocyte/macrophage lineage）**，**骨髓移植（bone marrow transplantation）**是唯一能提供正常蝕骨細胞前驅物以根治本病的方法。",
+        "**(A) 正確【本題應選正解】**：`Osteopetrosis` —— **大理石骨病（osteopetrosis）**的根本病因是造血幹細胞衍生之蝕骨細胞功能障礙，因此異體**骨髓移植（BMT）**可重建具正常骨吸收能力的蝕骨細胞而達到治療效果。",
+        "**(B) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為體細胞 **GNAS1** 突變導致骨幹細胞分化異常，無法藉由骨髓移植提供正常成骨前驅細胞來治療。",
+        "**(C) 錯誤**：`Paget's disease` —— 柏哲德氏骨病（Paget's disease of bone）為後天性局部骨重塑混亂（臨床以雙磷酸鹽類藥物抑制蝕骨細胞為主），不需亦不以骨髓移植治療。",
+        "**(D) 錯誤**：`Osteoporosis` —— 骨質疏鬆症（osteoporosis）為骨吸收大於骨生成造成骨量減少，治療以鈣質、維生素 D 及抗骨吸收／促骨生成藥物為主，非骨髓移植適應症。",
+        "**(E) 錯誤**：`Gout` —— 痛風（gout）為尿酸鈉結晶沈積於關節引起之發炎反應，治療以消炎止痛與降尿酸藥物為主，與骨髓移植無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-14",
+      "globalIndex": 257,
+      "qNum": 14,
+      "origQ": "Q6",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者最常合併 secondary sarcoma",
+      "image": null,
+      "options": {
+        "A": "Paget's disease",
+        "B": "Osteochondroma",
+        "C": "Osteoma",
+        "D": "Lipoma",
+        "E": "Nodular fasciitis"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：Paget's Disease of Bone 與次發性骨肉瘤（Secondary Osteosarcoma）】**：**柏哲德氏骨病（Paget's disease of bone）**特徵為混亂的蝕骨與成骨活動（鏡下見拼圖樣骨水泥線 mosaic pattern）。在多骨型患者中約 1% 會發生惡性轉化，是臨床上**最常併發次發性肉瘤（secondary osteosarcoma，其次為 fibrosarcoma/chondrosarcoma）**的良性骨病變。",
+        "**(A) 正確【本題應選正解】**：`Paget's disease` —— **柏哲德氏骨病（Paget's disease）**因長期劇烈且混亂的骨細胞增殖重塑，發生**次發性骨肉瘤（secondary sarcoma）**的風險較一般人高出數千倍，為老年次發性骨肉瘤最重要前驅病變。",
+        "**(B) 錯誤**：`Osteochondroma` —— 單發性骨軟骨瘤（osteochondroma）惡變成軟骨肉瘤的機率極低（<1%；多發性遺傳性骨疣 MHE 風險較高約 5–10%），仍低於多骨型 Paget's disease 作為經典考題配對。",
+        "**(C) 錯誤**：`Osteoma` —— 骨瘤（osteoma）為生長極緩慢的良性成熟骨腫瘤，幾乎不會惡性轉化為肉瘤。",
+        "**(D) 錯誤**：`Lipoma` —— 脂肪瘤（lipoma）為良性成熟脂肪腫瘤，極少（幾乎不）惡性轉化為脂肪肉瘤（liposarcoma 多為原發性）。",
+        "**(E) 錯誤**：`Nodular fasciitis` —— 結節性筋膜炎（nodular fasciitis）為常見於年輕成人前臂的良性反應性纖維母細胞增生（雖生長迅速易誤認為肉瘤，但具自限性且不會惡變為肉瘤）。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-15",
+      "globalIndex": 258,
+      "qNum": 15,
+      "origQ": "Q7",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Pyogenic osteomyelitis 最常見的病原菌是",
+      "image": null,
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "E. coli",
+        "C": "Pseudomonas",
+        "D": "Klebsiella",
+        "E": "group B Streptococcus"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：化膿性骨髓炎（Pyogenic Osteomyelitis）常見致病菌】**：整體而言（包含各年齡層及血行性或外傷性），**金黃色葡萄球菌（*Staphylococcus aureus*）**佔化膿性骨髓炎致病菌 80–90% 以上（因具黏附骨基質膠原與形成生物膜能力）。特殊族群補充：新生兒常見 *E. coli* 與 Group B *Streptococcus*；鐮刀型貧血（sickle cell disease）常見 *Salmonella*。",
+        "**(A) 正確【本題應選正解】**：`Staphylococcus aureus` —— **金黃色葡萄球菌（*Staphylococcus aureus*）**能表現結合骨基質蛋白的黏附素，是所有年齡層急性與慢性**化膿性骨髓炎（pyogenic osteomyelitis）**最常見的病原菌。",
+        "**(B) 錯誤**：`E. coli` —— *E. coli*（大腸桿菌）主要見於**新生兒**或泌尿道感染相關之脊椎骨髓炎，並非整體最常見病原菌。",
+        "**(C) 錯誤**：`Pseudomonas` —— *Pseudomonas aeruginosa*（綠膿桿菌）典型見於穿刺傷（如穿膠底運動鞋踩到生鏽鐵釘）或靜脈藥癮者之骨髓炎，非一般最常見菌種。",
+        "**(D) 錯誤**：`Klebsiella` —— *Klebsiella*（克雷伯氏菌）偶見於院內感染或免疫力低下患者之骨髓炎，遠不如金黃色葡萄球菌常見。",
+        "**(E) 錯誤**：`group B Streptococcus` —— B 群鏈球菌（GBS）為**新生兒**早期敗血症與骨髓炎的重要致病菌，但在整體人口中遠少於金黃色葡萄球菌。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-16",
+      "globalIndex": 259,
+      "qNum": 16,
+      "origQ": "Q8",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "Osteoma 最常發生的部位是",
+      "image": null,
+      "options": {
+        "A": "Skull",
+        "B": "Spine",
+        "C": "Femur",
+        "D": "Pelvis",
+        "E": "Hand"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨瘤（Osteoma）好發部位與 Gardner 症候群】**：**骨瘤（osteoma）**為生長緩慢的良性成熟皮質骨突起，幾乎專一性好發於膜內骨化（intramembranous ossification）來源的**顱顏骨與副鼻竇（skull & paranasal sinuses，如額竇、篩竇與下頷骨）**；若呈多發性骨瘤，須高度懷疑合併大腸息肉的 **Gardner syndrome（APC 突變）**。",
+        "**(A) 正確【本題應選正解】**：`Skull` —— **顱骨與副鼻竇（skull）**是骨瘤（osteoma）最常見的好發部位，多為單發性、無症狀且界線清楚的高密度骨腫瘤。",
+        "**(B) 錯誤**：`Spine` —— 脊椎（特別是後弓 posterior elements）較常發生骨樣骨瘤（osteoid osteoma）或成骨細胞瘤（osteoblastoma），而非單純骨瘤（osteoma）。",
+        "**(C) 錯誤**：`Femur` —— 股骨（femur）等長骨為骨肉瘤（osteosarcoma）、骨軟骨瘤（osteochondroma）與骨樣骨瘤的好發部位，極少發生純骨瘤。",
+        "**(D) 錯誤**：`Pelvis` —— 骨盆（pelvis）為軟骨肉瘤（chondrosarcoma）與尤文氏肉瘤的常見好發位置，並非骨瘤好發部位。",
+        "**(E) 錯誤**：`Hand` —— 手部短管狀骨最常發生的良性骨軟骨腫瘤為**內生軟骨瘤（enchondroma / chondroma）**，而非骨瘤。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-17",
+      "globalIndex": 260,
+      "qNum": 17,
+      "origQ": "Q9",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 13-year-old boy had knee pain for a few months. Physical exam found tumor mass at right lower leg. X-ray showed an-illed defined, hetergenous osteolytic lesion in the metaphysis of proximal tibia and presence of codman triangle. Which of the following is the most possible diagnosis",
+      "image": null,
+      "options": {
+        "A": "Osteochondroma",
+        "B": "Paget's disease",
+        "C": "Chondrosarcoma",
+        "D": "Fibrous dysplasia",
+        "E": "Osteosarcoma"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨肉瘤（Osteosarcoma）與 Codman 三角】**：原發性**骨肉瘤（osteosarcoma）**好發於 **10–20 歲青少年**膝關節周圍長骨的**幹骺端（metaphysis，如股骨遠端、脛骨近端）**。腫瘤穿透骨皮質並將骨膜頂起，在 X 光下形成骨膜反應性新骨三角形邊緣，稱為 **Codman triangle**（以及日光放射狀針刺樣 sunburst appearance）。",
+        "**(E) 正確【本題應選正解】**：`Osteosarcoma` —— 13 歲少年於脛骨近端幹骺端出現界線不清、異質性溶骨病灶合併 **Codman triangle**，為原發性**骨肉瘤（osteosarcoma）**最經典的臨床與影像表現。",
+        "**(A) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）雖亦好發於長骨幹骺端，但為良性帶軟骨帽的外生性骨疣（exostosis），不會呈現界線不清的溶骨破壞與 Codman triangle。",
+        "**(B) 錯誤**：`Paget's disease` —— 柏哲德氏骨病（Paget's disease）幾乎只見於中老年人（>50 歲），雖可併發次發性骨肉瘤，但不會是 13 歲少年的原發診斷。",
+        "**(C) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤（chondrosarcoma）好發於 40 歲以上中老年人及中軸骨（骨盆、肩胛骨、近端股骨），極少發生於 13 歲少年脛骨近端。",
+        "**(D) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為良性骨髓腔纖維化病變，X 光典型呈界線較清的毛玻璃狀（ground-glass）與牧羊人拐杖變形，無 Codman triangle。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-18",
+      "globalIndex": 261,
+      "qNum": 18,
+      "origQ": "Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 25-year-old man has had pain in the right 2nd finger for two months. Findings include a well defined osteolytic lesion in the middle phalanx of right 2nd finger. Histological sections show hyaline cartilage with mild cellular pleomorphism and atypia. These findings are most consistent with",
+      "image": null,
+      "options": {
+        "A": "Chondroma",
+        "B": "Osteoid osteoma",
+        "C": "Chondrosarcoma",
+        "D": "Osteochondroma",
+        "E": "Osteoma"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：指骨內生軟骨瘤（Enchondroma / Chondroma）的良性診斷陷阱】**：**軟骨瘤／內生軟骨瘤（chondroma / enchondroma）**最常發生於年輕成人**手部或足部短管狀骨（如指骨 phalanges、掌骨）**。病理考點陷阱在於：手足短骨的軟骨瘤在顯微鏡下**允許出現輕度細胞密集與輕微非典型性（mild pleomorphism and atypia）**，只要影像界線清楚無皮質破壞，仍應診斷為良性 **Chondroma**，切忌過度診斷為軟骨肉瘤。",
+        "**(A) 正確【本題應選正解】**：`Chondroma` —— 年輕成人第二指中節指骨出現界線清楚的溶骨性病灶，鏡下為透明軟骨伴輕微細胞多形性，符合手部短骨良性**內生軟骨瘤（chondroma / enchondroma）**。",
+        "**(B) 錯誤**：`Osteoid osteoma` —— 骨樣骨瘤（osteoid osteoma）影像呈小於 2 cm 的透亮病灶（nidus）周圍包繞濃厚反應性硬化骨，鏡下為交織骨樣小樑而非透明軟骨。",
+        "**(C) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤（chondrosarcoma）好發於中老年人中軸骨（骨盆、肋骨、肩胛骨）且具侵襲性皮質破壞；手足小骨即使鏡下見輕微 atypia 仍屬良性軟骨瘤，極少為軟骨肉瘤。",
+        "**(D) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）為骨表面外生性突起（exostosis）覆蓋軟骨帽，而非位於指骨骨髓腔內的界線清楚溶骨性病灶。",
+        "**(E) 錯誤**：`Osteoma` —— 骨瘤（osteoma）好發於顱骨與副鼻竇，由緻密成熟板層骨構成，不會在指骨形成含透明軟骨的溶骨病灶。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-19",
+      "globalIndex": 262,
+      "qNum": 19,
+      "origQ": "Q11",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一種腫瘤最常見於 epiphysis",
+      "image": null,
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Osteochondroma",
+        "C": "Ewing sarcoma",
+        "D": "Giant cell tumor",
+        "E": "Osteoblastoma"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨巨細胞瘤（Giant Cell Tumor, GCT）好發部位與特徵】**：**骨巨細胞瘤（GCT）**好發於 20–40 歲骨骼成熟之**成年人**，幾乎專一性位於長骨（特別是膝關節周圍：股骨遠端與脛骨近端）的**骨骺（epiphysis）**並常延伸至關節軟骨下緣。X 光呈偏心性、肥皂泡狀（soap-bubble）溶骨病灶；鏡下由單核基質細胞（表現 RANKL）招募大量破骨樣多核巨細胞組成。",
+        "**(D) 正確【本題應選正解】**：`Giant cell tumor` —— **骨巨細胞瘤（giant cell tumor, GCT）**為成年人最典型好發於長骨**骨骺（epiphysis）**之局部侵襲性骨腫瘤，常緊鄰關節面。",
+        "**(A) 錯誤**：`Osteosarcoma` —— 骨肉瘤（osteosarcoma）主要好發於青少年長骨的**幹骺端（metaphysis）**，極少原發於骨骺。",
+        "**(B) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）起源於生長板旁的骨皮質表面，好發於長骨**幹骺端（metaphysis）**並朝向骨幹生長。",
+        "**(C) 錯誤**：`Ewing sarcoma` —— 尤文氏肉瘤（Ewing sarcoma）是典型好發於兒童長骨**骨幹（diaphysis）**及骨盆的小圓藍細胞腫瘤。",
+        "**(E) 錯誤**：`Osteoblastoma` —— 成骨細胞瘤（osteoblastoma）最常發生於**脊椎後弓（posterior elements of spine）**與長骨幹骺端／骨幹，非骨骺好發腫瘤。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-20",
+      "globalIndex": 263,
+      "qNum": 20,
+      "origQ": "Q12",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "哪一種症候群會表現 osteomas, epidermal cysts, desmoid fibromatosis and familial adenomatous polyposis",
+      "image": null,
+      "options": {
+        "A": "Gardner syndrome",
+        "B": "McCune-Albright syndrome",
+        "C": "Maffucci syndrome",
+        "D": "Marfan syndrome",
+        "E": "Plummer-Vinson syndrome"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：Gardner 症候群（Gardner Syndrome）】**：**Gardner syndrome** 為家族性腺瘤性息肉症（FAP，第 5 號染色體 **`APC` 抑癌基因**突變）的亞型，典型表現包含：**多發性骨瘤（osteomas，常見於下頷骨與顱骨）、表皮囊腫（epidermal cysts）、類纖維瘤／硬纖維瘤（desmoid fibromatosis）以及大腸多發性腺瘤性息肉（familial adenomatous polyposis）**。",
+        "**(A) 正確【本題應選正解】**：`Gardner syndrome` —— **Gardner syndrome**（APC 基因突變）完美對應題幹四聯徵：**骨瘤（osteomas）、表皮囊腫（epidermal cysts）、硬纖維瘤（desmoid fibromatosis）及家族性腺瘤性息肉症（FAP）**。",
+        "**(B) 錯誤**：`McCune-Albright syndrome` —— **McCune-Albright syndrome**（GNAS1 突變）表現為**多骨性纖維發育不良、邊緣鋸齒狀牛奶咖啡斑（café-au-lait spots）及內分泌功能亢進（如性早熟）**。",
+        "**(C) 錯誤**：`Maffucci syndrome` —— **Maffucci syndrome**（IDH1/IDH2 突變）表現為**多發性內生軟骨瘤（enchondromatosis）合併軟組織海綿狀血管瘤（hemangiomas）**（註：若僅多發軟骨瘤而無血管瘤則為 Ollier disease）。",
+        "**(D) 錯誤**：`Marfan syndrome` —— **Marfan syndrome**（FBN1 原纖維蛋白-1 突變）表現為蜘蛛指、晶狀體半脫位及主動脈夾層等結締組織異常，與骨瘤及大腸息肉無關。",
+        "**(E) 錯誤**：`Plummer-Vinson syndrome` —— **Plummer-Vinson syndrome** 表現為缺鐵性貧血、食道蹼（esophageal webs）與吞嚥困難，增加食道鱗狀細胞癌風險，與骨腫瘤無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-21",
+      "globalIndex": 264,
+      "qNum": 21,
+      "origQ": "Q13",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 10-year-old boy has a bone tumor in the diaphysis of femur. Biopsy specimen shows diffuse infiltration of small round cells mimicking leukemia or lymphoma. The most possible diagnosis is",
+      "image": null,
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Liposarcoma",
+        "C": "Chondrosarcoma",
+        "D": "Synovial sarcoma",
+        "E": "Ewing sarcoma/PNET"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：尤文氏肉瘤（Ewing Sarcoma / PNET）】**：**尤文氏肉瘤**好發於 10–20 歲兒童與青少年，是少數典型好發於長骨**骨幹（diaphysis，如股骨骨幹）**及骨盆的惡性骨腫瘤。組織學為形態均一的**小圓藍細胞（small round blue cells）**瀰漫性浸潤（有時形成 Homer-Wright rosettes），細胞質含肝醣（PAS 陽性），且約 85% 具 **`t(11;22)(q24;q12)`（EWSR1-FLI1 融合基因）**。",
+        "**(E) 正確【本題應選正解】**：`Ewing sarcoma/PNET` —— 10 歲男童股骨**骨幹（diaphysis）**腫瘤合併瀰漫性**小圓藍細胞（small round cells）**浸潤（外觀類似白血病／淋巴瘤），為 **Ewing sarcoma / PNET** 的標準題型。",
+        "**(A) 錯誤**：`Osteosarcoma` —— 骨肉瘤好發於幹骺端（metaphysis），組織學以多形性紡錘或骨母細胞直接產生腫瘤性類骨質（osteoid）為診斷特徵，非均一小圓藍細胞。",
+        "**(B) 錯誤**：`Liposarcoma` —— 脂肪肉瘤（liposarcoma）為軟組織惡性腫瘤，鏡下特徵為含有脂質空泡壓迫細胞核的脂肪母細胞（lipoblasts），非兒童股骨幹原發骨腫瘤。",
+        "**(C) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤好發於中老年人中軸骨，鏡下為惡性軟骨細胞位於軟骨陷窩內並伴軟骨基質，不會呈小圓藍細胞浸潤。",
+        "**(D) 錯誤**：`Synovial sarcoma` —— 滑膜肉瘤（synovial sarcoma）主要發生於年輕成人關節附近深部軟組織（如膝周），具雙相或單相梭狀細胞形態與 `t(X;18)` 轉位，非兒童骨幹原發病灶。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-22",
+      "globalIndex": 265,
+      "qNum": 22,
+      "origQ": "Q1",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "骨骼之 organic matrix 中最主要的成分是",
+      "image": null,
+      "options": {
+        "A": "Type I collagen",
+        "B": "Osteopontin",
+        "C": "TGF-β",
+        "D": "Prostaglandin",
+        "E": "Albumin"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨基質組成（Organic vs. Inorganic Matrix）】**：骨骼基質分為無機礦物質（約佔 65%，主要為氫氧基磷灰石 hydroxyapatite）與有機基質（約佔 35%，osteoid）。有機基質中約 **90% 為第一型膠原蛋白（Type I collagen）**，其餘約 10% 為非膠原蛋白（如 osteocalcin、osteonectin、osteopontin 及蛋白多醣）。",
+        "**(A) 正確【本題應選正解】**：`Type I collagen` —— **第一型膠原蛋白（Type I collagen）**佔骨骼有機基質（osteoid）總量的約 90%，賦予骨骼抗張強度（tensile strength），也是氫氧基磷灰石沉積的支架。",
+        "**(B) 錯誤**：`Osteopontin` —— 骨橋蛋白（osteopontin）屬於骨骼有機基質中的非膠原蛋白，負責調節礦化與協助蝕骨細胞附著骨面，但含量遠少於第一型膠原蛋白。",
+        "**(C) 錯誤**：`TGF-β` —— TGF-β 為儲存於骨基質中的調節性生長因子，參與骨重塑訊號傳遞，並非骨基質的主要結構成分。",
+        "**(D) 錯誤**：`Prostaglandin` —— 前列腺素（prostaglandin，如 PGE2）為局部發炎與骨代謝調節介質，不屬於骨骼有機結構基質。",
+        "**(E) 錯誤**：`Albumin` —— 白蛋白（albumin）為血漿中最主要的蛋白質，負責維持膠體滲透壓，並非骨骼有機基質的主要成分。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-23",
+      "globalIndex": 266,
+      "qNum": 23,
+      "origQ": "Q2",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列哪一種細胞的來源是 monocyte/macrophage lineage",
+      "image": null,
+      "options": {
+        "A": "Osteoprogenitor cells",
+        "B": "Osteoblast",
+        "C": "Osteocyte",
+        "D": "Osteoclast"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨骼細胞起源（Mesenchymal vs. Hematopoietic）】**：**骨祖細胞（osteoprogenitor cell）、成骨細胞（osteoblast）與骨細胞（osteocyte）**皆源自**間葉幹細胞（mesenchymal stem cell）**；唯有負責骨吸收的多核巨細胞——**蝕骨細胞（osteoclast）**源自骨髓造血幹細胞的**單核／巨噬細胞譜系（monocyte/macrophage lineage）**（受成骨細胞分泌的 RANKL 與 M-CSF 誘導融合）。",
+        "**(D) 正確【本題應選正解】**：`Osteoclast` —— **蝕骨細胞（osteoclast）**由循環中的造血**單核／巨噬細胞前驅物（monocyte/macrophage lineage）**融合形成多核細胞，位於 Howship 陷窩內分泌酸與蛋白酶溶解骨質。",
+        "**(A) 錯誤**：`Osteoprogenitor cells` —— 骨祖細胞（osteoprogenitor cells）位於骨膜內層與骨內膜，直接分化自間葉幹細胞（mesenchymal stem cells），負責補充成骨細胞。",
+        "**(B) 錯誤**：`Osteoblast` —— 成骨細胞（osteoblast）由骨祖細胞分化而來（屬間葉譜系），負責合成第一型膠原蛋白與類骨質（osteoid）並促進骨礦化。",
+        "**(C) 錯誤**：`Osteocyte` —— 骨細胞（osteocyte）是被包裹在自身分泌之鈣化骨基質陷窩（lacunae）中的成熟成骨細胞，同樣源自間葉譜系，負責機械應力感知。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-24",
+      "globalIndex": 267,
+      "qNum": 24,
+      "origQ": "Q3",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "造成侏儒症（dwarfism）最常見的原因是",
+      "image": null,
+      "options": {
+        "A": "Osteoporosis",
+        "B": "Achondroplasia",
+        "C": "Syndactyly",
+        "D": "Paget’s disease",
+        "E": "Fibrous dysplasia"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心骨病理考點：軟骨發育不全症（Achondroplasia）】**：**軟骨發育不全症（achondroplasia）**是人類**最常見的侏儒症（dwarfism）病因**，屬體染色體顯性遺傳（但 >80% 為父親高齡相關之新發突變），因 **`FGFR3` 功能獲得性突變**抑制生長板軟骨細胞增殖，導致四肢近端短小但軀幹與頭顱（膜內骨化正常）相對正常。",
+        "**(B) 正確【本題應選正解】**：`Achondroplasia` —— **軟骨發育不全症（achondroplasia）**因 FGFR3 突變使長骨生長板軟骨內骨化受阻，是臨床上**最常見的先天性侏儒症**（四肢短小、前額突出、鼻樑塌陷）。",
+        "**(A) 錯誤**：`Osteoporosis` —— 骨質疏鬆症（osteoporosis）為成人或老年骨量減少導致的骨脆性增加與骨折，不會造成先天性軟骨內骨化障礙型侏儒症。",
+        "**(C) 錯誤**：`Syndactyly` —— 併指症（syndactyly）為手足指間分離不全的先天肢端畸形，與全身長骨生長板受抑制的侏儒症無關。",
+        "**(D) 錯誤**：`Paget’s disease` —— 柏哲德氏骨病（Paget's disease）為中老年人局部骨重塑異常導致的骨骼增厚與變形，非侏儒症原因。",
+        "**(E) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為局限性骨髓腔纖維化與編織骨取代正常骨小樑，不會造成典型軟骨發育不全型侏儒症。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-25",
+      "globalIndex": 268,
+      "qNum": 25,
+      "origQ": "Q4",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Osteogenesis imperfecta（brittle bone disease）是因為哪一種基因的突變",
+      "image": null,
+      "options": {
+        "A": "FGF receptor 3",
+        "B": "EWS-FLI1",
+        "C": "Type 1 collagen",
+        "D": "IL-1",
+        "E": "Collagenase"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心骨病理考點：成骨不全症／脆骨症（Osteogenesis Imperfecta, OI）】**：OI 又稱脆骨症（brittle bone disease），絕大多數源於編碼**第一型膠原蛋白（Type I collagen）的 `COL1A1` 或 `COL1A2` 基因突變**，導致全身結締組織脆弱，臨床特徵為**反覆多發性骨折、藍色鞏膜（blue sclerae，因鞏膜變薄透出脈絡膜）、聽力喪失及牙本質發育不全**。",
+        "**(C) 正確【本題應選正解】**：`Type 1 collagen` —— **第一型膠原蛋白（Type I collagen）**基因（COL1A1/COL1A2）突變使骨基質膠原纖維合成不足或結構異常，導致骨骼極度脆弱易折，即為**成骨不全症（osteogenesis imperfecta）**。",
+        "**(A) 錯誤**：`FGF receptor 3` —— FGFR3（FGF receptor 3）突變導致的是軟骨發育不全（achondroplasia）與致死性軟骨發育不全，而非成骨不全症。",
+        "**(B) 錯誤**：`EWS-FLI1` —— EWS-FLI1 為 `t(11;22)` 轉位產生的融合致癌基因，是 **Ewing sarcoma** 的分子標記，與先天性脆骨症無關。",
+        "**(D) 錯誤**：`IL-1` —— 介白素-1（IL-1）為促進發炎與刺激蝕骨細胞活性的細胞激素，非成骨不全症的致病突變基因。",
+        "**(E) 錯誤**：`Collagenase` —— 膠原蛋白酶（collagenase，如 MMP）負責降解膠原蛋白進行組織重塑，並非成骨不全症的遺傳突變標的。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-26",
+      "globalIndex": 269,
+      "qNum": 26,
+      "origQ": "Q5",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "一位 76 歲的老太太，因為在浴室摔倒導致 femoral neck fracture。請問她最可能罹患",
+      "image": null,
+      "options": {
+        "A": "Fibrous dysplasia",
+        "B": "Type 1 collagen disease",
+        "C": "Osteoporosis",
+        "D": "Osteoarthritis",
+        "E": "Rheumatoid arthritis"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心骨病理考點：高齡低能量創傷與股骨頸脆弱性骨折】**：停經後高齡女性因低能量跌倒（如浴室滑倒）發生**股骨頸骨折（femoral neck fracture）、脊椎壓迫性骨折或遠端橈骨骨折**，屬於最典型的**骨質疏鬆症（osteoporosis）**脆弱性骨折（fragility fracture）。",
+        "**(C) 正確【本題應選正解】**：`Osteoporosis` —— 76 歲停經後女性因長期雌激素缺乏與老化導致骨量嚴重流失，輕微跌倒即發生股骨頸骨折，最可能罹患**骨質疏鬆症（osteoporosis）**。",
+        "**(A) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）多在兒童或青少年期發病，導致股骨近端牧羊人拐杖變形或病理性骨折，極少作為 76 歲老太太浴室跌倒首發病因。",
+        "**(B) 錯誤**：`Type 1 collagen disease` —— 第一型膠原蛋白基因病變（如成骨不全症 OI）為先天遺傳疾病，自幼年起即反覆發生多發性骨折，而非高齡停經後女性最常見骨折原因。",
+        "**(D) 錯誤**：`Osteoarthritis` —— 退化性關節炎（osteoarthritis）主要造成關節軟骨磨損、關節疼痛與活動受限，反而常伴軟骨下骨硬化，不會直接導致骨質變脆而發生股骨頸骨折。",
+        "**(E) 錯誤**：`Rheumatoid arthritis` —— 類風濕性關節炎（RA）主要影響手足小關節引起對稱性滑膜炎與關節侵蝕變形，非高齡女性單純浴室跌倒股骨頸骨折之最常見潛在診斷。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-27",
+      "globalIndex": 270,
+      "qNum": 27,
+      "origQ": "Q6",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "Osteoporosis 造成的 compression fracture 最常發生在",
+      "image": null,
+      "options": {
+        "A": "Rib",
+        "B": "Spine",
+        "C": "Pelvis",
+        "D": "Long bone",
+        "E": "Skull"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨質疏鬆症（Osteoporosis）好發骨折部位】**：骨質疏鬆症最先且最嚴重影響代謝轉換率較高的**海綿骨／小樑骨（trabecular / cancellous bone）**，因此壓迫性骨折（compression fracture）最常發生於**脊椎椎體（spine / vertebral bodies，特別是胸腰椎交界）**，造成身高變矮與駝背（kyphosis）；其次常見股骨頸與遠端橈骨（Colles fracture）。",
+        "**(B) 正確【本題應選正解】**：`Spine` —— 脊椎椎體富含海綿骨（小樑骨），在承重下最易發生骨小樑變細斷裂，故**脊椎（spine）**是骨質疏鬆造成壓迫性骨折最常見的位置。",
+        "**(A) 錯誤**：`Rib` —— 肋骨（rib）雖偶見骨折，但並非骨質疏鬆症最典型的「壓迫性骨折（compression fracture）」好發部位。",
+        "**(C) 錯誤**：`Pelvis` —— 骨盆（pelvis）骨折常見於高能量創傷或嚴重骨質軟化／轉移癌，不如脊椎壓迫性骨折常見於骨質疏鬆。",
+        "**(D) 錯誤**：`Long bone` —— 長骨骨幹以皮質骨（cortical bone）為主，骨質疏鬆較常發生於股骨頸等近端海綿骨區，且長骨多呈橫向或斜向骨折而非椎體樣壓迫性骨折。",
+        "**(E) 錯誤**：`Skull` —— 顱骨（skull）幾乎不受負重壓力影響，極少發生骨質疏鬆相關之壓迫性骨折。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-28",
+      "globalIndex": 271,
+      "qNum": 28,
+      "origQ": "Q7",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列哪一種疾病可以用 bone marrow transplantation 治療",
+      "image": null,
+      "options": {
+        "A": "Osteopetrosis",
+        "B": "Fibrous dysplasia",
+        "C": "Paget’s disease",
+        "D": "Osteoarthritis",
+        "E": "Gout"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：大理石骨病（Osteopetrosis）與蝕骨細胞譜系】**：**大理石骨病（osteopetrosis）**因遺傳性基因缺陷（如碳酸酐酶 II 或質子幫浦 TCIRG1 突變）導致**蝕骨細胞（osteoclast）**無法酸化吸收骨基質，使骨骼緻密卻脆弱（石頭骨）。因蝕骨細胞源自造血系統的**單核／巨噬細胞譜系（monocyte/macrophage lineage）**，**骨髓移植（bone marrow transplantation）**是唯一能提供正常蝕骨細胞前驅物以根治本病的方法。",
+        "**(A) 正確【本題應選正解】**：`Osteopetrosis` —— **大理石骨病（osteopetrosis）**的根本病因是造血幹細胞衍生之蝕骨細胞功能障礙，因此異體**骨髓移植（BMT）**可重建具正常骨吸收能力的蝕骨細胞而達到治療效果。",
+        "**(B) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為體細胞 **GNAS1** 突變導致骨幹細胞分化異常，無法藉由骨髓移植提供正常成骨前驅細胞來治療。",
+        "**(C) 錯誤**：`Paget’s disease` —— 柏哲德氏骨病（Paget's disease of bone）為後天性局部骨重塑混亂（臨床以雙磷酸鹽類藥物抑制蝕骨細胞為主），不需亦不以骨髓移植治療。",
+        "**(D) 錯誤**：`Osteoarthritis` —— 退化性關節炎（osteoarthritis）為關節軟骨磨損退化所致，治療以止痛、復健或關節置換為主，與骨髓移植無關。",
+        "**(E) 錯誤**：`Gout` —— 痛風（gout）為尿酸鈉結晶沈積於關節引起之發炎反應，治療以消炎止痛與降尿酸藥物為主，與骨髓移植無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-29",
+      "globalIndex": 272,
+      "qNum": 29,
+      "origQ": "Q8",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列何者最常合併 secondary sarcoma",
+      "image": null,
+      "options": {
+        "A": "Paget’s disease",
+        "B": "Osteochondroma",
+        "C": "Osteoma",
+        "D": "Lipoma",
+        "E": "Nodular fasciitis"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：Paget's Disease of Bone 與次發性骨肉瘤（Secondary Osteosarcoma）】**：**柏哲德氏骨病（Paget's disease of bone）**特徵為混亂的蝕骨與成骨活動（鏡下見拼圖樣骨水泥線 mosaic pattern）。在多骨型患者中約 1% 會發生惡性轉化，是臨床上**最常併發次發性肉瘤（secondary osteosarcoma，其次為 fibrosarcoma/chondrosarcoma）**的良性骨病變。",
+        "**(A) 正確【本題應選正解】**：`Paget’s disease` —— **柏哲德氏骨病（Paget's disease）**因長期劇烈且混亂的骨細胞增殖重塑，發生**次發性骨肉瘤（secondary sarcoma）**的風險較一般人高出數千倍，為老年次發性骨肉瘤最重要前驅病變。",
+        "**(B) 錯誤**：`Osteochondroma` —— 單發性骨軟骨瘤（osteochondroma）惡變成軟骨肉瘤的機率極低（<1%；多發性遺傳性骨疣 MHE 風險較高約 5–10%），仍低於多骨型 Paget's disease 作為經典考題配對。",
+        "**(C) 錯誤**：`Osteoma` —— 骨瘤（osteoma）為生長極緩慢的良性成熟骨腫瘤，幾乎不會惡性轉化為肉瘤。",
+        "**(D) 錯誤**：`Lipoma` —— 脂肪瘤（lipoma）為良性成熟脂肪腫瘤，極少（幾乎不）惡性轉化為脂肪肉瘤（liposarcoma 多為原發性）。",
+        "**(E) 錯誤**：`Nodular fasciitis` —— 結節性筋膜炎（nodular fasciitis）為常見於年輕成人前臂的良性反應性纖維母細胞增生（雖生長迅速易誤認為肉瘤，但具自限性且不會惡變為肉瘤）。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-30",
+      "globalIndex": 273,
+      "qNum": 30,
+      "origQ": "Q9",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "缺乏維生素 D 在成人會引起",
+      "image": null,
+      "options": {
+        "A": "Ricket",
+        "B": "Osteomalacia",
+        "C": "Osteoporosis",
+        "D": "Osteopetrosis",
+        "E": "Gout"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心骨病理考點：維生素 D 缺乏——佝僂病（Rickets）vs. 骨軟化症（Osteomalacia）】**：維生素 D 缺乏導致腸道鈣磷吸收減少與**類骨質（osteoid）礦化障礙**：在生長板未閉合的**兒童**引起**佝僂病（rickets，伴骨骼發育變形、串珠肋）**；在骨骺板已閉合的**成人**則引起**骨軟化症（osteomalacia，骨量正常但未礦化類骨質明顯增厚）**。",
+        "**(B) 正確【本題應選正解】**：`Osteomalacia` —— 成人骨骼已完成縱向生長但仍持續進行骨重塑；維生素 D 缺乏使新生類骨質無法正常鈣化沉積，引起**骨軟化症（osteomalacia）**，易有骨痛與假性骨折（Looser zones）。",
+        "**(A) 錯誤**：`Ricket` —— 佝僂病（rickets）為維生素 D 缺乏發生於生長板尚未閉合的**兒童與嬰幼兒**（引起膝內翻／外翻、方顱與佝僂病串珠），非成人診斷。",
+        "**(C) 錯誤**：`Osteoporosis` —— 骨質疏鬆症（osteoporosis）是礦化骨質「總量」減少，但殘存骨基質的礦化比例正常；骨軟化症則是「礦化異常」導致未鈣化類骨質過多。",
+        "**(D) 錯誤**：`Osteopetrosis` —— 大理石骨病（osteopetrosis）為遺傳性蝕骨細胞骨吸收障礙導致骨質異常緻密硬化，與維生素 D 缺乏無關。",
+        "**(E) 錯誤**：`Gout` —— 痛風（gout）為高尿酸血症引起單鈉尿酸鹽結晶沉積於關節，與維生素 D 缺乏無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-31",
+      "globalIndex": 274,
+      "qNum": 31,
+      "origQ": "Q10",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "Osteoma最常發生的部位是",
+      "image": null,
+      "options": {
+        "A": "Skull",
+        "B": "Spine",
+        "C": "Femur",
+        "D": "Pelvis",
+        "E": "Hand"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨瘤（Osteoma）好發部位與 Gardner 症候群】**：**骨瘤（osteoma）**為生長緩慢的良性成熟皮質骨突起，幾乎專一性好發於膜內骨化（intramembranous ossification）來源的**顱顏骨與副鼻竇（skull & paranasal sinuses，如額竇、篩竇與下頷骨）**；若呈多發性骨瘤，須高度懷疑合併大腸息肉的 **Gardner syndrome（APC 突變）**。",
+        "**(A) 正確【本題應選正解】**：`Skull` —— **顱骨與副鼻竇（skull）**是骨瘤（osteoma）最常見的好發部位，多為單發性、無症狀且界線清楚的高密度骨腫瘤。",
+        "**(B) 錯誤**：`Spine` —— 脊椎（特別是後弓 posterior elements）較常發生骨樣骨瘤（osteoid osteoma）或成骨細胞瘤（osteoblastoma），而非單純骨瘤（osteoma）。",
+        "**(C) 錯誤**：`Femur` —— 股骨（femur）等長骨為骨肉瘤（osteosarcoma）、骨軟骨瘤（osteochondroma）與骨樣骨瘤的好發部位，極少發生純骨瘤。",
+        "**(D) 錯誤**：`Pelvis` —— 骨盆（pelvis）為軟骨肉瘤（chondrosarcoma）與尤文氏肉瘤的常見好發位置，並非骨瘤好發部位。",
+        "**(E) 錯誤**：`Hand` —— 手部短管狀骨最常發生的良性骨軟骨腫瘤為**內生軟骨瘤（enchondroma / chondroma）**，而非骨瘤。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-32",
+      "globalIndex": 275,
+      "qNum": 32,
+      "origQ": "Q11",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "哪一種腫瘤會分泌PGE2，且可以用aspirin緩解",
+      "image": null,
+      "options": {
+        "A": "Osteoma",
+        "B": "Osteoid osteoma",
+        "C": "Osteoblastoma",
+        "D": "Osteochondroma",
+        "E": "Osteosarcoma"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨樣骨瘤（Osteoid Osteoma）vs. 成骨細胞瘤（Osteoblastoma）】**：**骨樣骨瘤（osteoid osteoma）**直徑小於 **2 cm**，好發於青少年長骨（特別是股骨與脛骨）皮質，腫瘤內成骨細胞大量分泌 **前列腺素 E2（PGE2）** 刺激周圍神經，引起特徵性**夜間加劇的劇痛，且可被阿斯匹靈（aspirin / NSAIDs）迅速緩解**；成骨細胞瘤（osteoblastoma）雖結構相似但大於 2 cm、好發脊椎且對 aspirin 反應差。",
+        "**(B) 正確【本題應選正解】**：`Osteoid osteoma` —— **骨樣骨瘤（osteoid osteoma）**（< 2 cm）大量分泌 **PGE2**，造成典型夜間骨痛並對 **aspirin（COX 抑制劑）**反應極佳，影像見中心透亮灶（nidus）合併周圍濃厚反應性硬化骨。",
+        "**(A) 錯誤**：`Osteoma` —— 骨瘤（osteoma）為顱顏骨良性成熟皮質骨突起，通常無痛且不會分泌大量 PGE2。",
+        "**(C) 錯誤**：`Osteoblastoma` —— 成骨細胞瘤（osteoblastoma）直徑 > 2 cm 且好發於脊椎後弓，雖組織學與骨樣骨瘤相似，但疼痛通常無法被 aspirin 有效緩解。",
+        "**(D) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）為帶軟骨帽的良性骨疣，多無症狀或僅因壓迫周圍結構不適，不以 PGE2 分泌與 aspirin 緩解為特徵。",
+        "**(E) 錯誤**：`Osteosarcoma` —— 骨肉瘤（osteosarcoma）為惡性骨腫瘤，造成進行性骨破壞與疼痛，無法藉由 aspirin 獲得典型緩解。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-33",
+      "globalIndex": 276,
+      "qNum": 33,
+      "origQ": "Q12",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 13-year-old boy had knee pain for a few months. Physical exam found tumor mass at right lower leg. X-ray showed an-illed defined, hetergenous osteolytic lesion in the metaphysis of proximal tibia and presence of codman triangle. Which of the following is the most possible diagnosis",
+      "image": null,
+      "options": {
+        "A": "Osteochondroma",
+        "B": "Chondrosarcoma",
+        "C": "Paget’s disease",
+        "D": "Fibrous dysplasia",
+        "E": "Osteosarcoma"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨肉瘤（Osteosarcoma）與 Codman 三角】**：原發性**骨肉瘤（osteosarcoma）**好發於 **10–20 歲青少年**膝關節周圍長骨的**幹骺端（metaphysis，如股骨遠端、脛骨近端）**。腫瘤穿透骨皮質並將骨膜頂起，在 X 光下形成骨膜反應性新骨三角形邊緣，稱為 **Codman triangle**（以及日光放射狀針刺樣 sunburst appearance）。",
+        "**(E) 正確【本題應選正解】**：`Osteosarcoma` —— 13 歲少年於脛骨近端幹骺端出現界線不清、異質性溶骨病灶合併 **Codman triangle**，為原發性**骨肉瘤（osteosarcoma）**最經典的臨床與影像表現。",
+        "**(A) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）雖亦好發於長骨幹骺端，但為良性帶軟骨帽的外生性骨疣（exostosis），不會呈現界線不清的溶骨破壞與 Codman triangle。",
+        "**(B) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤（chondrosarcoma）好發於 40 歲以上中老年人及中軸骨（骨盆、肩胛骨、近端股骨），極少發生於 13 歲少年脛骨近端。",
+        "**(C) 錯誤**：`Paget’s disease` —— 柏哲德氏骨病（Paget's disease）幾乎只見於中老年人（>50 歲），雖可併發次發性骨肉瘤，但不會是 13 歲少年的原發診斷。",
+        "**(D) 錯誤**：`Fibrous dysplasia` —— 纖維發育不良（fibrous dysplasia）為良性骨髓腔纖維化病變，X 光典型呈界線較清的毛玻璃狀（ground-glass）與牧羊人拐杖變形，無 Codman triangle。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-34",
+      "globalIndex": 277,
+      "qNum": 34,
+      "origQ": "Q13",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 25-year-old man has had pain in the right 2nd finger for two months. Findings include a well- defined osteolytic lesion in the middle phalanx of right 2nd finger . Histological sections show hyaline cartilage with mild cellular pleomorphism and atypia. These findings are most consistent with",
+      "image": null,
+      "options": {
+        "A": "Chondroma",
+        "B": "Chondrosarcoma",
+        "C": "Osteoid osteoma",
+        "D": "Osteochondroma",
+        "E": "Osteoma"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心骨病理考點：指骨內生軟骨瘤（Enchondroma / Chondroma）的良性診斷陷阱】**：**軟骨瘤／內生軟骨瘤（chondroma / enchondroma）**最常發生於年輕成人**手部或足部短管狀骨（如指骨 phalanges、掌骨）**。病理考點陷阱在於：手足短骨的軟骨瘤在顯微鏡下**允許出現輕度細胞密集與輕微非典型性（mild pleomorphism and atypia）**，只要影像界線清楚無皮質破壞，仍應診斷為良性 **Chondroma**，切忌過度診斷為軟骨肉瘤。",
+        "**(A) 正確【本題應選正解】**：`Chondroma` —— 年輕成人第二指中節指骨出現界線清楚的溶骨性病灶，鏡下為透明軟骨伴輕微細胞多形性，符合手部短骨良性**內生軟骨瘤（chondroma / enchondroma）**。",
+        "**(B) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤（chondrosarcoma）好發於中老年人中軸骨（骨盆、肋骨、肩胛骨）且具侵襲性皮質破壞；手足小骨即使鏡下見輕微 atypia 仍屬良性軟骨瘤，極少為軟骨肉瘤。",
+        "**(C) 錯誤**：`Osteoid osteoma` —— 骨樣骨瘤（osteoid osteoma）影像呈小於 2 cm 的透亮病灶（nidus）周圍包繞濃厚反應性硬化骨，鏡下為交織骨樣小樑而非透明軟骨。",
+        "**(D) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）為骨表面外生性突起（exostosis）覆蓋軟骨帽，而非位於指骨骨髓腔內的界線清楚溶骨性病灶。",
+        "**(E) 錯誤**：`Osteoma` —— 骨瘤（osteoma）好發於顱骨與副鼻竇，由緻密成熟板層骨構成，不會在指骨形成含透明軟骨的溶骨病灶。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-35",
+      "globalIndex": 278,
+      "qNum": 35,
+      "origQ": "Q14",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列哪一種腫瘤最常見於epiphysis",
+      "image": null,
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Osteochondroma",
+        "C": "Chondroblastoma",
+        "D": "Chondroma",
+        "E": "Osteoblastoma"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心骨病理考點：軟骨母細胞瘤（Chondroblastoma）好發部位與特徵】**：**軟骨母細胞瘤（chondroblastoma）**為少見的良性軟骨腫瘤，好發於 10–20 歲青少年，與成人骨巨細胞瘤相同，幾乎專一性好發於長骨（特別是股骨近端、肱骨近端與膝周）的**骨骺（epiphysis）**。組織學特徵為多角形軟骨母細胞周圍環繞「鐵絲網樣（chicken-wire）」鈣化基質及散在破骨樣巨細胞。",
+        "**(C) 正確【本題應選正解】**：`Chondroblastoma` —— **軟骨母細胞瘤（chondroblastoma）**為青少年最典型好發於長骨**骨骺（epiphysis）**的良性軟骨性腫瘤，鏡下具特徵性 chicken-wire 鈣化。",
+        "**(A) 錯誤**：`Osteosarcoma` —— 骨肉瘤（osteosarcoma）主要好發於青少年長骨的**幹骺端（metaphysis）**，而非骨骺。",
+        "**(B) 錯誤**：`Osteochondroma` —— 骨軟骨瘤（osteochondroma）好發於長骨**幹骺端（metaphysis）**表面，不會局限於骨骺內部。",
+        "**(D) 錯誤**：`Chondroma` —— 軟骨瘤（chondroma / enchondroma）最常發生於手足短管狀骨（指骨、掌骨）的**骨幹或幹骺端骨髓腔**，而非長骨骨骺。",
+        "**(E) 錯誤**：`Osteoblastoma` —— 成骨細胞瘤（osteoblastoma）最常發生於**脊椎後弓（posterior elements）**與長骨幹骺端／骨幹，非骨骺好發腫瘤。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-36",
+      "globalIndex": 279,
+      "qNum": 36,
+      "origQ": "Q15",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "哪一種症候群會表現 polyostotic fibrous dysplasia with café-au-lait spots and endocrine abnormality",
+      "image": null,
+      "options": {
+        "A": "Gardner syndrome",
+        "B": "Maffucci syndrome",
+        "C": "McCune-Albright syndrome",
+        "D": "Marfan syndrome",
+        "E": "Plummer-Vinson syndrome"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心骨病理考點：McCune-Albright 症候群】**：源於胚胎早期體細胞 **`GNAS1` 基因（Gsα 蛋白）功能獲得性突變**（呈鑲嵌型分布 mosaicism，故不遺傳給下一代），典型三聯徵為：**多骨性纖維發育不良（polyostotic fibrous dysplasia）、邊緣如緬因州海岸鋸齒狀的牛奶咖啡斑（café-au-lait spots）及內分泌功能亢進（最常見女性性早熟 precocious puberty）**。",
+        "**(C) 正確【本題應選正解】**：`McCune-Albright syndrome` —— **McCune-Albright syndrome** 由體細胞 GNAS1 突變造成 cAMP 持續活化，同時引發**多骨性纖維發育不良、牛奶咖啡斑及內分泌亢進**。",
+        "**(A) 錯誤**：`Gardner syndrome` —— Gardner syndrome（APC 突變）表現為骨瘤、表皮囊腫、硬纖維瘤與大腸家族性腺瘤性息肉症（FAP），非纖維發育不良與牛奶咖啡斑。",
+        "**(B) 錯誤**：`Maffucci syndrome` —— Maffucci syndrome 表現為多發性內生軟骨瘤合併軟組織血管瘤（與咖啡斑及內分泌亢進無關）。",
+        "**(D) 錯誤**：`Marfan syndrome` —— Marfan syndrome（FBN1 突變）表現為細長體型、晶狀體半脫位與主動脈瘤，無纖維發育不良或咖啡斑三聯徵。",
+        "**(E) 錯誤**：`Plummer-Vinson syndrome` —— Plummer-Vinson syndrome 表現為缺鐵性貧血、食道蹼與吞嚥困難，與骨骼纖維發育不良無關。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-37",
+      "globalIndex": 280,
+      "qNum": 37,
+      "origQ": "Q16",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 10-year-old boy has a bone tumor in the diaphysis of femur. Biopsy specimen shows diffuse infiltration of small round cells mimicking leukemia or lymphoma. The most possible diagnosis is",
+      "image": null,
+      "options": {
+        "A": "Osteosarcoma",
+        "B": "Chondrosarcoma",
+        "C": "Liposarcoma",
+        "D": "Synovial sarcoma",
+        "E": "Ewing sarcoma/PNET"
+      },
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "answerDisplay": "(E)",
+      "explanations": [
+        "📘 **【核心骨病理考點：尤文氏肉瘤（Ewing Sarcoma / PNET）】**：**尤文氏肉瘤**好發於 10–20 歲兒童與青少年，是少數典型好發於長骨**骨幹（diaphysis，如股骨骨幹）**及骨盆的惡性骨腫瘤。組織學為形態均一的**小圓藍細胞（small round blue cells）**瀰漫性浸潤（有時形成 Homer-Wright rosettes），細胞質含肝醣（PAS 陽性），且約 85% 具 **`t(11;22)(q24;q12)`（EWSR1-FLI1 融合基因）**。",
+        "**(E) 正確【本題應選正解】**：`Ewing sarcoma/PNET` —— 10 歲男童股骨**骨幹（diaphysis）**腫瘤合併瀰漫性**小圓藍細胞（small round cells）**浸潤（外觀類似白血病／淋巴瘤），為 **Ewing sarcoma / PNET** 的標準題型。",
+        "**(A) 錯誤**：`Osteosarcoma` —— 骨肉瘤好發於幹骺端（metaphysis），組織學以多形性紡錘或骨母細胞直接產生腫瘤性類骨質（osteoid）為診斷特徵，非均一小圓藍細胞。",
+        "**(B) 錯誤**：`Chondrosarcoma` —— 軟骨肉瘤好發於中老年人中軸骨，鏡下為惡性軟骨細胞位於軟骨陷窩內並伴軟骨基質，不會呈小圓藍細胞浸潤。",
+        "**(C) 錯誤**：`Liposarcoma` —— 脂肪肉瘤（liposarcoma）為軟組織惡性腫瘤，鏡下特徵為含有脂質空泡壓迫細胞核的脂肪母細胞（lipoblasts），非兒童股骨幹原發骨腫瘤。",
+        "**(D) 錯誤**：`Synovial sarcoma` —— 滑膜肉瘤（synovial sarcoma）主要發生於年輕成人關節附近深部軟組織（如膝周），具雙相或單相梭狀細胞形態與 `t(X;18)` 轉位，非兒童骨幹原發病灶。"
+      ]
+    },
+    {
+      "id": "1021_BonePath-38",
+      "globalIndex": 281,
+      "qNum": 38,
+      "origQ": "Q38",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Chondroblastoma 好發的位置是",
+      "image": null,
+      "options": {
+        "A": "Diaphysis",
+        "B": "Metaphysis",
+        "C": "Epiphysis",
+        "D": "All of above",
+        "E": "None of above"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心骨病理考點：骨骺（Epiphysis）好發腫瘤雙雄】**：長骨各部位對應之經典好發腫瘤：(1) **骨骺（Epiphysis）**：成人為**骨巨細胞瘤（giant cell tumor）**，兒童／青少年為**軟骨母細胞瘤（chondroblastoma）**（鏡下具「鐵絲網樣 chicken-wire」鈣化）；(2) **幹骺端（Metaphysis）**：Osteosarcoma、Osteochondroma；(3) **骨幹（Diaphysis）**：Ewing sarcoma、Adamantinoma。",
+        "**(C) 正確【本題應選正解】**：`Epiphysis` —— **軟骨母細胞瘤（chondroblastoma）**幾乎專一性好發於兒童及青少年長骨（如膝關節周圍）的**骨骺（epiphysis）**或骨突（apophysis）。",
+        "**(A) 錯誤**：`Diaphysis` —— 長骨骨幹（diaphysis）為尤文氏肉瘤（Ewing sarcoma）、造釉細胞瘤（adamantinoma）及纖維發育不良的常見好發位置。",
+        "**(B) 錯誤**：`Metaphysis` —— 長骨幹骺端（metaphysis）血供豐富、生長活躍，是骨肉瘤（osteosarcoma）、骨軟骨瘤（osteochondroma）與簡單骨囊腫的好發部位。",
+        "**(D) 錯誤**：`All of above` —— 軟骨母細胞瘤具有高度解剖部位專一性（好發於骨骺），並非均勻分布於骨幹、幹骺端與骨骺。",
+        "**(E) 錯誤**：`None of above` —— 軟骨母細胞瘤明確好發於骨骺（Epiphysis），故本選項錯誤。"
+      ],
+      "prof": "張凱博 醫師（M65 舊彙編補充）"
+    },
+    {
+      "id": "1021_BonePath-39",
+      "globalIndex": 282,
+      "qNum": 39,
+      "origQ": "Q39",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Each of the following statements regarding Paget disease are CORRECT EXCEPT",
+      "image": null,
+      "options": {
+        "A": "characterized by abnormal osteoclastic reabsorption",
+        "B": "may result from paramyxovirus infection",
+        "C": "complicated by bone deformity and fracture",
+        "D": "more common in east country"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心骨病理考點：Paget's Disease of Bone 流行病學與病理特徵】**：柏哲德氏骨病（Paget's disease of bone）包含三期變化（溶骨期→混合期→硬化期），疑與慢性**副黏液病毒（paramyxovirus）**感染蝕骨細胞前驅物有關，表現異常蝕骨吸收與混亂骨形成（mosaic pattern），易併發骨變形、骨折、高輸出心衰竭及次發性骨肉瘤。流行病學上好發於**歐美高加索族群（特別是英國、澳洲、北美），在亞洲東方國家極為罕見**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`more common in east country` —— Paget's disease 好發於**歐美西方國家**（60 歲以上白人盛行率可達 1–3%），在亞洲東方國家極少見；故本選項敘述錯誤，為本題正解。",
+        "**(A) 敘述正確（非本題所求）**：`characterized by abnormal osteoclastic reabsorption` —— Paget's disease 早期即以極度亢進且異常的**蝕骨細胞骨吸收（abnormal osteoclastic resorption）**為特徵，隨後引發代償性混亂成骨。",
+        "**(B) 敘述正確（非本題所求）**：`may result from paramyxovirus infection` —— 研究在 Paget's disease 患者蝕骨細胞核內發現類似**副黏液病毒（paramyxovirus，如麻疹病毒或犬瘟熱病毒）**之核衣殼包涵體，推測病毒感染可能參與致病。",
+        "**(C) 敘述正確（非本題所求）**：`complicated by bone deformity and fracture` —— 因新生骨為結構脆弱的編織骨與混亂板層骨，常併發**骨骼變形（如脛骨弓形變 sabre shin、頭圍增大）與病理性骨折**。"
+      ],
+      "prof": "張凱博 醫師（M65 舊彙編補充）"
+    },
+    {
+      "id": "1021_BonePath-40",
+      "globalIndex": 283,
+      "qNum": 40,
+      "origQ": "Q40",
+      "year": "111 學年度（M65 彙編）",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Gouty arthritis 最常發生的位置是",
+      "image": null,
+      "options": {
+        "A": "Knee",
+        "B": "Wrist",
+        "C": "Elbow",
+        "D": "1st metatarsophalangeal joint",
+        "E": "Heel"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心骨病理考點：痛風性關節炎（Gouty Arthritis）與 Podagra】**：急性痛風性關節炎因周邊遠端關節體溫較低，尿酸鈉（MSU）結晶溶解度下降而最易沉積，約 50% 以上首次發作位於**大腳趾的第一蹠趾關節（1st metatarsophalangeal joint, 1st MTP joint）**，臨床上特稱為 **Podagra**；關節液偏光顯微鏡可見針狀負雙折射（negatively birefringent）結晶。",
+        "**(D) 正確【本題應選正解】**：`1st metatarsophalangeal joint` —— **第一蹠趾關節（1st MTP joint）**因位於肢體最遠端、溫度較低且承受步行微創傷，是痛風性關節炎（Podagra）最經典且最常發作的關節。",
+        "**(A) 錯誤**：`Knee` —— 膝關節（knee）是**假性痛風（pseudogout / CPPD，正雙折射菱形焦磷酸鈣結晶）**最常侵犯的關節，痛風雖亦可影響膝關節，但不如第一蹠趾關節最具代表性且最常見。",
+        "**(B) 錯誤**：`Wrist` —— 腕關節（wrist）為假性痛風與類風濕性關節炎的常見侵犯部位，非急性痛風首發最常發生之位置。",
+        "**(C) 錯誤**：`Elbow` —— 手肘鷹嘴突（olecranon）常為痛風石（tophi）或類風濕結節（rheumatoid nodules）的皮膚下好發位置，而非急性痛風性關節炎最常發作之關節。",
+        "**(E) 錯誤**：`Heel` —— 足跟（heel）疼痛較常見於足底筋膜炎或血清陰性脊椎關節病變的接骨點炎（enthesitis），非痛風性關節炎最常侵犯關節。"
+      ],
+      "prof": "張凱博 醫師（M65 舊彙編補充）"
+    }
+  ]
+}

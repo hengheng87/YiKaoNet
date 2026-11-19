@@ -1,0 +1,64 @@
+/* === 行動端頁首滑動隱藏動畫 === */
+header.sticky {
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.28s ease;
+  will-change: transform;
+}
+@media (max-width: 1024px) {
+  header.sticky.header-scroll-hidden {
+    transform: translateY(-105%);
+    box-shadow: none;
+    pointer-events: none;
+  }
+}
+
+/* === 跳轉目標題卡高亮呼吸外框 === */
+@keyframes resumeCardPulse {
+  0% { box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.55); border-color: #4f46e5; }
+  50% { box-shadow: 0 0 0 6px rgba(79, 70, 229, 0.18); border-color: #4f46e5; }
+  100% { box-shadow: 0 0 0 0 rgba(79, 70, 229, 0); }
+}
+.resume-target-highlight {
+  border-color: #4f46e5 !important;
+  animation: resumeCardPulse 1.8s ease-out 2;
+}
+
+/* === 底部續讀浮動提示列 === */
+#resumeFloatingBar {
+  position: fixed;
+  left: 50%;
+  bottom: 1rem;
+  transform: translateX(-50%);
+  z-index: 45;
+  width: calc(100% - 1.5rem);
+  max-width: 38rem;
+  background: rgba(15, 23, 42, 0.96);
+  color: #f8fafc;
+  border: 1px solid #334155;
+  border-radius: 0.875rem;
+  padding: 0.625rem 0.875rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.625rem;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+#resumeFloatingBar.bar-hidden {
+  opacity: 0;
+  transform: translate(-50%, 1.25rem);
+  pointer-events: none;
+}
+
+/* === 雲端同步狀態點 === */
+.sync-dot {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 9999px;
+}
+.sync-dot-off { background-color: #94a3b8; }
+.sync-dot-syncing { background-color: #f59e0b; }
+.sync-dot-synced { background-color: #10b981; }
+.sync-dot-error { background-color: #f43f5e; }

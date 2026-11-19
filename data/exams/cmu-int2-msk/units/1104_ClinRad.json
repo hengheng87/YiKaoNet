@@ -1,0 +1,432 @@
+{
+  "unitCode": "1104_ClinRad",
+  "unitTitle": "11/04 臨床診斷學：骨科放射影像評估",
+  "session": "B",
+  "subject": "ClinDiag",
+  "subjectTitle": "臨床診斷學 (一)",
+  "prof": "陳潓誼 醫師",
+  "examRange": "B卷 Q61–68（8題）",
+  "unitUrl": "https://drive.google.com/file/d/1p1AXCaRfuGQYeTNoFBX_42Tl-JHT1CxK",
+  "questions": [
+    {
+      "id": "1104_ClinRad-1",
+      "globalIndex": 526,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "磁振造影（MRI）檢查的禁忌症何者為是：",
+      "image": null,
+      "options": {
+        "A": "心臟節律器",
+        "B": "含鐵支架",
+        "C": "幽閉恐懼症",
+        "D": "以上皆是"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：磁振造影（MRI）常見禁忌症】**：傳統非相容性**心臟節律器（pacemaker）**（強磁場可能導致電路異常或導線發熱）、**含鐵磁性金屬支架或顱內動脈瘤夾**（磁力吸引移位或生熱），以及嚴重**幽閉恐懼症（claustrophobia）**無法配合躺臥密閉空間，皆屬於 MRI 檢查禁忌症或相對禁忌症。",
+        "**(D) 正確【本題應選正解】**：`以上皆是` —— 上述三項皆為 MRI 檢查之重要禁忌症，故選 **(D) 以上皆是**。",
+        "**(A) 錯誤**：`心臟節律器` —— 傳統心臟節律器在強磁場下可能發生功能失靈或電極發熱灼傷心肌（僅特定 MRI 相容型需經嚴格設定後才可檢查），確為禁忌症之一。",
+        "**(B) 錯誤**：`含鐵支架` —— 含鐵磁性金屬（ferromagnetic）植入物在強磁場中可能產生位移或感應電流發熱，確為禁忌症之一。",
+        "**(C) 錯誤**：`幽閉恐懼症` —— MRI 檢查孔道狹長且時間較長（常需 20–40 分鐘），嚴重幽閉恐懼症患者無法配合完成檢查，確為臨床檢查禁忌之一。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-2",
+      "globalIndex": 527,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關超音波的敘述與應用何者為非？",
+      "image": null,
+      "options": {
+        "A": "診斷軟組織腫瘤",
+        "B": "診斷肌肉血腫或斷裂",
+        "C": "使用時有輻射線",
+        "D": "診斷韌帶損傷"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨骼肌肉超音波（Musculoskeletal Ultrasound）】**：超音波利用高頻聲波（> 20 kHz）在不同組織界面的反射成像，**完全沒有游離輻射線**（安全、可反覆追蹤及用於孕婦兒童），適合即時動態評估**軟組織腫瘤、肌肉血腫／斷裂及韌帶／肌腱損傷**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`使用時有輻射線` —— 超音波採用機械聲波而非 X 光等游離輻射，**使用時完全沒有輻射線**，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`診斷軟組織腫瘤` —— 超音波可清楚區分表淺軟組織腫瘤為囊腫（液體）或實質性腫塊及其血流訊號，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`診斷肌肉血腫或斷裂` —— 超音波可即時評估肌肉纖維連續性中斷與血腫積液範圍，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`診斷韌帶損傷` —— 高頻線性探頭可高解析度掃描表淺韌帶與肌腱（如旋轉肌袖、跟腱、側副韌帶）撕裂，敘述正確。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-3",
+      "globalIndex": 528,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "將對比劑注入關節腔進行 X光檢查稱之為？",
+      "image": null,
+      "options": {
+        "A": "關節腔攝影（arthrography）",
+        "B": "對比劑攝影",
+        "C": "脊髓腔攝影（myelography）",
+        "D": "以上皆是"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：關節腔攝影（Arthrography）與脊髓腔攝影（Myelography）】**：將水溶性對比劑（或空氣／釓劑）注入**關節腔**進行 X 光或 MRI 檢查稱為**關節腔攝影（Arthrography）**，可評估關節軟骨、盂唇、半月板與旋轉肌袖撕裂；若將對比劑注入蜘蛛膜下腔檢查脊髓與神經根壓迫則稱為**脊髓腔攝影（Myelography）**。",
+        "**(A) 正確【本題應選正解】**：`關節腔攝影（arthrography）` —— 將對比劑直接注入關節腔內再進行 X 光（或 CT/MRI）檢查，稱為**關節腔攝影（Arthrography）**。",
+        "**(B) 錯誤**：`對比劑攝影` —— 「對比劑攝影」為過度籠統的俗稱，專指關節腔內注射對比劑的醫學專有名稱應為 **關節腔攝影（Arthrography）**。",
+        "**(C) 錯誤**：`脊髓腔攝影（myelography）` —— **脊髓腔攝影（Myelography）**是將對比劑注入脊椎的蜘蛛膜下腔（硬膜囊內）來評估脊髓與神經根壓迫，而非注入關節腔！",
+        "**(D) 錯誤**：`以上皆是` —— 因脊髓腔攝影（Myelography）並非注入關節腔，故不可選以上皆是。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-4",
+      "globalIndex": 529,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "可以用來診斷骨折或骨挫傷（bone contusion）的影像工具何者為是？",
+      "image": null,
+      "options": {
+        "A": "電腦斷層（CT）",
+        "B": "普通X光片（radiography）",
+        "C": "磁振造影（MRI）",
+        "D": "以上皆是"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨折與骨挫傷（Bone Contusion）影像工具選擇】**：(1) **普通 X 光片**：第一線篩檢顯著骨折；(2) **電腦斷層（CT）**：精確評估複雜關節內骨折或 X 光未明之骨折；(3) **磁振造影（MRI）**：偵測骨髓水腫與隱匿性骨折／**骨挫傷（bone contusion，X 光與 CT 往往看不見）**的黃金標準。",
+        "**(D) 正確【本題應選正解】**：`以上皆是` —— CT、普通 X 光片與 MRI 在臨床上皆可用於診斷不同類型之骨折或骨挫傷，故選 **(D) 以上皆是**。",
+        "**(A) 錯誤**：`電腦斷層（CT）` —— CT 可提供高解析度三維骨皮質重組，清楚顯示細微或複雜關節內骨折，但因單獨選項未涵蓋骨挫傷最佳工具 MRI，應選 (D)。",
+        "**(B) 錯誤**：`普通X光片（radiography）` —— 普通 X 光片為骨折初步篩檢首選，但對無移位細微骨折與骨挫傷靈敏度低。",
+        "**(C) 錯誤**：`磁振造影（MRI）` —— MRI 是診斷骨挫傷（bone contusion / 骨髓水腫）與隱匿骨折最敏感的工具，但臨床骨折評估亦包含 X 光與 CT。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-5",
+      "globalIndex": 530,
+      "qNum": 5,
+      "origQ": "Q5",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "已停經的 65歲婦女，DXA測量骨質密度測定脊椎 L1至 L4測量 T- score：-2.8，依照 WHO criteria，她的骨質密度屬於？",
+      "image": null,
+      "options": {
+        "A": "正常骨量（normal）",
+        "B": "骨質缺乏（osteopenia）/低骨量（low bone mass）",
+        "C": "骨質疏鬆症（osteoporosis）",
+        "D": "以上皆非"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨質疏鬆症黃金診斷工具（DXA）與 WHO T-score 判讀標準】**：診斷骨質疏鬆症的黃金標準（gold standard）為**雙能量 X 光吸收儀（Dual-energy X-ray Absorptiometry, DXA）**測量腰椎（L1–L4）與近端股骨（Femoral neck / Total hip）。依據 WHO 標準：**① 正常骨量（Normal）：T-score ≥ -1.0**；**② 骨質缺乏／低骨量（Osteopenia / Low bone mass）：-2.5 < T-score < -1.0**；**③ 骨質疏鬆症（Osteoporosis）：T-score ≤ -2.5**（本題 T-score = -2.8 ≤ -2.5，屬於骨質疏鬆症）。",
+        "**(C) 正確【本題應選正解】**：`骨質疏鬆症（osteoporosis）` —— 依據世界衛生組織（WHO）骨質密度診斷標準，**T-score ≤ -2.5** 即診斷為**骨質疏鬆症（Osteoporosis）**（本例 T-score = -2.8 ≤ -2.5）。",
+        "**(A) 錯誤**：`正常骨量（normal）` —— 正常骨量（Normal）的 WHO 標準為 **T-score ≥ -1.0**。",
+        "**(B) 錯誤**：`骨質缺乏（osteopenia）/低骨量（low bone mass）` —— 骨質缺乏／低骨量（Osteopenia / Low bone mass）的 WHO 標準為 **-2.5 < T-score < -1.0**（本例 -2.8 已低於 -2.5，達骨質疏鬆症標準）。",
+        "**(D) 錯誤**：`以上皆非` —— T-score = -2.8 明確符合 WHO 定義的骨質疏鬆症（≤ -2.5），故非以上皆非。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-6",
+      "globalIndex": 531,
+      "qNum": 6,
+      "origQ": "Q6",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關骨折（bone fracture）何者是正確的？",
+      "image": null,
+      "options": {
+        "A": "對於骨折不明確但又不能排除者，可以做電腦斷層（CT）檢查",
+        "B": "用骨骼掃描（bone scan）輔助診斷",
+        "C": "普通X光攝影能會有骨折線或骨頭間隙",
+        "D": "以上皆是"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨折多模態影像診斷】**：(1) **普通 X 光攝影**：第一線檢查，直接觀察骨折線或骨間隙；(2) **電腦斷層（CT）**：針對 X 光不明確但臨床不能排除之骨折進一步確診；(3) **核醫骨骼掃描（Bone scan）**：利用 Tc-99m MDP 偵測早期應力性骨折或隱匿性骨病灶。",
+        "**(D) 正確【本題應選正解】**：`以上皆是` —— 上述三項影像工具與判讀原則皆正確，故選 **(D) 以上皆是**。",
+        "**(A) 錯誤**：`對於骨折不明確但又不能排除者，可以做電腦斷層（CT）檢查` —— 臨床懷疑骨折但 X 光陰性或重疊不清時（如骨盆、腕骨、脊椎），CT 是標準進階確認工具，敘述正確。",
+        "**(B) 錯誤**：`用骨骼掃描（bone scan）輔助診斷` —— 核醫骨骼掃描可偵測成骨代謝活性升高，常用於輔助診斷早期疲勞性骨折，敘述正確。",
+        "**(C) 錯誤**：`普通X光攝影能會有骨折線或骨頭間隙` —— 普通 X 光是最基本且快速的骨折影像，可見透亮骨折線或皮質不連續間隙，敘述正確。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-7",
+      "globalIndex": 532,
+      "qNum": 7,
+      "origQ": "Q7",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "診斷膝關節的半月板損傷（meniscus tear）最佳工具？",
+      "image": null,
+      "options": {
+        "A": "普通X光片",
+        "B": "電腦斷層（CT）",
+        "C": "磁振造影（MRI）",
+        "D": "骨骼掃描（bone scan）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：膝關節半月板撕裂（Meniscus Tear）最佳影像工具】**：半月板由纖維軟骨構成，在普通 X 光與一般 CT 上無法直接清晰顯影；**磁振造影（MRI）**具備極佳的軟組織對比解像力且無游離輻射，能清晰呈現半月板內部訊號異常與撕裂形態，是診斷半月板損傷的**最佳首選非侵入性工具**。",
+        "**(C) 正確【本題應選正解】**：`磁振造影（MRI）` —— **磁振造影（MRI）**對軟骨、半月板、韌帶與肌腱等軟組織對比極佳，是診斷膝關節半月板損傷的最佳工具。",
+        "**(A) 錯誤**：`普通X光片` —— 普通 X 光片僅能顯示骨性結構與關節間隙寬度變化，無法直接顯影纖維軟骨性的半月板。",
+        "**(B) 錯誤**：`電腦斷層（CT）` —— CT 對骨骼與急性出血解析度高，但對半月板與韌帶等軟組織的對比解像力遠不如 MRI。",
+        "**(D) 錯誤**：`骨骼掃描（bone scan）` —— 核醫骨骼掃描主要偵測骨代謝活性增強（如轉移癌、骨髓炎或隱匿骨折），無法評估半月板撕裂。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-8",
+      "globalIndex": 533,
+      "qNum": 8,
+      "origQ": "Q8",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "何者可以用來診斷旋轉肌腱撕裂（rotator cuff tear）的工具？",
+      "image": null,
+      "options": {
+        "A": "關節腔攝影（arthrography）",
+        "B": "超音波（sonography）",
+        "C": "磁振造影（MRI）",
+        "D": "以上皆是"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：旋轉肌腱撕裂（Rotator Cuff Tear）影像工具】**：(1) **關節腔攝影（Arthrography）**：傳統檢查，注射對比劑後若滲漏至肩峰下滑囊即確診全層撕裂；(2) **超音波（Sonography）**：無輻射且可動態評估肌腱缺損；(3) **磁振造影（MRI）**：評估撕裂範圍、肌腱回縮與肌肉萎縮最全面。",
+        "**(D) 正確【本題應選正解】**：`以上皆是` —— 關節腔攝影、超音波與磁振造影三者皆可用於診斷旋轉肌腱撕裂，故選 **(D) 以上皆是**。",
+        "**(A) 錯誤**：`關節腔攝影（arthrography）` —— 關節腔攝影（或 MR arthrography）可偵測關節液／對比劑經肌腱破洞滲漏，可用於診斷旋轉肌腱撕裂。",
+        "**(B) 錯誤**：`超音波（sonography）` —— 高解析度肌肉骨骼超音波可快速動態診斷棘上肌等旋轉肌袖撕裂，可用於診斷。",
+        "**(C) 錯誤**：`磁振造影（MRI）` —— MRI 對軟組織解析度極佳，為評估旋轉肌腱部分或全層撕裂的重要標準工具。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-9",
+      "globalIndex": 534,
+      "qNum": 9,
+      "origQ": "Q9",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "骨質疏鬆症的診斷黃金標準的工具？",
+      "image": null,
+      "options": {
+        "A": "關節腔攝影（arthrography）",
+        "B": "雙能量X光吸收儀（Dual energy X-ray Absorptiometry, DXA）",
+        "C": "磁振造影（MRI）",
+        "D": "以上皆是"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨質疏鬆症黃金診斷標準（DXA）】**：**雙能量 X 光吸收儀（DXA / DEXA）**利用兩種不同能量 X 光穿透骨骼與軟組織的衰減差異，精確定量腰椎與髖部骨礦物質密度（BMD），**T-score ≤ -2.5** 即確診骨質疏鬆症。",
+        "**(B) 正確【本題應選正解】**：`雙能量X光吸收儀（Dual energy X-ray Absorptiometry, DXA）` —— **DXA（雙能量 X 光吸收儀）**是目前國際公認診斷骨質疏鬆症的黃金標準（gold standard）。",
+        "**(A) 錯誤**：`關節腔攝影（arthrography）` —— 關節腔攝影用於檢查關節囊與肌腱／軟骨撕裂，無法測量骨密度。",
+        "**(C) 錯誤**：`磁振造影（MRI）` —— MRI 用於檢查脊柱壓迫性骨折之急性水腫或軟組織病變，非骨密度定量黃金標準。",
+        "**(D) 錯誤**：`以上皆是` —— 僅 DXA 為骨質疏鬆症之診斷黃金標準，故本選項錯誤。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-10",
+      "globalIndex": 535,
+      "qNum": 10,
+      "origQ": "Q10",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "有關磁振造影（MRI）何者為是：",
+      "image": null,
+      "options": {
+        "A": "裝有骨內固定裝置絕對不能做MRI檢查",
+        "B": "金屬骨內固定裝置會產生假影",
+        "C": "有輻射傷害",
+        "D": "只能有單一切面與影像序列"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：磁振造影（MRI）特性與金屬假影】**：(1) MRI 利用磁場與無線電波成像，**無游離輻射傷害**；(2) 可進行**多切面（矢狀、冠狀、軸位）與多種序列（T1、T2、STIR）**掃描；(3) 非鐵磁性（如鈦合金）現代骨科內固定物通常在術後仍可安全進行 MRI，但**金屬內固定裝置會造成局部磁場不均而產生假影（artifact）**。",
+        "**(B) 正確【本題應選正解】**：`金屬骨內固定裝置會產生假影` —— 金屬植入物會干擾局部靜磁場均勻性，在 MRI 影像上造成訊號缺失或幾何變形等**金屬假影（metal artifact）**。",
+        "**(A) 錯誤**：`裝有骨內固定裝置絕對不能做MRI檢查` —— 現代多數骨科內固定（如鈦合金）屬非鐵磁性或 MRI 條件相容，並非「絕對」不能做 MRI 檢查（傳統心臟節律器或鐵磁性顱內動脈瘤夾才是絕對禁忌）。",
+        "**(C) 錯誤**：`有輻射傷害` —— MRI 利用核磁共振原理與無線電波成像，**完全沒有游離輻射傷害**。",
+        "**(D) 錯誤**：`只能有單一切面與影像序列` —— MRI 最大優勢之一即是無須移動病人即可直接取得**多切面（multiplanar）**影像及 T1、T2 等**多種影像序列**。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-11",
+      "globalIndex": 536,
+      "qNum": 11,
+      "origQ": "Q11",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "What is the gold standard tool for diagnosing osteoporosis?",
+      "image": null,
+      "options": {
+        "A": "arthrography",
+        "B": "Dual-energy X-ray absorptiometry（DXA）",
+        "C": "Magnetic resonance imaging （MRI）",
+        "D": "All of the above"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨質疏鬆症黃金診斷工具（DXA）】**：WHO 定義診斷骨質疏鬆症的黃金標準（gold standard）為**雙能量 X 光吸收儀（DXA / DEXA）**量測腰椎與髖部骨密度（BMD）：**T-score ≤ -2.5** 診斷為骨質疏鬆症（-1.0 ~ -2.5 為骨質缺乏 osteopenia）。",
+        "**(B) 正確【本題應選正解】**：`Dual-energy X-ray absorptiometry（DXA）` —— **雙能量 X 光吸收儀（DXA）**可精確定量腰椎與股骨頸骨礦物質密度（BMD）並計算 T-score，為診斷骨質疏鬆症的黃金標準。",
+        "**(A) 錯誤**：`arthrography` —— 關節腔攝影（arthrography）是將對比劑注入關節腔以評估關節囊、盂唇或肌腱撕裂，無法量測骨密度。",
+        "**(C) 錯誤**：`Magnetic resonance imaging （MRI）` —— MRI 主要用於評估軟組織與骨髓水腫／壓迫性骨折，不能作為骨質疏鬆症的標準骨密度定量工具。",
+        "**(D) 錯誤**：`All of the above` —— 關節腔攝影與 MRI 皆非診斷骨質疏鬆症的黃金標準工具，僅 DXA 為標準。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-12",
+      "globalIndex": 537,
+      "qNum": 12,
+      "origQ": "Q12",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following is correct regarding bone fracture?",
+      "image": null,
+      "options": {
+        "A": "For fractures that are unclear but cannot be ruled out, a computed tomography（CT）scan can be performed.",
+        "B": "A bone scan can be used to assist in diagnosis.",
+        "C": "A regular X-ray can show a fracture line or a gap between bones.",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨折（Bone Fracture）多模態影像診斷策略】**：(1) **普通 X 光（Plain X-ray）**：第一線篩檢工具，可顯示骨折線或骨頭間隙；(2) **電腦斷層（CT）**：針對 X 光不明確但臨床高度懷疑之隱匿骨折或複雜關節內骨折進行確認；(3) **骨骼掃描（Bone scan）**：高靈敏度輔助偵測早期疲勞性／壓力性骨折。",
+        "**(D) 正確【本題應選正解】**：`All of the above` —— 上述三項影像學應用（X 光初篩、CT 確診疑難骨折、Bone scan 輔助偵測）皆正確，故選 **(D) All of the above**。",
+        "**(A) 錯誤**：`For fractures that are unclear but cannot be ruled out, a computed tomography（CT）scan can be performed.` —— X 光片無法看清但臨床高度懷疑骨折（如舟狀骨、骨盆或複雜關節面骨折）時，可安排高解析 **CT** 進一步確認。",
+        "**(B) 錯誤**：`A bone scan can be used to assist in diagnosis.` —— 核醫骨骼掃描（bone scan）對早期壓力性骨折（stress fracture）具高靈敏度，可輔助診斷。",
+        "**(C) 錯誤**：`A regular X-ray can show a fracture line or a gap between bones.` —— 普通 X 光片是最基本且第一線的骨折評估工具，可直接顯示骨折線或骨碎片間隙。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-13",
+      "globalIndex": 538,
+      "qNum": 13,
+      "origQ": "Q13",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "What is the best tool for diagnosing meniscus tears in the knee joint?",
+      "image": null,
+      "options": {
+        "A": "regular X-ray",
+        "B": "computed tomography",
+        "C": "Magnetic resonance imaging（MRI）",
+        "D": "bone scan"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：膝關節半月板撕裂（Meniscus Tear）最佳影像工具】**：半月板由纖維軟骨構成，在普通 X 光與一般 CT 上無法直接清晰顯影；**磁振造影（MRI）**具備極佳的軟組織對比解像力且無游離輻射，能清晰呈現半月板內部訊號異常與撕裂形態，是診斷半月板損傷的**最佳首選非侵入性工具**。",
+        "**(C) 正確【本題應選正解】**：`Magnetic resonance imaging（MRI）` —— **磁振造影（MRI）**具優異的軟組織與軟骨對比解像力，是診斷膝半月板撕裂（meniscus tear）的最佳工具。",
+        "**(A) 錯誤**：`regular X-ray` —— 普通 X 光（regular X-ray）只能評估骨折或關節退化間隙狹窄，無法直接看見半月板撕裂。",
+        "**(B) 錯誤**：`computed tomography` —— 電腦斷層（CT）對軟組織與纖維軟骨對比度有限，並非診斷半月板撕裂的首選工具。",
+        "**(D) 錯誤**：`bone scan` —— 骨骼掃描（bone scan）反映成骨代謝變化，無法診斷纖維軟骨半月板損傷。"
+      ]
+    },
+    {
+      "id": "1104_ClinRad-14",
+      "globalIndex": 539,
+      "qNum": 14,
+      "origQ": "Q14",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which tool can be used to diagnose rotator cuff tears?",
+      "image": null,
+      "options": {
+        "A": "Arthrography",
+        "B": "Sonography",
+        "C": "Magnetic resonance imaging（MRI）",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：旋轉肌腱撕裂（Rotator Cuff Tear）影像工具】**：臨床上可用於診斷旋轉肌袖撕裂的工具包含：**關節腔攝影（arthrography，見對比劑外漏至肩峰下滑囊）、高解析度超音波（sonography，可動態掃描肌腱缺損）與磁振造影（MRI，全面評估撕裂大小與肌肉脂肪浸潤程度）**。",
+        "**(D) 正確【本題應選正解】**：`All of the above` —— Arthrography、Sonography 與 MRI 皆為臨床可用於診斷旋轉肌腱撕裂的影像工具，故選 **(D) All of the above**。",
+        "**(A) 錯誤**：`Arthrography` —— 肩關節腔攝影（arthrography）將對比劑打入盂肱關節，若對比劑向上滲漏至肩峰下滑囊即代表全層旋轉肌袖撕裂。",
+        "**(B) 錯誤**：`Sonography` —— 骨骼肌肉超音波（sonography）無輻射、可即時動態檢查棘上肌等肌腱連續性，診斷準確率高。",
+        "**(C) 錯誤**：`Magnetic resonance imaging（MRI）` —— MRI 可清楚顯示旋轉肌腱部分或全層撕裂、肌腱回縮程度及肌肉萎縮情形，為術前評估首選。"
+      ]
+    }
+  ]
+}

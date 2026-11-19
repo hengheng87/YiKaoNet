@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>易考網 YiKao — 互動考古題庫系統</title>
+  <link rel="stylesheet" href="./styles/tokens.css" />
+  <link rel="stylesheet" href="./styles/utilities.css" />
+  <link rel="stylesheet" href="./styles/components.css" />
+</head>
+<body class="min-h-screen flex flex-col">
+
+  <!-- Top Sticky Header & Scoreboard -->
+  <header class="sticky top-0 z-30 bg-white/95 backdrop-blur border-b border-slate-200 shadow-sm">
+    <div class="max-w-6xl mx-auto px-4 py-3">
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+        <div class="space-y-0.5">
+          <div class="flex items-center gap-2 flex-wrap">
+            <span id="examBadge" class="px-2.5 py-0.5 text-xs font-bold uppercase tracking-wider bg-indigo-600 text-white rounded-full">YiKao</span>
+            <h1 id="examTitle" class="text-lg md:text-xl font-bold text-slate-900">載入題庫中...</h1>
+            <select id="examSelector" aria-label="切換題庫" class="hidden px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 border border-slate-200 text-slate-700 hover:bg-slate-200 focus:outline-none"></select>
+          </div>
+          <p id="examSubtitle" class="text-xs text-slate-500 mt-0.5">正在從伺服器讀取題庫與知識庫設定...</p>
+        </div>
+
+        <!-- Live Scoreboard & Actions -->
+        <div class="flex items-center gap-2 flex-wrap">
+          <div class="flex items-center bg-slate-100 rounded-lg p-1 text-xs font-medium">
+            <button id="modePracticeBtn" type="button" class="px-2.5 py-1 rounded-md bg-white text-indigo-700 shadow-sm font-semibold transition">即時練習模式</button>
+            <button id="modeExamBtn" type="button" class="px-2.5 py-1 rounded-md text-slate-600 hover:text-slate-900 transition">模擬測驗模式</button>
+          </div>
+          <div class="flex items-center gap-1.5 bg-slate-50 border border-slate-200 px-3 py-1.5 rounded-lg text-xs">
+            <span class="text-slate-500">進度</span>
+            <strong id="statAnswered" class="text-slate-900 font-bold">0/0</strong>
+            <span class="text-slate-300">|</span>
+            <span class="text-emerald-600 font-semibold">✓ <span id="statCorrect">0</span></span>
+            <span class="text-rose-600 font-semibold">✗ <span id="statWrong">0</span></span>
+            <span class="text-slate-300">|</span>
+            <span class="text-indigo-600 font-bold" id="statRate">0%</span>
+          </div>
+          <button id="openSyncModalBtn" type="button" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-indigo-50 text-indigo-800 border border-indigo-200 hover:bg-indigo-100 shadow-sm transition">
+            <span id="syncStatusDot" class="sync-dot sync-dot-off"></span>
+            <span id="syncStatusLabel">☁️ 雲端同步</span>
+          </button>
+          <button id="openNotionModalBtn" type="button" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-900 text-white hover:bg-slate-800 shadow-sm transition">
+            <span>📋 匯出 / 貼入 Notion</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Progress Bar -->
+      <div class="w-full h-1.5 bg-slate-100 rounded-full overflow-hidden mt-2.5 flex">
+        <div id="progressBarCorrect" class="bg-emerald-500 h-full transition-all duration-300" style="width: 0%"></div>
+        <div id="progressBarWrong" class="bg-rose-500 h-full transition-all duration-300" style="width: 0%"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="flex-1 max-w-6xl w-full mx-auto px-4 py-5 space-y-5">
+
+    <!-- Filter & Control Panel -->
+    <section class="bg-white rounded-xl border border-slate-200 p-4 shadow-sm space-y-3.5">
+      <div class="space-y-2" id="unitTabsContainer">
+        <div id="macroTabsRow" class="flex flex-wrap items-center gap-1.5"></div>
+        <div id="unitTabsRow" class="flex flex-wrap items-center gap-1.5 pt-2 border-t border-slate-100"></div>
+      </div>
+
+      <!-- Secondary Filters -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-12 gap-2.5 pt-2 border-t border-slate-100">
+        <div class="lg:col-span-4 relative">
+          <input id="searchInput" type="text" placeholder="搜尋中英文關鍵字（如：RyR、bethanechol、Osteosarcoma、SLAP、皮節）..." class="w-full pl-8 pr-7 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:bg-white" />
+          <span class="absolute left-2.5 top-2 text-slate-400 text-xs">🔍</span>
+          <button id="clearSearchBtn" type="button" class="hidden absolute right-2 top-1.5 text-slate-400 hover:text-slate-600 text-xs px-1">✕</button>
+        </div>
+
+        <div class="lg:col-span-2">
+          <select id="yearFilter" aria-label="篩選年份" class="w-full px-2.5 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+            <option value="ALL">📅 全部年份</option>
+          </select>
+        </div>
+
+        <div class="lg:col-span-3">
+          <select id="statusFilter" aria-label="篩選題目狀態" class="w-full px-2.5 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+            <option value="ALL">📌 全部題目狀態</option>
+            <option value="UNANSWERED">⏳ 尚未作答</option>
+            <option value="WRONG">❌ 答錯題目（錯題本）</option>
+            <option value="CORRECT">✅ 答對題目</option>
+            <option value="STARRED">⭐ 已加星號收藏</option>
+            <option id="statusErrataOption" value="ERRATA">⚠️ 申覆多解／送分／爭議題</option>
+          </select>
+        </div>
+
+        <div class="lg:col-span-3 flex items-center justify-end gap-1.5 flex-wrap">
+          <button id="toggleDedupBtn" type="button" class="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-slate-100 text-slate-700 hover:bg-slate-200 transition" title="隱藏不同共筆間重複收錄的相同考題">隱藏跨共筆重複</button>
+          <button id="toggleAllExplBtn" type="button" class="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-indigo-50 text-indigo-700 hover:bg-indigo-100 transition">展開全部詳解</button>
+          <button id="randomQuizBtn" type="button" class="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-amber-50 text-amber-800 border border-amber-200 hover:bg-amber-100 transition">🎲 隨機抽 25 題</button>
+          <button id="resetQuizBtn" type="button" class="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-rose-50 text-rose-700 hover:bg-rose-100 transition">重置紀錄</button>
+        </div>
+      </div>
+
+      <!-- Exam Mode Banner -->
+      <div id="examModeBanner" class="hidden bg-amber-50 border border-amber-200 rounded-lg px-3.5 py-2 flex items-center justify-between gap-2 text-xs text-amber-900">
+        <div>
+          <strong>📝 模擬測驗模式進行中：</strong>點選選項後不會立即公布答案，請於作答完畢後點擊右側按鈕統一批改並展開全卷詳解。
+        </div>
+        <button id="submitExamBtn" type="button" class="shrink-0 px-3 py-1 rounded-md bg-amber-600 text-white font-semibold hover:bg-amber-700 transition">交卷批改並看詳解</button>
+      </div>
+    </section>
+
+    <!-- Filter Result Bar -->
+    <div class="flex items-center justify-between px-1 text-xs text-slate-600 flex-wrap gap-2">
+      <div class="flex items-center flex-wrap gap-1.5">
+        <span>目前顯示 <strong id="filteredCount" class="text-slate-900">0</strong> 題</span>
+        <span id="dedupBadge" class="hidden ml-2 px-2 py-0.5 bg-indigo-100 text-indigo-800 rounded-full font-medium">已隱藏跨共筆重複題</span>
+        <span id="randomFilterBadge" class="hidden ml-2 px-2 py-0.5 bg-amber-100 text-amber-800 rounded-full font-medium">隨機抽測 25 題模式 <button id="exitRandomBtn" type="button" class="ml-1 underline font-bold">返回全部</button></span>
+        <button id="inlineJumpBtn" type="button" class="hidden ml-2 px-2.5 py-0.5 bg-indigo-50 text-indigo-700 border border-indigo-200 rounded-full font-semibold hover:bg-indigo-100 transition text-xs"></button>
+      </div>
+      <div class="flex items-center gap-3">
+        <button id="quickCopyNotionBtn" type="button" class="text-indigo-600 hover:text-indigo-800 font-semibold flex items-center gap-1">
+          <span>⚡ 一鍵複製目前篩選題目為 Notion 摺疊格式</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Questions List Container -->
+    <div id="questionsContainer" class="space-y-4 pb-12"></div>
+  </main>
+
+  <!-- Subtle Footer -->
+  <footer id="siteFooter" class="border-t border-slate-200 bg-white/95 py-3 px-4 text-center text-xs text-slate-500">
+    <div class="max-w-6xl mx-auto">易考網 YiKao 2.0 ・ 互動考古題庫</div>
+  </footer>
+
+  <!-- Notion Export Modal -->
+  <div id="notionModal" class="fixed inset-0 z-50 hidden bg-slate-900/60 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-3xl w-full max-h-[90vh] flex flex-col shadow-2xl border border-slate-200 overflow-hidden">
+      <div class="px-5 py-4 border-b border-slate-200 flex items-center justify-between bg-slate-50">
+        <div>
+          <h2 class="text-base font-bold text-slate-900">📋 匯出與貼入 Notion 專區</h2>
+          <p class="text-xs text-slate-500 mt-0.5">選擇匯出範圍後，可直接複製貼入 Notion 變成摺疊題庫，或下載 Markdown / JSON 備份</p>
+        </div>
+        <button id="closeNotionModalBtn" type="button" class="w-8 h-8 rounded-lg text-slate-400 hover:text-slate-700 hover:bg-slate-200 flex items-center justify-center font-bold">✕</button>
+      </div>
+
+      <div class="p-5 overflow-y-auto space-y-4 text-xs leading-relaxed text-slate-700">
+        <div class="flex flex-wrap items-center justify-between gap-2 bg-indigo-50/70 border border-indigo-100 p-3 rounded-xl">
+          <div class="font-semibold text-indigo-950">選擇要匯出／複製的題目範圍：</div>
+          <div class="flex items-center gap-2 flex-wrap">
+            <select id="notionExportScope" aria-label="選擇匯出範圍" class="px-3 py-1.5 bg-white border border-indigo-200 rounded-lg text-xs font-medium text-slate-800 focus:outline-none"></select>
+            <button id="copyNotionToggleBtn" type="button" class="px-3.5 py-1.5 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 shadow-sm transition">
+              複製 Notion 摺疊題庫格式
+            </button>
+            <button id="downloadMarkdownBtn" type="button" class="px-3.5 py-1.5 bg-slate-900 text-white font-semibold rounded-lg hover:bg-slate-800 shadow-sm transition">
+              下載 .md 檔
+            </button>
+            <button id="downloadQuestionsJsonBtn" type="button" class="px-3.5 py-1.5 bg-white border border-slate-300 text-slate-700 font-semibold rounded-lg hover:bg-slate-100 shadow-sm transition">
+              下載 JSON
+            </button>
+            <button id="downloadOfflineHtmlBtn" type="button" class="px-3.5 py-1.5 bg-indigo-50 border border-indigo-200 text-indigo-800 font-semibold rounded-lg hover:bg-indigo-100 shadow-sm transition">
+              📦 下載單檔離線 .html
+            </button>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+          <div class="p-3.5 rounded-xl border border-slate-200 bg-slate-50/60 space-y-1">
+            <div class="font-bold text-slate-900">方式 A：貼入 Notion 變成摺疊題庫</div>
+            <p class="text-slate-600">點擊「複製 Notion 摺疊題庫格式」後在 Notion 頁面貼上，每題自動附帶「點擊展開正解與逐項詳解」Toggle 區塊。</p>
+          </div>
+          <div class="p-3.5 rounded-xl border border-slate-200 bg-slate-50/60 space-y-1">
+            <div class="font-bold text-slate-900">方式 B：打包單檔離線 .html 分享或嵌入</div>
+            <p class="text-slate-600">將目前題庫、圖片與互動介面整合成單一可雙擊離線使用的 HTML 檔，也可部署於靜態空間並以 Notion <code class="text-indigo-700">/embed</code> 嵌入。</p>
+          </div>
+        </div>
+
+        <div class="space-y-1.5">
+          <div class="flex items-center justify-between">
+            <label for="notionPreviewTextarea" class="font-semibold text-slate-800">Notion 摺疊題庫語法預覽（可直接全選複製貼入 Notion）：</label>
+            <span id="notionPreviewCount" class="text-slate-500"></span>
+          </div>
+          <textarea id="notionPreviewTextarea" rows="12" readonly class="w-full p-3 font-mono text-xs bg-slate-900 text-slate-100 rounded-xl border border-slate-700 focus:outline-none"></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Cloud Sync & Backup Modal -->
+  <div id="syncModal" class="fixed inset-0 z-50 hidden bg-slate-900/60 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-lg w-full max-h-[90vh] flex flex-col shadow-2xl border border-slate-200 overflow-hidden">
+      <div class="px-5 py-4 border-b border-slate-200 flex items-center justify-between bg-slate-50">
+        <div>
+          <h2 class="text-base font-bold text-slate-900">☁️ 跨裝置雲端同步與進度備份</h2>
+          <p class="text-xs text-slate-500 mt-0.5">無須帳號密碼，輸入一組「同步碼」即可於後端 SQLite 同步作答、星號收藏與續讀位置</p>
+        </div>
+        <button id="closeSyncModalBtn" type="button" class="w-8 h-8 rounded-lg text-slate-400 hover:text-slate-700 hover:bg-slate-200 flex items-center justify-center font-bold">✕</button>
+      </div>
+
+      <div class="p-5 overflow-y-auto space-y-4 text-xs leading-relaxed text-slate-700">
+        <div id="syncCloudConnectSection" class="space-y-4">
+          <!-- Connected State -->
+          <div id="syncConnectedBox" class="hidden p-3.5 rounded-xl bg-emerald-50 border border-emerald-200 space-y-2.5">
+            <div class="flex items-center justify-between gap-2 flex-wrap">
+              <div>
+                <div class="text-emerald-900 font-bold">已綁定雲端同步碼</div>
+                <div class="font-mono text-sm font-bold text-emerald-800 mt-0.5" id="activeSyncCodeDisplay">-</div>
+              </div>
+              <div class="flex items-center gap-1.5">
+                <button id="copySyncCodeBtn" type="button" class="px-2.5 py-1 rounded-lg bg-white border border-emerald-300 text-emerald-800 font-semibold hover:bg-emerald-100 transition">複製同步碼</button>
+                <button id="syncNowBtn" type="button" class="px-2.5 py-1 rounded-lg bg-emerald-600 text-white font-semibold hover:bg-emerald-700 transition">立即雙向合併</button>
+                <button id="disconnectSyncBtn" type="button" class="px-2.5 py-1 rounded-lg bg-rose-50 border border-rose-200 text-rose-700 font-semibold hover:bg-rose-100 transition">中斷連結</button>
+              </div>
+            </div>
+            <div class="text-[11px] text-emerald-800" id="syncLastUpdatedText">系統會在每次作答或收藏後自動背景同步。</div>
+          </div>
+
+          <!-- Connect / Create Form -->
+          <div class="p-3.5 rounded-xl border border-slate-200 bg-slate-50/60 space-y-2.5">
+            <div class="font-bold text-slate-900">綁定或建立同步碼（4–64 碼英數字或 - _）</div>
+            <div class="flex items-center gap-2">
+              <input id="syncCodeInput" type="text" placeholder="輸入既有同步碼，例如 YK-ABCD-1234" class="flex-1 px-3 py-1.5 font-mono text-xs bg-white border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500" />
+              <button id="generateSyncCodeBtn" type="button" class="shrink-0 px-3 py-1.5 rounded-lg bg-indigo-50 border border-indigo-200 text-indigo-700 font-semibold hover:bg-indigo-100 transition">🎲 產生新同步碼</button>
+            </div>
+            <div class="flex items-center gap-2 flex-wrap pt-1">
+              <button id="connectMergeBtn" type="button" class="px-3.5 py-1.5 rounded-lg bg-indigo-600 text-white font-semibold hover:bg-indigo-700 transition">🔗 綁定並合併本機與雲端（推薦）</button>
+              <button id="connectPullBtn" type="button" class="px-3.5 py-1.5 rounded-lg bg-white border border-slate-300 text-slate-700 font-semibold hover:bg-slate-100 transition">⬇️ 以雲端紀錄覆蓋本機</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Local JSON Backup / Restore -->
+        <div id="syncLocalBackupSection" class="p-3.5 rounded-xl border border-slate-200 space-y-2">
+          <div class="font-bold text-slate-900">📦 離線紀錄檔匯出／匯入 (.json)</div>
+          <p class="text-slate-600">可將當前考科的所有作答、星號與時間戳匯出為單一 JSON 檔案保存或移轉至其他瀏覽器。</p>
+          <div class="flex items-center gap-2 flex-wrap pt-1">
+            <button id="exportProgressJsonBtn" type="button" class="px-3 py-1.5 rounded-lg bg-slate-900 text-white font-semibold hover:bg-slate-800 transition">匯出作答紀錄 (.json)</button>
+            <label class="px-3 py-1.5 rounded-lg bg-slate-100 border border-slate-300 text-slate-700 font-semibold hover:bg-slate-200 transition cursor-pointer">
+              匯入作答紀錄 (.json)
+              <input id="importProgressJsonInput" type="file" accept="application/json,.json" class="hidden" />
+            </label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Reset Confirmation Modal -->
+  <div id="resetConfirmModal" class="fixed inset-0 z-50 hidden bg-slate-900/60 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-md w-full p-5 shadow-2xl border border-slate-200 space-y-4">
+      <div class="flex items-center gap-2.5 text-rose-600">
+        <span class="text-xl">⚠️</span>
+        <h3 class="text-base font-bold text-slate-900">確定要重置所有作答紀錄嗎？</h3>
+      </div>
+      <p id="resetModalDescription" class="text-xs text-slate-600 leading-relaxed">
+        這將會清空目前題庫的已選答案與對錯統計（您標記的 ⭐ 星號收藏題目將會保留下來）。
+      </p>
+      <div class="flex items-center justify-end gap-2 pt-2">
+        <button id="cancelResetBtn" type="button" class="px-3.5 py-1.5 rounded-lg text-xs font-medium bg-slate-100 text-slate-700 hover:bg-slate-200 transition">取消</button>
+        <button id="confirmResetBtn" type="button" class="px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-rose-600 text-white hover:bg-rose-700 transition">確定重置作答</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Resume Floating Bar -->
+  <div id="resumeFloatingBar" class="bar-hidden" role="status" aria-live="polite">
+    <div class="flex items-center gap-2 overflow-hidden">
+      <span class="px-2 py-0.5 text-[11px] font-bold bg-indigo-600 text-white rounded-md shrink-0">中斷紀錄</span>
+      <div class="text-xs leading-snug overflow-hidden">
+        <div id="resumeBarTitle" class="font-semibold text-white">尚未紀錄位置</div>
+        <div id="resumeBarSub" class="text-[11px] text-slate-300">作答或瀏覽時將自動保存進度</div>
+      </div>
+    </div>
+    <div class="flex items-center gap-1.5 shrink-0">
+      <button id="resumeJumpNowBtn" type="button" class="px-3 py-1.5 rounded-lg text-xs font-bold bg-indigo-600 text-white hover:bg-indigo-700 transition">
+        📍 一鍵跳轉
+      </button>
+      <button id="resumeDismissBtn" type="button" class="w-7 h-7 rounded-lg text-xs text-slate-400 hover:text-white hover:bg-slate-800 flex items-center justify-center transition" aria-label="關閉提示">
+        ✕
+      </button>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toastNotice" class="fixed bottom-5 right-5 z-50 hidden bg-slate-900 text-white px-4 py-2.5 rounded-xl shadow-lg text-xs font-medium flex items-center gap-2 border border-slate-700">
+    <span id="toastMessage">已複製到剪貼簿！</span>
+  </div>
+
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>

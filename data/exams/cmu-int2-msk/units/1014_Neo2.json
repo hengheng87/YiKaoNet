@@ -1,0 +1,756 @@
+{
+  "unitCode": "1014_Neo2",
+  "unitTitle": "10/14 病理學：腫瘤學 Neoplasia (II)",
+  "session": "A",
+  "subject": "Patho",
+  "subjectTitle": "病理學 (一)",
+  "prof": "王約翰 教授",
+  "examRange": "A卷 Q33–56（共24題）",
+  "unitUrl": "https://drive.google.com/file/d/1w_EvWNi9-MYDhvdd-6DdCeh6KoQFcGf4",
+  "questions": [
+    {
+      "id": "1014_Neo2-1",
+      "globalIndex": 128,
+      "qNum": 1,
+      "origQ": "Q1｜大R Ch.7 Q60 (Hallmarks & Oncogene Classification)",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q60 (Hallmarks & Oncogene Classification) 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列何者為惡性腫瘤？",
+      "image": null,
+      "options": {
+        "A": "Fibroadenoma of breast",
+        "B": "Melanoma of skin",
+        "C": "Adenoma of colon",
+        "D": "Lipoma of leg"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：良性與惡性腫瘤命名例外（-oma 例外）】**：一般良性腫瘤字尾為 `-oma`（如腺瘤 adenoma、脂肪瘤 lipoma、纖維腺瘤 fibroadenoma），間葉組織惡性腫瘤稱 `-sarcoma`、上皮惡性腫瘤稱 `-carcinoma`。但須熟記四個以 `-oma` 結尾卻屬**惡性腫瘤（malignant neoplasm）**的經典例外：**黑色素瘤（melanoma）、淋巴瘤（lymphoma）、精原細胞瘤（seminoma）、間皮瘤（mesothelioma）**。",
+        "**(B) 正確【本題應選正解】**：`Melanoma of skin` —— 皮膚黑色素瘤（melanoma）雖以 `-oma` 結尾，卻是源自黑色素細胞（melanocyte）的高度**惡性腫瘤（malignant neoplasm）**，具早期垂直侵犯與遠端轉移能力。",
+        "**(A) 錯誤**：`Fibroadenoma of breast` —— 乳房纖維腺瘤（fibroadenoma）為育齡女性最常見的**良性（benign）**乳房雙相腫瘤（間質與腺體同時增生），界線清楚、可移動且不轉移。",
+        "**(C) 錯誤**：`Adenoma of colon` —— 大腸腺瘤（adenoma）為良性腺上皮腫瘤，雖屬癌前病變（可經由 adenoma-carcinoma sequence 惡化），但本身尚未突破基底膜，仍屬良性。",
+        "**(D) 錯誤**：`Lipoma of leg` —— 下肢脂肪瘤（lipoma）為成熟脂肪細胞構成的最常見軟組織**良性腫瘤（benign tumor）**，惡性對應名稱為脂肪肉瘤（liposarcoma）。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q60 (Hallmarks & Oncogene Classification) 官方原書詳解（PBD9 266–268 Table 7-1｜BP9 162–164）】**：`60 C: While benign mesenchymal and epithelial tumors normally end in '-oma' (lipoma, fibroadenoma, adenoma, papilloma), several important malignant tumors retain historic '-oma' names: Melanoma (malignant neoplasm of melanocytes), Lymphoma (malignant neoplasm of lymphoid cells), Seminoma/Dysgerminoma (malignant germ cell tumors), Mesothelioma (malignant neoplasm of mesothelial cells), and Hepatoma (hepatocellular carcinoma).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-2",
+      "globalIndex": 129,
+      "qNum": 2,
+      "origQ": "Q2｜大R Q26",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q26 (TGF-β) 考點",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者生長因子有抑癌作用？",
+      "image": null,
+      "options": {
+        "A": "TGF-A",
+        "B": "TGF-B",
+        "C": "EGF",
+        "D": "VEGF"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：TGF-β 的雙面角色與生長因子比較】**：**轉化生長因子-β（TGF-β）**在正常上皮細胞與早期腫瘤中透過活化 SMAD 路徑、誘導 CDK 抑制蛋白（p15、p21）及抑制 c-MYC，發揮強烈的**抑制細胞增殖與抑癌作用**（但在晚期癌細胞中常因路徑突變轉而促進 EMT 與免疫逃脫）。",
+        "**(B) 正確【本題應選正解】**：`TGF-B` —— **TGF-β（transforming growth factor-beta）**為正常上皮細胞最強力的生長抑制因子之一，可阻滯細胞週期於 G1 期並誘導凋亡，在正常組織與腫瘤早期具明確**抑癌作用**。",
+        "**(A) 錯誤**：`TGF-A` —— TGF-α（transforming growth factor-alpha）結構類似 EGF，藉由結合 **EGFR** 促進上皮細胞增殖與生長，屬於促生長因子而非抑癌因子。",
+        "**(C) 錯誤**：`EGF` —— 表皮生長因子（EGF, epidermal growth factor）結合細胞膜酪胺酸激酶受體 EGFR（ERBB1），活化 RAS-MAPK 路徑促進細胞分裂與增殖。",
+        "**(D) 錯誤**：`VEGF` —— 血管內皮生長因子（VEGF, vascular endothelial growth factor）主要促進腫瘤微環境中的血管新生（angiogenesis）與血管通透性，利於腫瘤生長與轉移。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q26 (TGF-β) 對應原書詳解（PBD9 290–293｜BP9 182–184）】**：`Transforming growth factor-beta (TGF-β) is a potent growth-inhibitory cytokine that binds TGF-β receptors to activate SMAD4, up-regulating CDK inhibitors (p15, p21) and repressing c-MYC.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-3",
+      "globalIndex": 130,
+      "qNum": 3,
+      "origQ": "Q3｜大R Q28",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q28 (APC / WNT / β-catenin) 考點",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "細胞訊息傳遞 signal transduction 中與 WNT receptor 有關之因子為？",
+      "image": null,
+      "options": {
+        "A": "k-Ras",
+        "B": "B-RAF",
+        "C": "B-catenin",
+        "D": "MAPK"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：WNT / β-catenin 訊號路徑與大腸癌（APC 突變）】**：未受 WNT 刺激時，細胞質內的 **β-catenin** 會被 APC/Axin/GSK-3β 破壞複合體磷酸化並泛素化降解；當 **WNT 結合 Frizzled 受體**（或 APC 突變失活）時，β-catenin 穩定累積並進入細胞核活化 MYC 與 Cyclin D1 驅動增殖。",
+        "**(C) 正確【本題應選正解】**：`B-catenin` —— **β-catenin（CTNNB1）**是經典 WNT 受體（Frizzled/LRP5/6）訊息傳遞的核心下游轉錄共活化因子；WNT 訊號活化可抑制其降解，促其入核啟動增殖基因轉錄。",
+        "**(A) 錯誤**：`k-Ras` —— K-RAS（KRAS）屬於位於細胞膜內側的小 GTP 結合蛋白，主要參與 **RTK（如 EGFR）下游的 RAS-RAF-MEK-ERK** 促生長訊號路徑，非 WNT 受體典型傳遞分子。",
+        "**(B) 錯誤**：`B-RAF` —— B-RAF（BRAF）為絲胺酸／蘇胺酸激酶，位於 **RAS 下游、MEK 上游**（RAS-MAPK 路徑），突變常見於黑色素瘤與甲狀腺乳突癌，不屬於 WNT 核心路徑。",
+        "**(D) 錯誤**：`MAPK` —— 絲裂原活化蛋白激酶（MAPK / ERK）為 RAS-RAF-MEK 級聯反應的終端激酶，負責傳遞生長因子受體（RTK）的增殖訊號，而非 WNT 受體直接核心因子。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q28 (APC / WNT / β-catenin) 對應原書詳解（PBD9 293–296｜BP9 185–187）】**：`In the WNT signaling pathway, WNT binding to its receptor inhibits the APC destruction complex, allowing β-catenin to accumulate and translocate to the nucleus to activate MYC and Cyclin D1 transcription.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-4",
+      "globalIndex": 131,
+      "qNum": 4,
+      "origQ": "Q4｜大R Ch.7 Q63 (Mesothelioma vs. Reactive Mesothelial Hyperplasia IHC)",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q63 (Mesothelioma vs. Reactive Mesothelial Hyperplasia IHC) 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Mesothelioma 與 mesothelial hyperplasia 在病理日常作業,下列何組合染色最有鑑別力？",
+      "image": null,
+      "options": {
+        "A": "TTF-1 and P53",
+        "B": "p40 and P53",
+        "C": "BAP-1 and P53",
+        "D": "Calretinin and P53"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：惡性間皮瘤（Mesothelioma）vs. 反應性間皮增生（Mesothelial Hyperplasia）鑑別染色】**：兩者皆源自間皮細胞，故間皮譜系標記（Calretinin、WT-1、D2-40）**皆呈陽性**而無法區分良惡性。病理日常作業最具鑑別力的是 **BAP-1（惡性間皮瘤常呈細胞核表現喪失 loss of nuclear expression）與 p53（惡性腫瘤常呈強陽性過表現或完全缺失；另有 MTAP 缺失／CDKN2A FISH 輔助）**。",
+        "**(C) 正確【本題應選正解】**：`BAP-1 and P53` —— **BAP-1 細胞核染色喪失**（約 60–70% 惡性間皮瘤出現突變失活，良性反應性間皮增生則保留核陽性）搭配 **p53 異常表現**，是病理日常區分惡性間皮瘤與反應性增生最具鑑別力的 IHC 組合。",
+        "**(A) 錯誤**：`TTF-1 and P53` —— TTF-1 主要用於標記肺腺癌與甲狀腺腫瘤（間皮細胞為陰性），無法用於區分良性間皮增生與惡性間皮瘤（TTF-1 皆陰性）。",
+        "**(B) 錯誤**：`p40 and P53` —— p40 為鱗狀上皮細胞癌（squamous cell carcinoma）的專一性標記，並非鑑別間皮細胞良惡性增生的核心組合。",
+        "**(D) 錯誤**：`Calretinin and P53` —— Calretinin 雖是確認「間皮來源」的敏感標記，但良性反應性間皮增生與惡性間皮瘤**兩者皆呈 Calretinin 陽性**，因此單靠 Calretinin 無法鑑別良惡性。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q63 (Mesothelioma vs. Reactive Mesothelial Hyperplasia IHC) 官方原書詳解（PBD9 335–336 & Pleural Pathology｜Wang Ch.7 Lecture）】**：`63 C: Both benign reactive mesothelial cells and malignant mesothelioma stain positively for mesothelial lineage markers such as Calretinin, WT-1, and D2-40. To distinguish malignant mesothelioma from benign mesothelial hyperplasia, loss of nuclear BAP-1 (BRCA1-associated protein 1, a tumor suppressor frequently inactivated in mesothelioma) combined with aberrant p53 (or homozygous deletion of p16/CDKN2A by FISH/MTAP) provides high diagnostic specificity.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-5",
+      "globalIndex": 132,
+      "qNum": 5,
+      "origQ": "Q5｜大R Ch.7 Q1",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q1 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 40-year-old man has a positive stool guaiac test during a routine physical examination. A colonoscopy is performed and a 0.9-cm, circumscribed, pedunculated mass on a short stalk is found in the upper rectum. Which of the following terms best describes this lesion?",
+      "image": null,
+      "options": {
+        "A": "Adenoma",
+        "B": "Carcinoma",
+        "C": "Choristoma",
+        "D": "Hamartoma"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心病理考點：大腸腺瘤（Adenoma）與良惡性息肉鑑別】**：腸道良性腺上皮腫瘤常呈界線清楚的**有蒂息肉（pedunculated mass on a stalk）**，未侵犯黏膜下層或肌層，稱為**腺瘤（adenoma）**；若呈現無蒂潰瘍或組織侵犯則為腺癌（adenocarcinoma）。",
+        "**(A) 正確【本題應選正解】**：`Adenoma` —— 直腸上段發現界線清楚、具短蒂的良性腺上皮息肉狀腫塊（無提及侵犯或遠處轉移），最符合**腺瘤（adenoma）**，臨床上常因表面摩擦出血導致潛血陽性。",
+        "**(B) 錯誤**：`Carcinoma` —— 癌（carcinoma）為惡性上皮腫瘤，典型特徵為細胞異型性（atypia）、邊界不清、局部浸潤（invasion）基底膜或伴隨潰瘍壞死，與本例界線清楚之有蒂良性外觀不符。",
+        "**(C) 錯誤**：`Choristoma` —— 迷離瘤（choristoma）指正常組織出現在**異位（heterotopic）**解剖位置（如胃壁出現胰臟組織），屬於先天發育異常而非直腸內有蒂腫瘤。",
+        "**(D) 錯誤**：`Hamartoma` —— 錯構瘤（hamartoma）為該部位原有成熟組織的混亂過度生長（如肺錯構瘤或 Peutz-Jeghers 息肉），而非單純界線清楚的腫瘤性有蒂腺瘤。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q1 官方原書詳解（PBD9 266–268｜BP9 162–163）】**：`1 A: An adenoma is a benign epithelial neoplasm (arising in the glands of the colonic mucosa in this case). Small, circumscribed, pedunculated lesions are usually benign. Because it is turnorous and circumscribed, this lesion is not diagnostic of a hyperplastic process. Both carcinomas (arising from epithelium) and sarcomas (arising from mesenchyme) are malignant and tend to be large, irregular masses with rapid growth and ulceration. A choristoma is an ectopic cluster of normal tissue (e.g., pancreatic tissue in the stomach wall). A hamartoma is a tumor-like reactive or congenital clustering of tissues organized in a caricature of normal regional anatomy.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-6",
+      "globalIndex": 133,
+      "qNum": 6,
+      "origQ": "Q6｜大R Ch.7 Q2",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q2 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 32-year-old woman has experienced dull pelvic pain for the past 2 months. Physical examination shows a right adnexal mass. An abdominal ultrasound scan shows a 7.5-cm cystic ovarian mass. The mass is surgically excised. The surface of the mass is smooth, and it is not adherent to surrounding pelvic structures. On gross examination, the cystic mass is filled with hair. Microscopically, squamous epithelium, tall columnar glandular epithelium, cartilage, and fibrous connective tissue are present and resemble normal tissue counterparts. Which of the following is the most likely diagnosis?",
+      "image": null,
+      "options": {
+        "A": "Adenocarcinoma",
+        "B": "Teratoma",
+        "C": "Mesothelioma",
+        "D": "Hamartoma"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：成熟囊性畸胎瘤（Mature Cystic Teratoma）】**：畸胎瘤源自全能性生殖細胞（totipotent germ cell），可同時分化出**外胚層（鱗狀上皮、毛髮、皮脂腺）、中胚層（軟骨、纖維結締組織、骨）與內胚層（柱狀腺上皮）**等多胚層成熟組織，好發於育齡女性卵巢，又稱皮樣囊腫（dermoid cyst）。",
+        "**(B) 正確【本題應選正解】**：`Teratoma` —— 卵巢囊腫內含毛髮，鏡下同時出現成熟鱗狀上皮、高柱狀腺上皮、軟骨與纖維結締組織（橫跨外、中、內三胚層且形態似正常組織），為典型**成熟囊性畸胎瘤（mature cystic teratoma / dermoid cyst）**。",
+        "**(A) 錯誤**：`Adenocarcinoma` —— 腺癌（adenocarcinoma）為單一上皮譜系的惡性腺體腫瘤，無法同時分化出毛髮、鱗狀上皮、軟骨與纖維結締組織等多胚層構造。",
+        "**(C) 錯誤**：`Mesothelioma` —— 間皮瘤（mesothelioma）為源自體腔（胸膜、腹膜、心包膜）間皮細胞的惡性腫瘤，呈上皮樣或梭狀細胞型態，不會形成毛髮或軟骨等多胚層組織。",
+        "**(D) 錯誤**：`Hamartoma` —— 錯構瘤（hamartoma）僅包含該器官**原位既有**組織的混亂排列，而正常卵巢並不含毛髮、鱗狀上皮或軟骨，故多胚層異質分化應診斷為畸胎瘤。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q2 官方原書詳解（PBD9 267–268｜BP9 163–164）】**：`2 G: A teratoma contains elements derived from more than one germ cell layer (ectoderm, endoderm, mesoderm), because the cell of origin is totipotential. Such cross-differentiation typically occurs in gonadal locations where germ cells reside, most commonly in the ovary of a reproductive-age woman, and these neoplasms are typically benign cystic lesions (dermoid cysts). Note: In Prof. Wang's 4-option exam version, Teratoma is option (B).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-7",
+      "globalIndex": 134,
+      "qNum": 7,
+      "origQ": "Q7｜大R Ch.1/Ch.7 Epigenetics",
+      "year": "113/114 學年度｜📘大R題庫 Ch.1/Ch.7 Epigenetics 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A study of peripheral blood smears shows that neutrophil nuclei of women have a Barr body, whereas those of men do not. The Barr body is an inactivated X chromosome. Which of the following forms of RNA is most likely to play a role in Barr body formation?",
+      "image": null,
+      "options": {
+        "A": "IncRNA",
+        "B": "mRNA",
+        "C": "miRNA",
+        "D": "siRNA"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心病理考點：表觀遺傳調控與 X 染色體不活化（X-inactivation）】**：女性體細胞內其中一條 X 染色體會濃縮成 **Barr body**（可見於嗜中性球核的鼓槌狀突起 drumstick appendage）。此過程由 X 染色體上的 **XIST 基因轉錄出的長鏈非編碼 RNA（lncRNA）** 包覆整條 X 染色體並招募表觀遺傳抑制複合體（如 PRC2）達成。",
+        "**(A) 正確【本題應選正解】**：`IncRNA` —— （題幹印為 `IncRNA`，實為 **`lncRNA`**, long noncoding RNA）**XIST lncRNA** 不轉譯為蛋白質，而是直接順式包覆（coat）其中一條 X 染色體並引發組蛋白修飾與 DNA 甲基化，促成 **Barr body** 形成。",
+        "**(B) 錯誤**：`mRNA` —— 信使 RNA（mRNA）負責攜帶蛋白質編碼資訊至核糖體進行轉譯，並非直接包覆染色體誘導 X 染色體去活化的非編碼調控分子。",
+        "**(C) 錯誤**：`miRNA` —— 微小 RNA（miRNA）為長度約 22 nt 的小分子非編碼 RNA，主要在細胞質中與目標 mRNA 的 3'-UTR 結合以抑制轉譯或促進 mRNA 降解，不負責整條染色體不活化。",
+        "**(D) 錯誤**：`siRNA` —— 小干擾 RNA（siRNA）為雙股短鏈非編碼 RNA，透過 RISC 複合體進行專一性 mRNA 切割（RNAi 基因靜默），非生理性 Barr body 形成機制。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.1/Ch.7 Epigenetics 官方原書詳解（PBD9 Ch.1 & Ch.7 Epigenetic Gene Silencing）】**：`A (lncRNA): Long noncoding RNAs (lncRNAs), specifically XIST (X-inactive specific transcript), coat the inactive X chromosome in females to promote repressive chromatin modifications (heterochromatin / Barr body formation) and gene silencing.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-8",
+      "globalIndex": 135,
+      "qNum": 8,
+      "origQ": "Q8｜大R Ch.7 Q61 (Hallmarks of Cancer: Apoptosis & Proliferation)",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q61 (Hallmarks of Cancer: Apoptosis & Proliferation) 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不是腫瘤之特性？",
+      "image": null,
+      "options": {
+        "A": "细胞增殖率增加",
+        "B": "细胞凋亡增加",
+        "C": "细胞逃避免疫攻擊",
+        "D": "細胞血管新生功能增加"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：癌症十大特徵（Hallmarks of Cancer）】**：惡性腫瘤細胞的核心生物學特徵包含：持續增殖訊號（細胞增殖率增加）、逃避生長抑制、**抗拒細胞凋亡（resisting cell death / 凋亡減少而非增加）**、無限複製潛力、誘導血管新生（angiogenesis）、侵犯與轉移，以及逃避免疫摧毀（avoiding immune destruction）。",
+        "**(B) 敘述錯誤【本題應選正解】**：`细胞凋亡增加` —— 腫瘤細胞的關鍵存活機制是透過上調 BCL2 或失活 p53 來**抗拒／減少細胞凋亡（evading apoptosis）**，而非凋亡增加；因此本選項敘述錯誤，為本題所求。",
+        "**(A) 敘述正確（非本題所求）**：`细胞增殖率增加` —— 腫瘤細胞因致癌基因（oncogene）活化或抑癌基因（tumor suppressor gene）失活，常表現生長訊號自給自足，導致細胞週期加速與**增殖率增加（increased proliferation）**。",
+        "**(C) 敘述正確（非本題所求）**：`细胞逃避免疫攻擊` —— 腫瘤細胞可藉由降低 MHC I 表現或過度表現 PD-L1 等免疫檢查點分子來**逃避免疫監控與攻擊（immune evasion）**，此為癌症核心特徵之一。",
+        "**(D) 敘述正確（非本題所求）**：`細胞血管新生功能增加` —— 當腫瘤直徑超過 1–2 mm 時，缺氧誘導因子（HIF-1α）會促進 VEGF 分泌，使**血管新生（angiogenesis）增加**以供應氧氣與養分並提供轉移途徑。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q61 (Hallmarks of Cancer: Apoptosis & Proliferation) 官方原書詳解（PBD9 280–281 Fig. 7-15｜BP9 172–173）】**：`61 B: The eight hallmarks of cancer are: (1) self-sufficiency in growth signals, (2) insensitivity to growth-inhibitory signals, (3) altered cellular metabolism (Warburg effect), (4) evasion of apoptosis (DECREASED apoptosis, not increased), (5) limitless replicative potential (immortality via telomerase), (6) sustained angiogenesis, (7) ability to invade and metastasize, and (8) evasion of host immune response.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-9",
+      "globalIndex": 136,
+      "qNum": 9,
+      "origQ": "Q9｜大R Ch.7 Q5",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q5 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 50-year-old woman undergoes screening colonoscopy as part of a routine health maintenance work up. An isolated 1-cm pedunculated polyp is found in the sigmoid colon. The excised polyp histologically shows well-differentiated glands with no invasion of the stalk. Which of the following investigational research procedures can distinguish most clearly whether the polyp represents hyperplasia of the colonic mucosa or a tubular adenoma?",
+      "image": null,
+      "options": {
+        "A": "Flow cytometry to quantitate cells in the S phase",
+        "B": "Histochemical staining for mucin",
+        "C": "Immunohistochemical staining for keratin",
+        "D": "Molecular marker of clonality"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心病理考點：反應性增生（Hyperplasia）vs. 腫瘤（Neoplasm）之本質鑑別】**：增生（hyperplasia）屬於對刺激的生理或反應性變化，為**多株性（polyclonal）**增殖；而所有腫瘤（neoplasm，無論良性管狀腺瘤或惡性腺癌）本質上皆源自單一突變前驅細胞的**單株性擴張（monoclonal proliferation）**。",
+        "**(D) 正確【本題應選正解】**：`Molecular marker of clonality` —— 偵測**單株性分子標記（molecular marker of clonality，如 X 染色體不活化分析或體細胞突變譜）**可直接區分單株性腫瘤（管狀腺瘤）與多株性反應性變化（黏膜增生）。",
+        "**(A) 錯誤**：`Flow cytometry to quantitate cells in the S phase` —— 流式細胞儀（flow cytometry）測得 S 期細胞比例上升僅代表細胞分裂活躍，無法區分該增殖是反應性增生（增生細胞亦可進入 S 期）還是真性腫瘤。",
+        "**(B) 錯誤**：`Histochemical staining for mucin` —— 黏液（mucin）組織化學染色（如 PAS 或 mucicarmine）只能確認腺體上皮是否分泌黏液，大腸正常黏膜增生與管狀腺瘤皆可能含黏液細胞。",
+        "**(C) 錯誤**：`Immunohistochemical staining for keratin` —— 角蛋白（keratin / cytokeratin）免疫染色僅用於確認細胞為上皮來源（epithelial origin），大腸增生性息肉與管狀腺瘤皆源自大腸上皮，均呈陽性。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q5 官方原書詳解（PBD9 268, 271｜BP9 162, 164）】**：`5 D: Neoplasms are monoclonal proliferations of cells, whereas hyperplasias are polyclonal proliferations. Thus solving the problem rests on proving monoclonality. Both hyperplastic and benign neoplastic processes typically show normal numbers of cells in the S phase. Similarly, both lesions comprise well-differentiated cells from that region (both stain positively for mucin and keratin).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-10",
+      "globalIndex": 137,
+      "qNum": 10,
+      "origQ": "Q10｜大R Ch.7 Q47",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q47 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A study of patients treated with chemotherapy protocols for cancer shows that 10% of them subsequently develop a second cancer, a much higher incidence compared with a control group not receiving chemotherapy. These chemotherapy protocols included the alkylating agent cyclophosphamide. What is the most likely mechanism by which this agent causes carcinogenesis in these treated cancer patients?",
+      "image": null,
+      "options": {
+        "A": "Activation of protein kinase C",
+        "B": "Activation of endogenous viruses",
+        "C": "Blockage of TGF-ß pathways",
+        "D": "Direct DNA damage"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心病理考點：烷化劑（Alkylating Agents）之化學致癌機轉】**：化療烷化劑（如 cyclophosphamide、busulfan）屬於**直接作用型致癌物（direct-acting carcinogens）**，無須肝臟代謝活化即可直接將烷基共價鍵結至 DNA 鹼基（特別是鳥糞嘌呤 N7 位置），造成交聯與**直接 DNA 損傷（direct DNA damage）**，進而誘發次發性白血病或膀胱癌。",
+        "**(D) 正確【本題應選正解】**：`Direct DNA damage` —— Cyclophosphamide 等烷化劑可直接與 DNA 形成共價鍵結及鏈內／鏈間交聯（cross-linking），導致**直接 DNA 損傷（direct DNA damage）**與基因突變，顯著提高次發性腫瘤風險。",
+        "**(A) 錯誤**：`Activation of protein kinase C` —— 活化蛋白激酶 C（PKC）是典型「促癌物（promoter，如佛波酯 phorbol esters TPA）」的非基因毒性促增殖機轉，而非烷化劑引發突變的主因。",
+        "**(B) 錯誤**：`Activation of endogenous viruses` —— 烷化劑誘發次發性惡性腫瘤主要是透過直接共價破壞宿主基因體 DNA，而非經由活化內生性致癌病毒。",
+        "**(C) 錯誤**：`Blockage of TGF-ß pathways` —— 阻斷 TGF-β 抑癌路徑屬於部分上皮腫瘤進展過程中的繼發性突變結果，並非 cyclophosphamide 造成次發性癌症的起始機轉。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q47 官方原書詳解（PBD9 322–324｜BP9 199–200）】**：`47 D: Alkylating agents such as cyclophosphamide are direct-acting chemical carcinogens that do not require metabolic conversion to become carcinogenic. Their electrophilic groups bind directly to DNA, causing direct DNA damage and mutations that predispose treated patients to secondary malignancies (especially acute myeloid leukemia and bladder cancer).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-11",
+      "globalIndex": 138,
+      "qNum": 11,
+      "origQ": "Q11｜大R Ch.7 Q11",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q11 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 69-year-old woman has experienced increasing malaise and a 10kg weight loss over the past year. She dies of massive pulmonary thromboembolism. The gross appearance of the liver at autopsy is shown in the figure. Which of the following best describes the lesions seen in her liver?",
+      "image": "images/1007_Neo1-6.jpg",
+      "options": {
+        "A": "Invasive angiosarcoma",
+        "B": "Hepatocellular carcinoma",
+        "C": "Leukemic infiltration",
+        "D": "Metastatic adenocarcinoma"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心病理考點：肝臟轉移性腺癌（Metastatic Adenocarcinoma）與副腫瘤高凝血狀態】**：高齡患者體重減輕併發致命性肺血栓栓塞（Trousseau 症候群／癌症相關高凝血狀態），屍檢見肝臟呈**多發性大小不一、中央臍凹（central umbilication，因中心缺血壞死）**之白色結節，為**轉移性腺癌（metastatic adenocarcinoma）**的最典型巨觀表現。",
+        "**(D) 正確【本題應選正解】**：`Metastatic adenocarcinoma` —— 肝臟是全身惡性腫瘤（特別是腸胃道、胰臟、肺臟與乳癌等腺癌）最常發生血行性轉移的器官之一，典型表現為肝實質內**多發性散在白色結節合併中央壞死凹陷**，且腺癌常誘發致死性肺栓塞。",
+        "**(A) 錯誤**：`Invasive angiosarcoma` —— 肝血管肉瘤（angiosarcoma）為罕見的高度惡性血管內皮腫瘤（與氯乙烯 vinyl chloride、二氧化釷 Thorotrast 暴露相關），巨觀多呈出血性海綿狀血腫樣腫塊而非多發白色實質結節。",
+        "**(B) 錯誤**：`Hepatocellular carcinoma` —— 肝細胞癌（HCC）常伴隨肝硬化背景，較常表現為單一巨大腫塊或少數融合結節並常合併門靜脈侵犯，不如轉移癌常見瀰漫性大小不一、中央臍凹的多發白結節。",
+        "**(C) 錯誤**：`Leukemic infiltration` —— 白血病肝浸潤（leukemic infiltration）通常造成肝臟瀰漫性均質腫大（hepatomegaly），在巨觀上極少形成界線分明的多發實質腫瘤結節。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q11 官方原書詳解（PBD9 271–274｜BP9 168–169）】**：`11 D: Multiple, variably sized tan-white nodules scattered throughout the liver parenchyma with central umbilication (necrosis) are classic for metastatic carcinoma (most commonly adenocarcinoma from colon, pancreas, lung, or breast). Mucin-producing adenocarcinomas frequently induce a hypercoagulable paraneoplastic state (Trousseau syndrome), leading to fatal pulmonary thromboembolism.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-12",
+      "globalIndex": 139,
+      "qNum": 12,
+      "origQ": "Q12｜大R Ch.7 Q15",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q15 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "An epidemiologic study analyzes health care benefits of cancer screening techniques applied to persons more than 50 years of age. Which of the following diagnostic screening techniques used in health care is most likely to have the greatest impact on reduction in cancer deaths in Europe and North America?",
+      "image": null,
+      "options": {
+        "A": "Chest radiograph",
+        "B": "Mammography",
+        "C": "Pap smear",
+        "D": "Serum tumor markers"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：癌症篩檢與流行病學（50 歲以上族群死亡率下降）】**：在歐美高發生率地區，針對 50 歲以上成年族群最具降低癌症死亡率效益的影像篩檢為**乳房攝影（Mammography）**（早期偵測乳癌）；而子宮頸抹片（Pap smear）雖大幅降低子宮頸癌死亡率，但主要篩檢目標族群涵蓋 21–65 歲較年輕女性。",
+        "**(B) 正確【本題應選正解】**：`Mammography` —— 在歐美地區乳癌為女性發生率與死亡率極高的癌症，針對 50 歲以上女性定期施行**乳房攝影（mammography）**可偵測早期原位癌或小腫瘤，對降低該年齡層癌症死亡率影響最顯著。",
+        "**(A) 錯誤**：`Chest radiograph` —— 傳統胸部 X 光（chest radiograph）對肺癌篩檢的敏感度與專一性不足，大型研究證實無法有效降低肺癌死亡率（目前係以低劑量電腦斷層 LDCT 篩檢高風險吸菸者）。",
+        "**(C) 錯誤**：`Pap smear` —— 子宮頸抹片（Pap smear）確實能大幅降低子宮頸癌死亡率，但其主要效益集中在 50 歲以下及更廣泛年齡層的癌前病變（CIN）偵測，且歐美 50 歲以上乳癌疾病負擔遠高於子宮頸癌。",
+        "**(D) 錯誤**：`Serum tumor markers` —— 血清腫瘤標記（如 CEA、CA-125、CA 19-9）因敏感度與專一性受限，多用於治療反應追蹤與復發監測，不適合作為一般大眾的癌症篩檢工具。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q15 官方原書詳解（PBD9 276–277｜BP9 170）】**：`15 B: A screening program should reliably detect early cancers with higher incidence. Breast cancer affects up to 1 in 9 women in these regions. Mammography may aid in detection of small cancers that have a better prognosis. A chest radiograph is an insensitive technique for detecting early lung cancers. Because Pap smear screening can detect dysplasias and in situ carcinomas that can be treated before progression to invasive lesions, deaths from cervical carcinoma have steadily decreased since this screening method became widely available in the last half of the 20th century (primarily starting in younger reproductive-age women). Serum tumor markers, stool guaiac, and urine cytology have much lower sensitivity/impact as mass screening tools.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-13",
+      "globalIndex": 140,
+      "qNum": 13,
+      "origQ": "Q13｜大R Ch.7 Q3",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q3 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "A 62-year-old man has had several episodes of hematuria in the past week. He has a 48 pack-year history of smoking cigarettes. On physical examination, there are no abnormal findings. A urinalysis shows 4+ hematuria, and cytologic examination of the urine shows that atypical cells are present. A cystoscopy is performed and a 4-cm sessile mass with a nodular, ulcerated surface is seen in the dome of the bladder. Which of the following terms best describes this lesion?",
+      "image": null,
+      "options": {
+        "A": "Adenoma",
+        "B": "Carcinoma",
+        "C": "Fibroma",
+        "D": "Papilloma"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：膀胱泌尿上皮癌（Urothelial Carcinoma）之巨觀與細胞學特徵】**：長期吸菸為膀胱癌首要危險因子（芳香胺類致癌物經尿液排出）。膀胱鏡見**無蒂（sessile）、結節狀且表面潰瘍（ulcerated）**之腫塊，合併尿液細胞學出現**非典型細胞（atypical cells）**，均指向惡性上皮腫瘤（carcinoma）。",
+        "**(B) 正確【本題應選正解】**：`Carcinoma` —— 吸菸史合併無痛性血尿、尿液見非典型細胞，且膀胱頂部出現無蒂、結節潰瘍性腫塊，符合侵犯性惡性上皮腫瘤——**膀胱癌（carcinoma，最常見為 urothelial carcinoma）**。",
+        "**(A) 錯誤**：`Adenoma` —— 腺瘤（adenoma）為良性腺上皮腫瘤，通常界線清楚且無潰瘍壞死，尿液細胞學亦不會出現惡性非典型上皮細胞。",
+        "**(C) 錯誤**：`Fibroma` —— 纖維瘤（fibroma）為良性纖維結締組織腫瘤，源自間葉組織且表面上皮完整，不會在尿液中脫落非典型上皮細胞。",
+        "**(D) 錯誤**：`Papilloma` —— 乳頭瘤（papilloma）為良性外生性乳頭狀上皮腫瘤，呈細緻乳頭狀突起（非無蒂結節潰瘍塊），細胞形態成熟無明顯異型性。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q3 官方原書詳解（PBD9 269–271｜BP9 163–164, 199）】**：`3 B: This clinical and gross appearance is typical of a malignant tumor arising in the urothelium—a urothelial carcinoma. Note the link to cigarette smoking. An adenoma is a benign tumor arising in glandular epithelium. A fibroma is a benign tumor of mesenchymal origin. A papilloma is a benign tumor of squamous or urothelial origin that typically is small and pedunculated with delicately branching fronds. A sarcoma is a malignant mesenchymal lesion, uncommon in the bladder.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-14",
+      "globalIndex": 141,
+      "qNum": 14,
+      "origQ": "Q14｜大R Ch.7 Q62 (Central Theory of Carcinogenesis)",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q62 (Central Theory of Carcinogenesis) 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "在分子细胞生物學中何者為腫瘤發生之中心理論基礎",
+      "image": null,
+      "options": {
+        "A": "细胞缺乏DNA修補能力",
+        "B": "細胞具有無限生長能力",
+        "C": "細胞不凋零死亡之基因受損",
+        "D": "細胞對抑癌基因無反應"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：腫瘤發生之分子中心理論（Central Dogma of Carcinogenesis）】**：腫瘤發生（carcinogenesis）是多步驟基因突變累積的結果，包含致癌基因（oncogene）活化、抑癌基因（tumor suppressor gene）失活、DNA 修補基因缺失，以及**調控細胞凋亡基因受損（使受損細胞逃避凋亡並累積突變，如 BCL2 過表現與 p53 缺失）**。",
+        "**(C) 正確【本題應選正解】**：`細胞不凋零死亡之基因受損` —— 依本課程考點設定，正常細胞累積致命 DNA 損傷時應啟動細胞凋亡（apoptosis）自我清除；當**調控細胞凋亡的基因受損（如 p53 失活或 BCL2 活化）**，突變細胞得以存活並持續分裂累積後天突變，構成腫瘤發生的中心基礎。",
+        "**(A) 錯誤**：`细胞缺乏DNA修補能力` —— DNA 修補基因缺失（如 Lynch syndrome 的 MMR 基因或 BRCA1/2）屬於促進突變累積的「賦能特徵（enabling characteristic）」，雖增加突變率，但單獨缺乏修補若凋亡正常仍會清除受損細胞。",
+        "**(B) 錯誤**：`細胞具有無限生長能力` —— 端粒酶（telomerase）活化賦予細胞無限複製潛力，是腫瘤維持生長的關鍵特徵之一，但並非本題考題設定之中心理論基礎選項。",
+        "**(D) 錯誤**：`細胞對抑癌基因無反應` —— 逃避生長抑制（如 RB 或 TGF-β 路徑受損）雖為癌症特徵之一，但若細胞仍保留正常凋亡機制，受損細胞仍會被程序性死亡排除。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q62 (Central Theory of Carcinogenesis) 官方原書詳解（PBD9 279–280｜BP9 171–172）】**：`62 C: At the heart of carcinogenesis is nonlethal genetic damage (or damage to genes controlling cell survival/apoptosis so that mutated cells do not die). If genetic damage were lethal, the cell would simply undergo apoptosis and no tumor could arise.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-15",
+      "globalIndex": 142,
+      "qNum": 15,
+      "origQ": "Q15｜大R Ch.7 Q16",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q16 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "38-year-old woman has abdominal distention that has been worsening for the past 6 weeks. An abdominal CT scan shows bowel obstruction caused by a 6-cm mass in the jejunum. At laparotomy, a portion of the small bowel is resected. Flow cytometric analysis of a portion of the tumor shows a clonal population of B lymphocytes with high S phase. Translocation with activation of which of the following nuclear oncogenes is most likely to be present in this tumor?",
+      "image": null,
+      "options": {
+        "A": "APC",
+        "B": "EGF",
+        "C": "MYC",
+        "D": "RAS"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：Burkitt 淋巴瘤與 MYC 核致癌基因轉位】**：腸道出現高增殖率（high S phase）單株 B 淋巴細胞腫瘤為典型 **Burkitt lymphoma（常見於迴腸／空腸或下頷骨）**，其致病核心為 **`t(8;14)(q24;q32)` 染色體轉位**，使第 8 號染色體上的核轉錄因子致癌基因 **`c-MYC`** 置於免疫球蛋白重鏈基因（IGH）強啟動子下游而持續過度表現。",
+        "**(C) 正確【本題應選正解】**：`MYC` —— **MYC（c-MYC）**為位於細胞核內的轉錄因子致癌基因；在 **Burkitt 淋巴瘤**中藉由 `t(8;14)` 轉位過度活化，驅動細胞大量進入 S 期（高增殖率，鏡下呈星空樣 starry-sky pattern）。",
+        "**(A) 錯誤**：`APC` —— APC 為位於第 5 號染色體的**抑癌基因（tumor suppressor gene）**，其失活突變與家族性腺瘤性息肉症（FAP）及大腸腺癌相關，非 B 細胞淋巴瘤轉位活化之核致癌基因。",
+        "**(B) 錯誤**：`EGF` —— EGF（表皮生長因子）為細胞外分泌型生長因子配體，不屬於染色體轉位活化之細胞核內致癌基因（nuclear oncogene）。",
+        "**(D) 錯誤**：`RAS` —— RAS（KRAS/NRAS/HRAS）為定位於細胞膜內側的 GTPase 訊號傳遞蛋白，通常透過點突變（point mutation）活化而非染色體轉位，且非細胞核內轉錄因子。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q16 官方原書詳解（PBD9 284, 287–288｜BP9 175）】**：`16 C: Burkitt lymphoma often presents as an abdominal/intestinal mass with a very high mitotic index (high S-phase fraction). It characteristically harbors a t(8;14) translocation that juxtaposes the c-MYC nuclear transcription factor proto-oncogene on chromosome 8 with the IgH locus on chromosome 14, driving constitutive MYC overexpression.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-16",
+      "globalIndex": 143,
+      "qNum": 16,
+      "origQ": "Q16｜大R Ch.7 Q17",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q17 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 50-year-old woman has had easy fatigability and noted a dragging sensation in her abdomen for the past 5 months. Physical examination reveals that she is afebrile. She has marked splenomegaly, but no lymphadenopathy. Laboratory studies show her total WBC count is 250,000/mm3 with WBC differential count showing 64% segmented neutrophils, 11% band neutrophils, 7% metamyelocytes, 5% myelocytes, 4% myeloblasts, 3% lymphocytes, 2% basophils, 2% eosinophils, and 2% monocytes. A bone marrow biopsy is performed, and karyotypic analysis of the cells reveals a t （9;22） translocation. Medical treatment with a drug having which of the following modes of action is most likely to produce a complete remission in this patient?",
+      "image": null,
+      "options": {
+        "A": "Activating cellular caspases",
+        "B": "Antibody binding to EGF receptors",
+        "C": "Delivering normal p53 into cells with viral vectors",
+        "D": "Inhibiting tyrosine kinase activity"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心病理考點：慢性骨髓性白血病（CML）與 BCR-ABL 酪胺酸激酶抑制劑】**：明顯脾腫大合併白血球極度升高（250,000/mm³）及各階段成熟度之骨髓系細胞（left shift 伴嗜鹼性球增加），結合骨髓核型 **`t(9;22)(q34;q11)` 費城染色體（Philadelphia chromosome）**，確診為 **CML**。其產生持續活化的 **BCR-ABL 融合酪胺酸激酶**，標靶藥物 **Imatinib** 藉由**抑制酪胺酸激酶活性（inhibiting tyrosine kinase activity）**即可達到高度完全緩解。",
+        "**(D) 正確【本題應選正解】**：`Inhibiting tyrosine kinase activity` —— **t(9;22) 轉位**形成 **BCR-ABL 融合蛋白**，具有持續不間斷的酪胺酸激酶活性；使用酪胺酸激酶抑制劑（TKI，如 **Imatinib**）專一性阻斷該激酶活性，可有效誘導 CML 完全緩解。",
+        "**(A) 錯誤**：`Activating cellular caspases` —— 直接活化細胞凋亡蛋白酶（caspases）並非 CML 標靶藥物的作用機轉；Imatinib 是透過阻斷 BCR-ABL 激酶的 ATP 結合位點來關閉異常存活與增殖訊號。",
+        "**(B) 錯誤**：`Antibody binding to EGF receptors` —— 抗 EGFR 單株抗體（如 cetuximab）主要用於抑制上皮來源腫瘤（如大腸癌、頭頸癌）的 EGFR 訊號，對帶有 BCR-ABL 融合蛋白的 CML 無效。",
+        "**(C) 錯誤**：`Delivering normal p53 into cells with viral vectors` —— 以病毒載體遞送正常 p53 基因並非針對 `t(9;22)` CML 的臨床標準標靶治療（CML 慢性期通常仍保有野生型 p53，核心驅動突變為 BCR-ABL）。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q17 官方原書詳解（PBD9 284–285｜BP9 175）】**：`17 D: This patient has chronic myelogenous leukemia (CML) with the Philadelphia chromosome t(9;22), which creates the BCR-ABL fusion gene encoding a constitutively active tyrosine kinase. Targeted therapy with imatinib mesylate (Gleevec), a specific BCR-ABL tyrosine kinase inhibitor, achieves complete hematologic and cytogenetic remission in most patients.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-17",
+      "globalIndex": 144,
+      "qNum": 17,
+      "origQ": "Q17｜大R Ch.7 Q23",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q23 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 70-year-old woman reported a 4-month history of a 4-kg weight loss and increasing generalized icterus. On physical examination, she has midepigastric tenderness on palpation. An abdominal CT scan shows a 5-cm mass in the head of the pancreas. Fine-needle aspiration of the mass is performed. On biochemical analysis, the neoplastic cells show continued activation of cytoplasmic kinases. Which of the following genes is most likely to be involved in this process?",
+      "image": null,
+      "options": {
+        "A": "APC",
+        "B": "MYC",
+        "C": "p53",
+        "D": "RAS"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心病理考點：胰臟癌（Pancreatic Ductal Adenocarcinoma）與 KRAS 突變】**：高齡患者體重減輕、無痛性漸進性黃疸合併胰頭腫塊為典型胰臟癌。約 90% 以上胰臟導管腺癌帶有 **KRAS（RAS 家族）點突變**，使 RAS 蛋白喪失內源性 GTPase 水解能力而持續處於 GTP 結合之活化狀態，不斷激活下游細胞質絲胺酸／蘇胺酸激酶（RAF-MEK-ERK 級聯反應）。",
+        "**(D) 正確【本題應選正解】**：`RAS` —— **RAS（特別是 KRAS）**是最常見於胰臟癌（>90%）的致癌基因；突變後的 RAS 無法將 GTP 水解為 GDP，導致下游細胞質激酶（RAF/MEK/ERK 及 PI3K/AKT）持續處於活化狀態。",
+        "**(A) 錯誤**：`APC` —— APC 為負向調控 WNT/β-catenin 路徑的抑癌基因，主要與家族性腺瘤性息肉症（FAP）及大腸直腸癌有關，非胰臟癌激活細胞質激酶的主因。",
+        "**(B) 錯誤**：`MYC` —— MYC 屬於細胞核內轉錄因子致癌基因（與 Burkitt 淋巴瘤等相關），其主要功能在核內調控基因轉錄，而非直接持續活化細胞質激酶級聯。",
+        "**(C) 錯誤**：`p53` —— p53（TP53）為負責 DNA 損傷偵測、細胞週期停滯與凋亡的核內抑癌基因；雖然晚期胰臟癌常合併 p53 缺失，但不會直接造成細胞質激酶持續活化。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q23 官方原書詳解（PBD9 281–282, 321–322｜BP9 177）】**：`23 D: Point mutations in RAS family genes (especially KRAS, present in >90% of pancreatic adenocarcinomas) impair GTPase activity, trapping RAS in its active GTP-bound form and causing constitutive activation of downstream cytoplasmic kinases (RAF/MAPK and PI3K/AKT pathways).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-18",
+      "globalIndex": 145,
+      "qNum": 18,
+      "origQ": "Q18｜大R Ch.7 Q24",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q24 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 22-year-old man has a raised, pigmented lesion on his forearm that has increased in size and become more irregular in color over the past 4 months. Physical examination shows a 0.5* 1.2 cm black-to-brown asymmetric lesion with irregular borders. An excisional biopsy specimen shows clusters of pleomorphic pigmented cells that extend into the reticular dermis. Family history indicates that the patient'/s maternal uncle died from a similar tumor. His grandfather required enucleation of the left eye because of a \"dark brown\" retinal mass. Which of the following genes is most likely to have undergone mutation to produce these findings in this family?",
+      "image": null,
+      "options": {
+        "A": "BCL2 （anti-apoptosis gene）",
+        "B": "c-MYC （transcription factor gene）",
+        "C": "p16 （cell cycle inhibition）",
+        "D": "p53 （DNA damage response gene）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：家族性黑色素瘤（Familial Melanoma）與 CDKN2A / p16 突變】**：年輕男性前臂出現不對稱、邊界不規則、顏色不均且侵犯網狀真皮（reticular dermis）的**惡性黑色素瘤（melanoma）**，合併母系家族黑色素瘤與眼部葡萄膜黑色素瘤（uveal melanoma）病史，最常見的生殖系突變基因為調控 G1/S 細胞週期檢查點的抑癌基因 **`CDKN2A`（編碼 `p16INK4a`）**。",
+        "**(C) 正確【本題應選正解】**：`p16 （cell cycle inhibition）` —— **p16（CDKN2A）**可抑制 CDK4/6，阻止 RB 磷酸化並將細胞阻滯於 G1 期；生殖系 **p16 失活突變**是家族性非典型多發痣黑色素瘤症候群（FAMMM）最常見的原因，亦增加眼部黑色素瘤與胰臟癌風險。",
+        "**(A) 錯誤**：`BCL2 （anti-apoptosis gene）` —— BCL2 過表現主要見於濾泡性淋巴瘤（`t(14;18)`），透過抑制粒線體凋亡途徑促癌，並非家族性皮膚與眼部黑色素瘤的典型遺傳致病基因。",
+        "**(B) 錯誤**：`c-MYC （transcription factor gene）` —— c-MYC 為體細胞轉位活化的核轉錄因子致癌基因（如 Burkitt 淋巴瘤），不以體染色體顯性遺傳形式造成家族性黑色素瘤症候群。",
+        "**(D) 錯誤**：`p53 （DNA damage response gene）` —— 生殖系 TP53 突變導致 Li-Fraumeni 症候群（好發肉瘤、乳癌、腦瘤、腎上腺皮質癌與白血病），並非本題專一指向家族性皮膚與葡萄膜黑色素瘤的首要突變基因。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q24 官方原書詳解（PBD9 284–287｜BP9 179–180）】**：`24 E: Inherited mutations in the CDKN2A gene encoding p16/INK4a (a cyclin-dependent kinase inhibitor that blocks CDK4/6-cyclin D mediated phosphorylation of RB) are associated with familial malignant melanoma (as well as pancreatic carcinoma). Note: In Prof. Wang's 4-option exam version, p16 (cell cycle inhibition) is option (C).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-19",
+      "globalIndex": 146,
+      "qNum": 19,
+      "origQ": "Q19｜大R Ch.7 Q25",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q25 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 3-year-old child has exhibited difficulty with vision in her right eye. On physical examination, there is leukocoria of the right eye, consistent with a mass in the posterior chamber. MR imaging shows a mass that nearly fills the globe. The child undergoes enucleation of the right eye. Molecular analysis of the neoplastic cells indicates absence of both copies of a gene that contributes to control of the cell cycle. Which of the following genes has most likely undergone mutation in this neoplasm?",
+      "image": null,
+      "options": {
+        "A": "BCR-ABL",
+        "B": "RB",
+        "C": "hMSH2",
+        "D": "K-RAS"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：遺傳性視網膜母細胞瘤（Retinoblastoma）與 RB 雙重打擊假說】**：幼童單眼／雙眼視網膜腫瘤呈現白色瞳孔反射（leukocoria）與 Flexner-Wintersteiner 菊形團（rosettes），為**視網膜母細胞瘤（retinoblastoma）**。因遺傳一個生殖系 **`RB1` 抑癌基因**突變（Knudson two-hit hypothesis），此類患童日後發生**骨肉瘤（osteosarcoma）**及松果體母細胞瘤的風險大幅升高。",
+        "**(B) 正確【本題應選正解】**：`RB` —— **RB（RB1）**為位於第 13 號染色體長臂（13q14）的經典抑癌基因，正常情況下結合並抑制 E2F 轉錄因子以阻擋 G1→S 期轉換；生殖系 RB1 突變造成雙側視網膜母細胞瘤且顯著增加**骨肉瘤**風險。",
+        "**(A) 錯誤**：`BCR-ABL` —— BCR-ABL 為 `t(9;22)` 費城染色體產生的融合致癌基因，見於成人慢性骨髓性白血病（CML）與部分 ALL，與兒童視網膜母細胞瘤無關。",
+        "**(C) 錯誤**：`hMSH2` —— hMSH2 屬於 DNA 錯配修補（mismatch repair, MMR）基因，其生殖系突變導致遺傳性非息肉症大腸癌（Lynch syndrome），與視網膜母細胞瘤無關。",
+        "**(D) 錯誤**：`K-RAS` —— K-RAS 為體細胞突變活化的 GTPase 致癌基因，常見於胰臟癌、大腸癌與肺腺癌，並非遺傳性視網膜母細胞瘤的致病基因。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q25 官方原書詳解（PBD9 291, 293｜BP9 176, 182）】**：`25 G: Retinoblastoma in early childhood presenting with leukocoria ('white pupil reflex') is the classic prototype of Knudson's two-hit hypothesis of tumor suppressor genes. Both copies (alleles) of the RB gene on chromosome 13q14 must be inactivated or deleted for retinoblastoma to develop. Note: In Prof. Wang's 4-option exam version, RB is option (B).`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-20",
+      "globalIndex": 147,
+      "qNum": 20,
+      "origQ": "Q20｜大R Ch.7 Q31",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q31 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 53-year-old man diagnosed with oral cancer and treated with radiation and chemotherapy 1 year ago now has a positron emission tomography （PET） scan of his neck that shows a single focus of increased uptake. This focus is resected and microscopic examination shows that it is a metastasis. Molecular analysis of this cancer shows p53, PTEN, and c-MYC gene mutations. Which of the following metabolic pathways is most likely up-regulated to promote his cancer cell survival and proliferation?",
+      "image": null,
+      "options": {
+        "A": "Aerobic glycolysis",
+        "B": "Gluconeogenesis",
+        "C": "Hexose monophosphate shunt",
+        "D": "Oxidative phosphorylation"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心病理考點：Warburg 效應（有氧糖解 Aerobic Glycolysis）】**：即使在氧氣充足的環境下，癌細胞（受 c-MYC 活化、p53 缺失及 PTEN 缺失驅動 PI3K/AKT 路徑）仍優先大量進行**有氧糖解（aerobic glycolysis）**以快速產生糖解中間產物供核酸、胺基酸與脂質合成；大量攝取葡萄糖也是臨床 **FDG-PET 正子掃描**呈現高訊號的生化學基礎。",
+        "**(A) 正確【本題應選正解】**：`Aerobic glycolysis` —— p53 缺失、PTEN 缺失與 c-MYC 活化會共同驅動腫瘤細胞進行 **Warburg 效應**——在有氧條件下仍高度上調**有氧糖解（aerobic glycolysis）**，使癌細胞大量攝取葡萄糖（FDG-PET 亮點）以滿足快速增殖所需的生合成原料。",
+        "**(B) 錯誤**：`Gluconeogenesis` —— 糖質新生（gluconeogenesis）為肝臟與腎臟在飢餓時消耗能量合成葡萄糖的途徑，與癌細胞消耗大量葡萄糖進行快速合成代謝的 Warburg 效應相反。",
+        "**(C) 錯誤**：`Hexose monophosphate shunt` —— 五碳糖磷酸途徑（HMP shunt）雖可提供核糖與 NADPH，但並非 Warburg 效應中造成癌細胞葡萄糖攝取暴增與乳酸大量生成的最核心上調主路徑。",
+        "**(D) 錯誤**：`Oxidative phosphorylation` —— 正常分化細胞在有氧時主要依賴粒線體氧化磷酸化（oxidative phosphorylation）產生 ATP；癌細胞則刻意減少依賴氧化磷酸化而轉向高通量有氧糖解以保留碳骨架。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q31 官方原書詳解（PBD9 286, 298｜BP9 179）】**：`31 A: Rapidly growing tumor cells shift their glucose metabolism away from mitochondrial oxidative phosphorylation toward aerobic glycolysis (the Warburg effect), even in the presence of ample oxygen. This high hunger for glucose allows FDG-PET scanning to visualize metastases and supplies carbon intermediates needed for synthesizing lipids, nucleotides, and proteins during rapid cell division.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-21",
+      "globalIndex": 148,
+      "qNum": 21,
+      "origQ": "Q21｜大R Ch.7 Q37",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q37 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 48-year-old woman notices a lump in her left breast. On physical examination she has a firm, nonmovable, 2-cm mass in the upper outer quadrant of the left breast. There are enlarged, firm, nontender lymph nodes in the left axilla. A fine-needle aspiration biopsy is performed, and the cells present are consistent with carcinoma. A lumpectomy with axillary lymph node dissection is performed, and carcinoma is present in two of eight axillary nodes. Reduced expression of which of the following molecules by the tumor cells is most likely responsible for the lymph node metastases?",
+      "image": null,
+      "options": {
+        "A": "Estrogen receptors",
+        "B": "ERBB2 （HER-2）",
+        "C": "E-cadherin",
+        "D": "Progesterone receptors"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：上皮-間質轉化（EMT）與 E-cadherin 表現下降】**：癌細胞要從原發腫瘤脫離並侵犯周圍基質與淋巴結，必須先瓦解細胞間的黏著連接（adherens junctions）。上皮細胞間黏附分子 **E-cadherin（由 CDH1 基因編碼）表現量減少或喪失**，會釋放 β-catenin 並促進上皮-間質轉化（EMT），是引發局部侵犯與**淋巴結轉移**的關鍵第一步。",
+        "**(C) 正確【本題應選正解】**：`E-cadherin` —— **E-cadherin** 是維持上皮細胞緊密連接的核心跨膜黏附蛋白；其表現量減少或缺失會使癌細胞彼此解離、增強運動與侵襲力，直接促成腋下淋巴結轉移。",
+        "**(A) 錯誤**：`Estrogen receptors` —— 雌激素受體（ER）主要作為乳癌的預後指標與抗荷爾蒙治療（如 tamoxifen）標的，並非透過「表現量減少」直接導致細胞脫離並發生淋巴結轉移的黏附分子。",
+        "**(B) 錯誤**：`ERBB2 （HER-2）` —— ERBB2（HER-2）在部分侵襲性乳癌中是**基因擴增與過度表現（overexpression）**以驅動增殖，而非表現量減少導致轉移。",
+        "**(D) 錯誤**：`Progesterone receptors` —— 黃體素受體（PR）反映雌激素受體路徑的完整性與內分泌治療反應性，本身不負責維持上皮細胞間機械性黏附。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q37 官方原書詳解（PBD9 305–306｜BP9 191–192）】**：`37 C: E-cadherin (epithelial cadherin) acts as an intercellular glue holding epithelial cells together and mediating contact inhibition via β-catenin. Loss or reduced expression of E-cadherin is a critical first step in the invasion-metastasis cascade (loosening of tumor cell-cell junctions), allowing carcinoma cells to detach from the primary mass and metastasize to regional lymph nodes.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-22",
+      "globalIndex": 149,
+      "qNum": 22,
+      "origQ": "Q22｜大R Ch.7 Q13",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q13 原題",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "An epidemiologic study of cancer deaths recorded in the last half of the 20th century is conducted. The number of deaths for one particular type of cancer had been decreasing in developed nations, despite the absence of widespread screening and prevention programs. Which of the following neoplasms was most likely to be identified by this study?",
+      "image": null,
+      "options": {
+        "A": "Cerebral glioma",
+        "B": "Gastric adenocarcinoma",
+        "C": "Hepatic angiosarcoma",
+        "D": "Leukemia"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心病理考點：20 世紀後半葉胃癌死亡率自然下降】**：在沒有大規模全面篩檢計畫下，已開發國家於 20 世紀後半葉死亡率顯著下降的癌症為**胃腺癌（gastric adenocarcinoma）**，主因是**冰箱普及**減少了煙燻、鹽漬與亞硝酸鹽食物保存方式，同時衛生條件改善也降低了幽門螺旋桿菌（*H. pylori*）感染率。",
+        "**(B) 正確【本題應選正解】**：`Gastric adenocarcinoma` —— 因家庭冷藏設備普及取代傳統醃漬與煙燻保存法（減少亞硝胺暴露）及 *H. pylori* 感染率降低，**胃腺癌（gastric adenocarcinoma）**成為 20 世紀後半葉已開發國家死亡率自然下降最顯著的惡性腫瘤。",
+        "**(A) 錯誤**：`Cerebral glioma` —— 腦膠質瘤（cerebral glioma）的發生率與死亡率在 20 世紀後半葉於已開發國家並未因飲食或環境改善而出現大幅度持續下降。",
+        "**(C) 錯誤**：`Hepatic angiosarcoma` —— 肝血管肉瘤（hepatic angiosarcoma）屬於極罕見的職業／化學暴露相關腫瘤（如氯乙烯），對整體人口癌症死亡率趨勢變化極微。",
+        "**(D) 錯誤**：`Leukemia` —— 白血病（leukemia）在 20 世紀後半葉雖然因化療進步改善部分存活率，但並不符合本流行病學題中因環境飲食變遷導致整體死亡率持續下降的經典趨勢。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q13 官方原書詳解（PBD9 275–277｜BP9 170）】**：`13 B: Across developed nations during the last half of the 20th century, death rates for gastric adenocarcinoma fell dramatically even without mass screening programs, largely attributable to improved food refrigeration and decreased dietary intake of nitrites, smoked/salted foods, and reduced H. pylori transmission.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-23",
+      "globalIndex": 150,
+      "qNum": 23,
+      "origQ": "Q23｜大R Q27",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q27 (p53 & Apoptosis) 考點",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "與细胞凋零有密切關係之基因為？",
+      "image": null,
+      "options": {
+        "A": "RB gene",
+        "B": "P16INK4a gene",
+        "C": "P53 gene",
+        "D": "PTEN gene"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：p53 基因與 DNA 損傷誘導之細胞凋亡】**：**TP53（p53）**被稱為「基因體守護者（guardian of the genome）」。當細胞發生無法修復的 DNA 損傷時，p53 會轉錄活化 **BAX、PUMA、NOXA** 等促凋亡蛋白並抑制抗凋亡蛋白 BCL2，直接啟動內生性粒線體路徑的**細胞凋亡（apoptosis）**。",
+        "**(C) 正確【本題應選正解】**：`P53 gene` —— **p53 基因**在偵測嚴重 DNA 損傷且無法修復時，會直接誘導 BAX 等促凋亡基因表現以啟動**細胞凋亡（apoptosis）**，與細胞凋零關係最密切。",
+        "**(A) 錯誤**：`RB gene` —— RB 基因主要透過結合 E2F 調控 G1/S 期細胞週期檢查點（阻止細胞進入分裂期），並不直接轉錄啟動凋亡蛋白執行細胞凋零。",
+        "**(B) 錯誤**：`P16INK4a gene` —— p16INK4a（CDKN2A）透過抑制 CDK4/6 來維持 RB 的低磷酸化狀態以阻滯細胞週期，與細胞衰老（senescence）及 G1 停滯關係密切，非直接凋亡執行者。",
+        "**(D) 錯誤**：`PTEN gene` —— PTEN 為磷酸酶抑癌基因，透過將 PIP3 去磷酸化為 PIP2 來抑制 PI3K/AKT 促存活路徑；雖間接影響存活訊號，但直接主導 DNA 損傷凋亡反應的經典基因為 p53。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q27 (p53 & Apoptosis) 對應原書詳解（PBD9 293–295｜BP9 184–186）】**：`TP53 (p53) monitors DNA damage and directly activates transcription of pro-apoptotic genes such as BAX to trigger mitochondrial apoptosis when DNA damage cannot be repaired.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    },
+    {
+      "id": "1014_Neo2-24",
+      "globalIndex": 151,
+      "qNum": 24,
+      "origQ": "Q24｜大R Q23",
+      "year": "113/114 學年度｜📘大R題庫 Ch.7 Q23 & Q29 (Proto-oncogenes vs. Tumor Suppressors) 考點",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不屬於抑癌基因（tumor suppressor gene）？",
+      "image": null,
+      "options": {
+        "A": "RB gene",
+        "B": "TGF-B receptor gene",
+        "C": "Ras gene",
+        "D": "PTEN gene"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心病理考點：抑癌基因（Tumor Suppressor Gene）vs. 致癌基因（Oncogene）】**：抑癌基因（如 `RB`、`TP53`、`APC`、`PTEN`、`TGF-β receptor`、`BRCA1/2`）通常需雙對偶基因同時失活（loss-of-function）才促癌；而 **`RAS` 基因（KRAS、NRAS、HRAS）**屬於原致癌基因（proto-oncogene），僅需單一對偶基因發生功能獲得性點突變（gain-of-function）即可持續活化促增殖訊號。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Ras gene` —— **RAS 基因**為細胞膜內側的小 GTPase **原致癌基因（proto-oncogene）**，突變後持續活化促進細胞分裂增殖，**不屬於**抑癌基因，故為本題正解。",
+        "**(A) 敘述正確（非本題所求）**：`RB gene` —— RB 基因為經典抑癌基因（位於 13q14），負責抑制 E2F 並把關 G1/S 細胞週期檢查點，屬於抑癌基因。",
+        "**(B) 敘述正確（非本題所求）**：`TGF-B receptor gene` —— TGF-β 受體（TGFBR1/2）傳遞 TGF-β 的生長抑制訊號，在結腸癌、胰臟癌等腫瘤中常因失活突變而喪失抑癌功能，屬於抑癌基因。",
+        "**(D) 敘述正確（非本題所求）**：`PTEN gene` —— PTEN 編碼脂質磷酸酶，可拮抗 PI3K/AKT 促癌存活路徑（失活常見於子宮內膜癌、攝護腺癌與 Cowden 症候群），屬於抑癌基因。",
+        "📖 **【大R題庫（Robbins Review 4th Ed.）Ch.7 Q23 & Q29 (Proto-oncogenes vs. Tumor Suppressors) 對應原書詳解（PBD9 281–297｜BP9 177–187）】**：`RB, TGF-β receptor, and PTEN are all classic tumor suppressor genes, whereas RAS is the most commonly mutated proto-oncogene in human cancers.`（來源：[大三整合2 Notebook 大R題庫](https://gemini.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5)）"
+      ]
+    }
+  ]
+}

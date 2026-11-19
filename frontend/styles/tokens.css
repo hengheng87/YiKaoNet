@@ -1,0 +1,77 @@
+/* === 1. 基礎重置與離線系統字體設定 === */
+*, ::before, ::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: #e2e8f0;
+}
+html {
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+h1, h2, h3, h4, p, ul, ol {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+strong, b {
+  font-weight: 700;
+}
+code, kbd, pre, textarea.font-mono, .font-mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: inherit;
+  color: inherit;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+}
+button, select {
+  text-transform: none;
+  cursor: pointer;
+}
+button:disabled {
+  cursor: default;
+}
+img, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* === 2. 捲軸與元件互動動畫 === */
+.option-btn {
+  transition: all 0.15s ease-in-out;
+}
+.option-btn:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+.explanation-box {
+  transition: all 0.2s ease-in-out;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

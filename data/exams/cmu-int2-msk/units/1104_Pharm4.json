@@ -1,0 +1,1152 @@
+{
+  "unitCode": "1104_Pharm4",
+  "unitTitle": "11/04 藥理學：腎上腺素受體致效與拮抗劑",
+  "session": "B",
+  "subject": "Pharm",
+  "subjectTitle": "藥理學 (一)",
+  "prof": "賴弘岳 教授",
+  "examRange": "B卷 Q1–40（共40題）",
+  "unitUrl": "https://drive.google.com/file/d/1QnqpERXcGexEurax1njqvbrOIgPIxnne",
+  "questions": [
+    {
+      "id": "1104_Pharm4-1",
+      "globalIndex": 444,
+      "qNum": 1,
+      "origQ": "Q1",
+      "year": "課堂補充題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following statements is correct regarding responses mediated by adrenergic receptors?",
+      "image": null,
+      "options": {
+        "A": "Stimulation of α1 receptors increases blood pressure.",
+        "B": "Stimulation of sympathetic presynaptic α2 receptors increases norepinephrine release.",
+        "C": "Stimulation of β2 receptors increases heart rate (tachycardia).",
+        "D": "Stimulation of β2 receptors causes bronchoconstriction."
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：腎上腺素受體（α1, α2, β2）器官效應】**：(1) 活化血管 **α1 受體** → 血管收縮、總周邊阻力（TPR）上升 → **血壓上升**；(2) 活化突觸前 **α2 受體** → Gi 抑制 NE 釋放；(3) 活化心臟 **β1**（非 β2）→ 心跳加速；(4) 活化支氣管 **β2** → **支氣管舒張（bronchodilation）**。",
+        "**(A) 正確【本題應選正解】**：`Stimulation of α1 receptors increases blood pressure.` —— 活化周邊小動脈平滑肌 **α1 受體**會引發血管強烈收縮、提高周邊阻力，進而使**血壓上升**。",
+        "**(B) 錯誤**：`Stimulation of sympathetic presynaptic α2 receptors increases norepinephrine release.` —— 突觸前 **α2 受體**（Gi 蛋白）透過負回饋機制**抑制（減少）**正腎上腺素（NE）的釋放。",
+        "**(C) 錯誤**：`Stimulation of β2 receptors increases heart rate (tachycardia).` —— 增加心跳速率（正性變時作用）主要由心臟竇房結上的 **β1 受體**（而非 β2）介導。",
+        "**(D) 錯誤**：`Stimulation of β2 receptors causes bronchoconstriction.` —— 活化支氣管平滑肌 **β2 受體**（Gs → ↑cAMP）引起的是**支氣管舒張（bronchodilation）**，而非收縮。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-2",
+      "globalIndex": 445,
+      "qNum": 2,
+      "origQ": "Q2",
+      "year": "課堂補充題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following adrenergic drugs is used in the treatment of overactive bladder?",
+      "image": null,
+      "options": {
+        "A": "Epinephrine",
+        "B": "Dobutamine",
+        "C": "Phenylephrine",
+        "D": "Mirabegron"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：膀胱過動症（Overactive Bladder, OAB）治療藥物】**：抑制逼尿肌過度收縮可選用：**① M3 蕈毒鹼受體拮抗劑**（**Oxybutynin、Solifenacin、Darifenacin、Tolterodine、Trospium**）；**② 選擇性 β3 腎上腺素受體致效劑**（**Mirabegron**，耦合 Gs 放鬆逼尿肌）；**③ 逼尿肌局部注射肉毒桿菌毒素（Botulinum toxin）**。",
+        "**(D) 正確【本題應選正解】**：`Mirabegron` —— **Mirabegron** 為選擇性 **β3 腎上腺素受體致效劑（β3-adrenoceptor agonist，耦合 Gs → ↑cAMP）**，能直接使膀胱逼尿肌在儲尿期放鬆以增加膀胱容量，是臨床治療**膀胱過動症（overactive bladder, OAB）**的重要口服藥物。",
+        "**(A) 錯誤**：`Epinephrine` —— **Epinephrine（腎上腺素，α1=α2, β1=β2）**能同時透過 α1 收縮血管升壓並消退黏膜水腫、β1 強心提升心輸出量、β2 擴張支氣管並穩定肥大細胞膜抑制組織胺釋放，是**過敏性休克（anaphylactic shock）**與心跳停止急救的第一線首選用藥。",
+        "**(B) 錯誤**：`Dobutamine` —— **Dobutamine** 為選擇性 **β1 腎上腺素受體致效劑（β1 > β2）**，主要作用於心臟增強心肌收縮力（positive inotropy）與心輸出量，臨床用於急性鬱血性心衰竭與心因性休克，不用於膀胱過動症或過敏性休克。",
+        "**(C) 錯誤**：`Phenylephrine` —— **Phenylephrine** 為選擇性直接作用型 **α1 腎上腺素受體致效劑（α1 >> α2）**，能收縮周邊血管升壓（用於治療**姿勢性低血壓**與麻醉低血壓）、收縮鼻黏膜血管（緩解鼻塞）及收縮虹膜輻射肌（短效散瞳），不用於膀胱過動症或過敏性休克首選。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-3",
+      "globalIndex": 446,
+      "qNum": 3,
+      "origQ": "Q3",
+      "year": "課堂補充題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "A 12-year-old boy with peanut allergy is brought to the emergency room after accidental consumption of peanuts. He is in anaphylactic shock. Which of the following drugs is most appropriate to treat this patient?",
+      "image": null,
+      "options": {
+        "A": "Norepinephrine",
+        "B": "Phenylephrine",
+        "C": "Dobutamine",
+        "D": "Epinephrine"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：過敏性休克（Anaphylactic Shock）首選急救藥物】**：**Epinephrine（腎上腺素，α1=α2, β1=β2）**為唯一第一線救命首選，同時透過 **α1** 收縮血管升壓與消除喉頭水腫、**β1** 強心維持輸出、**β2** 擴張支氣管並抑制肥大細胞釋放組織胺。",
+        "**(D) 正確【本題應選正解】**：`Epinephrine` —— **Epinephrine（腎上腺素，α1=α2, β1=β2）**能同時透過 α1 收縮血管升壓並消退黏膜水腫、β1 強心提升心輸出量、β2 擴張支氣管並穩定肥大細胞膜抑制組織胺釋放，是**過敏性休克（anaphylactic shock）**與心跳停止急救的第一線首選用藥。",
+        "**(A) 錯誤**：`Norepinephrine` —— **Epinephrine（腎上腺素，α1=α2, β1=β2）**能同時透過 α1 收縮血管升壓並消退黏膜水腫、β1 強心提升心輸出量、β2 擴張支氣管並穩定肥大細胞膜抑制組織胺釋放，是**過敏性休克（anaphylactic shock）**與心跳停止急救的第一線首選用藥。",
+        "**(B) 錯誤**：`Phenylephrine` —— **Phenylephrine** 為選擇性直接作用型 **α1 腎上腺素受體致效劑（α1 >> α2）**，能收縮周邊血管升壓（用於治療**姿勢性低血壓**與麻醉低血壓）、收縮鼻黏膜血管（緩解鼻塞）及收縮虹膜輻射肌（短效散瞳），不用於膀胱過動症或過敏性休克首選。",
+        "**(C) 錯誤**：`Dobutamine` —— **Dobutamine** 為選擇性 **β1 腎上腺素受體致效劑（β1 > β2）**，主要作用於心臟增強心肌收縮力（positive inotropy）與心輸出量，臨床用於急性鬱血性心衰竭與心因性休克，不用於膀胱過動症或過敏性休克。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-4",
+      "globalIndex": 447,
+      "qNum": 4,
+      "origQ": "Q4",
+      "year": "課堂補充題",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "Which of the following adrenergic agents has restrictions on over-the-counter sales because of its potential use for the illegal synthesis of methamphetamine?",
+      "image": null,
+      "options": {
+        "A": "Naphazoline",
+        "B": "Pseudoephedrine",
+        "C": "Epinephrine",
+        "D": "Tetrahydrozoline"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(B) 正確【本題應選正解】**：`Pseudoephedrine` —— 感冒去充血劑偽麻黃鹼（**Pseudoephedrine**）與甲基安非他命（Methamphetamine）結構極為相近，僅需一步化學還原脫去羥基即可製成 Methamphetamine。",
+        "**(A) 錯誤**：`Naphazoline` —— **Naphazoline** 為咪唑啉類（imidazoline）直接作用型 α 腎上腺素受體致效劑，僅作為局部點眼或點鼻去充血劑，無法用於合成甲基安非他命。",
+        "**(C) 錯誤**：`Epinephrine` —— **Epinephrine（腎上腺素，α1=α2, β1=β2）**能同時透過 α1 收縮血管升壓並消退黏膜水腫、β1 強心提升心輸出量、β2 擴張支氣管並穩定肥大細胞膜抑制組織胺釋放，是**過敏性休克（anaphylactic shock）**與心跳停止急救的第一線首選用藥。",
+        "**(D) 錯誤**：`Tetrahydrozoline` —— **Tetrahydrozoline** 為咪唑啉類（imidazoline）局部點眼／點鼻 α1 血管收縮去充血劑（消除紅眼），無法用於合成甲基安非他命。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-5",
+      "globalIndex": 448,
+      "qNum": 5,
+      "origQ": "Q1",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列有關腎上腺素受體 (adrenergic receptors) 之敘述，何項錯誤 (false)？",
+      "image": null,
+      "options": {
+        "A": "活化血管平滑肌α1受體，可↑Ca²⁺，促使血管平滑肌收縮 (vascular smooth muscle contraction)",
+        "B": "活化血管平滑肌α2受體，可↓cAMP，促使血管平滑肌放鬆 (vascular smooth muscle relaxation)",
+        "C": "活化心肌β1受體，可↑cAMP，促使心肌收縮 (cardiac muscle contraction)",
+        "D": "活化平滑肌β2受體，可↑cAMP，促使平滑肌放鬆 (smooth muscle relaxation)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：腎上腺素受體（α1, α2, β1, β2）G 蛋白訊號傳遞】**：(1) **α1（Gq）**：活化 PLC → ↑IP3/DAG → ↑Ca²⁺ → 血管平滑肌**收縮**；(2) **α2（Gi）**：抑制腺苷酸環化酶 → **↓cAMP**（突觸前負回饋抑制 NE 釋放；血管突觸後亦引起**收縮而非放鬆**）；(3) **β1（Gs）**：↑cAMP → 心肌收縮力與心跳上升；(4) **β2（Gs）**：**↑cAMP**（抑制 MLCK）→ 支氣管與血管平滑肌**放鬆**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`活化血管平滑肌α2受體，可↓cAMP，促使血管平滑肌放鬆 (vascular smooth muscle relaxation)` —— 突觸後血管平滑肌上的 **α2 受體**偶聯 Gi 蛋白使 cAMP 下降（↓cAMP，解除對平滑肌收縮之抑制並促進鈣內流），結果是引起**血管平滑肌「收縮」**而非放鬆，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`活化血管平滑肌α1受體，可↑Ca²⁺，促使血管平滑肌收縮 (vascular smooth muscle contraction)` —— α1 受體偶聯 Gq 蛋白增加細胞內 Ca²⁺，促使血管平滑肌收縮，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`活化心肌β1受體，可↑cAMP，促使心肌收縮 (cardiac muscle contraction)` —— β1 受體偶聯 Gs 蛋白增加 cAMP 與 PKA 活性，增強心肌收縮力與心跳，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`活化平滑肌β2受體，可↑cAMP，促使平滑肌放鬆 (smooth muscle relaxation)` —— **β2 受體**偶聯的是 **Gs 蛋白**，活化後會使 **cAMP「上升（↑cAMP）」**進而抑制 MLCK 使平滑肌放鬆，而非 ↓cAMP，故本選項敘述錯誤。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-6",
+      "globalIndex": 449,
+      "qNum": 6,
+      "origQ": "Q2",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列有關擬交感致效劑(sympathomimetic agonists)產生之藥理作用，何項錯誤？",
+      "image": null,
+      "options": {
+        "A": "phenylephrine 可活化虹膜α1 adrenoceptor，產生散瞳 (mydriasis) 作用",
+        "B": "clonidine 可活化中樞神經系統 (CNS) α2 adrenoceptor，產生交感神經抑制作用，造成血壓 下降 (decrease in blood pressure)",
+        "C": "dobutamine 可活化心臟β1 adrenoceptor，增強心收縮力 (increase cardiac contractility) 以及 增加心跳速率 (increase heart rate)",
+        "D": "mirabegron 可活化膀胱β2 adrenoceptor，產生逼尿肌放鬆 (detrusor muscle relaxation) 作用"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：膀胱逼尿肌放鬆受體——β3-Adrenoceptor（Mirabegron）】**：(1) **Phenylephrine**：活化虹膜擴張肌 α1 受體引起散瞳（不造成睫狀肌麻痺）；(2) **Clonidine**：活化中樞 α2 受體降低交感輸出而降血壓；(3) **Dobutamine**：主要活化心臟 β1 受體增強收縮力與心跳；(4) **Mirabegron**：為選擇性 **β3-adrenoceptor 致效劑**（非 β2！），活化膀胱逼尿肌 **β3 受體**使其放鬆以治療膀胱過動症。",
+        "**(D) 敘述錯誤【本題應選正解】**：`mirabegron 可活化膀胱β2 adrenoceptor，產生逼尿肌放鬆 (detrusor muscle relaxation) 作用` —— **Mirabegron** 是選擇性 **「β3-adrenoceptor」致效劑**（並非 β2 受體！），透過活化膀胱逼尿肌 β3 受體增加儲尿容量，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`phenylephrine 可活化虹膜α1 adrenoceptor，產生散瞳 (mydriasis) 作用` —— Phenylephrine 活化虹膜放射狀肌 α1 受體引起散瞳（且不影響睫狀肌調焦），敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`clonidine 可活化中樞神經系統 (CNS) α2 adrenoceptor，產生交感神經抑制作用，造成血壓 下降 (decrease in blood pressure)` —— Clonidine 活化腦幹延腦孤束核與血管運動中樞 α2 受體，減少交感神經傳出而降壓，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`dobutamine 可活化心臟β1 adrenoceptor，增強心收縮力 (increase cardiac contractility) 以及 增加心跳速率 (increase heart rate)` —— Dobutamine 為選擇性 β1 致效劑，可增強心收縮力與提高心輸出量（高劑量亦增快心跳），敘述正確。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-7",
+      "globalIndex": 450,
+      "qNum": 7,
+      "origQ": "Q3",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物無法用於治療姿勢性低血壓 (orthostatic hypotension)？",
+      "image": null,
+      "options": {
+        "A": "midodrine",
+        "B": "phenylephrine",
+        "C": "droxidopa",
+        "D": "albuterol"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：姿勢性低血壓（Orthostatic Hypotension）治療與禁忌】**：治療需活化血管 **α1 受體**收縮血管升壓，可用口服 α1 致效劑前驅藥 **Midodrine**、直接 α1 致效劑 **Phenylephrine** 或口服 NE 前驅物 **Droxidopa**；而 **α 阻斷劑（Phenoxybenzamine、Prazosin）與 β2 致效劑（Albuterol）**反而會引起或惡化低血壓。",
+        "**(D) 敘述錯誤【本題應選正解】**：`albuterol` —— **Albuterol（Salbutamol）**為短效選擇性 **β2 腎上腺素受體致效劑（SABA）**，活化支氣管平滑肌 β2 受體（Gs → ↑cAMP）引起**支氣管擴張（bronchodilation）**，是氣喘急性發作的首選緩解藥物（因會活化血管 β2 使血管舒張，故無法治療姿勢性低血壓）。",
+        "**(A) 敘述正確（非本題所求）**：`midodrine` —— **Midodrine** 為口服前驅藥（prodrug），在體內經酵素水解為活性代謝物 desglymidodrine，作為選擇性 **α1 腎上腺素受體致效劑**，能收縮動靜脈提升站立血壓，為 FDA 核准治療**姿勢性低血壓（orthostatic hypotension）**的標準用藥。",
+        "**(B) 敘述正確（非本題所求）**：`phenylephrine` —— **Phenylephrine** 為選擇性直接作用型 **α1 腎上腺素受體致效劑（α1 >> α2）**，能收縮周邊血管升壓（用於治療**姿勢性低血壓**與麻醉低血壓）、收縮鼻黏膜血管（緩解鼻塞）及收縮虹膜輻射肌（短效散瞳），不用於膀胱過動症或過敏性休克首選。",
+        "**(C) 敘述正確（非本題所求）**：`droxidopa` —— **Droxidopa（L-DOPS）**為合成的胺基酸前驅藥（prodrug），可口服吸收並在周邊與中樞經由 DOPA decarboxylase 直接轉化為**正腎上腺素（Norepinephrine, NE）**，透過活化血管 α1 受體升壓以治療神經源性**姿勢性低血壓（orthostatic hypotension）**（非阻斷 NE 合成，故不用於嗜鉻細胞瘤）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-8",
+      "globalIndex": 451,
+      "qNum": 8,
+      "origQ": "Q4",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物較適合用於治療猝睡症 (narcolepsy)？",
+      "image": null,
+      "options": {
+        "A": "MDMA",
+        "B": "modafinil",
+        "C": "methylphenidate",
+        "D": "methamphetamine"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(B) 正確【本題應選正解】**：`modafinil` —— **Modafinil** 為非典型促清醒藥物（wakefulness-promoting agent，抑制 DAT 並活化下視丘 orexin 與組織胺通路），相較於傳統安非他命類藥物較少心血管刺激與成癮性，為治療**猝睡症（narcolepsy）**日間嗜睡的第一線首選用藥。",
+        "**(A) 錯誤**：`MDMA` —— **MDMA（3,4-methylenedioxymethamphetamine，搖頭丸 Ecstasy）**為促進血清素（5-HT）、多巴胺與 NE 大量釋放的中樞迷幻興奮劑，具神經毒性與濫用潛力，不用於治療猝睡症。",
+        "**(C) 錯誤**：`methylphenidate` —— **Methylphenidate（利他能, Ritalin）**為中樞多巴胺與正腎上腺素轉運蛋白抑制劑（阻斷 DAT 與 NET 以增加突觸間隙 DA 與 NE 濃度），是臨床治療**注意力不足過動症（ADHD）效果最佳的第一線首選藥物**（亦可用於治療猝睡症 narcolepsy，但在單選題與 Modafinil 並列時，猝睡症首選促清醒藥常選 Modafinil）。",
+        "**(D) 錯誤**：`methamphetamine` —— **Methamphetamine（甲基安非他命）**可由感冒鼻塞藥 **Pseudoephedrine** 化學還原合成，能透過轉運蛋白進入突觸前末梢並逆轉 VMAT 與 NET/DAT，間接促使大量 NE 與 Dopamine 釋放，具有抑制食慾與極強的中樞興奮成癮性（比 Amphetamine 脂溶性更高、中樞作用更強），且因非兒茶酚胺結構加上 α-甲基保護，**極不易被 COMT 或 MAO 代謝**。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-9",
+      "globalIndex": 452,
+      "qNum": 9,
+      "origQ": "Q5",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於 methamphetamine 的敘述何項錯誤 (false)？",
+      "image": null,
+      "options": {
+        "A": "能增加 norepinephrine 和 dopamine 的釋放",
+        "B": "可由 pseudoephedrine 合成",
+        "C": "容易被 catechol-O-methyltransferase (COMT) 代謝",
+        "D": "有抑制食慾 (appetite suppression) 的作用"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`容易被 catechol-O-methyltransferase (COMT) 代謝` —— **Amphetamine 與 Methamphetamine** 屬於非兒茶酚胺結構（non-catecholamines，苯環上沒有 OH 基），且 α 碳上有甲基（α-methyl group）立體阻障，因此**完全不會被 COMT 代謝，也極不易被單胺氧化酶（MAO）降解**，口服吸收極佳且作用時間長！",
+        "**(A) 敘述正確（非本題所求）**：`能增加 norepinephrine 和 dopamine 的釋放` —— Amphetamine 與 Methamphetamine 作為間接作用型擬交感興奮劑，能經由 NET 與 DAT 進入突觸前神經末梢並置換囊泡內的兒茶酚胺，**大量促進 Norepinephrine（NE）與 Dopamine（DA）釋放至突觸間隙**。",
+        "**(B) 敘述正確（非本題所求）**：`可由 pseudoephedrine 合成` —— 感冒去充血劑偽麻黃鹼（**Pseudoephedrine**）與甲基安非他命（Methamphetamine）結構極為相近，僅需一步化學還原脫去羥基即可製成 Methamphetamine。",
+        "**(D) 敘述正確（非本題所求）**：`有抑制食慾 (appetite suppression) 的作用` —— Amphetamine 與 Methamphetamine 作用於下視丘外側食慾中樞（增加 DA 與 NE 活性），具有顯著的**抑制食慾（appetite suppression / anorexia）**作用。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-10",
+      "globalIndex": 453,
+      "qNum": 10,
+      "origQ": "Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種治療注意力不足過動症 (ADHD) 的藥物效果最佳？",
+      "image": null,
+      "options": {
+        "A": "methylphenidate",
+        "B": "guanfacine",
+        "C": "clonidine",
+        "D": "atomoxetine"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(A) 正確【本題應選正解】**：`methylphenidate` —— **Methylphenidate（利他能, Ritalin）**為中樞多巴胺與正腎上腺素轉運蛋白抑制劑（阻斷 DAT 與 NET 以增加突觸間隙 DA 與 NE 濃度），是臨床治療**注意力不足過動症（ADHD）效果最佳的第一線首選藥物**（亦可用於治療猝睡症 narcolepsy，但在單選題與 Modafinil 並列時，猝睡症首選促清醒藥常選 Modafinil）。",
+        "**(B) 錯誤**：`guanfacine` —— **Guanfacine** 為選擇性中樞 **α2A 腎上腺素受體致效劑**，可調節前額葉皮質功能並抑制交感神經活性，臨床用於治療高血壓及注意力不足過動症（**ADHD**，二線或非興奮劑選擇，效果次於第一線中樞興奮劑 Methylphenidate）。",
+        "**(C) 錯誤**：`clonidine` —— **Clonidine** 為選擇性 **α2 腎上腺素受體致效劑（α2 > α1）**，具有高脂溶性可進入中樞延腦活化突觸後與突觸前 α2 受體，**抑制腦幹交感神經活性傳出並減少周邊 NE 釋放**，臨床用於治療**高血壓**、注意力不足過動症（**ADHD**）及緩解鴉片／酒精戒斷症狀。",
+        "**(D) 錯誤**：`atomoxetine` —— **Atomoxetine** 為選擇性**正腎上腺素再回收抑制劑（NRI，抑制突觸前 NET）**，屬非中樞興奮劑（無成癮性），臨床用於治療注意力不足過動症（**ADHD**，起效較慢且整體療效略次於第一線中樞興奮劑 Methylphenidate）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-11",
+      "globalIndex": 454,
+      "qNum": 11,
+      "origQ": "Q7",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列藥物—治療用途配對，何項錯誤 (false)？",
+      "image": null,
+      "options": {
+        "A": "epinephrine — 過敏性休克 (anaphylactic shock)",
+        "B": "norepinephrine — 氣喘急性發作 (acute asthma exacerbation)",
+        "C": "fenoldopam — 高血壓 (hypertension)",
+        "D": "oxymetazoline — 鼻塞 (nasal congestion)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：Epinephrine vs. Norepinephrine 對 β2 受體之關鍵差異】**：**Epinephrine** 對 α1、α2、β1、β2 皆具強效，能活化支氣管 **β2 受體**舒張氣管並消退水腫，故用於**過敏性休克與氣喘急救**；而 **Norepinephrine（NE）對 β2 受體幾乎沒有活性**（僅強效活化 α1、α2、β1），因此**不能用於治療氣喘或支氣管痙攣**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`norepinephrine — 氣喘急性發作 (acute asthma exacerbation)` —— **Norepinephrine 對支氣管 β2 受體幾乎沒有作用**（主要活化 α1/α2/β1 升壓），無法舒張支氣管，故不能用於治療氣喘急性發作。",
+        "**(A) 敘述正確（非本題所求）**：`epinephrine — 過敏性休克 (anaphylactic shock)` —— Epinephrine 同時透過 α1 收縮血管升壓、β1 強心與 β2 舒張支氣管並抑制肥大細胞脫顆粒，為過敏性休克急救首選。",
+        "**(C) 敘述正確（非本題所求）**：`fenoldopam — 高血壓 (hypertension)` —— **Fenoldopam** 為周邊 **D1 受體致效劑**，可擴張腎動脈與周邊血管並促進排鈉，靜脈輸注用於治療**高血壓急症**，配對正確。",
+        "**(D) 敘述正確（非本題所求）**：`oxymetazoline — 鼻塞 (nasal congestion)` —— **Oxymetazoline** 為局部 **α1/α2 致效劑**，可收縮鼻黏膜血管消腫，用於短期緩解鼻塞，配對正確。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-12",
+      "globalIndex": 455,
+      "qNum": 12,
+      "origQ": "Q8",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物是經由阻斷 norepinephrine 的生合成 (biosynthesis) 達到控制嗜鉻細胞瘤 (pheochromocytoma) 引起的高血壓 (hypertension) 症狀？",
+      "image": null,
+      "options": {
+        "A": "metyrosine",
+        "B": "phenoxybenzamine",
+        "C": "phentolamine",
+        "D": "droxidopa"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：嗜鉻細胞瘤（Pheochromocytoma）藥物治療】**：**(1) α 受體阻斷劑**：術前長效不可逆共價阻斷劑 **Phenoxybenzamine**、術中短效可逆阻斷劑 **Phentolamine**（注意專治 BPH 的 α1A 選擇性 **Tamsulosin** 無法降血壓，不適用於嗜鉻細胞瘤）；**(2) 兒茶酚胺生合成抑制劑**：**Metyrosine（α-methyltyrosine）**競爭性抑制速率決定酵素 Tyrosine hydroxylase，直接阻斷 NE/Epi 合成。",
+        "**(A) 正確【本題應選正解】**：`metyrosine` —— **Metyrosine（α-methyltyrosine）**為酪胺酸羥化酶（Tyrosine hydroxylase，兒茶酚胺合成速率決定步驟）的競爭性抑制劑，能直接**阻斷 Norepinephrine 與 Epinephrine 的生合成（biosynthesis）**，用於控制嗜鉻細胞瘤（pheochromocytoma）引起的高血壓。",
+        "**(B) 錯誤**：`phenoxybenzamine` —— **Phenoxybenzamine** 為鹵代烷胺類（haloalkylamine），在體內與 **α1 及 α2 受體形成不可逆的共價鍵結合（covalent binding）**（作用長達 14–48 小時），臨床用於**嗜鉻細胞瘤（pheochromocytoma）**術前與慢性高血壓控制（並非抑制 NE 生合成；且會引發嚴重的姿勢性低血壓與反射性心跳過速）。",
+        "**(C) 錯誤**：`phentolamine` —— **Phentolamine** 為咪唑啉類**可逆性競爭性非選擇性 α1 / α2 受體拮抗劑**，臨床用於**嗜鉻細胞瘤（pheochromocytoma）**手術期間短效控制高血壓危象，以及擬交感血管收縮劑外滲時的局部浸潤解救（並非抑制 NE 生合成）。",
+        "**(D) 錯誤**：`droxidopa` —— **Droxidopa（L-DOPS）**為合成的胺基酸前驅藥（prodrug），可口服吸收並在周邊與中樞經由 DOPA decarboxylase 直接轉化為**正腎上腺素（Norepinephrine, NE）**，透過活化血管 α1 受體升壓以治療神經源性**姿勢性低血壓（orthostatic hypotension）**（非阻斷 NE 合成，故不用於嗜鉻細胞瘤）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-13",
+      "globalIndex": 456,
+      "qNum": 13,
+      "origQ": "Q9",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種治療良性前列腺增生症 (benign prostatic hyperplasia, BPH) 的藥物較不易有低血壓 (hypotension) 之副作用？",
+      "image": null,
+      "options": {
+        "A": "alfuzosin",
+        "B": "prazosin",
+        "C": "tadalafil",
+        "D": "finasteride"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：良性攝護腺肥大（BPH）用藥與低血壓副作用比較】**：**(1) 5α-還原酶抑制劑 Finasteride**：阻斷睪固酮轉為 DHT 縮小腺體，**完全不影響血管血壓**；**(2) 泌尿道選擇性 α1A 阻斷劑 Tamsulosin、Silodosin** 及緩釋型 **Alfuzosin**：放鬆攝護腺平滑肌且較少引起姿勢性低血壓；**(3) 非選擇性 α1 阻斷劑 Prazosin、Terazosin、Doxazosin**：同時阻斷血管 α1B，**最易引起姿勢性低血壓**。",
+        "**(D) 正確【本題應選正解】**：`finasteride` —— **Finasteride** 為第 2 型 **5α-還原酶抑制劑（5α-reductase inhibitor）**，透過阻斷攝護腺內睪固酮轉化為雙氫睪固酮（DHT）以縮小攝護腺體積治療 **BPH**，因完全不作用於自主神經或血管受體，故**最不會引起低血壓副作用**。",
+        "**(A) 錯誤**：`alfuzosin` —— **Alfuzosin** 為用於治療良性攝護腺肥大（**BPH**）的喹唑啉類 α1 受體拮抗劑（製成緩釋劑型並具較佳泌尿道臨床耐受性），相較於傳統非選擇性 α1 阻斷劑（Prazosin、Terazosin、Doxazosin）**較不易引起低血壓副作用**（但在與 5α-還原酶抑制劑 Finasteride 比較時，Finasteride 完全無低血壓副作用）。",
+        "**(B) 錯誤**：`prazosin` —— **Prazosin** 為短效選擇性 **α1 受體拮抗劑（α1A = α1B = α1D）**，用於治療高血壓與良性攝護腺肥大（BPH），但因同時阻斷血管平滑肌 α1B 受體，極易引起**首劑現象（first-dose phenomenon）與姿勢性低血壓**。",
+        "**(C) 錯誤**：`tadalafil` —— **Tadalafil（犀利士）**為長效第 5 型磷酸二酯酶抑制劑（PDE-5 inhibitor），可治療勃起功能障礙與良性攝護腺肥大（BPH），但因會增強全身血管 NO-cGMP 舒張作用，仍可能引起輕度血管舒張與低血壓（若與硝酸鹽類併用更會引發致命性低血壓）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-14",
+      "globalIndex": 457,
+      "qNum": 14,
+      "origQ": "Q10",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列腎上腺素受體拮抗劑 (adrenergic antagonists) 何者具有較顯著的α受體阻斷 (alpha- adrenergic blockade) 作用？",
+      "image": null,
+      "options": {
+        "A": "labetalol",
+        "B": "metoprolol",
+        "C": "propranolol",
+        "D": "timolol"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：兼具 α1 與 β 受體阻斷的第三代 β-Blocker（Labetalol & Carvedilol）】**：一般 β 阻斷劑（如 Propranolol、Metoprolol、Atenolol、Timolol、Pindolol）無 α 受體阻斷作用；唯有 **Labetalol**（β:α ≈ 3:1~7:1，用於妊娠高血壓與高血壓急症）與 **Carvedilol**（β:α ≈ 10:1，兼具抗氧化作用，用於慢性心衰竭）同時具有**顯著的 α1 受體阻斷擴張血管作用**。",
+        "**(A) 正確【本題應選正解】**：`labetalol` —— **Labetalol** 同時阻斷 **β1/β2 與 α1 腎上腺素受體**，可在降低周邊血管阻力的同時避免反射性心搏過速，具顯著 α 阻斷作用。",
+        "**(B) 錯誤**：`metoprolol` —— **Metoprolol** 為第二代選擇性 **β1 受體拮抗劑**，不具 α 受體阻斷作用。",
+        "**(C) 錯誤**：`propranolol` —— **Propranolol** 為第一代非選擇性 **β1/β2 受體拮抗劑**，無 α 受體阻斷作用。",
+        "**(D) 錯誤**：`timolol` —— **Timolol** 為第一代非選擇性 **β1/β2 受體拮抗劑**（常用於青光眼降眼壓），無 α 受體阻斷作用。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-15",
+      "globalIndex": 458,
+      "qNum": 15,
+      "origQ": "Q11",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種 β-adrenergic antagonist 較適合用於預防氣喘 (asthma) 患者偏頭痛 (migraine)？",
+      "image": null,
+      "options": {
+        "A": "pindolol",
+        "B": "propranolol",
+        "C": "metoprolol",
+        "D": "acebutolol"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：β-Blockers 分代、選擇性與特殊藥理】**：**(1) 第一代非選擇性（β1+β2）**：**Propranolol**（高脂溶性進 CNS 預防偏頭痛，**氣喘禁用**）、**Timolol**（青光眼減房水生成）、**Nadolol**（超長效）、**Pindolol**（具 ISA，不可預防偏頭痛）；**(2) 第二代心臟選擇性（β1）**：**Metoprolol**（氣喘患者預防偏頭痛首選）、**Atenolol**、**Betaxolol**（青光眼）、**Acebutolol**（具 ISA）、**Esmolol**（RBC 酯酶水解，半衰期 9 分鐘，**手術超短效**）；**(3) 第三代擴張血管**：**Labetalol、Carvedilol**（兼具 **α1 阻斷**）、**Nebivolol**（β1 阻斷＋促內皮釋放 **NO**）；**(4) 中毒解毒劑**：**Glucagon（升糖素）**。",
+        "**(C) 正確【本題應選正解】**：`metoprolol` —— **Metoprolol** 為第二代**心臟選擇性 β1 腎上腺素受體拮抗劑（β1-selective / cardioselective，無 α 阻斷作用）**，較不易阻斷支氣管 β2 受體，且不具內在擬交感活性（ISA），因此是**氣喘（asthma）患者需要預防偏頭痛（migraine）或治療心血管疾病時較安全的選擇**。",
+        "**(A) 錯誤**：`pindolol` —— **Pindolol** 為具有顯著**內在擬交感活性（intrinsic sympathomimetic activity, ISA / partial agonist）**的非選擇性 β1/β2 阻斷劑（無 α 阻斷作用）；具 ISA 的 β-blockers（如 Pindolol、Acebutolol）**無法有效預防偏頭痛**！",
+        "**(B) 錯誤**：`propranolol` —— **Propranolol** 為原型第一代**非選擇性 β1/β2 腎上腺素受體拮抗劑（無 α 阻斷作用）**，具**高度脂溶性（high lipid solubility）**易穿透 BBB（可用於預防偏頭痛、本態性顫抖與甲狀腺風暴），但因會**阻斷支氣管平滑肌 β2 受體誘發嚴重支氣管痙攣**，故氣喘（asthma）與 COPD 患者應避免或極謹慎使用。",
+        "**(D) 錯誤**：`acebutolol` —— **Acebutolol** 為具有**內在擬交感活性（ISA / partial agonist）**的選擇性 β1 阻斷劑；由於具有部分致效劑活性，**對預防偏頭痛（migraine prophylaxis）無效**。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-16",
+      "globalIndex": 459,
+      "qNum": 16,
+      "origQ": "Q12",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於β-adrenergic antagonists 的敘述何項錯誤 (false)？",
+      "image": null,
+      "options": {
+        "A": "glucagon 為常用的 beta-blocker 解毒劑 (antidote)",
+        "B": "propranolol 為低脂溶性 (low lipid solubility)",
+        "C": "nebivolol 可促進血管內皮產生 nitric oxide (NO)",
+        "D": "禁用於特定運動項目，如射擊 (prohibited in particular sports, e.g., shooting)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：β-Blockers 分代、選擇性與特殊藥理】**：**(1) 第一代非選擇性（β1+β2）**：**Propranolol**（高脂溶性進 CNS 預防偏頭痛，**氣喘禁用**）、**Timolol**（青光眼減房水生成）、**Nadolol**（超長效）、**Pindolol**（具 ISA，不可預防偏頭痛）；**(2) 第二代心臟選擇性（β1）**：**Metoprolol**（氣喘患者預防偏頭痛首選）、**Atenolol**、**Betaxolol**（青光眼）、**Acebutolol**（具 ISA）、**Esmolol**（RBC 酯酶水解，半衰期 9 分鐘，**手術超短效**）；**(3) 第三代擴張血管**：**Labetalol、Carvedilol**（兼具 **α1 阻斷**）、**Nebivolol**（β1 阻斷＋促內皮釋放 **NO**）；**(4) 中毒解毒劑**：**Glucagon（升糖素）**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`propranolol 為低脂溶性 (low lipid solubility)` —— **Propranolol** 為原型第一代**非選擇性 β1/β2 腎上腺素受體拮抗劑（無 α 阻斷作用）**，具**高度脂溶性（high lipid solubility）**易穿透 BBB（可用於預防偏頭痛、本態性顫抖與甲狀腺風暴），但因會**阻斷支氣管平滑肌 β2 受體誘發嚴重支氣管痙攣**，故氣喘（asthma）與 COPD 患者應避免或極謹慎使用。",
+        "**(A) 敘述正確（非本題所求）**：`glucagon 為常用的 beta-blocker 解毒劑 (antidote)` —— **Glucagon（升糖素）**在心肌細胞膜上有獨立的升糖素受體（耦合 Gs 蛋白），不經過 β1 受體即可直接活化 adenylyl cyclase 使 cAMP 與胞內 Ca²⁺ 上升以恢復心跳與心肌收縮力，是臨床 **β-blocker 過量中毒的首選特效解毒劑（antidote）**！",
+        "**(C) 敘述正確（非本題所求）**：`nebivolol 可促進血管內皮產生 nitric oxide (NO)` —— **Nebivolol** 為第三代選擇性 β1 阻斷劑，同時能刺激血管內皮細胞的 β3 受體活化 eNOS，**促進血管內皮產生一氧化氮（NO）**而達到周邊血管舒張作用。",
+        "**(D) 敘述正確（非本題所求）**：`禁用於特定運動項目，如射擊 (prohibited in particular sports, e.g., shooting)` —— β-blockers 能減慢心率並消除交感神經緊張引起的骨骼肌細微震顫（tremor）與焦慮，因此在要求高度手部穩定度的運動競賽（如**射擊 shooting、射箭 archery**）中被世界運動禁藥管制機構列為禁用物質。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-17",
+      "globalIndex": 460,
+      "qNum": 17,
+      "origQ": "Q13",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者為手術期間可用來抑制心搏過速 (tachycardia) 的超短效型 (ultra-short-acting) β- adrenergic antagonist？",
+      "image": null,
+      "options": {
+        "A": "nebivolol",
+        "B": "propranolol",
+        "C": "esmolol",
+        "D": "nadolol"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：β-Blockers 分代、選擇性與特殊藥理】**：**(1) 第一代非選擇性（β1+β2）**：**Propranolol**（高脂溶性進 CNS 預防偏頭痛，**氣喘禁用**）、**Timolol**（青光眼減房水生成）、**Nadolol**（超長效）、**Pindolol**（具 ISA，不可預防偏頭痛）；**(2) 第二代心臟選擇性（β1）**：**Metoprolol**（氣喘患者預防偏頭痛首選）、**Atenolol**、**Betaxolol**（青光眼）、**Acebutolol**（具 ISA）、**Esmolol**（RBC 酯酶水解，半衰期 9 分鐘，**手術超短效**）；**(3) 第三代擴張血管**：**Labetalol、Carvedilol**（兼具 **α1 阻斷**）、**Nebivolol**（β1 阻斷＋促內皮釋放 **NO**）；**(4) 中毒解毒劑**：**Glucagon（升糖素）**。",
+        "**(C) 正確【本題應選正解】**：`esmolol` —— **Esmolol** 為結構含酯鍵的第二代**心臟選擇性 β1 受體拮抗劑**，在血液中會被紅血球酯酶（RBC esterases）快速水解，**半衰期極短（僅約 9 分鐘）**，專供靜脈輸注作為**手術期間或急診控制急性心搏過速（tachycardia）與高血壓的超短效型（ultra-short-acting）β1-blocker**。",
+        "**(A) 錯誤**：`nebivolol` —— **Nebivolol** 為第三代高選擇性 **β1 受體拮抗劑**，同時能活化血管內皮 β3 受體**促進內皮一氧化氮合酶（eNOS）產生一氧化氮（NO）**使血管舒張（無 α 阻斷作用，且為長效口服藥，非手術超短效藥）。",
+        "**(B) 錯誤**：`propranolol` —— **Propranolol** 為原型第一代**非選擇性 β1/β2 腎上腺素受體拮抗劑（無 α 阻斷作用）**，具**高度脂溶性（high lipid solubility）**易穿透 BBB（可用於預防偏頭痛、本態性顫抖與甲狀腺風暴），但因會**阻斷支氣管平滑肌 β2 受體誘發嚴重支氣管痙攣**，故氣喘（asthma）與 COPD 患者應避免或極謹慎使用。",
+        "**(D) 錯誤**：`nadolol` —— **Nadolol** 為第一代非選擇性 β1/β2 受體拮抗劑，水溶性高且主要經腎臟原型排出，是**半衰期最長（約 14–24 小時）的長效型 β-blocker**，並非超短效型。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-18",
+      "globalIndex": 461,
+      "qNum": 18,
+      "origQ": "Q14",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於影響眼睛之藥物作用的敘述，何項錯誤 (false)？",
+      "image": null,
+      "options": {
+        "A": "betaxolol 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓",
+        "B": "carbachol 增加眼房水外流 (increase aqueous humor outflow)，減少眼內壓",
+        "C": "latanoprost 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓",
+        "D": "tamsulosin 抑制眼睛虹膜輻射肌α1受體 (inhibit radial muscle α1 -adrenoceptor)，產生縮瞳 (miosis) 作用"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心藥理考點：青光眼降眼壓藥物機轉分類】**：(1) **減少房水生成**：β 阻斷劑（Timolol, **Betaxolol**）、α2 致效劑（Brimonidine）、CAI（Dorzolamide）；(2) **增加房水排出**：**Carbachol / Pilocarpine**（增加小樑網外流）、**Latanoprost**（PGF2α 類似物，**增加葡萄膜鞏膜外流 uveoscleral outflow**，而非減少房水生成！）；(3) **Tamsulosin**：阻斷虹膜放射肌 α1 受體引起縮瞳與術中虹膜鬆弛症候群（IFIS）。",
+        "**(C) 敘述錯誤【本題應選正解】**：`latanoprost 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓` —— **Latanoprost**（PGF2α 類似物）降眼壓的機轉是**「增加葡萄膜鞏膜途徑（uveoscleral pathway）的房水外流」**，而非減少房水產生，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`betaxolol 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓` —— Betaxolol 為選擇性 β1 阻斷劑點眼液，藉由減少睫狀體房水生成降低眼壓，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`carbachol 增加眼房水外流 (increase aqueous humor outflow)，減少眼內壓` —— Carbachol 收縮睫狀肌拉開小樑網間隙，增加房水經 Schlemm 管外流而降眼壓，敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`tamsulosin 抑制眼睛虹膜輻射肌α1受體 (inhibit radial muscle α1 -adrenoceptor)，產生縮瞳 (miosis) 作用` —— Tamsulosin 阻斷虹膜放射肌 α1 受體會抑制散瞳而偏向縮瞳（白內障手術時易引發 IFIS），敘述正確。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-19",
+      "globalIndex": 462,
+      "qNum": 19,
+      "origQ": "Q15",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者不是擬交感神經作用劑之臨床用途？",
+      "image": null,
+      "options": {
+        "A": "產生睫狀肌麻痺(cycloplegia)作用",
+        "B": "治療過敏性休克(anaphylactic shock)",
+        "C": "治療氣喘(asthma)",
+        "D": "抑制早產(suppress premature labor)"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：擬交感神經作用劑（Sympathomimetics）臨床用途】**：包含：**過敏性休克**（Epinephrine）、**氣喘支氣管擴張**（Albuterol β2）、**抑制早產安胎**（Ritodrine/Terbutaline 活化子宮 β2）、散瞳（Phenylephrine α1，**但不引起睫狀肌麻痺**）。而**產生睫狀肌麻痺（cycloplegia）**是**抗蕈毒鹼藥物（Atropine）**的專有用途。",
+        "**(A) 敘述錯誤【本題應選正解】**：`產生睫狀肌麻痺(cycloplegia)作用` —— 睫狀肌收縮由副交感 M3 受體主導；擬交感藥物（如 Phenylephrine）僅散瞳而不麻痺睫狀肌，**產生睫狀肌麻痺是抗膽鹼藥物（如 Atropine）的用途**，故本選項為正解。",
+        "**(B) 敘述正確（非本題所求）**：`治療過敏性休克(anaphylactic shock)` —— Epinephrine 為治療過敏性休克（anaphylactic shock）的第一線急救藥物。",
+        "**(C) 敘述正確（非本題所求）**：`治療氣喘(asthma)` —— 選擇性 β2 致效劑（如 Albuterol、Salmeterol）為氣喘支氣管擴張之重要治療藥物。",
+        "**(D) 敘述正確（非本題所求）**：`抑制早產(suppress premature labor)` —— 選擇性 β2 致效劑（如 Terbutaline、Ritodrine）可鬆弛子宮平滑肌用於短期安胎抑制早產。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-20",
+      "globalIndex": 463,
+      "qNum": 20,
+      "origQ": "Q16",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "有關擬副交感藥物(parasympathomimetic drugs)所產生之作用,下列何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "逼尿肌收縮(contraction of the detrusor muscle)",
+        "B": "輻射肌收縮(contraction of the radial muscle)",
+        "C": "唾液腺分泌增加(increase in salivary gland secretion)",
+        "D": "支氣管平滑肌收縮(contraction of the bronchial smooth muscle)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：擬副交感神經藥物（Cholinomimetics）之器官效應】**：活化 **M3 受體**會引起：虹膜環狀肌收縮（縮瞳）、睫狀肌收縮（看近物、開通小樑網降眼壓）、唾液腺／淚腺／支氣管分泌增加、支氣管平滑肌收縮、腸胃蠕動增加、**膀胱逼尿肌收縮**與括約肌放鬆（排尿）、血管內皮釋放 **NO（cGMP 介導海綿體勃起與血管舒張）**；但**虹膜輻射肌與皮膚豎毛肌僅受交感 α1 支配**，不受副交感調控。",
+        "**(B) 敘述錯誤【本題應選正解】**：`輻射肌收縮(contraction of the radial muscle)` —— 眼睛虹膜輻射肌／瞳孔開大肌（radial / dilator pupillae muscle）受交感神經支配並表現 **α1 受體**（收縮造成散瞳 mydriasis）；擬副交感藥物則是活化**虹膜環狀肌／瞳孔括約肌（circular / sphincter pupillae muscle）的 M3 受體**使其收縮而產生縮瞳（miosis）。",
+        "**(A) 敘述正確（非本題所求）**：`逼尿肌收縮(contraction of the detrusor muscle)` —— 膀胱逼尿肌（detrusor muscle）表現 M3 受體（耦合 Gq），擬副交感藥物（如 Bethanechol）活化 M3 受體會使逼尿肌收縮、膀胱內括約肌放鬆以促進排尿。",
+        "**(C) 敘述正確（非本題所求）**：`唾液腺分泌增加(increase in salivary gland secretion)` —— 唾液腺表現 M3 受體，擬副交感藥物活化 M3 受體會顯著增加水樣唾液分泌（salivation）。",
+        "**(D) 敘述正確（非本題所求）**：`支氣管平滑肌收縮(contraction of the bronchial smooth muscle)` —— 支氣管平滑肌表現 M3 受體，擬副交感藥物（如 Methacholine）活化 M3 受體會引起支氣管平滑肌收縮與呼吸道腺體分泌增加。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-21",
+      "globalIndex": 464,
+      "qNum": 21,
+      "origQ": "Q17",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列有關擬交感致效劑(sympathomimetic agonists)產生之藥理作用,何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "phenylephrine 可活化眼睛虹膜 a1-adrenoceptor,產生散瞳(mydriasis)作用",
+        "B": "elonidine 可活化中樞神經系統(CNS)a2-adrenoceptor,產生交感神經抑制作用,造成血壓下降 (decrease in blood pressure)",
+        "C": "dobutamine 可活化心臟 βI-adrenoceptor,增強心收縮力(increase cardiac contractility)以及增加 心跳速率(increase heart rate)",
+        "D": "albuterol 可活化支氣管 β2-adrenoceptor,產生支氣管收縮(bronchoconstriction)作用"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：β2 致效劑（Albuterol）之支氣管擴張機轉】**：**Albuterol（Salbutamol）**為短效選擇性 **β2 腎上腺素受體致效劑（SABA）**，活化氣管平滑肌 **β2 受體**（Gs → ↑cAMP → 抑制 MLCK）會產生**支氣管「舒張（bronchodilation）」**而非收縮，為氣喘急性發作首選急救吸入劑。",
+        "**(D) 敘述錯誤【本題應選正解】**：`albuterol 可活化支氣管 β2-adrenoceptor,產生支氣管收縮(bronchoconstriction)作用` —— Albuterol 活化支氣管 **β2 受體**會使平滑肌放鬆產生**支氣管舒張（bronchodilation）**，而非支氣管收縮，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`phenylephrine 可活化眼睛虹膜 a1-adrenoceptor,產生散瞳(mydriasis)作用` —— Phenylephrine 活化虹膜放射肌 α1 受體使瞳孔放大（散瞳），敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`elonidine 可活化中樞神經系統(CNS)a2-adrenoceptor,產生交感神經抑制作用,造成血壓下降 (decrease in blood pressure)` —— （選項拼為 `elonidine`，指 **Clonidine**）Clonidine 活化中樞 α2 受體抑制交感輸出以治療高血壓，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`dobutamine 可活化心臟 βI-adrenoceptor,增強心收縮力(increase cardiac contractility)以及增加 心跳速率(increase heart rate)` —— Dobutamine 活化心臟 β1 受體增強心肌收縮力與心輸出量，敘述正確。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-22",
+      "globalIndex": 465,
+      "qNum": 22,
+      "origQ": "Q18",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物較無法用於治療姿勢性低血壓(orthostatic hypotension)?",
+      "image": null,
+      "options": {
+        "A": "midodrine",
+        "B": "phenylephrine",
+        "C": "phenoxybenzamine",
+        "D": "droxidopa"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：姿勢性低血壓（Orthostatic Hypotension）治療與禁忌】**：治療需活化血管 **α1 受體**收縮血管升壓，可用口服 α1 致效劑前驅藥 **Midodrine**、直接 α1 致效劑 **Phenylephrine** 或口服 NE 前驅物 **Droxidopa**；而 **α 阻斷劑（Phenoxybenzamine、Prazosin）與 β2 致效劑（Albuterol）**反而會引起或惡化低血壓。",
+        "**(C) 敘述錯誤【本題應選正解】**：`phenoxybenzamine` —— **Phenoxybenzamine** 為鹵代烷胺類（haloalkylamine），在體內與 **α1 及 α2 受體形成不可逆的共價鍵結合（covalent binding）**（作用長達 14–48 小時），臨床用於**嗜鉻細胞瘤（pheochromocytoma）**術前與慢性高血壓控制（並非抑制 NE 生合成；且會引發嚴重的姿勢性低血壓與反射性心跳過速）。",
+        "**(A) 敘述正確（非本題所求）**：`midodrine` —— **Midodrine** 為口服前驅藥（prodrug），在體內經酵素水解為活性代謝物 desglymidodrine，作為選擇性 **α1 腎上腺素受體致效劑**，能收縮動靜脈提升站立血壓，為 FDA 核准治療**姿勢性低血壓（orthostatic hypotension）**的標準用藥。",
+        "**(B) 敘述正確（非本題所求）**：`phenylephrine` —— **Phenylephrine** 為選擇性直接作用型 **α1 腎上腺素受體致效劑（α1 >> α2）**，能收縮周邊血管升壓（用於治療**姿勢性低血壓**與麻醉低血壓）、收縮鼻黏膜血管（緩解鼻塞）及收縮虹膜輻射肌（短效散瞳），不用於膀胱過動症或過敏性休克首選。",
+        "**(D) 敘述正確（非本題所求）**：`droxidopa` —— **Droxidopa（L-DOPS）**為合成的胺基酸前驅藥（prodrug），可口服吸收並在周邊與中樞經由 DOPA decarboxylase 直接轉化為**正腎上腺素（Norepinephrine, NE）**，透過活化血管 α1 受體升壓以治療神經源性**姿勢性低血壓（orthostatic hypotension）**（非阻斷 NE 合成，故不用於嗜鉻細胞瘤）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-23",
+      "globalIndex": 466,
+      "qNum": 23,
+      "origQ": "Q19",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於 amphetamine 的藥理作用,下列敘述何項錯誤(false)?",
+      "image": null,
+      "options": {
+        "A": "能增加 norepinephrine 和 dopamine 的釋放",
+        "B": "amphetamine 相較於 methamphetamine 為更強之中樞神經興奮劑(CNS stimulant)",
+        "C": "不容易被單胺氧化酶(monoamine oxidase, MAO) 代謝",
+        "D": "可以降低食慾(decrease appetite)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`amphetamine 相較於 methamphetamine 為更強之中樞神經興奮劑(CNS stimulant)` —— **Methamphetamine（甲基安非他命）**可由感冒鼻塞藥 **Pseudoephedrine** 化學還原合成，能透過轉運蛋白進入突觸前末梢並逆轉 VMAT 與 NET/DAT，間接促使大量 NE 與 Dopamine 釋放，具有抑制食慾與極強的中樞興奮成癮性（比 Amphetamine 脂溶性更高、中樞作用更強），且因非兒茶酚胺結構加上 α-甲基保護，**極不易被 COMT 或 MAO 代謝**。",
+        "**(A) 敘述正確（非本題所求）**：`能增加 norepinephrine 和 dopamine 的釋放` —— Amphetamine 與 Methamphetamine 作為間接作用型擬交感興奮劑，能經由 NET 與 DAT 進入突觸前神經末梢並置換囊泡內的兒茶酚胺，**大量促進 Norepinephrine（NE）與 Dopamine（DA）釋放至突觸間隙**。",
+        "**(C) 敘述正確（非本題所求）**：`不容易被單胺氧化酶(monoamine oxidase, MAO) 代謝` —— Amphetamine 的 α 碳上帶有甲基（α-methyl group），會形成立體阻障阻止單胺氧化酶（**MAO**）進行氧化脫胺，因此**極不易被 MAO 代謝**（口服有效且半衰期長）。",
+        "**(D) 敘述正確（非本題所求）**：`可以降低食慾(decrease appetite)` —— Amphetamine 與 Methamphetamine 作用於下視丘外側食慾中樞（增加 DA 與 NE 活性），具有顯著的**抑制食慾（appetite suppression / anorexia）**作用。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-24",
+      "globalIndex": 467,
+      "qNum": 24,
+      "origQ": "Q20",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物較不適合用於治療注意力不足過動症（ADHD）?",
+      "image": null,
+      "options": {
+        "A": "methylphenidate",
+        "B": "sibutramine",
+        "C": "clonidine",
+        "D": "atomoxetine"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`sibutramine` —— **Sibutramine（諾美婷）**為血清素與正腎上腺素再回收抑制劑（SNRI），過去曾作為中樞抑制食慾減肥藥，但因會顯著增加心率、血壓與心肌梗塞／中風風險已遭全球下市禁用，**不可用於治療注意力不足過動症（ADHD）**。",
+        "**(A) 敘述正確（非本題所求）**：`methylphenidate` —— **Methylphenidate（利他能, Ritalin）**為中樞多巴胺與正腎上腺素轉運蛋白抑制劑（阻斷 DAT 與 NET 以增加突觸間隙 DA 與 NE 濃度），是臨床治療**注意力不足過動症（ADHD）效果最佳的第一線首選藥物**（亦可用於治療猝睡症 narcolepsy，但在單選題與 Modafinil 並列時，猝睡症首選促清醒藥常選 Modafinil）。",
+        "**(C) 敘述正確（非本題所求）**：`clonidine` —— **Clonidine** 為選擇性 **α2 腎上腺素受體致效劑（α2 > α1）**，具有高脂溶性可進入中樞延腦活化突觸後與突觸前 α2 受體，**抑制腦幹交感神經活性傳出並減少周邊 NE 釋放**，臨床用於治療**高血壓**、注意力不足過動症（**ADHD**）及緩解鴉片／酒精戒斷症狀。",
+        "**(D) 敘述正確（非本題所求）**：`atomoxetine` —— **Atomoxetine** 為選擇性**正腎上腺素再回收抑制劑（NRI，抑制突觸前 NET）**，屬非中樞興奮劑（無成癮性），臨床用於治療注意力不足過動症（**ADHD**，起效較慢且整體療效略次於第一線中樞興奮劑 Methylphenidate）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-25",
+      "globalIndex": 468,
+      "qNum": 25,
+      "origQ": "Q21",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列藥物–治療用途配對,何者錯誤（false）?",
+      "image": null,
+      "options": {
+        "A": "epinephrine–過敏性休克（anaphylactic shock）",
+        "B": "norepinephrine–支氣管痙攣（bronchospasm）",
+        "C": "fenoldopam-高血壓（hypertension）",
+        "D": "oxymetazoline-鼻塞（nasal congestion）"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：Epinephrine vs. Norepinephrine 對 β2 受體之關鍵差異】**：**Epinephrine** 對 α1、α2、β1、β2 皆具強效，能活化支氣管 **β2 受體**舒張氣管並消退水腫，故用於**過敏性休克與氣喘急救**；而 **Norepinephrine（NE）對 β2 受體幾乎沒有活性**（僅強效活化 α1、α2、β1），因此**不能用於治療氣喘或支氣管痙攣**。",
+        "**(B) 敘述錯誤【本題應選正解】**：`norepinephrine–支氣管痙攣（bronchospasm）` —— **Norepinephrine 對支氣管 β2 受體幾乎沒有作用**，無法解除支氣管痙攣，故本配對錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`epinephrine–過敏性休克（anaphylactic shock）` —— Epinephrine 同時透過 α1 收縮血管升壓、β1 強心與 β2 舒張支氣管並抑制肥大細胞脫顆粒，為過敏性休克急救首選。",
+        "**(C) 敘述正確（非本題所求）**：`fenoldopam-高血壓（hypertension）` —— **Fenoldopam** 為周邊 **D1 受體致效劑**，可擴張腎動脈與周邊血管，用於治療高血壓急症，配對正確。",
+        "**(D) 敘述正確（非本題所求）**：`oxymetazoline-鼻塞（nasal congestion）` —— **Oxymetazoline** 為局部 **α1/α2 致效劑**，可收縮鼻黏膜血管消腫，用於短期緩解鼻塞，配對正確。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-26",
+      "globalIndex": 469,
+      "qNum": 26,
+      "origQ": "Q22",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列腎上腺素受體拮抗劑（adrenoceptor antagonists）何者具有較顯著的alpha受體阻斷作用?",
+      "image": null,
+      "options": {
+        "A": "carvedilol",
+        "B": "metoprolol",
+        "C": "propranolol",
+        "D": "pindolol"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：兼具 α1 與 β 受體阻斷的第三代 β-Blocker（Labetalol & Carvedilol）】**：一般 β 阻斷劑（如 Propranolol、Metoprolol、Atenolol、Timolol、Pindolol）無 α 受體阻斷作用；唯有 **Labetalol**（β:α ≈ 3:1~7:1，用於妊娠高血壓與高血壓急症）與 **Carvedilol**（β:α ≈ 10:1，兼具抗氧化作用，用於慢性心衰竭）同時具有**顯著的 α1 受體阻斷擴張血管作用**。",
+        "**(A) 正確【本題應選正解】**：`carvedilol` —— **Carvedilol** 為非選擇性 β 阻斷劑且兼具顯著的 **α1 受體阻斷作用**（擴張血管減輕心臟後負荷），為 HFrEF 治療核心藥物之一。",
+        "**(B) 錯誤**：`metoprolol` —— **Metoprolol** 為第二代選擇性 **β1 受體拮抗劑**，不具 α 受體阻斷作用。",
+        "**(C) 錯誤**：`propranolol` —— **Propranolol** 為第一代非選擇性 **β1/β2 受體拮抗劑**，無 α 受體阻斷作用。",
+        "**(D) 錯誤**：`pindolol` —— **Pindolol** 為具內源性擬交感活性（ISA，部分致效）之非選擇性 β 阻斷劑，不具顯著 α 受體阻斷作用。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-27",
+      "globalIndex": 470,
+      "qNum": 27,
+      "origQ": "Q23",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列交感受體拮抗劑中，何者具有最明顯的 alpha 受體阻斷作用？Which of the following adrenoceptor antagonists has the most significant blocking effect on a-adrenoceptors?",
+      "image": null,
+      "options": {
+        "A": "atenolol",
+        "B": "labetalol",
+        "C": "propranolol",
+        "D": "pindolol"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：兼具 α1 與 β 受體阻斷的第三代 β-Blocker（Labetalol & Carvedilol）】**：一般 β 阻斷劑（如 Propranolol、Metoprolol、Atenolol、Timolol、Pindolol）無 α 受體阻斷作用；唯有 **Labetalol**（β:α ≈ 3:1~7:1，用於妊娠高血壓與高血壓急症）與 **Carvedilol**（β:α ≈ 10:1，兼具抗氧化作用，用於慢性心衰竭）同時具有**顯著的 α1 受體阻斷擴張血管作用**。",
+        "**(B) 正確【本題應選正解】**：`labetalol` —— **Labetalol** 同時阻斷 **β1/β2 與 α1 腎上腺素受體**，可在降低周邊血管阻力的同時避免反射性心搏過速，具顯著 α 阻斷作用。",
+        "**(A) 錯誤**：`atenolol` —— **Atenolol** 為第二代選擇性 **β1 受體拮抗劑**（水溶性較高），不具 α 受體阻斷作用。",
+        "**(C) 錯誤**：`propranolol` —— **Propranolol** 為第一代非選擇性 **β1/β2 受體拮抗劑**，無 α 受體阻斷作用。",
+        "**(D) 錯誤**：`pindolol` —— **Pindolol** 為具內源性擬交感活性（ISA，部分致效）之非選擇性 β 阻斷劑，不具顯著 α 受體阻斷作用。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-28",
+      "globalIndex": 471,
+      "qNum": 28,
+      "origQ": "Q24",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列藥物中，何者較不適合用於治療注意力不足過動症(ADHD)?",
+      "image": null,
+      "options": {
+        "A": "Atomoxetine",
+        "B": "Clonidine",
+        "C": "Cocaine",
+        "D": "Methylphenidate"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(C) 敘述錯誤【本題應選正解】**：`Cocaine` —— **Cocaine（古柯鹼）**雖可阻斷突觸前單胺轉運蛋白（DAT、NET、SERT）並阻斷電壓閘門 Na⁺ 通道（具局部麻醉與強烈血管收縮作用），但因其極高成癮性、中樞毒性與致命心血管毒性（冠狀動脈痙攣、心律不整），屬於一級管制毒品，**絕對不可用於治療注意力不足過動症（ADHD）**。",
+        "**(A) 敘述正確（非本題所求）**：`Atomoxetine` —— **Atomoxetine** 為選擇性**正腎上腺素再回收抑制劑（NRI，抑制突觸前 NET）**，屬非中樞興奮劑（無成癮性），臨床用於治療注意力不足過動症（**ADHD**，起效較慢且整體療效略次於第一線中樞興奮劑 Methylphenidate）。",
+        "**(B) 敘述正確（非本題所求）**：`Clonidine` —— **Clonidine** 為選擇性 **α2 腎上腺素受體致效劑（α2 > α1）**，具有高脂溶性可進入中樞延腦活化突觸後與突觸前 α2 受體，**抑制腦幹交感神經活性傳出並減少周邊 NE 釋放**，臨床用於治療**高血壓**、注意力不足過動症（**ADHD**）及緩解鴉片／酒精戒斷症狀。",
+        "**(D) 敘述正確（非本題所求）**：`Methylphenidate` —— **Methylphenidate（利他能, Ritalin）**為中樞多巴胺與正腎上腺素轉運蛋白抑制劑（阻斷 DAT 與 NET 以增加突觸間隙 DA 與 NE 濃度），是臨床治療**注意力不足過動症（ADHD）效果最佳的第一線首選藥物**（亦可用於治療猝睡症 narcolepsy，但在單選題與 Modafinil 並列時，猝睡症首選促清醒藥常選 Modafinil）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-29",
+      "globalIndex": 472,
+      "qNum": 29,
+      "origQ": "Q25",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列藥物對β2-adrenoceptor作用的親和力強弱排列，何者正確",
+      "image": null,
+      "options": {
+        "A": "isoproterenol > epinephrine > > norepinephrine",
+        "B": "norepinephrine > isoproterenol > epinephrine",
+        "C": "norepinephrine > > epinephrine > isoproterenol",
+        "D": "isoproterenol >epinephrine = norepinephrine"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：β-Blockers 分代、選擇性與特殊藥理】**：**(1) 第一代非選擇性（β1+β2）**：**Propranolol**（高脂溶性進 CNS 預防偏頭痛，**氣喘禁用**）、**Timolol**（青光眼減房水生成）、**Nadolol**（超長效）、**Pindolol**（具 ISA，不可預防偏頭痛）；**(2) 第二代心臟選擇性（β1）**：**Metoprolol**（氣喘患者預防偏頭痛首選）、**Atenolol**、**Betaxolol**（青光眼）、**Acebutolol**（具 ISA）、**Esmolol**（RBC 酯酶水解，半衰期 9 分鐘，**手術超短效**）；**(3) 第三代擴張血管**：**Labetalol、Carvedilol**（兼具 **α1 阻斷**）、**Nebivolol**（β1 阻斷＋促內皮釋放 **NO**）；**(4) 中毒解毒劑**：**Glucagon（升糖素）**。",
+        "**(A) 正確【本題應選正解】**：`isoproterenol > epinephrine > > norepinephrine` —— Norepinephrine 對 β2 受體的親和力極低（遠小於 Isoproterenol 與 Epinephrine），故此排列順序錯誤。",
+        "**(B) 錯誤**：`norepinephrine > isoproterenol > epinephrine` —— Norepinephrine 對 β2 受體的親和力極低（遠小於 Isoproterenol 與 Epinephrine），故此排列順序錯誤。",
+        "**(C) 錯誤**：`norepinephrine > > epinephrine > isoproterenol` —— Norepinephrine 對 β2 受體的親和力極低（遠小於 Isoproterenol 與 Epinephrine），故此排列順序錯誤。",
+        "**(D) 錯誤**：`isoproterenol >epinephrine = norepinephrine` —— Norepinephrine 對 β2 受體的親和力極低（遠小於 Isoproterenol 與 Epinephrine），故此排列順序錯誤。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-30",
+      "globalIndex": 473,
+      "qNum": 30,
+      "origQ": "Q26",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "關於 methamphetamine 的藥理作用，下列敘述何者錯誤",
+      "image": null,
+      "options": {
+        "A": "能問接增加norepinephrine和dopamine的釋放",
+        "B": "相較於amphetamine為較強之中樞神經興奮劑(a stronger central nervous system stimulant than amphetamine)",
+        "C": "可以降低食慾(decrease appetites)",
+        "D": "容易被代謝而失去活性(easily be metabolized and loses activity)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：間接作用型擬交感胺與中樞興奮劑（ADHD & 猝睡症）】**：**Pseudoephedrine** 可被非法還原合成 **Methamphetamine**（脂溶性與中樞興奮性皆強於 Amphetamine，且因非兒茶酚胺＋α-甲基結構，**極不易被 COMT 與 MAO 代謝**）；**ADHD 第一線效果最佳首選為 Methylphenidate**（二線非興奮劑為 Atomoxetine、Clonidine、Guanfacine）；**猝睡症（Narcolepsy）促清醒首選為 Modafinil**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`容易被代謝而失去活性(easily be metabolized and loses activity)` —— **Amphetamine 與 Methamphetamine** 屬於非兒茶酚胺結構（non-catecholamines，苯環上沒有 OH 基），且 α 碳上有甲基（α-methyl group）立體阻障，因此**完全不會被 COMT 代謝，也極不易被單胺氧化酶（MAO）降解**，口服吸收極佳且作用時間長！",
+        "**(A) 敘述正確（非本題所求）**：`能問接增加norepinephrine和dopamine的釋放` —— Amphetamine 與 Methamphetamine 作為間接作用型擬交感興奮劑，能經由 NET 與 DAT 進入突觸前神經末梢並置換囊泡內的兒茶酚胺，**大量促進 Norepinephrine（NE）與 Dopamine（DA）釋放至突觸間隙**。",
+        "**(B) 敘述正確（非本題所求）**：`相較於amphetamine為較強之中樞神經興奮劑(a stronger central nervous system stimulant than amphetamine)` —— **Methamphetamine** 因氮原子上多了一個甲基，脂溶性高於 Amphetamine，更能快速穿透血腦屏障（BBB），因此相較於 Amphetamine 是**更強的中樞神經興奮劑**。",
+        "**(C) 敘述正確（非本題所求）**：`可以降低食慾(decrease appetites)` —— Amphetamine 與 Methamphetamine 作用於下視丘外側食慾中樞（增加 DA 與 NE 活性），具有顯著的**抑制食慾（appetite suppression / anorexia）**作用。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-31",
+      "globalIndex": 474,
+      "qNum": 31,
+      "origQ": "Q27",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列有關腎上腺素性受體之敘述，何者錯誤?",
+      "image": null,
+      "options": {
+        "A": "活化平滑肌beta受體，可↑cAMP生成，促使平滑肌放鬆(relaxation of smooth muscle)",
+        "B": "活化心肌beta受體，可↑cAMP生成，促使心肌收縮(contraction of cardiac muscle)",
+        "C": "Alpha l受體主要存在於突觸後(postsynaptic)細胞膜上",
+        "D": "Alpha 2受體主要存在於突觸前(presynaptic)交感神經末梢細胞膜上"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心藥理考點：腎上腺素受體（α1, α2, β）訊號與分佈】**：(1) 平滑肌 β（β2）受體↑cAMP 促放鬆；(2) 心肌 β（β1）受體↑cAMP 促收縮；(3) α1 受體主要位於突觸後效應器官細胞膜上；(4) **α2 受體**雖常於突觸前調控 NE 釋放，但在整體分佈與該堂課程考點上，**α2 受體亦廣泛存在於突觸後（postsynaptic）組織（如腦幹中樞、血管平滑肌、胰島 β 細胞與血小板）**（本題題庫答案鎖定 D）。",
+        "**(D) 敘述錯誤【本題應選正解】**：`Alpha 2受體主要存在於突觸前(presynaptic)交感神經末梢細胞膜上` —— （註：依本題原題庫解答設定為 D）α2 受體不僅存在於突觸前末梢（自體受體），在藥理學功能上更大量分佈於**突觸後細胞膜**（如 CNS 腦幹突觸後 α2、血管平滑肌突觸後 α2、胰島 β 細胞與脂肪細胞）。",
+        "**(A) 敘述正確（非本題所求）**：`活化平滑肌beta受體，可↑cAMP生成，促使平滑肌放鬆(relaxation of smooth muscle)` —— 平滑肌上的 β2 受體透過 Gs 增加 cAMP，抑制 MLCK 使平滑肌放鬆，敘述正確。",
+        "**(B) 敘述正確（非本題所求）**：`活化心肌beta受體，可↑cAMP生成，促使心肌收縮(contraction of cardiac muscle)` —— 心肌上的 β1 受體透過 Gs 增加 cAMP 並促進 L-type Ca²⁺ 通道開啟，增強心肌收縮力，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`Alpha l受體主要存在於突觸後(postsynaptic)細胞膜上` —— α1 受體主要位於交感神經支配的靶器官（如血管平滑肌、虹膜放射肌）突觸後膜上，敘述正確。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-32",
+      "globalIndex": 475,
+      "qNum": 32,
+      "origQ": "Q28",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列藥物治療用途，何者錯誤？Which of the following statements is false?",
+      "image": null,
+      "options": {
+        "A": "midodrine可用於治療姿態性低血壓(orthostatic hypotension)",
+        "B": "ritodrine可用於治療氣喘(asthma)",
+        "C": "clonidine可用於治療高血壓(hypertension)",
+        "D": "oxymetazoline局部使用可治療鼻塞(nasal congestion)"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心藥理考點：選擇性 β2 致效劑——Ritodrine（安胎）vs. Albuterol（氣喘）】**：**Ritodrine** 雖為選擇性 β2 腎上腺素受體致效劑，但其臨床專一核准用途為放鬆子宮平滑肌以**抑制早產／安胎（tocolysis）**（並非用於治療氣喘；氣喘用 Albuterol/Terbutaline）。",
+        "**(B) 敘述錯誤【本題應選正解】**：`ritodrine可用於治療氣喘(asthma)` —— **Ritodrine** 臨床上是專門用來放鬆子宮平滑肌**抑制早產（安胎）**的 β2 致效劑，並不用於治療氣喘，故本選項敘述錯誤。",
+        "**(A) 敘述正確（非本題所求）**：`midodrine可用於治療姿態性低血壓(orthostatic hypotension)` —— **Midodrine** 為口服 α1 致效劑前驅藥（代謝為 desglymidodrine），可收縮周邊血管治療姿勢性低血壓，敘述正確。",
+        "**(C) 敘述正確（非本題所求）**：`clonidine可用於治療高血壓(hypertension)` —— **Clonidine** 為中樞 α2 致效劑，可抑制交感神經輸出降低血壓，用於治療高血壓（及 ADHD、戒斷症狀），敘述正確。",
+        "**(D) 敘述正確（非本題所求）**：`oxymetazoline局部使用可治療鼻塞(nasal congestion)` —— **Oxymetazoline** 為局部滴鼻／噴鼻用 α 致效劑，收縮鼻黏膜血管以緩解鼻塞，敘述正確。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-33",
+      "globalIndex": 476,
+      "qNum": 33,
+      "origQ": "Q33",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物較不適合用於治療嗜鉻細胞瘤 (pheochromocytoma) 引起之高血壓 (hypertension)？",
+      "image": null,
+      "options": {
+        "A": "metyrosine",
+        "B": "phenoxybenzamine",
+        "C": "phentolamine",
+        "D": "tamsulosin"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：嗜鉻細胞瘤（Pheochromocytoma）藥物治療】**：**(1) α 受體阻斷劑**：術前長效不可逆共價阻斷劑 **Phenoxybenzamine**、術中短效可逆阻斷劑 **Phentolamine**（注意專治 BPH 的 α1A 選擇性 **Tamsulosin** 無法降血壓，不適用於嗜鉻細胞瘤）；**(2) 兒茶酚胺生合成抑制劑**：**Metyrosine（α-methyltyrosine）**競爭性抑制速率決定酵素 Tyrosine hydroxylase，直接阻斷 NE/Epi 合成。",
+        "**(D) 敘述錯誤【本題應選正解】**：`tamsulosin` —— **Tamsulosin** 為高選擇性 **α1A（與 α1D）受體拮抗劑**，專一性放鬆攝護腺、前列腺包膜與膀胱頸平滑肌以治療 **BPH**（極少影響血管 α1B 受體，故**無法降血壓、不適合治療嗜鉻細胞瘤**；但在眼睛會阻斷**虹膜輻射肌 α1A 受體**，導致縮瞳與白內障手術時之軟虹膜症候群 floppy iris syndrome）。",
+        "**(A) 敘述正確（非本題所求）**：`metyrosine` —— **Metyrosine（α-methyltyrosine）**為酪胺酸羥化酶（Tyrosine hydroxylase，兒茶酚胺合成速率決定步驟）的競爭性抑制劑，能直接**阻斷 Norepinephrine 與 Epinephrine 的生合成（biosynthesis）**，用於控制嗜鉻細胞瘤（pheochromocytoma）引起的高血壓。",
+        "**(B) 敘述正確（非本題所求）**：`phenoxybenzamine` —— **Phenoxybenzamine** 為鹵代烷胺類（haloalkylamine），在體內與 **α1 及 α2 受體形成不可逆的共價鍵結合（covalent binding）**（作用長達 14–48 小時），臨床用於**嗜鉻細胞瘤（pheochromocytoma）**術前與慢性高血壓控制（並非抑制 NE 生合成；且會引發嚴重的姿勢性低血壓與反射性心跳過速）。",
+        "**(C) 敘述正確（非本題所求）**：`phentolamine` —— **Phentolamine** 為咪唑啉類**可逆性競爭性非選擇性 α1 / α2 受體拮抗劑**，臨床用於**嗜鉻細胞瘤（pheochromocytoma）**手術期間短效控制高血壓危象，以及擬交感血管收縮劑外滲時的局部浸潤解救（並非抑制 NE 生合成）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-34",
+      "globalIndex": 477,
+      "qNum": 34,
+      "origQ": "Q34",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": true,
+      "stem": "下列何種治療良性前列腺增生症 (benign prostatic hyperplasia, BPH) 的藥物較不易有低血壓 (hypotension) 之副作用？",
+      "image": null,
+      "options": {
+        "A": "alfuzosin",
+        "B": "prazosin",
+        "C": "terazosin",
+        "D": "doxazosin"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心考點：良性攝護腺肥大（BPH）用藥與低血壓副作用比較】**：**(1) 5α-還原酶抑制劑 Finasteride**：阻斷睪固酮轉為 DHT 縮小腺體，**完全不影響血管血壓**；**(2) 泌尿道選擇性 α1A 阻斷劑 Tamsulosin、Silodosin** 及緩釋型 **Alfuzosin**：放鬆攝護腺平滑肌且較少引起姿勢性低血壓；**(3) 非選擇性 α1 阻斷劑 Prazosin、Terazosin、Doxazosin**：同時阻斷血管 α1B，**最易引起姿勢性低血壓**。",
+        "**(A) 正確【本題應選正解】**：`alfuzosin` —— **Alfuzosin** 為用於治療良性攝護腺肥大（**BPH**）的喹唑啉類 α1 受體拮抗劑（製成緩釋劑型並具較佳泌尿道臨床耐受性），相較於傳統非選擇性 α1 阻斷劑（Prazosin、Terazosin、Doxazosin）**較不易引起低血壓副作用**（但在與 5α-還原酶抑制劑 Finasteride 比較時，Finasteride 完全無低血壓副作用）。",
+        "**(B) 錯誤**：`prazosin` —— **Prazosin** 為短效選擇性 **α1 受體拮抗劑（α1A = α1B = α1D）**，用於治療高血壓與良性攝護腺肥大（BPH），但因同時阻斷血管平滑肌 α1B 受體，極易引起**首劑現象（first-dose phenomenon）與姿勢性低血壓**。",
+        "**(C) 錯誤**：`terazosin` —— **Terazosin** 為長效選擇性 **α1 受體拮抗劑（無 α1A 亞型選擇性）**，用於治療高血壓與 BPH，因同時放鬆血管平滑肌，容易引起**姿勢性低血壓（orthostatic hypotension）**副作用。",
+        "**(D) 錯誤**：`doxazosin` —— **Doxazosin** 為長效選擇性 **α1 受體拮抗劑（無 α1A 亞型選擇性）**，用於治療高血壓與 BPH，容易伴隨**姿勢性低血壓**副作用。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-35",
+      "globalIndex": 478,
+      "qNum": 35,
+      "origQ": "Q35",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種 β-adrenoceptor antagonist 對於氣喘 (asthma) 患者應謹慎使用 (used with caution)？",
+      "image": null,
+      "options": {
+        "A": "atenolol",
+        "B": "propranolol",
+        "C": "metoprolol",
+        "D": "esmolol"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心考點：β-Blockers 分代、選擇性與特殊藥理】**：**(1) 第一代非選擇性（β1+β2）**：**Propranolol**（高脂溶性進 CNS 預防偏頭痛，**氣喘禁用**）、**Timolol**（青光眼減房水生成）、**Nadolol**（超長效）、**Pindolol**（具 ISA，不可預防偏頭痛）；**(2) 第二代心臟選擇性（β1）**：**Metoprolol**（氣喘患者預防偏頭痛首選）、**Atenolol**、**Betaxolol**（青光眼）、**Acebutolol**（具 ISA）、**Esmolol**（RBC 酯酶水解，半衰期 9 分鐘，**手術超短效**）；**(3) 第三代擴張血管**：**Labetalol、Carvedilol**（兼具 **α1 阻斷**）、**Nebivolol**（β1 阻斷＋促內皮釋放 **NO**）；**(4) 中毒解毒劑**：**Glucagon（升糖素）**。",
+        "**(B) 正確【本題應選正解】**：`propranolol` —— **Propranolol** 為原型第一代**非選擇性 β1/β2 腎上腺素受體拮抗劑（無 α 阻斷作用）**，具**高度脂溶性（high lipid solubility）**易穿透 BBB（可用於預防偏頭痛、本態性顫抖與甲狀腺風暴），但因會**阻斷支氣管平滑肌 β2 受體誘發嚴重支氣管痙攣**，故氣喘（asthma）與 COPD 患者應避免或極謹慎使用。",
+        "**(A) 錯誤**：`atenolol` —— **Atenolol** 為親水性第二代**心臟選擇性 β1 腎上腺素受體拮抗劑（β1-selective，無 α 阻斷作用）**，對支氣管 β2 受體影響遠小於非選擇性的 Propranolol。",
+        "**(C) 錯誤**：`metoprolol` —— **Metoprolol** 為第二代**心臟選擇性 β1 腎上腺素受體拮抗劑（β1-selective / cardioselective，無 α 阻斷作用）**，較不易阻斷支氣管 β2 受體，且不具內在擬交感活性（ISA），因此是**氣喘（asthma）患者需要預防偏頭痛（migraine）或治療心血管疾病時較安全的選擇**。",
+        "**(D) 錯誤**：`esmolol` —— **Esmolol** 為結構含酯鍵的第二代**心臟選擇性 β1 受體拮抗劑**，在血液中會被紅血球酯酶（RBC esterases）快速水解，**半衰期極短（僅約 9 分鐘）**，專供靜脈輸注作為**手術期間或急診控制急性心搏過速（tachycardia）與高血壓的超短效型（ultra-short-acting）β1-blocker**。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-36",
+      "globalIndex": 479,
+      "qNum": 36,
+      "origQ": "Q36",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何種藥物會與其作用之標的 (target) 產生共價結合 (covalent binding)？",
+      "image": null,
+      "options": {
+        "A": "phenoxybenzamine",
+        "B": "phenylephrine",
+        "C": "physostigmine",
+        "D": "pilocarpine"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心藥理考點：不可逆共價結合 α 受體阻斷劑——Phenoxybenzamine】**：**Phenoxybenzamine** 為 β-鹵代烷胺類（haloalkylamine），在體內環化形成高活性乙烯亞胺離子（aziridinium ion），與 **α1 與 α2 腎上腺素受體產生不可逆的共價鍵結合（covalent binding）**，使藥效長達數天（須待細胞重新合成新受體才恢復），常用於嗜鉻細胞瘤術前準備。",
+        "**(A) 正確【本題應選正解】**：`phenoxybenzamine` —— **Phenoxybenzamine** 與 α1/α2 腎上腺素受體形成**不可逆共價結合（covalent binding）**，為非競爭性長效 α 受體阻斷劑。",
+        "**(B) 錯誤**：`phenylephrine` —— **Phenylephrine** 為可逆性直接作用型 α1 受體致效劑（非共價結合）。",
+        "**(C) 錯誤**：`physostigmine` —— **Physostigmine** 為胺基甲酸酯類（carbamate）可逆性膽鹼酯酶抑制劑（與 AChE 形成可緩慢水解的胺基甲醯化中間體，非永久不可逆共價毒害）。",
+        "**(D) 錯誤**：`pilocarpine` —— **Pilocarpine** 為可逆性直接作用型 M 受體致效劑（非共價結合）。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-37",
+      "globalIndex": 480,
+      "qNum": 37,
+      "origQ": "Q37",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列何者為手術期間可用來抑制心搏過速 (tachycardia) 的超短效型 (ultra-short-acting) β1-blocker？",
+      "image": null,
+      "options": {
+        "A": "nebivolol",
+        "B": "propranolol",
+        "C": "esmolol",
+        "D": "nadolol"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心考點：β-Blockers 分代、選擇性與特殊藥理】**：**(1) 第一代非選擇性（β1+β2）**：**Propranolol**（高脂溶性進 CNS 預防偏頭痛，**氣喘禁用**）、**Timolol**（青光眼減房水生成）、**Nadolol**（超長效）、**Pindolol**（具 ISA，不可預防偏頭痛）；**(2) 第二代心臟選擇性（β1）**：**Metoprolol**（氣喘患者預防偏頭痛首選）、**Atenolol**、**Betaxolol**（青光眼）、**Acebutolol**（具 ISA）、**Esmolol**（RBC 酯酶水解，半衰期 9 分鐘，**手術超短效**）；**(3) 第三代擴張血管**：**Labetalol、Carvedilol**（兼具 **α1 阻斷**）、**Nebivolol**（β1 阻斷＋促內皮釋放 **NO**）；**(4) 中毒解毒劑**：**Glucagon（升糖素）**。",
+        "**(C) 正確【本題應選正解】**：`esmolol` —— **Esmolol** 為結構含酯鍵的第二代**心臟選擇性 β1 受體拮抗劑**，在血液中會被紅血球酯酶（RBC esterases）快速水解，**半衰期極短（僅約 9 分鐘）**，專供靜脈輸注作為**手術期間或急診控制急性心搏過速（tachycardia）與高血壓的超短效型（ultra-short-acting）β1-blocker**。",
+        "**(A) 錯誤**：`nebivolol` —— **Nebivolol** 為第三代高選擇性 **β1 受體拮抗劑**，同時能活化血管內皮 β3 受體**促進內皮一氧化氮合酶（eNOS）產生一氧化氮（NO）**使血管舒張（無 α 阻斷作用，且為長效口服藥，非手術超短效藥）。",
+        "**(B) 錯誤**：`propranolol` —— **Propranolol** 為原型第一代**非選擇性 β1/β2 腎上腺素受體拮抗劑（無 α 阻斷作用）**，具**高度脂溶性（high lipid solubility）**易穿透 BBB（可用於預防偏頭痛、本態性顫抖與甲狀腺風暴），但因會**阻斷支氣管平滑肌 β2 受體誘發嚴重支氣管痙攣**，故氣喘（asthma）與 COPD 患者應避免或極謹慎使用。",
+        "**(D) 錯誤**：`nadolol` —— **Nadolol** 為第一代非選擇性 β1/β2 受體拮抗劑，水溶性高且主要經腎臟原型排出，是**半衰期最長（約 14–24 小時）的長效型 β-blocker**，並非超短效型。"
+      ]
+    },
+    {
+      "id": "1104_Pharm4-38",
+      "globalIndex": 481,
+      "qNum": 38,
+      "origQ": "Q38",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "下列關於眼睛用藥之敘述，何項錯誤 (false)？",
+      "image": null,
+      "options": {
+        "A": "timolol 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓",
+        "B": "pilocarpine 增加眼房水外流 (increase aqueous humor outflow)，減少眼內壓",
+        "C": "apraclonidine 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓",
+        "D": "organophosphates 抑制眼睛虹膜輻射肌 α 受體 (inhibit radial muscle alpha receptor)，產生縮瞳 (miosis)"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心考點：瞳孔括約肌 vs. 輻射肌與眼房水藥理】**：**(1) 虹膜環狀肌（瞳孔括約肌 Circular/Sphincter muscle）**受副交感 **M3（Gq）**支配，活化產生**縮瞳（miosis，如 Pilocarpine、有機磷／沙林毒氣中毒）**，阻斷產生散瞳（如 Atropine、Tropicamide）；**(2) 虹膜輻射肌（瞳孔開大肌 Radial/Dilator muscle）**受交感 **α1（Gq）**支配，活化產生**散瞳（mydriasis，如 Phenylephrine，不影響睫狀肌）**，被 Tamsulosin（α1A blocker）阻斷則產生縮瞳與軟虹膜症候群；**(3) 青光眼降眼壓**：β-blockers（Timolol、Betaxolol）與 α2 agonists（Apraclonidine、Brimonidine）**減少眼房水產生**；PGF2α 類似物（Latanoprost）與擬膽鹼藥（Pilocarpine）**增加眼房水排出**。",
+        "**(D) 敘述錯誤【本題應選正解】**：`organophosphates 抑制眼睛虹膜輻射肌 α 受體 (inhibit radial muscle alpha receptor)，產生縮瞳 (miosis)` —— **有機磷（Organophosphates）**是藉由不可逆抑制乙醯膽鹼酯酶（AChE），使 ACh 大量累積並**過度活化虹膜環狀肌（瞳孔括約肌）的 M3 蕈毒鹼受體**而產生縮瞳（miosis），並非抑制虹膜輻射肌 α 受體（抑制虹膜輻射肌 α1A 受體造成縮瞳與術中軟虹膜症候群的是 Tamsulosin）！",
+        "**(A) 敘述正確（非本題所求）**：`timolol 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓` —— **Timolol** 為第一代非選擇性 β1/β2 受體拮抗劑（無 α 阻斷作用，亦無局部麻醉膜穩定作用），局部點眼可阻斷睫狀體上皮的 β 受體以**減少眼房水產生（decrease aqueous humor production）**，為治療**隅角開放型青光眼**的標準一線點眼藥。",
+        "**(B) 敘述正確（非本題所求）**：`pilocarpine 增加眼房水外流 (increase aqueous humor outflow)，減少眼內壓` —— **Pilocarpine（毛果芸香鹼）**為天然叔胺（tertiary amine）生物鹼，屬直接作用型蕈毒鹼（M3）受體致效劑，可穿透角膜收縮虹膜環狀肌（縮瞳）與睫狀肌（打開小樑網增加眼房水外流以治療隅角開放型與閉鎖型青光眼），且具極強的促進唾液與汗液分泌作用，口服用於治療**頭頸癌放療後或修格蘭氏症候群（Sjögren's syndrome）引起的口乾症（xerostomia）**。",
+        "**(C) 敘述正確（非本題所求）**：`apraclonidine 減少眼房水產生 (decrease aqueous humor production)，減少眼內壓` —— **Clonidine** 為選擇性 **α2 腎上腺素受體致效劑（α2 > α1）**，具有高脂溶性可進入中樞延腦活化突觸後與突觸前 α2 受體，**抑制腦幹交感神經活性傳出並減少周邊 NE 釋放**，臨床用於治療**高血壓**、注意力不足過動症（**ADHD**）及緩解鴉片／酒精戒斷症狀。"
+      ]
+    }
+  ]
+}
