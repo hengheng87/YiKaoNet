@@ -8,6 +8,9 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = Path(os.getenv("YIKAO_DATA_DIR", str(BASE_DIR / "data")))
 EXAMS_DIR = Path(os.getenv("YIKAO_EXAMS_DIR", str(DATA_DIR / "exams")))
+BLOCKS_CATALOG_PATH = Path(
+    os.getenv("YIKAO_BLOCKS_PATH", str(DATA_DIR / "blocks.json"))
+)
 STAGING_DIR = Path(os.getenv("YIKAO_STAGING_DIR", str(DATA_DIR / "staging")))
 DB_PATH = Path(os.getenv("YIKAO_DB_PATH", str(DATA_DIR / "yikao.db")))
 FRONTEND_DIR = BASE_DIR / "frontend"

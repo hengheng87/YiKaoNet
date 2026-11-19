@@ -10,12 +10,66 @@
 </head>
 <body class="min-h-screen flex flex-col">
 
+  <!-- Block / System Portal View (Default Landing) -->
+  <div id="portalView" class="flex-1 flex flex-col">
+    <header id="portalHeader" class="sticky top-0 z-30 bg-white/95 backdrop-blur border-b border-slate-200 shadow-sm">
+      <div class="max-w-6xl mx-auto px-4 py-3 flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+        <div class="space-y-0.5">
+          <div class="flex items-center gap-2 flex-wrap">
+            <span class="px-2.5 py-0.5 text-xs font-bold uppercase tracking-wider bg-indigo-600 text-white rounded-full">YiKao 2.0</span>
+            <h1 id="portalSiteTitle" class="text-lg md:text-xl font-bold text-slate-900">易考網 YiKao 整合考系統題庫</h1>
+          </div>
+          <p id="portalSiteSubtitle" class="text-xs text-slate-500 mt-0.5">正在載入各學期整合考系統 (Block) 目錄...</p>
+        </div>
+
+        <div class="flex items-center gap-2 flex-wrap">
+          <div id="portalHeaderStats" class="portal-stat-pill">載入系統目錄中...</div>
+          <button id="portalResumeLastBtn" type="button" class="hidden px-3 py-1.5 rounded-lg text-xs font-semibold bg-indigo-600 text-white hover:bg-indigo-700 shadow-sm transition"></button>
+        </div>
+      </div>
+    </header>
+
+    <main id="portalMain" class="flex-1 max-w-6xl w-full mx-auto px-4 py-5 space-y-5">
+      <section class="portal-hero">
+        <div class="portal-hero-main">
+          <div class="space-y-1.5">
+            <div class="portal-eyebrow">CMU ORGAN-SYSTEM BLOCK PORTAL</div>
+            <h2 class="text-lg md:text-xl font-bold text-slate-900">先選擇整合考系統 Block，再進入共筆單元刷題</h2>
+            <p class="text-xs text-slate-600 leading-relaxed">
+              依年級學期與器官系統組織整合考考古題。點選「已開放作題」的系統即可進入共筆單元分類、隨機抽測、跨共筆去重與 Notion 匯出；尚未匯入共筆的系統會保留在藍圖上，題庫更新後即自動解鎖。
+            </p>
+          </div>
+          <div id="portalHeroMetrics" class="portal-hero-metrics"></div>
+        </div>
+      </section>
+
+      <section class="bg-white rounded-xl border border-slate-200 p-4 shadow-sm space-y-3">
+        <div id="portalTermTabs" class="flex flex-wrap items-center gap-1.5"></div>
+        <div class="portal-filter-secondary pt-2 border-t border-slate-100">
+          <div id="portalStatusTabs" class="flex flex-wrap items-center gap-1.5"></div>
+          <div class="portal-search-wrap relative">
+            <input id="portalSearchInput" type="text" placeholder="搜尋系統名稱、英文 Block、考次或科目..." class="w-full pl-8 pr-7 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:bg-white" />
+            <span class="absolute left-2.5 top-2 text-slate-400 text-xs">🔍</span>
+            <button id="clearPortalSearchBtn" type="button" class="hidden absolute right-2 top-1.5 text-slate-400 hover:text-slate-600 text-xs px-1">✕</button>
+          </div>
+        </div>
+      </section>
+
+      <div id="portalSectionsContainer" class="space-y-5 pb-12"></div>
+    </main>
+  </div>
+
+  <!-- Unit Quiz Workspace View -->
+  <div id="quizWorkspaceView" class="hidden flex-1 flex flex-col">
+
   <!-- Top Sticky Header & Scoreboard -->
-  <header class="sticky top-0 z-30 bg-white/95 backdrop-blur border-b border-slate-200 shadow-sm">
+  <header id="quizHeader" class="sticky top-0 z-30 bg-white/95 backdrop-blur border-b border-slate-200 shadow-sm">
     <div class="max-w-6xl mx-auto px-4 py-3">
       <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
         <div class="space-y-0.5">
           <div class="flex items-center gap-2 flex-wrap">
+            <button id="backToPortalBtn" type="button" class="back-portal-btn" title="返回整合考系統總覽">← 系統總覽</button>
+            <span id="examBlockContext" class="hidden px-2 py-0.5 text-[11px] font-semibold bg-indigo-50 text-indigo-700 border border-indigo-200 rounded-full"></span>
             <span id="examBadge" class="px-2.5 py-0.5 text-xs font-bold uppercase tracking-wider bg-indigo-600 text-white rounded-full">YiKao</span>
             <h1 id="examTitle" class="text-lg md:text-xl font-bold text-slate-900">載入題庫中...</h1>
             <select id="examSelector" aria-label="切換題庫" class="hidden px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 border border-slate-200 text-slate-700 hover:bg-slate-200 focus:outline-none"></select>
@@ -126,6 +180,8 @@
     <!-- Questions List Container -->
     <div id="questionsContainer" class="space-y-4 pb-12"></div>
   </main>
+
+  </div>
 
   <!-- Subtle Footer -->
   <footer id="siteFooter" class="border-t border-slate-200 bg-white/95 py-3 px-4 text-center text-xs text-slate-500">

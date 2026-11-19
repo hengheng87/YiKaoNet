@@ -13,7 +13,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 if str(BASE_DIR) not in sys.path:
     sys.path.insert(0, str(BASE_DIR))
 
-from backend.config import EXAMS_DIR, FRONTEND_DIR
+from backend.blocks import build_blocks_catalog
+from backend.config import BLOCKS_CATALOG_PATH, EXAMS_DIR, FRONTEND_DIR
 from backend.database import init_db
 from backend.offline_builder import build_offline_html
 from backend.queries import query_exam_questions
@@ -27,6 +28,7 @@ def build_static_site(
     out_dir: Path,
     *,
     db_path: Path | None = None,
+    blocks_catalog_path: Path | None = None,
     include_offline_html: bool = True,
 ) -> dict:
     if out_dir.exists():
@@ -58,8 +60,16 @@ def build_static_site(
         sync_all_exams(conn, exams_dir=exams_dir, force=True)
 
         summaries = list_exams(conn)
+        resolved_catalog_path = (
+            blocks_catalog_path if blocks_catalog_path is not None else BLOCKS_CATALOG_PATH
+        )
+        catalog = build_blocks_catalog(conn, catalog_path=resolved_catalog_path)
         static_api_dir = out_dir / "static-api"
         static_api_dir.mkdir(parents=True, exist_ok=True)
+        (static_api_dir / "blocks.json").write_text(
+            json.dumps(catalog.model_dump(), ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
         (static_api_dir / "exams.json").write_text(
             json.dumps([s.model_dump() for s in summaries], ensure_ascii=False, indent=2)
             + "\n",
@@ -112,12 +122,18 @@ def build_static_site(
 
             if include_offline_html:
                 offline_html = build_offline_html(
-                    conn, exams_dir, frontend_dir, exam_slugs=[slug]
+                    conn,
+                    exams_dir,
+                    frontend_dir,
+                    exam_slugs=[slug],
+                    blocks_catalog_path=resolved_catalog_path,
                 )
                 (exam_out / "offline.html").write_text(offline_html, encoding="utf-8")
 
         return {
             "exams": len(summaries),
+            "blocks": catalog.totalBlocks,
+            "readyBlocks": catalog.readyBlocks,
             "questions": total_questions,
             "images": total_images,
             "outDir": str(out_dir),

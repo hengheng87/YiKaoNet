@@ -32,6 +32,21 @@
         "notebookId": { "type": "string" }
       }
     },
+    "block": {
+      "type": "object",
+      "properties": {
+        "term": { "type": "string" },
+        "termLabel": { "type": "string" },
+        "termShortLabel": { "type": "string" },
+        "examLabel": { "type": "string" },
+        "name": { "type": "string" },
+        "englishName": { "type": "string" },
+        "icon": { "type": "string" },
+        "accent": { "type": "string" },
+        "order": { "type": "integer" },
+        "description": { "type": "string" }
+      }
+    },
     "sessions": {
       "type": "array",
       "items": {

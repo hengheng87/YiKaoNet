@@ -10,10 +10,13 @@ from pathlib import Path
 from fastapi import APIRouter, Depends, HTTPException, Request
 from fastapi.responses import FileResponse
 
-from backend.config import EXAMS_DIR
+from backend.blocks import build_blocks_catalog
+from backend.config import BLOCKS_CATALOG_PATH, EXAMS_DIR
 from backend.database import get_db
-from backend.queries import ensure_exam_exists
+from backend.queries import compute_exam_counts, ensure_exam_exists
 from backend.schemas import (
+    BlockMeta,
+    BlocksCatalogResponse,
     ExamDetail,
     ExamSummary,
     SessionInfo,
@@ -31,41 +34,17 @@ def _get_exams_dir(request: Request) -> Path:
     return getattr(request.app.state, "exams_dir", EXAMS_DIR)
 
 
-def _compute_exam_counts(conn: sqlite3.Connection, slug: str) -> dict:
-    row = conn.execute(
-        """
-        SELECT
-            COUNT(*) AS total,
-            COALESCE(SUM(CASE WHEN is_cross_dup = 0 THEN 1 ELSE 0 END), 0) AS unique_cnt,
-            COALESCE(SUM(CASE WHEN has_errata = 1 THEN 1 ELSE 0 END), 0) AS errata_cnt
-        FROM questions
-        WHERE exam_slug = ?
-        """,
-        (slug,),
-    ).fetchone()
+def _get_blocks_catalog_path(request: Request) -> Path:
+    return getattr(request.app.state, "blocks_catalog_path", BLOCKS_CATALOG_PATH)
 
-    out_of_scope_row = conn.execute(
-        """
-        SELECT COUNT(*) AS cnt
-        FROM questions q
-        JOIN units u ON u.exam_slug = q.exam_slug AND u.unit_code = q.unit_code
-        WHERE q.exam_slug = ? AND u.is_out_of_scope = 1
-        """,
-        (slug,),
-    ).fetchone()
 
-    unit_count_row = conn.execute(
-        "SELECT COUNT(*) AS cnt FROM units WHERE exam_slug = ?",
-        (slug,),
-    ).fetchone()
-
-    return {
-        "total": int(row["total"]),
-        "unique": int(row["unique_cnt"]),
-        "errata": int(row["errata_cnt"]),
-        "out_of_scope": int(out_of_scope_row["cnt"]),
-        "unit_count": int(unit_count_row["cnt"]),
-    }
+def _parse_block_meta(row: sqlite3.Row) -> BlockMeta | None:
+    if "block_json" not in row.keys():
+        return None
+    raw = json.loads(row["block_json"] or "{}")
+    if not raw or not isinstance(raw, dict):
+        return None
+    return BlockMeta(**raw)
 
 
 @router.get("/health")
@@ -75,12 +54,21 @@ def health_check(db: sqlite3.Connection = Depends(get_db)) -> dict:
     return {"status": "ok", "exams": exams_cnt, "questions": q_cnt}
 
 
+@router.get("/blocks", response_model=BlocksCatalogResponse)
+def get_blocks_catalog(
+    request: Request,
+    db: sqlite3.Connection = Depends(get_db),
+) -> BlocksCatalogResponse:
+    catalog_path = _get_blocks_catalog_path(request)
+    return build_blocks_catalog(db, catalog_path=catalog_path)
+
+
 @router.get("/exams", response_model=list[ExamSummary])
 def list_exams(db: sqlite3.Connection = Depends(get_db)) -> list[ExamSummary]:
     rows = db.execute("SELECT * FROM exams ORDER BY slug ASC").fetchall()
     result: list[ExamSummary] = []
     for row in rows:
-        counts = _compute_exam_counts(db, row["slug"])
+        counts = compute_exam_counts(db, row["slug"])
         result.append(
             ExamSummary(
                 slug=row["slug"],
@@ -89,6 +77,7 @@ def list_exams(db: sqlite3.Connection = Depends(get_db)) -> list[ExamSummary]:
                 title=row["title"],
                 subtitle=row["subtitle"],
                 source=SourceInfo(**json.loads(row["source_json"])),
+                block=_parse_block_meta(row),
                 totalQuestions=counts["total"],
                 uniqueQuestions=counts["unique"],
                 errataCount=counts["errata"],
@@ -102,7 +91,7 @@ def list_exams(db: sqlite3.Connection = Depends(get_db)) -> list[ExamSummary]:
 @router.get("/exams/{slug}", response_model=ExamDetail)
 def get_exam_detail(slug: str, db: sqlite3.Connection = Depends(get_db)) -> ExamDetail:
     row = ensure_exam_exists(db, slug)
-    counts = _compute_exam_counts(db, slug)
+    counts = compute_exam_counts(db, slug)
 
     ses_counts = {
         r["session"]: int(r["cnt"])
@@ -176,6 +165,7 @@ def get_exam_detail(slug: str, db: sqlite3.Connection = Depends(get_db)) -> Exam
         title=row["title"],
         subtitle=row["subtitle"],
         source=SourceInfo(**json.loads(row["source_json"])),
+        block=_parse_block_meta(row),
         totalQuestions=counts["total"],
         uniqueQuestions=counts["unique"],
         errataCount=counts["errata"],

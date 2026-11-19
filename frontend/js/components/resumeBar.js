@@ -11,7 +11,7 @@ function getTargetQuestion() {
 }
 
 function captureViewportQuestion() {
-  if (isJumping) return;
+  if (isJumping || state.currentView !== 'exam') return;
   const containerEl = document.getElementById('questionsContainer');
   if (!containerEl) return;
   const cards = Array.from(containerEl.children);
@@ -36,7 +36,7 @@ export function jumpToInterruptedSpot() {
   if (!q) return;
 
   const resumeBarEl = document.getElementById('resumeFloatingBar');
-  const headerEl = document.querySelector('header.sticky');
+  const headerEl = document.getElementById('quizHeader');
   const containerEl = document.getElementById('questionsContainer');
 
   isJumping = true;
@@ -71,6 +71,11 @@ export function jumpToInterruptedSpot() {
 
 export function renderResumeBarState() {
   const inlineJumpBtn = document.getElementById('inlineJumpBtn');
+  if (state.currentView !== 'exam') {
+    if (inlineJumpBtn) inlineJumpBtn.classList.add('hidden');
+    document.getElementById('resumeFloatingBar')?.classList.add('bar-hidden');
+    return;
+  }
   const q = getTargetQuestion();
   if (!q) {
     inlineJumpBtn.classList.add('hidden');
@@ -85,6 +90,10 @@ export function renderResumeBarState() {
 
 export function showInitialResumeBanner() {
   const resumeBarEl = document.getElementById('resumeFloatingBar');
+  if (state.currentView !== 'exam') {
+    resumeBarEl?.classList.add('bar-hidden');
+    return;
+  }
   const q = getTargetQuestion();
   if (!q) {
     resumeBarEl.classList.add('bar-hidden');

@@ -93,6 +93,16 @@ def build_parser() -> argparse.ArgumentParser:
     p_init.add_argument("--source-name", default="", help="知識庫／共筆來源名稱")
     p_init.add_argument("--source-url", default="", help="來源網址")
     p_init.add_argument("--notebook-id", default=None, help="NotebookLM Notebook UUID")
+    p_init.add_argument("--block-term", default=None, help="所屬學期代碼（如 y3-s1、y3-s2）")
+    p_init.add_argument("--block-term-label", default=None, help="學期分區顯示標題（如 大三下學期整合考）")
+    p_init.add_argument("--block-term-short-label", default=None, help="學期頁籤簡稱（如 大三下）")
+    p_init.add_argument("--block-exam-label", default=None, help="整合考次標籤（如 第一次整合考）")
+    p_init.add_argument("--block-name", default=None, help="系統 Block 名稱（如 基礎醫學概論）")
+    p_init.add_argument("--block-en-name", default=None, help="系統 Block 英文名稱")
+    p_init.add_argument("--block-icon", default=None, help="系統卡片 Emoji 圖示")
+    p_init.add_argument("--block-accent", default=None, help="系統卡片色系（indigo/blue/rose/amber/emerald）")
+    p_init.add_argument("--block-order", type=int, default=None, help="系統卡片排序數字")
+    p_init.add_argument("--block-desc", default=None, help="系統卡片說明文字")
 
     p_pdf = sub.add_parser("extract-pdf", help="從 PDF 共筆萃取純文字、圖片並產出待審草稿")
     p_pdf.add_argument("pdf_file", help="PDF 檔案路徑")
@@ -148,6 +158,23 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
 
     if args.command == "init-exam":
+        block_payload: dict = {}
+        for attr, dest in (
+            ("block_term", "term"),
+            ("block_term_label", "termLabel"),
+            ("block_term_short_label", "termShortLabel"),
+            ("block_exam_label", "examLabel"),
+            ("block_name", "name"),
+            ("block_en_name", "englishName"),
+            ("block_icon", "icon"),
+            ("block_accent", "accent"),
+            ("block_order", "order"),
+            ("block_desc", "description"),
+        ):
+            val = getattr(args, attr, None)
+            if val is not None:
+                block_payload[dest] = val
+
         exam_dir = init_exam(
             EXAMS_DIR,
             slug=args.slug,
@@ -157,6 +184,7 @@ def main(argv: list[str] | None = None) -> int:
             source_name=args.source_name,
             source_url=args.source_url,
             notebook_id=args.notebook_id,
+            block=block_payload or None,
         )
         print(f"Created exam scaffold at {exam_dir}")
         return 0

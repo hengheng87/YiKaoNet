@@ -16,6 +16,12 @@ const listeners = new Set();
 let syncDebounceTimer = null;
 
 export const state = {
+  currentView: 'portal', // 'portal' | 'exam'
+  blocksCatalog: null,
+  portalTermFilter: 'ALL',
+  portalStatusFilter: 'ALL',
+  portalSearchQuery: '',
+
   exams: [],
   activeExamSlug: null,
   examDetail: null,
@@ -62,6 +68,35 @@ export function getSavedActiveExamSlug() {
     return localStorage.getItem(ACTIVE_EXAM_KEY) || '';
   } catch (_) {
     return '';
+  }
+}
+
+export function getExamLocalProgressSummary(slug) {
+  if (!slug) {
+    return { answeredCount: 0, starredCount: 0, updatedAt: 0 };
+  }
+  try {
+    let payload = null;
+    const raw = localStorage.getItem(`${STORAGE_PREFIX}${slug}`);
+    if (raw) {
+      payload = JSON.parse(raw);
+    } else {
+      payload = migrateLegacyV106Storage(slug);
+    }
+    if (!payload || typeof payload !== 'object') {
+      return { answeredCount: 0, starredCount: 0, updatedAt: 0 };
+    }
+    const answers = payload.answers || {};
+    const starred = payload.starred || {};
+    const answeredCount = Object.values(answers).filter(Boolean).length;
+    const starredCount = Object.values(starred).filter(Boolean).length;
+    return {
+      answeredCount,
+      starredCount,
+      updatedAt: Number(payload.updatedAt || 0),
+    };
+  } catch (_) {
+    return { answeredCount: 0, starredCount: 0, updatedAt: 0 };
   }
 }
 

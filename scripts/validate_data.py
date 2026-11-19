@@ -72,6 +72,23 @@ def validate_exam_dir(exam_dir: Path) -> tuple[list[str], dict]:
             f"{exam_dir.name}: exam.json slug '{exam['slug']}' != directory name"
         )
 
+    if "block" in exam and exam["block"] is not None:
+        blk = exam["block"]
+        if not isinstance(blk, dict):
+            errors.append(f"{exam_dir.name}: exam.json 'block' must be an object")
+        else:
+            if "order" in blk and blk["order"] is not None:
+                if isinstance(blk["order"], bool) or not isinstance(blk["order"], int):
+                    errors.append(
+                        f"{exam_dir.name}: exam.json 'block.order' must be an integer"
+                    )
+            for str_key in ("term", "name"):
+                if str_key in blk and blk[str_key] is not None:
+                    if not isinstance(blk[str_key], str) or not blk[str_key].strip():
+                        errors.append(
+                            f"{exam_dir.name}: exam.json 'block.{str_key}' must be a non-empty string"
+                        )
+
     session_codes = {s["code"] for s in exam["sessions"]}
     subject_codes = {s["code"] for s in exam["subjects"]}
     year_codes = {y["code"] for y in exam["yearGroups"]}
@@ -167,6 +184,74 @@ def validate_exam_dir(exam_dir: Path) -> tuple[list[str], dict]:
     return errors, stats
 
 
+def validate_blocks_catalog(catalog_path: Path) -> list[str]:
+    errors: list[str] = []
+    try:
+        catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        return [f"{catalog_path.name}: invalid JSON ({exc})"]
+
+    if not isinstance(catalog, dict):
+        return [f"{catalog_path.name}: root must be a JSON object"]
+
+    for req_key in ("version", "title", "subtitle", "terms", "blocks"):
+        if req_key not in catalog:
+            errors.append(f"{catalog_path.name}: missing required key '{req_key}'")
+    if errors:
+        return errors
+
+    terms = catalog["terms"]
+    blocks = catalog["blocks"]
+    if not isinstance(terms, list) or not isinstance(blocks, list):
+        return [f"{catalog_path.name}: 'terms' and 'blocks' must be lists"]
+
+    term_codes: set[str] = set()
+    for idx, term in enumerate(terms):
+        if not isinstance(term, dict):
+            errors.append(f"{catalog_path.name}: terms[{idx}] must be an object")
+            continue
+        code = term.get("code")
+        if not isinstance(code, str) or not code.strip():
+            errors.append(f"{catalog_path.name}: terms[{idx}] missing non-empty 'code'")
+            continue
+        if code in term_codes:
+            errors.append(f"{catalog_path.name}: duplicate term code '{code}'")
+        term_codes.add(code)
+        for req_t in ("label", "shortLabel"):
+            val = term.get(req_t)
+            if not isinstance(val, str) or not val.strip():
+                errors.append(f"{catalog_path.name}: term '{code}' missing '{req_t}'")
+        order = term.get("order")
+        if isinstance(order, bool) or not isinstance(order, int):
+            errors.append(f"{catalog_path.name}: term '{code}' 'order' must be an int")
+
+    block_slugs: set[str] = set()
+    for idx, blk in enumerate(blocks):
+        if not isinstance(blk, dict):
+            errors.append(f"{catalog_path.name}: blocks[{idx}] must be an object")
+            continue
+        slug = blk.get("slug")
+        if not isinstance(slug, str) or not slug.strip():
+            errors.append(f"{catalog_path.name}: blocks[{idx}] missing non-empty 'slug'")
+            continue
+        if slug in block_slugs:
+            errors.append(f"{catalog_path.name}: duplicate block slug '{slug}'")
+        block_slugs.add(slug)
+
+        tcode = blk.get("term")
+        if not isinstance(tcode, str) or tcode not in term_codes:
+            errors.append(
+                f"{catalog_path.name}: block '{slug}' references unknown term '{tcode}'"
+            )
+        if not isinstance(blk.get("name"), str) or not blk["name"].strip():
+            errors.append(f"{catalog_path.name}: block '{slug}' missing non-empty 'name'")
+        order = blk.get("order")
+        if isinstance(order, bool) or not isinstance(order, int):
+            errors.append(f"{catalog_path.name}: block '{slug}' 'order' must be an int")
+
+    return errors
+
+
 def validate_all(exams_dir: Path = EXAMS_DIR) -> int:
     if not exams_dir.is_dir():
         print(f"ERROR: exams directory not found: {exams_dir}", file=sys.stderr)
@@ -184,6 +269,10 @@ def validate_all(exams_dir: Path = EXAMS_DIR) -> int:
         all_errors.extend(errs)
         if stats:
             all_stats.append(stats)
+
+    catalog_path = exams_dir.parent / "blocks.json"
+    if catalog_path.is_file():
+        all_errors.extend(validate_blocks_catalog(catalog_path))
 
     if all_errors:
         print("Validation FAILED:", file=sys.stderr)

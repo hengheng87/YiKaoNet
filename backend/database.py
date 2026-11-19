@@ -17,6 +17,7 @@ CREATE TABLE IF NOT EXISTS exams (
     title TEXT NOT NULL,
     subtitle TEXT NOT NULL,
     source_json TEXT NOT NULL,
+    block_json TEXT NOT NULL DEFAULT '{}',
     sessions_json TEXT NOT NULL,
     subjects_json TEXT NOT NULL,
     year_groups_json TEXT NOT NULL,
@@ -112,6 +113,15 @@ def get_connection(db_path: Path | None = None) -> sqlite3.Connection:
 
 def init_db(conn: sqlite3.Connection) -> None:
     conn.executescript(SCHEMA_SQL)
+    cols = {
+        row["name"]
+        for row in conn.execute("PRAGMA table_info(exams)").fetchall()
+    }
+    if "block_json" not in cols:
+        conn.execute(
+            "ALTER TABLE exams ADD COLUMN block_json TEXT NOT NULL DEFAULT '{}'"
+        )
+        conn.execute("UPDATE exams SET content_hash = ''")
     conn.commit()
 
 

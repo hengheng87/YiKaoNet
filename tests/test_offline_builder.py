@@ -51,6 +51,9 @@ def test_offline_html_export_endpoint(client):
     )
     assert m, "Embedded offline JSON not found"
     payload = json.loads(m.group(1).replace("<\\/", "</"))
+    assert payload["singleExamMode"] is True
+    assert payload["blocks"]["readyBlocks"] == 1
+    assert payload["blocks"]["totalBlocks"] == 1
     assert len(payload["exams"]) == 1
     qs = payload["questions"]["cmu-int2-msk"]
     assert len(qs) == 547
@@ -62,6 +65,7 @@ def test_offline_html_export_endpoint(client):
     bundle_m = re.search(r"<script>\s*\(function \(\) \{([\s\S]*)\}\)\(\);\s*</script>", html)
     assert bundle_m, "Bundled JS IIFE not found"
     bundle_code = bundle_m.group(1)
+    assert "initBlockPortal" in bundle_code
     assert "adminAuthModal" not in html
     assert "questionEditorModal" not in html
     assert not re.search(r"^\s*import\s+", bundle_code, re.M)

@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "YiKao Block Catalog Schema",
+  "type": "object",
+  "required": ["version", "title", "subtitle", "terms", "blocks"],
+  "properties": {
+    "version": { "type": "string" },
+    "title": { "type": "string" },
+    "subtitle": { "type": "string" },
+    "terms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "label", "shortLabel", "order"],
+        "properties": {
+          "code": { "type": "string", "minLength": 1 },
+          "label": { "type": "string", "minLength": 1 },
+          "shortLabel": { "type": "string", "minLength": 1 },
+          "description": { "type": "string" },
+          "order": { "type": "integer" }
+        }
+      }
+    },
+    "blocks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slug", "term", "examLabel", "name", "order"],
+        "properties": {
+          "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "term": { "type": "string", "minLength": 1 },
+          "examLabel": { "type": "string" },
+          "name": { "type": "string", "minLength": 1 },
+          "englishName": { "type": "string" },
+          "icon": { "type": "string" },
+          "accent": { "type": "string" },
+          "order": { "type": "integer" },
+          "description": { "type": "string" },
+          "subjectsPreview": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "sourceHint": { "type": "string" }
+        }
+      }
+    }
+  }
+}

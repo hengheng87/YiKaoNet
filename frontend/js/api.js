@@ -4,6 +4,10 @@ export function isOfflineMode() {
   return Boolean(typeof window !== 'undefined' && window.__YIKAO_OFFLINE_DATA__);
 }
 
+export function isSingleExamOfflineMode() {
+  return Boolean(isOfflineMode() && window.__YIKAO_OFFLINE_DATA__?.singleExamMode);
+}
+
 export function isStaticSiteMode() {
   return Boolean(typeof window !== 'undefined' && window.__YIKAO_STATIC_MODE__);
 }
@@ -31,6 +35,16 @@ async function requestJson(url, options = {}) {
     throw new Error(detail);
   }
   return res.json();
+}
+
+export function fetchBlocksCatalog() {
+  if (isOfflineMode()) {
+    return Promise.resolve(window.__YIKAO_OFFLINE_DATA__.blocks || null);
+  }
+  if (isStaticSiteMode()) {
+    return requestJson('./static-api/blocks.json');
+  }
+  return requestJson('/api/blocks');
 }
 
 export function fetchExams() {

@@ -11,6 +11,8 @@ from pathlib import Path
 
 from fastapi import HTTPException
 
+from backend.blocks import build_blocks_catalog
+from backend.config import BLOCKS_CATALOG_PATH
 from backend.queries import query_exam_questions
 from backend.routers.exams import get_exam_detail, list_exams
 
@@ -26,6 +28,7 @@ JS_BUNDLE_ORDER = [
     "components/toast.js",
     "notion.js",
     "store.js",
+    "components/blockPortal.js",
     "components/header.js",
     "components/filters.js",
     "components/questionList.js",
@@ -94,6 +97,8 @@ def build_offline_html(
     exams_dir: Path,
     frontend_dir: Path,
     exam_slugs: list[str] | None = None,
+    *,
+    blocks_catalog_path: Path | None = None,
 ) -> str:
     all_summaries = list_exams(conn)
     if exam_slugs is not None:
@@ -128,7 +133,17 @@ def build_offline_html(
         details_map[slug] = detail.model_dump()
         questions_map[slug] = q_dicts
 
+    resolved_catalog = (
+        blocks_catalog_path if blocks_catalog_path is not None else BLOCKS_CATALOG_PATH
+    )
+    selected_slugs = {s.slug for s in selected_summaries}
+    blocks_catalog = build_blocks_catalog(
+        conn, catalog_path=resolved_catalog, only_slugs=selected_slugs
+    )
+
     offline_payload = {
+        "singleExamMode": len(selected_summaries) == 1,
+        "blocks": blocks_catalog.model_dump(),
         "exams": [s.model_dump() for s in selected_summaries],
         "details": details_map,
         "questions": questions_map,

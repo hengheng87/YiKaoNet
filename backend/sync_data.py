@@ -153,15 +153,16 @@ def sync_single_exam(
             """
             INSERT INTO exams (
                 slug, version, badge, title, subtitle,
-                source_json, sessions_json, subjects_json, year_groups_json,
+                source_json, block_json, sessions_json, subjects_json, year_groups_json,
                 content_hash, updated_at
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ON CONFLICT(slug) DO UPDATE SET
                 version = excluded.version,
                 badge = excluded.badge,
                 title = excluded.title,
                 subtitle = excluded.subtitle,
                 source_json = excluded.source_json,
+                block_json = excluded.block_json,
                 sessions_json = excluded.sessions_json,
                 subjects_json = excluded.subjects_json,
                 year_groups_json = excluded.year_groups_json,
@@ -175,6 +176,7 @@ def sync_single_exam(
                 exam["title"],
                 exam["subtitle"],
                 json.dumps(exam["source"], ensure_ascii=False),
+                json.dumps(exam.get("block") or {}, ensure_ascii=False),
                 json.dumps(exam["sessions"], ensure_ascii=False),
                 json.dumps(exam["subjects"], ensure_ascii=False),
                 json.dumps(exam["yearGroups"], ensure_ascii=False),

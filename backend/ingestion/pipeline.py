@@ -59,6 +59,7 @@ def init_exam(
     source_name: str = "",
     source_url: str = "",
     notebook_id: str | None = None,
+    block: dict | None = None,
     sessions: list[dict] | None = None,
     subjects: list[dict] | None = None,
     year_groups: list[dict] | None = None,
@@ -82,7 +83,7 @@ def init_exam(
     if notebook_id and notebook_id.strip():
         source_obj["notebookId"] = notebook_id.strip()
 
-    manifest = {
+    manifest: dict = {
         "slug": clean_slug,
         "version": "2.0.0",
         "badge": badge.strip() or clean_slug.upper(),
@@ -94,6 +95,15 @@ def init_exam(
         "yearGroups": year_groups or DEFAULT_YEAR_GROUPS,
         "units": [],
     }
+    if block:
+        clean_block = {
+            k: v
+            for k, v in block.items()
+            if v is not None and (not isinstance(v, str) or v.strip())
+        }
+        if clean_block:
+            manifest["block"] = clean_block
+
     _atomic_write_json(manifest_path, manifest)
     return exam_dir
 

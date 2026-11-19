@@ -16,7 +16,7 @@ from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
-from backend.config import DB_PATH, EXAMS_DIR, FRONTEND_DIR
+from backend.config import BLOCKS_CATALOG_PATH, DB_PATH, EXAMS_DIR, FRONTEND_DIR
 from backend.database import get_connection, init_db
 from backend.routers import exams, export, progress, questions
 from backend.sync_data import sync_all_exams
@@ -27,10 +27,14 @@ def create_app(
     db_path: Path | None = None,
     exams_dir: Path | None = None,
     frontend_dir: Path | None = None,
+    blocks_catalog_path: Path | None = None,
 ) -> FastAPI:
     resolved_db = db_path or DB_PATH
     resolved_exams = exams_dir or EXAMS_DIR
     resolved_frontend = frontend_dir or FRONTEND_DIR
+    resolved_blocks_catalog = (
+        blocks_catalog_path if blocks_catalog_path is not None else BLOCKS_CATALOG_PATH
+    )
 
     @asynccontextmanager
     async def lifespan(app_instance: FastAPI):
@@ -40,6 +44,7 @@ def create_app(
         app_instance.state.db = conn
         app_instance.state.exams_dir = resolved_exams
         app_instance.state.frontend_dir = resolved_frontend
+        app_instance.state.blocks_catalog_path = resolved_blocks_catalog
         try:
             yield
         finally:

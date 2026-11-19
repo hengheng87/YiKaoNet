@@ -1,6 +1,6 @@
 /** Sticky header, exam selector, mode switcher, live scoreboard, and mobile auto-hide. */
 
-import { isLocalOnlyMode } from '../api.js';
+import { isLocalOnlyMode, isSingleExamOfflineMode } from '../api.js';
 import { escapeHtml } from '../markdown.js';
 import { isAnswerCorrect, notify, setMode, state, submitExam } from '../store.js';
 import { showToast } from './toast.js';
@@ -8,9 +8,14 @@ import { showToast } from './toast.js';
 let lastScrollY = window.scrollY || 0;
 let scrollTicking = false;
 let boundExamSelector = null;
+let boundBackToPortal = null;
 
 function handleHeaderAutoHide() {
-  const headerEl = document.querySelector('header.sticky');
+  if (state.currentView !== 'exam') {
+    scrollTicking = false;
+    return;
+  }
+  const headerEl = document.getElementById('quizHeader');
   const currentY = window.scrollY || 0;
   const delta = currentY - lastScrollY;
   if (headerEl) {
@@ -24,13 +29,21 @@ function handleHeaderAutoHide() {
   scrollTicking = false;
 }
 
-export function initHeader(onSelectExam) {
+export function initHeader(onSelectExam, onBackToPortal) {
   boundExamSelector = onSelectExam;
+  boundBackToPortal = onBackToPortal;
 
   const modePracticeBtn = document.getElementById('modePracticeBtn');
   const modeExamBtn = document.getElementById('modeExamBtn');
   const submitExamBtn = document.getElementById('submitExamBtn');
   const examSelector = document.getElementById('examSelector');
+  const backToPortalBtn = document.getElementById('backToPortalBtn');
+
+  if (backToPortalBtn) {
+    backToPortalBtn.addEventListener('click', () => {
+      if (boundBackToPortal) boundBackToPortal();
+    });
+  }
 
   modePracticeBtn.addEventListener('click', () => {
     setMode('practice');
@@ -70,6 +83,24 @@ export function renderHeaderMetadata() {
   if (!exam) return;
 
   document.title = `${exam.title}｜易考網 YiKao`;
+
+  const backBtn = document.getElementById('backToPortalBtn');
+  if (backBtn) {
+    backBtn.classList.toggle('hidden', isSingleExamOfflineMode());
+  }
+
+  const blockCtxEl = document.getElementById('examBlockContext');
+  if (blockCtxEl) {
+    const blk = exam.block || {};
+    const parts = [blk.termShortLabel, blk.examLabel].filter(Boolean);
+    if (parts.length) {
+      blockCtxEl.textContent = parts.join(' ・ ');
+      blockCtxEl.classList.remove('hidden');
+    } else {
+      blockCtxEl.classList.add('hidden');
+    }
+  }
+
   document.getElementById('examBadge').textContent = exam.badge;
   document.getElementById('examTitle').textContent = `${exam.title}（全 ${exam.totalQuestions} 題）`;
 

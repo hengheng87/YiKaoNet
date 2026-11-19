@@ -66,6 +66,68 @@ class UnitSummary(BaseModel):
     questionCount: int = 0
 
 
+class BlockMeta(BaseModel):
+    term: str = ""
+    termLabel: str = ""
+    termShortLabel: str = ""
+    examLabel: str = ""
+    name: str = ""
+    englishName: str = ""
+    icon: str = ""
+    accent: str = ""
+    order: int | None = None
+    description: str = ""
+
+
+class BlockSubjectTag(BaseModel):
+    label: str
+    emoji: str = ""
+    questionCount: int = 0
+
+
+class BlockItem(BaseModel):
+    slug: str
+    term: str
+    examLabel: str = ""
+    name: str
+    englishName: str = ""
+    icon: str = "📚"
+    accent: str = "indigo"
+    order: int = 999
+    status: str  # "ready" | "planned"
+    description: str = ""
+    sourceHint: str = ""
+    source: SourceInfo | None = None
+    subjects: list[BlockSubjectTag] = Field(default_factory=list)
+    totalQuestions: int = 0
+    uniqueQuestions: int = 0
+    errataCount: int = 0
+    unitCount: int = 0
+
+
+class TermSection(BaseModel):
+    code: str
+    label: str
+    shortLabel: str
+    description: str = ""
+    order: int = 999
+    readyCount: int = 0
+    totalCount: int = 0
+    blocks: list[BlockItem] = Field(default_factory=list)
+
+
+class BlocksCatalogResponse(BaseModel):
+    version: str = "1.0.0"
+    title: str = "易考網 YiKao 整合考系統題庫"
+    subtitle: str = "依年級學期與器官系統 Block 分類，點選系統即可進入共筆單元作題畫面"
+    readyBlocks: int = 0
+    plannedBlocks: int = 0
+    totalBlocks: int = 0
+    totalQuestions: int = 0
+    totalUnits: int = 0
+    terms: list[TermSection] = Field(default_factory=list)
+
+
 class ExamSummary(BaseModel):
     slug: str
     version: str
@@ -73,6 +135,7 @@ class ExamSummary(BaseModel):
     title: str
     subtitle: str
     source: SourceInfo
+    block: BlockMeta | None = None
     totalQuestions: int
     uniqueQuestions: int
     errataCount: int

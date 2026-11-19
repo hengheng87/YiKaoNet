@@ -15,17 +15,18 @@
 ## 2. 程式碼架構與修改範圍
 
 - **後端與匯入引擎 (`backend/`)**：
-  - `config.py`：路徑設定（`DATA_DIR`, `EXAMS_DIR`, `STAGING_DIR`, `DB_PATH`, `FRONTEND_DIR`）。
-  - `database.py` & `sync_data.py`：SQLite Schema（`exams`, `units`, `questions`, `user_progress`）與 SHA-256 增量同步。
-  - `ingestion/`：`extractors.py`（PDF/文字/圖片/nlm）、`parser.py`（JSON/純文字題庫剖析與跨單元去重）、`pipeline.py`（考科建立、草稿暫存、原子驗證提交）。
+  - `config.py`：路徑設定（`DATA_DIR`, `EXAMS_DIR`, `BLOCKS_CATALOG_PATH`, `STAGING_DIR`, `DB_PATH`, `FRONTEND_DIR`）。
+  - `database.py` & `sync_data.py`：SQLite Schema（`exams`, `units`, `questions`, `user_progress`）與 SHA-256 增量同步（含 `block_json` 自動遷移）。
+  - `blocks.py`：讀取 `data/blocks.json` 與 SQLite 考科彙整系統 Block 藍圖與即時統計（對應 `GET /api/blocks` 與靜態 `static-api/blocks.json`）。
+  - `ingestion/`：`extractors.py`（PDF/文字/圖片/nlm）、`parser.py`（JSON/純文字題庫剖析與跨單元去重）、`pipeline.py`（含 `init_exam` Block 設定、草稿暫存、原子驗證提交）。
   - `offline_builder.py`：將 CSS、ES Modules（需保持跨檔頂層符號唯一）與考科資料打包為單檔離線 HTML。
   - `queries.py` & `routers/`：本機 FastAPI 查詢與匯出端點（`exams.py`, `questions.py`, `progress.py`, `export.py`）。
 - **前端 (`frontend/`)**：
   - 原生 ES Modules + CSS（無需 Node/Vite），以相對路徑 `./` 載入資源，同時支援 **本機 FastAPI**、**GitHub Pages 靜態模式 (`window.__YIKAO_STATIC_MODE__`)** 與 **單檔離線模式 (`window.__YIKAO_OFFLINE_DATA__`)**；新增頂層宣告時請維持跨檔案唯一命名。
-  - `js/api.js` & `js/store.js` 負責資料來源切換與 `localStorage`（含 `v1.0.6` 自動遷移）。
-  - `js/components/`：`header.js`、`filters.js`、`questionList.js`、`resumeBar.js`、`modals.js`、`toast.js`。
+  - `js/api.js` & `js/store.js` 負責資料來源切換、Portal 與作題頁狀態管理及 `localStorage`（含 `v1.0.6` 自動遷移）。
+  - `js/components/`：`blockPortal.js`（整合考系統總覽卡片頁）、`header.js`、`filters.js`、`questionList.js`、`resumeBar.js`、`modals.js`、`toast.js`。
 - **CLI 工具 (`scripts/`)**：
-  - `ingest.py`、`import_questions.py`、`validate_data.py`、`build_static_site.py`、`build_offline_html.py`、`sync_db.py`。
+  - `ingest.py`（`init-exam` 支援 `--block-*` 參數）、`import_questions.py`、`validate_data.py`（同時驗證 `blocks.json` 與各考科 `exam.json`）、`build_static_site.py`、`build_offline_html.py`、`sync_db.py`。
 
 ## 3. 修改後必須執行的驗證
 

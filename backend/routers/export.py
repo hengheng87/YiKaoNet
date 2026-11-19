@@ -7,7 +7,7 @@ import sqlite3
 from fastapi import APIRouter, Depends, Request
 from fastapi.responses import Response
 
-from backend.config import EXAMS_DIR, FRONTEND_DIR
+from backend.config import BLOCKS_CATALOG_PATH, EXAMS_DIR, FRONTEND_DIR
 from backend.database import get_db
 from backend.offline_builder import build_offline_html
 from backend.queries import ensure_exam_exists, query_exam_questions, row_to_question
@@ -81,7 +81,16 @@ def export_offline_html(
 ) -> Response:
     exams_dir = getattr(request.app.state, "exams_dir", EXAMS_DIR)
     frontend_dir = getattr(request.app.state, "frontend_dir", FRONTEND_DIR)
-    html = build_offline_html(db, exams_dir, frontend_dir, exam_slugs=[slug])
+    blocks_catalog_path = getattr(
+        request.app.state, "blocks_catalog_path", BLOCKS_CATALOG_PATH
+    )
+    html = build_offline_html(
+        db,
+        exams_dir,
+        frontend_dir,
+        exam_slugs=[slug],
+        blocks_catalog_path=blocks_catalog_path,
+    )
     return Response(
         content=html,
         media_type="text/html; charset=utf-8",

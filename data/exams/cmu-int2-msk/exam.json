@@ -9,6 +9,18 @@
     "url": "https://notebook.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5",
     "notebookId": "01b3322a-9c0a-498f-91ce-4c29f24657f5"
   },
+  "block": {
+    "term": "y3-s1",
+    "termLabel": "大三上學期整合考",
+    "termShortLabel": "大三上",
+    "examLabel": "第二次整合考",
+    "name": "骨骼肌肉系統",
+    "englishName": "Musculoskeletal System",
+    "icon": "🦴",
+    "accent": "indigo",
+    "order": 2,
+    "description": "肌肉生理、自主神經與突觸、腫瘤學、骨關節病理、軟骨與肌肉組織、ANS 藥理、骨科與臨診理學。"
+  },
   "sessions": [
     {
       "code": "A",

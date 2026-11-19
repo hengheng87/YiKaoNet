@@ -6,11 +6,15 @@
 
 ## 核心特色
 
+- **整合考系統（Block）總覽入口與二階段導覽**：
+  - 進入網站預設先呈現依**年級學期與器官系統 Block** 組織的總覽頁（由 `data/blocks.json` 管理），支援系統搜尋、學期／開放狀態篩選、以及卡片即時顯示本機作答進度。
+  - 點選已開放的系統即進入依**共筆單元**分類的作題畫面（支援 `#exam=<slug>` 深連結與一鍵返回系統總覽），尚未匯入的系統保留為「題庫建置中」卡片並於匯入考題後自動解鎖。
 - **純檢視靜態網站（可 \$0 永久免費託管於 GitHub Pages）**：
   - 所有同學免登入即可於線上刷題、模擬考、關鍵字搜尋、續讀跳轉與匯出 Notion 摺疊題庫。
   - 內建一鍵下載「單檔離線互動 HTML」與作答紀錄 JSON 備份匯出／匯入。
 - **模組化題庫結構（大幅降低 AI 協作 Token 消耗）**：
-  - `data/exams/<slug>/exam.json`：考科設定、場次、科目與單元索引。
+  - `data/blocks.json`：整合考學期分區與器官系統 Block 藍圖設定檔。
+  - `data/exams/<slug>/exam.json`：考科與所屬 Block 設定、場次、科目與單元索引。
   - `data/exams/<slug>/units/<unitCode>.json`：依共筆單元分檔（每檔約 9–124 KB），修改單題或勘誤不需載入全體題庫。
   - `data/exams/<slug>/images/*.jpg`：從 base64 抽離並以 SHA-256 去重的圖片資產。
 - **完整共筆與參考資料匯入工作流 (`backend/ingestion/` & `scripts/ingest.py`)**：
@@ -30,12 +34,14 @@
 │   ├── schemas.py            # Pydantic v2 資料模型
 │   ├── queries.py            # 題庫查詢與篩選邏輯
 │   ├── sync_data.py          # JSON -> SQLite 增量同步引擎
+│   ├── blocks.py             # 整合考系統 Block 目錄彙整引擎
 │   ├── offline_builder.py    # 單檔離線互動 HTML 建置器
 │   ├── ingestion/            # 共筆萃取 (extractors)、剖析去重 (parser)、提交流程 (pipeline)
-│   └── routers/              # API 路由 (exams / questions / progress / export)
+│   └── routers/              # API 路由 (blocks / exams / questions / progress / export)
 ├── frontend/                 # 原生 ES Modules 前端（支援 FastAPI、GitHub Pages 靜態模式與單檔離線模式）
 ├── data/
-│   ├── schema/               # exam.schema.json / unit.schema.json
+│   ├── blocks.json           # 整合考年級學期與系統 Block 總覽目錄
+│   ├── schema/               # blocks.schema.json / exam.schema.json / unit.schema.json
 │   └── exams/cmu-int2-msk/   # 骨骼肌肉系統 22 單元 JSON 與 9 張圖片
 ├── scripts/
 │   ├── ingest.py             # 共筆／PDF／NotebookLM 統一匯入工作流 CLI
@@ -80,8 +86,8 @@ python scripts/build_static_site.py --out dist/site
 ## 從新共筆或參考資料匯入題目
 
 ```bash
-# 建立全新考科（選用）
-python scripts/ingest.py init-exam cmu-int3-neuro --title "大三第三次整合考：神經系統"
+# 建立全新考科（可一併指定系統 Block 歸屬）
+python scripts/ingest.py init-exam cmu-int4-neuro --title "三上第四次整合考：神經與感官系統" --block-term y3-s1 --block-exam-label "第四次整合考" --block-name "神經與感官系統" --block-icon "🧠" --block-order 4
 
 # 從 PDF 共筆萃取純文字與內嵌圖片，並產出待審草稿（存於 data/staging/）
 python scripts/ingest.py extract-pdf ./notes/neuro_ch1.pdf --exam cmu-int2-msk --unit 1014_Physio1 --extract-images --parse-mcq

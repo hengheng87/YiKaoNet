@@ -1,0 +1,68 @@
+{
+  "version": "1.0.0",
+  "title": "易考網 YiKao 整合考系統題庫",
+  "subtitle": "依年級學期與器官系統 Block 分類，點選系統即可進入共筆單元作題畫面",
+  "terms": [
+    {
+      "code": "y3-s1",
+      "label": "大三上學期整合考",
+      "shortLabel": "大三上",
+      "description": "器官系統整合課程起點：基礎醫學原理、骨骼肌肉系統與大三上整合考區塊",
+      "order": 1
+    }
+  ],
+  "blocks": [
+    {
+      "slug": "cmu-int1-foundations",
+      "term": "y3-s1",
+      "examLabel": "第一次整合考",
+      "name": "基礎醫學概論",
+      "englishName": "Foundations & General Principles",
+      "icon": "🧬",
+      "accent": "blue",
+      "order": 1,
+      "description": "細胞生理、細胞損傷與遺傳病理、藥物動力學與藥效學、臨床診斷與精準醫學。",
+      "subjectsPreview": ["生理學", "病理學", "藥理學", "臨床診斷學"],
+      "sourceHint": "對應知識庫：大三整合1"
+    },
+    {
+      "slug": "cmu-int2-msk",
+      "term": "y3-s1",
+      "examLabel": "第二次整合考",
+      "name": "骨骼肌肉系統",
+      "englishName": "Musculoskeletal System",
+      "icon": "🦴",
+      "accent": "indigo",
+      "order": 2,
+      "description": "肌肉生理、自主神經與突觸、腫瘤學、骨關節病理、軟骨與肌肉組織、ANS 藥理、骨科與臨診理學。",
+      "subjectsPreview": ["生理學", "病理學", "組織學", "藥理學", "外科學概論", "臨床診斷學"],
+      "sourceHint": "對應知識庫：大三整合2"
+    },
+    {
+      "slug": "cmu-int3-hema-imm",
+      "term": "y3-s1",
+      "examLabel": "第三次整合考",
+      "name": "血液與免疫系統",
+      "englishName": "Hematology & Immunology",
+      "icon": "🩸",
+      "accent": "rose",
+      "order": 3,
+      "description": "造血與紅白血球疾病、凝血機轉、過敏與自體免疫、免疫藥理與血液臨床診斷（可於 data/blocks.json 依課表微調）。",
+      "subjectsPreview": ["生理學", "病理學", "免疫學", "藥理學", "臨床診斷學"],
+      "sourceHint": "尚未匯入共筆題庫"
+    },
+    {
+      "slug": "cmu-int4-neuro",
+      "term": "y3-s1",
+      "examLabel": "第四次整合考",
+      "name": "神經與感官系統",
+      "englishName": "Nervous & Sensory Systems",
+      "icon": "🧠",
+      "accent": "amber",
+      "order": 4,
+      "description": "中樞與周邊神經解剖與電生理、神經退化與中風病理、中樞作用藥理與神經評估（可於 data/blocks.json 依課表微調）。",
+      "subjectsPreview": ["神經解剖", "生理學", "病理學", "藥理學", "臨床診斷學"],
+      "sourceHint": "尚未匯入共筆題庫"
+    }
+  ]
+}
