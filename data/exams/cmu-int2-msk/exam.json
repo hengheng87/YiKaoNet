@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "badge": "CMU Musculoskeletal System",
   "title": "三上第二次整合考：骨骼肌肉系統全收錄互動題庫",
-  "subtitle": "整合「大三整合2 知識庫」18 份 M67×CM59 共筆考古題、M65 試題合輯與歷屆申覆勘誤解析（第一節 A 卷 80 題配分 ｜ 第二節 B 卷 76 題配分）",
+  "subtitle": "整合「大三整合2 知識庫」19 份 M67×CM59 共筆考古題、M65 試題合輯、M67 共筆重點擴充與歷屆申覆勘誤解析（第一節 A 卷 80 題配分 ｜ 第二節 B 卷 76 題配分）",
   "source": {
     "name": "大三整合2 知識庫",
     "url": "https://notebook.google.com/notebook/01b3322a-9c0a-498f-91ce-4c29f24657f5",
@@ -99,6 +99,10 @@
     {
       "code": "Robbins",
       "label": "📘 大R題庫 Ch.7 擴充原題"
+    },
+    {
+      "code": "M67_Note",
+      "label": "✨ M67 共筆考點擴充題"
     }
   ],
   "units": [

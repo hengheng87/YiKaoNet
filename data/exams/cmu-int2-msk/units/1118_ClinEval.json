@@ -5,7 +5,7 @@
   "subject": "ClinDiag",
   "subjectTitle": "臨床診斷學 (一)",
   "prof": "郭書瑞 醫師",
-  "examRange": "B卷 Q69–76（8題）",
+  "examRange": "B卷 Q69–76（8題配分｜依 11/18 M67×CM59 共筆擴充共 28 題）",
   "unitUrl": "https://drive.google.com/file/d/1p1AXCaRfuGQYeTNoFBX_42Tl-JHT1CxK",
   "questions": [
     {
@@ -13,7 +13,7 @@
       "globalIndex": 540,
       "qNum": 15,
       "origQ": "Q15",
-      "year": "114 學年度",
+      "year": "114 / 113 學年度",
       "yearGroup": "114",
       "hasErrata": false,
       "isCrossDup": false,
@@ -31,7 +31,7 @@
       ],
       "answerDisplay": "(B)",
       "explanations": [
-        "📘 **【核心臨床診斷考點：腰椎椎間盤突出（HIVD）神經根壓迫定位】**：小腿內側（medial leg）與內踝（medial malleolus）感覺麻木屬於 **L4 皮節（dermatome）**。腰椎椎間盤突出壓迫神經根遵循：**① 後外側突出（Posterolateral HIVD）**壓迫「往下走準備從下一節出去的**下行神經根（traversing root）**」（如 L4–L5 posterolateral 壓迫 **L5**）；**② 椎間孔／椎間孔外突出（Foraminal & Extra-foraminal / Far lateral HIVD）**壓迫「正在該節水平出去的**穿出神經根（exiting root）**」（如 **L4–L5 foraminal & extra-foraminal 壓迫 L4**）。",
+        "📘 **【核心臨床診斷考點：腰椎椎間盤突出（HIVD）神經根壓迫定位】**：小腿內側（medial leg）與內踝（medial malleolus）感覺麻木屬於 **L4 皮節（dermatome）**。腰椎椎間盤突出壓迫神經根遵循：**① 後外側突出（Posterolateral HIVD）**壓迫「往下走準備從下一節出去的**下行神經根（traversing root）**」（如 L4–L5 posterolateral 壓迫 **L5**）；**② 椎間孔／椎間孔外突出（Foraminal & Extra-foraminal / Far lateral HIVD）**壓迫「正在該節水平出去的**穿出神經根（exiting root）**」（如 **L4–L5 foraminal & extra-foraminal 壓迫 L4**）。（註：依 11/18 M67×CM59 共筆，114 Q1 與 113 Q16 題幹曾印刷為 `left` 而選項皆為 `Right`，核定參考答案仍為 **(B)**。）",
         "**(B) 正確【本題應選正解】**：`Right L4L5 foraminal & extra-foraminal HIVD` —— 小腿內側（medial leg）與內踝（medial malleolus）的感覺支配屬於 **右側 L4 神經根（L4 dermatome）**！在腰椎 L4–L5 節段中，**椎間孔／椎間孔外（foraminal & extra-foraminal / far lateral）椎間盤突出**會直接壓迫從 L4–L5 椎間孔穿出的**上位神經根（exiting root = Right L4 root）**，因此會造成右側小腿內側與內踝麻木！",
         "**(A) 錯誤**：`Right L5S1 foraminal & extra-foraminal HIVD` —— **L5–S1 椎間孔／孔外突出（foraminal & extra-foraminal HIVD）**壓迫的是穿出的 **L5 神經根**，而非 L4 神經根。",
         "**(C) 錯誤**：`Right L3L4 foraminal & extra-foraminal HIVD` —— **L3–L4 椎間孔／孔外突出（foraminal & extra-foraminal HIVD）**壓迫的是穿出的 **L3 神經根**（大腿遠端與膝蓋前內側），而非 L4。",
@@ -138,10 +138,10 @@
       "id": "1118_ClinEval-19",
       "globalIndex": 544,
       "qNum": 19,
-      "origQ": "Q19",
+      "origQ": "Q19 (113 Q9)",
       "year": "113 學年度",
       "yearGroup": "113",
-      "hasErrata": false,
+      "hasErrata": true,
       "isCrossDup": false,
       "stem": "How many statements belong to the \"capsular pattern\"? ⚫ Shoulder: active ROM (range of motion) deficit lateral rotation > abduction > medial rotation\n⚫ Hip: active ROM deficit flexion > extension\n⚫ Knee: active ROM deficit flexion > extension",
       "image": null,
@@ -151,25 +151,25 @@
         "C": "2",
         "D": "3"
       },
-      "answer": "C",
+      "answer": "A",
       "acceptedAnswers": [
-        "C"
+        "A"
       ],
-      "answerDisplay": "(C)",
+      "answerDisplay": "(A)（依 11/18 M67×CM59 共筆勘誤：三項皆寫 active ROM，故為 0 項）",
       "explanations": [
-        "📘 **【核心臨床診斷考點：Cyriax 關節囊型受限模式（Capsular Pattern）】**：當整個關節囊發炎或纖維化（如冰凍肩、退化性關節炎）時，各方向活動度受限會呈現固定比例：**① 肩關節（Shoulder）**：**外轉（lateral rotation）> 外展（abduction）> 內轉（medial rotation）**；**② 膝關節（Knee）**：**屈曲（flexion）> 伸直（extension）**；**③ 髖關節（Hip）**：典型為 **內轉（internal rotation）與屈曲／外展受限明顯大於伸直**（另本題題幹寫為 `active ROM`，嚴格定義上 Cyriax 關節囊型受限是以**被動關節活動度 passive ROM** 評估；依授課投影片答案核定為 **2 項**）。",
-        "**(C) 正確【本題應選正解】**：`2` —— 依據本堂理學檢查授課講義核定標準答案為 **(C) 2 項**（對應肩關節 `lateral rotation > abduction > medial rotation` 與膝關節 `flexion > extension` 的經典受限順序比例；而髖關節典型關節囊型受限應為內轉與屈曲／外展明顯受限，且嚴格而言關節囊型受限應以被動活動度 passive ROM 測試）。",
-        "**(A) 錯誤**：`0` —— 依授課投影片對三大關節 Capsular pattern 受限順序比對，符合題述固定比例者為 **2 項**（Shoulder 與 Knee；Hip 順序不符，故選 2）。",
-        "**(B) 錯誤**：`1` —— 依授課投影片對三大關節 Capsular pattern 受限順序比對，符合題述固定比例者為 **2 項**（Shoulder 與 Knee；Hip 順序不符，故選 2）。",
-        "**(D) 錯誤**：`3` —— 依授課投影片對三大關節 Capsular pattern 受限順序比對，符合題述固定比例者為 **2 項**（Shoulder 與 Knee；Hip 順序不符，故選 2）。"
+        "📘 **【核心臨床診斷考點：Cyriax 關節囊型受限模式（Capsular Pattern）必考陷阱——被動 vs 主動 ROM】**：依 11/18 M67×CM59 共筆（P.3、P.16–17、P.43、P.52 參考答案）強調：**關節囊屬於非收縮性組織（non-contractile tissue），Capsular pattern 必須以「被動關節活動度（Passive ROM）」評估；若敘述寫成 `active ROM`，則因同時混入肌肉收縮而不具鑑別診斷價值，屬於錯誤敘述！** 各關節正確之 Passive ROM 受限順序為：Shoulder（ER > abduction > IR）、Elbow & Knee（flexion > extension）、Hip（IR earliest, flexion, abduction）。",
+        "**(A) 正確【本題應選正解（依 11/18 共筆勘誤）】**：`0` —— 題目所列 3 個關節敘述全部錯寫為 **`active ROM`**（而非評估非收縮性關節囊的 **`passive ROM`**），且 Hip 在課程標準中亦多強調內轉 IR 最早受限／flexion 與 abduction 順序，故屬於正確 Capsular pattern 敘述者共有 **0 項**（共筆 113 Q9 參考答案核定為 **(A)**）。",
+        "**(B) 錯誤**：`1` —— 3 項敘述全部寫成 `active ROM` 而非 `passive ROM`，無任何一項成立（應為 0 項）。",
+        "**(C) 錯誤**：`2` —— 若僅看 Shoulder (`lateral rotation > abduction > medial rotation`) 與 Knee (`flexion > extension`) 比例易誤選 2，但題幹兩者皆故意改寫為 `active ROM`，依共筆 P.17「選項若寫 Active movement 則錯誤」原則應選 **0**。",
+        "**(D) 錯誤**：`3` —— 3 項全部錯寫為 `active ROM`，正確數量應為 **0 項**。"
       ]
     },
     {
       "id": "1118_ClinEval-20",
       "globalIndex": 545,
       "qNum": 20,
-      "origQ": "Q20",
-      "year": "113 學年度",
+      "origQ": "Q20 (114 Q5 / 113 Q13)",
+      "year": "114 / 113 學年度",
       "yearGroup": "113",
       "hasErrata": false,
       "isCrossDup": false,
@@ -187,7 +187,7 @@
       ],
       "answerDisplay": "(D)",
       "explanations": [
-        "📘 **【核心臨床診斷考點：OK Sign 陽性（Kiloh-Nevin Sign）與前骨間神經（AIN）損傷】**：正常比出 OK 手勢需要**拇指指間關節（IP joint）屈曲（由長屈拇肌 FPL 控制）**與**食指遠端指間關節（DIP joint）屈曲（由食指深屈指肌 FDP 控制）**。這兩條肌肉皆由正中神經（Median nerve）分出的純運動支——**前骨間神經（Anterior interosseous nerve, AIN）**支配！AIN 受損時，患者比 OK 會無法彎曲這兩節而呈現「捏紙夾平」的陽性徵象。",
+        "📘 **【核心臨床診斷考點：OK Sign 陽性（Kiloh-Nevin Sign）與前骨間神經（AIN）損傷】**：正常比出 OK 手勢需要**拇指指間關節（IP joint）屈曲（由長屈拇肌 FPL 控制）**與**食指遠端指間關節（DIP joint）屈曲（由食指深屈指肌 FDP 控制）**。這兩條肌肉皆由正中神經（Median nerve）分出的純運動支——**前骨間神經（Anterior interosseous nerve, AIN）**支配！AIN 受損時，患者比 OK 會無法彎曲這兩節而呈現「捏紙夾平」的陽性徵象。（註：本題亦於 114 Q5 再次原題重出，11/18 課前重點亦特別點名。）",
         "**(D) 正確【本題應選正解】**：`Failure of index DIP joint and thumb IP joint flexion, anterior interosseous nerve injury` —— **OK sign 陽性（Kiloh-Nevin sign）**是指**前骨間神經（Anterior interosseous nerve, AIN，正中神經純運動分支）受損**，導致其支配的**食指深屈指肌（FDP to index -> 無法彎曲食指遠端指間關節 DIP joint）**與**長屈拇肌（FPL -> 無法彎曲拇指指間關節 IP joint）**無力，無法做出圓形 OK 手勢！",
         "**(A) 錯誤**：`Failure of index PIP joint and thumb basal joint flexion, ulnar nerve injury` —— OK sign 測試的是最遠端關節的屈曲能力：食指 **DIP joint**（非 PIP joint）與拇指 **IP joint**（非 basal/CMC joint）！",
         "**(B) 錯誤**：`Failure of index DIP joint and thumb IP joint flexion, ulnar nerve injury` —— 支配食指 FDP（DIP 屈曲）與拇指 FPL（IP 屈曲）的是正中神經分支**前骨間神經（Anterior interosseous nerve）**，而非尺神經（Ulnar nerve；尺神經受損會出現 Froment's sign 陽性）。",
@@ -228,8 +228,8 @@
       "id": "1118_ClinEval-22",
       "globalIndex": 547,
       "qNum": 22,
-      "origQ": "Q22",
-      "year": "113 學年度",
+      "origQ": "Q22 (114 Q7 / 113 Q15)",
+      "year": "114 / 113 學年度",
       "yearGroup": "113",
       "hasErrata": false,
       "isCrossDup": false,
@@ -247,11 +247,626 @@
       ],
       "answerDisplay": "(B)",
       "explanations": [
-        "📘 **【核心臨床診斷考點：肢體牽涉痛（Limb Referred Pain）四大臨床特徵】**：源於脊椎小面關節、椎間盤或深層肌肉的牽涉痛具有兩大特徵：**① 節段性分布（Segmental，沿皮節或骨節 sclerotome 分佈）**與 **② 向遠端傳導方向（Distal direction，由近端向肢體遠端放射）**；相對地，牽涉痛**不會隨意轉移位置（not shifting）**，且**不會跨越身體中線（does not cross midline）**。",
-        "**(B) 正確【本題應選正解】**：`2` —— 肢體牽涉痛（Limb referred pain）的 4 項敘述中有 **2 項為真**：**Segmental（呈皮節／骨節節段性分佈）✓** 與 **Distal direction（由近端向遠端放射）✓**；而牽涉痛**不會隨意遊走轉移（not shifting ✗）**，也**不會跨越身體中線（does not cross midline ✗）**，故選 (B) 2。",
-        "**(A) 錯誤**：`1` —— 肢體牽涉痛僅具 **Segmental** 與 **Distal direction** 兩項特徵，不會 Shifting 亦不會 Cross midline，故正確數為 **2**。",
+        "📘 **【核心臨床診斷考點：肢體牽涉痛（Limb Referred Pain）四大臨床特徵】**：源於脊椎小面關節、椎間盤或深層肌肉的牽涉痛具有三大原則：**① 節段性分布（Segmental，沿皮節或骨節 sclerotome 分佈）**、**② 向遠端傳導方向（Distal direction，由近端向肢體遠端放射）**、**③ 不跨越身體中線（Not cross midline）**；相對地，牽涉痛**不會隨意遊走轉移位置（not shifting）**。（註：本題亦於 114 Q7 原題重出，11/18 課末重點二亦再次點名。）",
+        "**(B) 正確【本題應選正解】**：`2` —— 肢體牽涉痛（Limb referred pain）的 4 項敘述中有 **2 項為真**：**Segmental（呈皮節／骨節節段性分佈）✓** 與 **Distal direction（由近端向遠端放射）✓**；而牽涉痛**不會隨意遊走轉移（not shifting ✗）**，也**不會跨越身體中線（not cross midline ✗）**，故選 (B) 2。",
+        "**(A) 錯誤**：`1` —— 肢體牽涉痛具 **Segmental** 與 **Distal direction** 兩項特徵，不會 Shifting 亦不會 Cross midline，故正確數為 **2**。",
         "**(C) 錯誤**：`3` —— 肢體牽涉痛僅具 **Segmental** 與 **Distal direction** 兩項特徵，不會 Shifting 亦不會 Cross midline，故正確數為 **2**。",
         "**(D) 錯誤**：`4` —— 肢體牽涉痛僅具 **Segmental** 與 **Distal direction** 兩項特徵，不會 Shifting 亦不會 Cross midline，故正確數為 **2**。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-23",
+      "globalIndex": 548,
+      "qNum": 23,
+      "origQ": "114 Q6",
+      "year": "114 學年度",
+      "yearGroup": "114",
+      "hasErrata": true,
+      "isCrossDup": false,
+      "stem": "How many statements are true regarding crystal-induced arthritis (Monosodium urate vs. Calcium pyrophosphate dihydrate)?\n⚫ Shape: MSU = Needle shaped ｜ CPPD = Rhomboid shaped\n⚫ Birefringence sign: MSU = Negative ｜ CPPD = Positive\n⚫ Birefringence intensity: MSU = Strong ｜ CPPD = Weak",
+      "image": null,
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerDisplay": "送分（四項結晶特徵皆真，原卷選項僅列 0–3 無 4，核定送分）",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：關節液結晶比較（114 Q6 歷史送分題解析）】**：痛風之**單鈉尿酸鹽結晶（MSU）**為**針狀（Needle shaped）、強（Strong）負偏光／負雙折射（Negative birefringence）**；假性痛風之**二水焦磷酸鈣結晶（CPPD）**為**菱形（Rhomboid shaped）、弱（Weak）正偏光／正雙折射（Positive birefringence）**。",
+        "⚠️ **【申覆／送分說明】**：依 11/18 M67×CM59 共筆（P.42、P.52 參考答案），114 年考題表格中「形狀、正負雙折射性、MSU 強度、CPPD 強度」**所有敘述皆正確**（依前一年標準應為 4 項皆真），但當年考卷選項卻只給 `A. 0 / B. 1 / C. 2 / D. 3`、漏列 `4`，導致無法選出正確計數，最終官方判定**全體送分**！",
+        "**(D) / 送分參考**：`3` —— 若將題表視為 Shape、Birefringence sign、Birefringence intensity **3 大列特徵**則全 3 列皆正確；若如 113/111 學年度將「形狀(共1)＋雙折射(共1)＋MSU強＋CPPD弱」拆為 **4 項**則原選項缺 4，故本題 4 個選項均給分。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-24",
+      "globalIndex": 549,
+      "qNum": 24,
+      "origQ": "114 Q8 / 112 Q24 / 111 Q32",
+      "year": "114 / 112 / 111 學年度",
+      "yearGroup": "114",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "What are the most possible respective causes of knee locking and giving way sensation for 15 / 25 / >65 years old patients?",
+      "image": null,
+      "options": {
+        "A": "Osteochondritis dissecans/torn meniscus/loose body",
+        "B": "Loose body/osteochondritis dissecans/torn meniscus",
+        "C": "Torn meniscus/osteochondritis dissecans/loose body",
+        "D": "Torn meniscus/loose body/osteochondritis dissecans"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：依年齡鑑別膝關節卡鎖（Locking）與無力（Giving way）病因】**：共筆 P.5–6 重點強調不同年齡層出現膝關節異物卡鎖與軟腳的三大代表病因：**① 15 歲青少年**：生長期軟骨下骨血液循環脆弱加上反覆微創傷 → **剝離性骨軟骨炎（Osteochondritis dissecans, OCD）**；**② 25 歲青壯年**：高強度運動承受軸向壓力伴隨扭轉剪力 → **半月板撕裂（Torn meniscus）**；**③ >65 歲長者**：退化性關節炎軟骨磨損與骨贅剝落 → **關節內游離體（Loose body）**。",
+        "**(A) 正確【本題應選正解】**：`Osteochondritis dissecans/torn meniscus/loose body` —— 完全對應 **15 歲（OCD）→ 25 歲（半月板破裂）→ >65 歲（退化性游離體）** 的年齡序列！",
+        "**(B) 錯誤**：`Loose body/osteochondritis dissecans/torn meniscus` —— **Loose body** 好發於 **>65 歲**退化性關節炎長者，而非 15 歲青少年。",
+        "**(C) 錯誤**：`Torn meniscus/osteochondritis dissecans/loose body` —— 15 歲與 25 歲病因顛倒：15 歲青少年首重 **Osteochondritis dissecans**，25 歲運動員則好發 **Torn meniscus**。",
+        "**(D) 錯誤**：`Torn meniscus/loose body/osteochondritis dissecans` —— 三個年齡對應順序皆不正確（OCD 應在 15 歲，Loose body 應在 >65 歲）。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-25",
+      "globalIndex": 550,
+      "qNum": 25,
+      "origQ": "113 Q10",
+      "year": "113 學年度",
+      "yearGroup": "113",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many items belong to the \"pathologic end feel\"? ⚫ Tissue stretch\n⚫ Springy block\n⚫ Empty\n⚫ Spasticity",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：終末感覺（End Feel）4 項目變體】**：生理性正常終末感覺為 `Bone-to-bone`、`Soft tissue approximation`、`Tissue stretch` 三種；病理性終末感覺為 `Muscle spasm`、`Spasticity`、`Capsular`、`Bone-to-bone (osteophyte)`、`Empty`、`Springy block`。",
+        "**(C) 正確【本題應選正解】**：`3` —— 題列 4 個項目中，**Springy block**（如半月板卡住彈回感）、**Empty**（劇痛致尚未碰到組織阻力即主動停止）、**Spasticity**（上運動神經元痙攣性阻力）皆為**病理性終末感覺（共 3 項）**；僅 `Tissue stretch` 為正常生理性終末感覺。",
+        "**(A) 錯誤**：`1` —— `Springy block`、`Empty`、`Spasticity` 三項皆屬病理性 end feel（應選 3）。",
+        "**(B) 錯誤**：`2` —— 僅排除 `Tissue stretch` 一項正常表現，其餘 **3 項**均為病理性 end feel。",
+        "**(D) 錯誤**：`4` —— `Tissue stretch` 為正常生理關節囊／軟組織延展彈性，不屬於病理性 end feel（故非 4 項）。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-26",
+      "globalIndex": 551,
+      "qNum": 26,
+      "origQ": "112 Q17 / 111 Q25",
+      "year": "112 / 111 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many statements belong to the \"capsular pattern\"? ⚫ Shoulder: passive ROM (range of motion) deficit lateral rotation > adduction > medial rotation\n⚫ Elbow: active ROM deficit flexion > extension\n⚫ Hip: passive ROM deficit flexion > extension\n⚫ Knee: active ROM deficit flexion > extension",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：Capsular Pattern 雙重陷阱（Abduction vs Adduction、Passive vs Active）】**：依共筆 P.16–17 提醒本題兩大高頻陷阱：**① 必須為 `Passive ROM`**（寫 `Active ROM` 一律判錯）；**② 肩關節次嚴重的動作為 `Abduction（外展）`**，題幹常故意改字為 `Adduction（內收）`。",
+        "**(A) 正確【本題應選正解】**：`1` —— 四項敘述逐一檢驗：**① Shoulder** 雖寫 passive ROM，但將 `abduction` 偷改為 **`adduction`** ❌；**② Elbow** 錯寫為 **`active ROM`** ❌；**③ Hip** 寫 **`passive ROM deficit flexion > extension`**（於 112/111 原題與核定答案中計為正確 ✅，註：最新 M67 課堂亦強調 Hip 最早受限為 IR）；**④ Knee** 錯寫為 **`active ROM`** ❌。故共計 **1 項**成立（參考答案 **(A)**）。",
+        "**(B) 錯誤**：`2` —— 常見誤選是沒看出肩關節把 `abduction` 寫成 **`adduction`**，或漏看 Knee 寫成 **`active ROM`**。",
+        "**(C) 錯誤**：`3` —— Elbow 與 Knee 皆寫成 **`active ROM`**，不符合 Capsular pattern 被動測試原則。",
+        "**(D) 錯誤**：`4` —— 肩關節寫成 `adduction` 且肘、膝關節寫成 `active ROM`，三項皆有陷阱謬誤。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-27",
+      "globalIndex": 552,
+      "qNum": 27,
+      "origQ": "112 Q18",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many statements are true?\n⚫ Limb referred pain 的特色：not cross midline, segmental, proximal direction\n⚫ 看到 Café au lait spot 需要想 neurofibromatosis type II 與 McCune-Albright syndrome\n⚫ Lumbar nerve root 跟 lumbar pedicle 之間為 mismatch\n⚫ Spurling's test 用來評估是否有 cervical myelopathy",
+      "image": null,
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：骨科問診與理學檢查綜合觀念辨析】**：本題四項敘述各埋有一處經典相反詞錯誤（Distal vs Proximal、NF1 vs NF2、Match vs Mismatch、Radiculopathy vs Myelopathy）。",
+        "**(A) 正確【本題應選正解】**：`0` —— 四項敘述**全數錯誤（正確 0 項）**：① **Limb referred pain** 應為由近端向遠端的 **`distal direction`**（非 `proximal direction`）；② 看到 **Café au lait spot（咖啡牛奶斑）** 應聯想 **`Neurofibromatosis type I (NF1)`** 與 McCune-Albright syndrome（骨纖維發育不良＋咖啡牛奶斑＋性早熟），而非 `type II`；③ 脊椎 **pedicle 與 nerve root 對應關係**：頸椎為 `mismatch`，而 **腰椎（Lumbar spine）因神經垂直下行走向屬於 `match`**（L5 神經根走於 L5 椎根下方）；④ **Spurling's test** 用於評估 **`cervical radiculopathy`（頸神經根病變）**，評估 **`cervical myelopathy`（頸脊髓壓迫）** 高敏感檢查應為 **`Hoffman's test`**！",
+        "**(B) 錯誤**：`1` —— 四項敘述皆各自竄改了一個關鍵詞（proximal／type II／mismatch／myelopathy），無一正確。",
+        "**(C) 錯誤**：`2` —— 四項敘述全錯，正確項目數為 **0**。",
+        "**(D) 錯誤**：`3` —— 四項敘述全錯，正確項目數為 **0**。",
+        "**(E) 錯誤**：`4` —— 四項敘述全錯，正確項目數為 **0**。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-28",
+      "globalIndex": 553,
+      "qNum": 28,
+      "origQ": "112 Q19",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many descriptions are correct about upper limb dermatome? ⚫ C5: lateral shoulder\n⚫ C6: medial forearm, dorsum of thumb and index finger\n⚫ C7: dorsum of middle finger\n⚫ C8: dorsum of ring and small finger\n⚫ T1: lateral forearm",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：上肢皮節內外側對調陷阱（C6 vs T1）】**：在標準解剖姿勢（掌心朝前，拇指在**外側／橈側**、小指在**內側／尺側**）中，**C6 走前臂「外側」（lateral forearm，至拇指與食指背側）**，而 **T1 走前臂「內側」（medial forearm）**。",
+        "**(C) 正確【本題應選正解】**：`3` —— 題列 5 項中共有 **3 項正確**：**C5（lateral shoulder）✓**、**C7（dorsum of middle finger）✓**、**C8（dorsum of ring and small finger）✓**；而題幹將 **C6** 誤寫為 `medial forearm`（應為 `lateral forearm` ❌），並將 **T1** 誤寫為 `lateral forearm`（應為 `medial forearm` ❌），故選 **(C) 3**。",
+        "**(A) 錯誤**：`1` —— C5、C7、C8 三項皆正確（共 3 項）。",
+        "**(B) 錯誤**：`2` —— C5、C7、C8 三項皆正確（共 3 項）。",
+        "**(D) 錯誤**：`4` —— C6 與 T1 的內／外側敘述雙雙對調錯誤，僅餘 3 項正確。",
+        "**(E) 錯誤**：`5` —— C6（應為 lateral forearm）與 T1（應為 medial forearm）皆被調換寫錯。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-29",
+      "globalIndex": 554,
+      "qNum": 29,
+      "origQ": "112 Q20",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many descriptions are correct about lower limb dermatome? ⚫ L2: anterior mid-thigh\n⚫ L3: medial leg, medial malleolus\n⚫ L4: anterior knee\n⚫ L5: lateral leg, lateral dorsum foot\n⚫ S1: distal calf, medial plantar foot",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：下肢皮節 L2–S1 錯位陷阱版】**：標準分佈由上往下為：**L2（大腿前中段 anterior mid-thigh）→ L3（膝前側 anterior knee）→ L4（小腿內側、內踝 medial leg & medial malleolus）→ L5（小腿外側、足背中央與內側）→ S1（小腿遠端後側、足底外側緣 lateral plantar foot）**。",
+        "**(A) 正確【本題應選正解】**：`1` —— 僅 **L2（anterior mid-thigh）** 一項正確 ✅！**L3** 與 **L4** 的描述互相對調（anterior knee 屬 L3、medial leg & medial malleolus 屬 L4 ❌），**L5** 應為足背內側／大腳趾而非 `lateral dorsum foot` ❌，**S1** 應為 `lateral plantar foot` 而非 `medial plantar foot` ❌。故正確項數僅為 **1 項**。",
+        "**(B) 錯誤**：`2` —— L3 與 L4 已對調，L5 與 S1 亦寫錯內外側，僅 L2 正確。",
+        "**(C) 錯誤**：`3` —— 與 114/113 年版不同，本題將 L3（應為膝前側）與 L4（應為內踝）也一併對調，故由 3 項降為 **1 項**。",
+        "**(D) 錯誤**：`4` —— 僅 L2 正確（應為 1 項）。",
+        "**(E) 錯誤**：`5` —— 僅 L2 正確（應為 1 項）。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-30",
+      "globalIndex": 555,
+      "qNum": 30,
+      "origQ": "112 Q21 / 111 Q29",
+      "year": "112 / 111 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "What is Froment's sign positive?",
+      "image": null,
+      "options": {
+        "A": "Try to grasp a piece of paper between 1/2 finger, examiner then pulls the paper away => Thumb IP joint flexion. Ulnar nerve lesion.",
+        "B": "Try to grasp a piece of paper between 1/2 finger, examiner then pulls the paper away => Thumb IP adduction flexion. Ulnar nerve lesion.",
+        "C": "Try to grasp a piece of paper between 1/2 finger, examiner then pulls the paper away => Thumb IP joint flexion. Median nerve lesion.",
+        "D": "Try to grasp a piece of paper between 1/2 finger, examiner then pulls the paper away => Thumb IP adduction flexion. Median nerve lesion."
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：Froment's Sign 陽性機制與尺神經（Ulnar nerve）損傷】**：檢查方式為請病人用第 1 指（拇指）與第 2 指（食指）夾住一張紙並抵抗抽拉。正常時使用**內收拇肌（Adductor pollicis，由尺神經深枝支配）**將拇指內收壓緊；當**尺神經受損**導致內收拇肌無力時，患者會代償性改用**長屈拇肌（FPL，由正中神經之 AIN 支配）**大力彎曲**拇指指間關節（Thumb IP joint flexion）**來把紙「捏」住，即為 Froment's sign 陽性。",
+        "**(A) 正確【本題應選正解】**：`Try to grasp a piece of paper between 1/2 finger, examiner then pulls the paper away => Thumb IP joint flexion. Ulnar nerve lesion.` —— 精準描述因**尺神經損傷（Ulnar nerve lesion）**導致內收拇肌無力，進而出現代償性**拇指 IP 關節屈曲（Thumb IP joint flexion）**之陽性徵象！",
+        "**(B) 錯誤**：`...Thumb IP adduction flexion. Ulnar nerve lesion.` —— 指間關節（IP joint）僅有單軸屈曲／伸直活動，正常是用 CMC 關節「內收」紙張，陽性代償則是單純「Thumb IP joint flexion」（IP 關節不存在 adduction flexion）。",
+        "**(C) 錯誤**：`...Thumb IP joint flexion. Median nerve lesion.` —— **Median nerve（AIN）損傷**時是無法彎曲拇指 IP 關節與食指 DIP（表現為 **OK sign 陽性**）；**Froment's sign 陽性**對應的是**尺神經損傷（Ulnar nerve lesion）**。",
+        "**(D) 錯誤**：`...Thumb IP adduction flexion. Median nerve lesion.` —— 動作機制（「IP adduction flexion」有誤）與受傷神經（「Median nerve」有誤）皆錯誤。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-31",
+      "globalIndex": 556,
+      "qNum": 31,
+      "origQ": "112 Q22",
+      "year": "112 學年度",
+      "yearGroup": "112",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many statements are true regarding crystal-induced arthritis (Monosodium urate vs. Calcium pyrophosphate dihydrate)?\n⚫ Shape: MSU = Needle shaped ｜ CPPD = Rhomboid shaped\n⚫ Birefringence: MSU = Positive ｜ CPPD = Negative\n⚫ MSU Birefringence intensity = Weak\n⚫ CPPD Birefringence intensity = Strong",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：痛風（MSU）vs. 假性痛風（CPPD）雙重顛倒版】**：記住核心口訣：**「痛風針（Needle）強（Strong）負（Negative）；假痛菱（Rhomboid）弱（Weak）正（Positive）」**。",
+        "**(A) 正確【本題應選正解】**：`1` —— 本題僅第 1 項結晶形狀（MSU 針狀、CPPD 菱形）**正確 ✅**；其餘正負偏光（MSU 誤寫 Positive、CPPD 誤寫 Negative ❌）與雙折射強度（MSU 誤寫 Weak、CPPD 誤寫 Strong ❌）皆全部顛倒，故共有 **1 項**為真。",
+        "**(B) 錯誤**：`2` —— 本題雙折射「正負性」與「強弱」兩類皆已互換寫反，僅剩 Shape 正確（111 Q30 才是由 2 項正確）。",
+        "**(C) 錯誤**：`3` —— 雙折射正負性與強弱皆寫反（正確僅 1 項）。",
+        "**(D) 錯誤**：`4` —— 雙折射正負性與強弱皆寫反（正確僅 1 項）。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-32",
+      "globalIndex": 557,
+      "qNum": 32,
+      "origQ": "111 Q26",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many statements are true concerning cauda equina syndrome?\n⚫ 約 2% lumbar disk herniation 會導致 cauda equina syndrome\n⚫ 建議 24 小時內緊急手術：90% 的病人在接受緊急手術減壓治療後，下肢無力跟失禁症狀可在 6 個月內恢復\n⚫ 延誤 48 小時後才接受手術的，約 60% 的病人一年後仍會表現下肢無力跟 bladder dysfunction",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：馬尾症候群（Cauda Equina Syndrome, CES）流行病學與手術黃金時間】**：馬尾症候群屬於脊椎外科急症（Red flag），典型表現為馬鞍部麻木（Saddle anesthesia, S2–S5）、急性尿滯留或大小便失禁、雙下肢進行性無力與感覺異常。關鍵數據：**① 約 2% 的腰椎間盤突出會併發 CES**；**② 黃金減壓窗為 24 小時內**，及時手術約 **90%** 患者之肌力與括約肌失禁可在 6 個月內恢復；**③ 若延誤超過 48 小時才減壓**，約 **60%** 患者於一年後仍殘留永久性下肢無力與膀胱功能障礙。",
+        "**(C) 正確【本題應選正解】**：`3` —— 題列 3 項關於馬尾症候群（Cauda equina syndrome）發生率（2%）、24 小時內緊急手術預後（90% 於 6 個月內恢復）及延誤 48 小時預後（60% 一年後仍殘留障礙）之敘述**全部正確（共 3 項）**！",
+        "**(A) 錯誤**：`1` —— 3 項敘述數據皆與臨床實證及授課講義完全相符（共 3 項為真）。",
+        "**(B) 錯誤**：`2` —— 3 項敘述數據皆與臨床實證及授課講義完全相符（共 3 項為真）。",
+        "**(D) 錯誤**：`4` —— 題目共僅列 3 個敘述，不可能有 4 項為真。",
+        "**(E) 錯誤**：`5` —— 題目共僅列 3 個敘述，不可能有 5 項為真。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-33",
+      "globalIndex": 558,
+      "qNum": 33,
+      "origQ": "111 Q30",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "How many statements are true regarding crystal-induced arthritis (Monosodium urate vs. Calcium pyrophosphate dihydrate)?\n⚫ Shape: MSU = Needle shaped ｜ CPPD = Rhomboid shaped\n⚫ Birefringence: MSU = Negative ｜ CPPD = Positive\n⚫ MSU Birefringence intensity = Weak\n⚫ CPPD Birefringence intensity = Strong",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：痛風（MSU）vs. 假性痛風（CPPD）強度顛倒版】**：痛風 **MSU** 為針狀、**強（Strong）**負雙折射；假性痛風 **CPPD** 為菱形、**弱（Weak）**正雙折射。",
+        "**(B) 正確【本題應選正解】**：`2` —— 題列 4 項中：**① Shape**（MSU 針狀、CPPD 菱形）**✓** 與 **② Birefringence 正負性**（MSU 負偏光 Negative、CPPD 正偏光 Positive）**✓** 正確；僅後兩項**雙折射強度**被互換寫反（MSU 應為 **Strong** 而非 Weak ✗；CPPD 應為 **Weak** 而非 Strong ✗），故共有 **2 項**為真。",
+        "**(A) 錯誤**：`1` —— 本題的「形狀」與「正負雙折射性」兩項皆正確（共 2 項；112 Q22 才是正負性也反過來變成 1 項）。",
+        "**(C) 錯誤**：`3` —— 後兩項關於 MSU 與 CPPD 的強度描述均互換錯誤，僅前 2 項成立。",
+        "**(D) 錯誤**：`4` —— MSU 應為 Strong intensity、CPPD 應為 Weak intensity，故非全對。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-34",
+      "globalIndex": 559,
+      "qNum": 34,
+      "origQ": "111 Q31",
+      "year": "111 學年度",
+      "yearGroup": "111/110",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "What lesion could cause numbness over left medial leg and left medial malleolus?",
+      "image": null,
+      "options": {
+        "A": "Left L5S1 foraminal & extra-foraminal HIVD",
+        "B": "Left L4L5 foraminal & extra-foraminal HIVD",
+        "C": "Left L3L4 foraminal & extra-foraminal HIVD",
+        "D": "Left L4L5 posterolateral HIVD"
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "answerDisplay": "(B)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：左側 L4 皮節感覺麻木之腰椎 HIVD 定位】**：**左小腿內側（left medial leg）與左內踝（left medial malleolus）**對應 **左側 L4 神經根（L4 dermatome）**。腰椎神經根垂直下行：**Foraminal / Extra-foraminal HIVD** 壓迫「該節正在離開椎間孔的 **exiting root**（即 L4–L5 壓迫 **L4**）」；**Posterolateral HIVD** 壓迫「下行準備從下一節離開的 **traversing root**（即 L4–L5 壓迫 **L5**）」。",
+        "**(B) 正確【本題應選正解】**：`Left L4L5 foraminal & extra-foraminal HIVD` —— 左側 L4–L5 椎間孔／椎間孔外突出會直接壓迫正從該椎間孔穿出的 **Left L4 exiting nerve root**，導致左側小腿內側與內踝（L4 皮節）感覺麻木！",
+        "**(A) 錯誤**：`Left L5S1 foraminal & extra-foraminal HIVD` —— L5–S1 椎間孔／孔外突出壓迫穿出的 **Left L5 神經根**（外側小腿與足背），而非 L4。",
+        "**(C) 錯誤**：`Left L3L4 foraminal & extra-foraminal HIVD` —— L3–L4 椎間孔／孔外突出壓迫穿出的 **Left L3 神經根**（膝蓋前側），而非內踝 L4。",
+        "**(D) 錯誤**：`Left L4L5 posterolateral HIVD` —— L4–L5 後外側（paracentral）突出會向後外側頂到正在往下走的 **Left L5 traversing root**，引起小腿外側與足背麻木，而非內踝 L4 皮節！"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-35",
+      "globalIndex": 560,
+      "qNum": 35,
+      "origQ": "重點1",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] How many statements belong to \"Red flag signs\" in musculoskeletal evaluation?\n⚫ Unexplained weight loss > 10% in 6 months\n⚫ Rest pain or night pain (especially relieved by NSAID, raising suspicion for osteoid osteoma)\n⚫ Saddle anesthesia with urinary retention or incontinence\n⚫ History of cancer with new-onset bone pain\n⚫ Mild morning stiffness lasting < 15 minutes that quickly improves after movement, without fever or neurologic deficit",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：11/18 課末重點一 — Red Flag Signs（紅旗警訊）】**：郭書瑞醫師特別點出問診必須優先排除的紅旗警訊，並明確提示題型常為「How many statements belong to red flag?」：① **6 個月內體重減輕 > 10%**、發燒、盜汗（惡性腫瘤、TB、慢性感染）；② **休息痛／夜間痛**（腫瘤、感染；吃 NSAID 緩解高度懷疑骨樣骨瘤 Osteoid osteoma，因其分泌 prostacyclin）；③ **發燒＋局部紅熱／無法負重**（化膿性關節炎、骨髓炎）；④ **嚴重神經功能缺損**（馬鞍部麻木＋尿滯留／失禁 → 馬尾症候群；步態障礙／雙手笨拙 → 脊髓壓迫）；⑤ **癌症病史＋新發骨痛**（骨轉移）；⑥ **骨痛＋蒼白／瘀青**（白血病）；⑦ **外傷機制不符**（輕微外傷即骨折 → 骨鬆／病理性骨折；兒童受重傷卻無相符病史 → 兒虐）。",
+        "**(D) 正確【本題應選正解】**：`4` —— 前 4 項（6 個月體重減輕 > 10%、休息痛／夜間痛、馬鞍部麻木合併排尿障礙、癌症病史併新發骨痛）皆為標準 **Red flag signs** ✅；而第 5 項「短暫（<15 分鐘）晨僵且活動即緩解、無發燒或神經缺損」屬於常見退化性／機械性關節不適（Inflammatory morning stiffness 通常 >30 分鐘，且退化性症狀並非紅旗警訊）❌，故共有 **4 項**。",
+        "**(A) 錯誤**：`1` —— 前 4 項均屬必須立即進一步排查嚴重疾病之 Red flag signs（共 4 項）。",
+        "**(B) 錯誤**：`2` —— 前 4 項均屬 Red flag signs（共 4 項）。",
+        "**(C) 錯誤**：`3` —— 體重減輕 >10%（6 個月內）、夜間／休息痛、馬尾症狀與癌症新發骨痛 4 項皆為紅旗警訊。",
+        "**(E) 錯誤**：`5` —— 第 5 項僅為輕微機械性關節症狀，不屬於 Red flag sign。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-36",
+      "globalIndex": 561,
+      "qNum": 36,
+      "origQ": "重點2",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] How many descriptions are correct about Upper Limb Motor Myotomes?\n⚫ C5: Elbow flexors (Biceps brachii m., Brachialis m.)\n⚫ C6: Wrist extensors (Extensor carpi radialis longus/brevis m.)\n⚫ C7: Elbow extensors (Triceps brachii m.)\n⚫ C8: Finger abductors (Abductor digiti minimi m.)\n⚫ T1: Finger flexors (Flexor digitorum profundus m., middle finger)",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：11/18 課末重點六 — 上肢運動肌節（Upper Limb Myotomes）照表格逐項背誦】**：共筆 P.18 提醒老師出題用詞將完全對照簡報表格：**C5 = 手肘屈肌 Elbow flexors（Biceps brachii, Brachialis）** → **C6 = 手腕伸肌 Wrist extensors（Extensor carpi radialis longus/brevis）** → **C7 = 手肘伸肌 Elbow extensors（Triceps brachii）** → **C8 = 手指屈肌 Finger flexors（Flexor digitorum profundus, middle finger）** → **T1 = 手指外展肌 Finger abductors（Abductor digiti minimi, small finger）**。",
+        "**(C) 正確【本題應選正解】**：`3` —— **C5（Elbow flexors）✓**、**C6（Wrist extensors）✓**、**C7（Elbow extensors）✓** 三項皆正確；而 **C8 與 T1 對調了**——**C8** 應為 **Finger flexors（FDP）**、**T1** 才是由小指外展肌代表之 **Finger abductors（Abductor digiti minimi）** ❌，故共有 **3 項正確**。",
+        "**(A) 錯誤**：`1` —— C5、C6、C7 三項上肢運動肌節皆正確（共 3 項）。",
+        "**(B) 錯誤**：`2` —— C5、C6、C7 三項上肢運動肌節皆正確（共 3 項）。",
+        "**(D) 錯誤**：`4` —— C8（手指屈肌 FDP）與 T1（手指外展肌 ADM）兩項均互換錯置，僅 3 項正確。",
+        "**(E) 錯誤**：`5` —— C8 與 T1 之代表肌肉與動作功能已對調，並非全對。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-37",
+      "globalIndex": 562,
+      "qNum": 37,
+      "origQ": "重點3",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] How many descriptions are correct about Lower Limb Motor Myotomes?\n⚫ L2: Hip flexors (Iliopsoas m.)\n⚫ L3: Knee extensors (Quadriceps femoris m.)\n⚫ L4: Ankle dorsiflexors (Tibialis anterior m.)\n⚫ L5: Ankle plantar flexors (Gastrocnemius m., Soleus m.)\n⚫ S1: Long toe extensors (Extensor hallucis longus m.)",
+      "image": null,
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：11/18 課末重點六 — 下肢運動肌節（Lower Limb Myotomes）L2–S1 口訣】**：記憶口訣「**L2 抬、L3 踢、L4 勾、L5 翹、S1 踩**」：• **L2**：髖屈肌 Hip flexors（Iliopsoas m.）• **L3**：膝伸肌 Knee extensors（Quadriceps femoris m.）• **L4**：踝背屈肌 Ankle dorsiflexors（Tibialis anterior m.）• **L5**：長趾伸肌 Long toe extensors（Extensor hallucis longus m.）• **S1**：踝蹠屈肌 Ankle plantar flexors（Gastrocnemius m., Soleus m.）。",
+        "**(C) 正確【本題應選正解】**：`3` —— **L2（Hip flexors: Iliopsoas）✓**、**L3（Knee extensors: Quadriceps femoris）✓**、**L4（Ankle dorsiflexors: Tibialis anterior）✓** 三項正確；而 **L5** 與 **S1** 互相對調——**L5** 應支配「翹大腳趾」的 **Long toe extensors（Extensor hallucis longus m.）**、**S1** 才是支配「踩油門／墊腳尖」的 **Ankle plantar flexors（Gastrocnemius / Soleus m.）** ❌，故共有 **3 項正確**。",
+        "**(A) 錯誤**：`1` —— L2、L3、L4 三節皆完全符合表格敘述（共 3 項）。",
+        "**(B) 錯誤**：`2` —— L2、L3、L4 三節皆完全符合表格敘述（共 3 項）。",
+        "**(D) 錯誤**：`4` —— L5 與 S1 的肌肉及動作描述皆對調錯置，僅 3 項正確。",
+        "**(E) 錯誤**：`5` —— L5 應為 EHL（趾伸肌）、S1 應為 Gastrocnemius/Soleus（踝蹠屈肌），不可選 5。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-38",
+      "globalIndex": 563,
+      "qNum": 38,
+      "origQ": "重點4",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] 關於肩關節 O'Brien test（Active compression test）的操作方式與陽性判讀，下列何者正確？",
+      "image": null,
+      "options": {
+        "A": "肩膀屈曲 90°、內收 15°、手肘完全伸直，手臂先內旋（拇指向下）對抗向下壓力出現疼痛，轉為外旋（掌心／拇指朝上）後疼痛緩解 → 提示 AC joint 病變或盂唇（SLAP）病變",
+        "B": "肩膀外展 90°、手肘屈曲 90° 下施加極限外轉，若病患出現即將脫臼之驚恐表情 → 提示 AC joint 病變或 SLAP 病變",
+        "C": "肩膀外展 90°、內旋 30°（Empty can position），病患向下施力對抗時無法維持姿勢墜落 → 評估肩胛下肌肌腱斷裂",
+        "D": "手肘完全伸直、前臂旋後（掌心朝上）、肩屈曲 90° 時向下抗阻力出現二頭肌溝疼痛 → 主要用於鑑別棘下肌與小圓肌損傷"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：11/18 課末重點八 — O'Brien test 操作與四大肩關節高頻檢查鑑別】**：老師考前特別叮嚀 **O'Brien test** 務必熟記姿勢角度（**Shoulder 90° flexion & 15° adduction，elbow extended**）、受力比較（**IR 拇指向下抗阻力疼痛 → ER 掌心朝上疼痛減輕或消失**）以及臨床意義（**AC joint arthropathy 肩鎖關節病變** 或 **GH joint labral lesion / SLAP 病變**）。",
+        "**(A) 正確【本題應選正解】**：`肩膀屈曲 90°、內收 15°、手肘完全伸直...` —— 完全符合 O'Brien test 的標準操作角度、內旋痛 vs 外轉緩解判讀與臨床病灶定位（AC joint / GH labral lesion）！",
+        "**(B) 錯誤**：`肩膀外展 90°、手肘屈曲 90° 極限外轉出現驚恐表情...` —— 此為 **Anterior apprehension test**，用於評估**肩關節前向不穩定（anterior shoulder instability）**，而非 O'Brien test。",
+        "**(C) 錯誤**：`肩膀外展 90°、內旋 30°...評估肩胛下肌` —— 此姿勢對應 **Empty can (Jobe) test**（評估**棘上肌 Supraspinatus**）；評估**肩胛下肌（Subscapularis）**應使用 **Lift-off test / Belly press test**。",
+        "**(D) 錯誤**：`前臂旋後、肩屈曲 90° 抗阻引發二頭肌溝疼痛...` —— 此為 **Speed's test**，用於評估**肱二頭肌長頭肌腱炎（Biceps tendinitis）**，而非旋轉肌袖後側的棘下肌／小圓肌（外轉肌群應看 External rotation lag sign 與 Hornblower sign）。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-39",
+      "globalIndex": 564,
+      "qNum": 39,
+      "origQ": "重點5",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] 依據骨科關節活動度（Movement testing）鑑別非收縮組織與收縮組織之測試原則，下列何者敘述錯誤？",
+      "image": null,
+      "options": {
+        "A": "被動運動（Passive movement）主要測試非收縮組織（non-contractile tissue），如關節囊、韌帶與半月板等",
+        "B": "抗阻等長收縮運動（Resisted movement）主要測試收縮組織（contractile tissue），包括肌肉與肌腱附著點",
+        "C": "主動關節活動度（Active ROM）同時牽動收縮與非收縮組織，因此在區分病灶屬於關節囊或肌肉肌腱時極具高度特異性",
+        "D": "抗阻測試若表現「有疼痛但肌力正常（Pain + Strong）」，常見於輕微肌肉或肌腱拉傷；若「無疼痛但肌力顯著變弱（No pain + Weak）」，需考慮神經損傷或肌腱完全斷裂"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：11/18 課末重點四 — Movement 測試三大原則與疼痛／力量判讀矩陣】**：共筆 P.3、P.15–16 明確指出：**① Passive ROM** 測試 **non-contractile tissue**（關節囊、韌帶、半月板、滑液囊）；**② Resisted isometric ROM** 測試 **contractile tissue**（肌肉、肌腱）；**③ Active ROM 在鑑別診斷上無實際價值**（因同時動用到兩類組織）；**④ 抗阻測試判讀矩陣**：Pain+ / Strong = 輕微肌肉或肌腱損傷；Pain- / Weak = 神經損傷或肌腱完全斷裂；Pain+ / Weak = 骨折、惡性腫瘤或部分肌腱斷裂。",
+        "**(C) 敘述錯誤【本題應選正解】**：`主動關節活動度（Active ROM）...在區分病灶屬於關節囊或肌肉肌腱時極具高度特異性` —— 恰好相反！因為病人主動移動關節時，收縮性組織（肌肉肌腱主動發力）與非收縮性組織（關節囊、韌帶隨關節轉動被牽拉）都會同時受力，**故 Active ROM 在鑑別診斷上並無實際價值**！",
+        "**(A) 敘述正確（非本題所求）**：Passive movement 由檢查者外力帶動、病人放鬆肌肉，可專一評估關節囊（Capsular pattern）與韌帶等非收縮性構造。",
+        "**(B) 敘述正確（非本題所求）**：Resisted movement 保持關節中立位做最大等長收縮，關節幾無位移，可專一評估肌肉與肌腱（Contractile tissue）。",
+        "**(D) 敘述正確（非本題所求）**：符合共筆 P.16 抗阻測試 Pain/Strength 判讀表：Pain(+)/Strong = 輕微肌腱肌肉受損；Pain(-)/Weak = 神經支配喪失或肌腱完全斷裂；Pain(+)/Weak = 骨折、癌症或部分肌腱斷裂。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-40",
+      "globalIndex": 565,
+      "qNum": 40,
+      "origQ": "重點6",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] 關於頸椎與腰椎神經根解剖排列、椎間盤突出（HIVD）及牽拉／壓迫檢查的敘述，下列何者正確？",
+      "image": null,
+      "options": {
+        "A": "因頸椎神經根近乎水平走向，C6/C7 的 Central/Paracentral HIVD 與 Foraminal HIVD 皆可能影響同一條 C7 神經根；而腰椎因垂直走向，L4/L5 posterolateral HIVD 會壓迫下行的 L5 traversing root",
+        "B": "L4/L5 節段之椎間孔突出（Foraminal HIVD）壓迫的是正要從 L5/S1 穿出的 L5 exiting root",
+        "C": "直腿抬高試驗（SLRT）於抬高 30° 以下出現疼痛代表最具特異性的 L5/S1 椎間盤突出；且檢查過程中足底蹠屈（Plantarflexion）可進一步牽拉坐骨神經提高靈敏度",
+        "D": "Hoffman's test 用於評估頸神經根病變（Cervical radiculopathy），而 Spurling's test 則用於高敏感篩檢脊髓壓迫（Cervical myelopathy）"
+      },
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "answerDisplay": "(A)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：11/18 課末重點七 — 頸椎水平（Mismatch）vs 腰椎垂直（Match）與神經根檢查】**：共筆 P.19–23 重點：**① 頸椎神經根水平離開**（C1–C7 在對應椎骨「上方」離開為 Mismatch，至無對應椎根的 C8 過渡為 T1 以下之 Match），故頸椎同一節段的 Central/Paracentral 與 Foraminal 突出都易波及同一條穿出神經根（且 Central 大片壓迫亦可能影響脊髓）；**② 腰椎神經根垂直下行**，L4/L5 Posterolateral（Paramedian）壓迫下行的 **L5 traversing root**，L4/L5 Foraminal / Far lateral 則壓迫該節離開的 **L4 exiting root**。",
+        "**(A) 正確【本題應選正解】**：精準指出頸椎水平解剖（C6/C7 不同位置突出均影響 C7）與腰椎垂直走向（L4/L5 後外側壓迫 L5 下行神經根）之核心差異！",
+        "**(B) 錯誤**：`L4/L5 椎間孔突出壓迫 L5 exiting root` —— L4/L5 椎間孔正要離開的（exiting）是上方的 **L4 神經根**，而非 L5！",
+        "**(C) 錯誤**：`SLRT 30° 以下...足底蹠屈提高靈敏度` —— ① SLRT 陽性典型角度為 **`30°–70°`**（`<30°` 應懷疑非 HIVD 如臀部膿瘍、腫瘤、急性滑脫等；`>70°` 多為髖／薦髂關節或膕旁肌緊繃）；② 需加上**足背屈（Foot dorsiflexion, Bragard's sign）**才可增加坐骨神經牽張靈敏度，而非足底蹠屈。",
+        "**(D) 錯誤**：兩項檢查的臨床定位正好完全相反——**Spurling's test** 高特異度評估 **`Cervical radiculopathy`（周邊神經根受壓）**；**Hoffman's test** 高敏感度評估 **`Cervical myelopathy`（中樞頸脊髓病變，建議評估手術）**！"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-41",
+      "globalIndex": 566,
+      "qNum": 41,
+      "origQ": "重點7",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] 關於上下肢局部理學檢查（Regional Tests）的操作姿勢與臨床意義配對，下列何者「錯誤」？",
+      "image": null,
+      "options": {
+        "A": "Finkelstein's test：握拳包住大拇指並將手腕向尺側偏移（Ulnar deviation），引發橈骨莖突劇痛 → 狹窄性肌腱滑膜炎（媽媽手 de Quervain's disease，影響 APL 與 EPB）",
+        "B": "Phalen test：雙手手腕極限屈曲背對背貼合 30–60 秒，引發第 1–3 指與第 4 指橈側麻木 → 正中神經壓迫（腕隧道症候群）",
+        "C": "FAIR test（Flexion, Adduction, Internal rotation）誘發腹股溝痛主要用於診斷股骨頭缺血性壞死；FABER（Patrick's test）則專一引發坐骨神經痛來診斷梨狀肌症候群",
+        "D": "Lachman test（膝屈曲 30° 前拉脛骨）為評估前十字韌帶（ACL）斷裂最敏感之檢查；McMurray test 小腿外轉（External rotation）伴隨伸直出現彈響痛主要測試內側半月板（Medial meniscus）"
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "answerDisplay": "(C)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：上下肢經典骨科理學檢查總複習（手腕、髖關節、膝關節）】**：必須精準區分髖關節的 **FABER（外展外旋「4 字測試」）vs. FAIR（內收內旋壓迫梨狀肌）**，以及膝關節的 **Lachman（30° 測 ACL）vs. Drawer（90°）** 與 **McMurray（小腿外轉測內側半月板／內轉測外側半月板）**。",
+        "**(C) 配對錯誤【本題應選正解】**：將 **FABER** 與 **FAIR** 完全寫反！**FABER（Patrick's test = Flexion, ABduction, External Rotation）**呈「4」字形壓膝誘發腹股溝痛，用於評估**髖關節病變／股骨頭缺血性壞死（AVN）或薦髂關節炎**；而 **FAIR test（Flexion, Adduction, Internal Rotation）**拉伸梨狀肌壓迫坐骨神經引發臀部後側放射痛，才是用於診斷**梨狀肌症候群（Piriformis syndrome）**！",
+        "**(A) 配對正確（非本題所求）**：Finkelstein's test 透過尺側偏移伸展第一背側伸肌群（外展拇長肌 APL 與伸拇短肌 EPB），是診斷**媽媽手（de Quervain's disease）**的標準測試。",
+        "**(B) 配對正確（非本題所求）**：Phalen test（手腕屈曲增加腕隧道內壓）重現第 1–3 指與第 4 指橈側半麻痛，用以診斷**腕隧道症候群（Carpal tunnel syndrome）**。",
+        "**(D) 配對正確（非本題所求）**：Lachman test（屈曲 30° 避免膕旁肌痙攣保護干擾）為 **ACL 最敏感理學檢查**；McMurray test 以小腿外轉加外翻伸展壓迫**內側半月板**，小腿內轉則測試**外側半月板**。"
+      ]
+    },
+    {
+      "id": "1118_ClinEval-42",
+      "globalIndex": 567,
+      "qNum": 42,
+      "origQ": "重點8",
+      "year": "M67 共筆重點擴充",
+      "yearGroup": "M67_Note",
+      "hasErrata": false,
+      "isCrossDup": false,
+      "stem": "[M67 11/18 共筆考點] 關於骨科發炎血清學指標與關節液分析（Synovial fluid analysis）的敘述，下列何者「錯誤」？",
+      "image": null,
+      "options": {
+        "A": "CRP 由肝臟製造，是急性發炎指標；當病人合併嚴重肝衰竭時，即使發生嚴重感染，血清 CRP 濃度仍可能不會上升",
+        "B": "Anti-CCP 抗體對類風濕性關節炎（RA）的特異度（Specificity）可達 98%，比 RF 更專一且有助於早期偵測",
+        "C": "僵直性脊椎炎（Ankylosing spondylitis）好發於男性（男女比約 4:1），約 90% 患者 HLA-B27 呈陽性；類風濕性關節炎則以女性居多（男女比約 1:3）",
+        "D": "關節液分析中，若白血球計數為 2,000–50,000 /µL 且呈現清澈極高黏稠度、PMN < 25%，最典型的病因是細菌性敗血性關節炎（Septic arthritis）"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "answerDisplay": "(D)",
+      "explanations": [
+        "📘 **【核心臨床診斷考點：實驗室檢驗（ESR/CRP/RF/Anti-CCP/HLA-B27）與關節液四大分類（共筆 P.37–38）】**：• **Non-inflammatory（OA, AVN, meniscus tear）**：清澈黏稠、WBC `< 2,000 /µL`、PMN `< 25%`；• **Inflammatory（Gout, CPPD, RA）**：混濁低黏度、WBC `2,000–50,000 /µL`、PMN 約 ≥50%；• **Septic（細菌感染）**：膿濁、WBC 經常 `> 50,000 /µL`、PMN 常 `≥ 90%`、細菌培養陽性；• **Hemorrhagic**：大量紅血球血水樣（外傷、凝血異常、腫瘤、神經性關節病變）。",
+        "**(D) 敘述錯誤【本題應選正解】**：將三類關節液數值混為一談！**WBC `< 2,000 /µL`、清澈黏稠、PMN `< 25%`** 屬於 **非發炎性（Non-inflammatory，如 OA、AVN）**；**`2,000–50,000 /µL`** 屬於 **發炎性（Inflammatory，如痛風、CPPD、RA）**；而 **細菌性敗血性關節炎（Septic arthritis）** 典型應表現為混濁膿液、**WBC `> 50,000 /µL` 且 PMN `≥ 90%`**！",
+        "**(A) 敘述正確（非本題所求）**：依共筆 P.37 重點，CRP 由肝臟合成（acute phase reactant），嚴重肝衰竭患者面臨嚴重感染時 CRP 可能不上升。",
+        "**(B) 敘述正確（非本題所求）**：發炎會使體內 Arginine 轉變為 Citrulline 進而產生 Anti-CCP 抗體，診斷 RA 特異度高達 98%、較 RF（Anti-IgG Fc）更早出現且較少偽陽性。",
+        "**(C) 敘述正確（非本題所求）**：僵直性脊椎炎以男性為主（M:F ≈ 4:1，90% HLA-B27+），類風濕性關節炎則以女性居多（M:F ≈ 1:3，80% RF+）。"
       ]
     }
   ]

@@ -145,7 +145,7 @@ def test_import_dry_run_append_dedup_update_and_new_unit(tmp_path: Path):
         cnt = conn.execute(
             "SELECT COUNT(*) AS c FROM questions WHERE exam_slug = 'cmu-int2-msk'"
         ).fetchone()["c"]
-        assert cnt == 549
+        assert cnt == 569
     finally:
         conn.close()
 

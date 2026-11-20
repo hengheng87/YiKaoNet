@@ -25,7 +25,7 @@ def test_blocks_catalog_api_and_exam_block_metadata(client):
     assert body["readyBlocks"] == 1
     assert body["plannedBlocks"] == 3
     assert body["totalBlocks"] == 4
-    assert body["totalQuestions"] == 547
+    assert body["totalQuestions"] == 567
     assert body["totalUnits"] == 22
 
     assert len(body["terms"]) == 1
@@ -45,7 +45,7 @@ def test_blocks_catalog_api_and_exam_block_metadata(client):
     by_slug = {b["slug"]: b for b in term["blocks"]}
     assert by_slug["cmu-int1-foundations"]["status"] == "planned"
     assert by_slug["cmu-int2-msk"]["status"] == "ready"
-    assert by_slug["cmu-int2-msk"]["totalQuestions"] == 547
+    assert by_slug["cmu-int2-msk"]["totalQuestions"] == 567
     assert by_slug["cmu-int2-msk"]["unitCount"] == 22
     assert len(by_slug["cmu-int2-msk"]["subjects"]) == 6
 
@@ -164,7 +164,7 @@ def test_auto_unlock_planned_block_and_dynamic_new_term(tmp_path: Path):
         assert data["readyBlocks"] == 3
         assert data["plannedBlocks"] == 2
         assert data["totalBlocks"] == 5
-        assert data["totalQuestions"] == 549
+        assert data["totalQuestions"] == 569
         assert [t["code"] for t in data["terms"]] == ["y3-s1", "y3-s2"]
 
         y3s1_blocks = {b["slug"]: b for b in data["terms"][0]["blocks"]}
@@ -212,7 +212,7 @@ def test_legacy_sqlite_migration_adds_block_json_column(tmp_path: Path):
         sync_all_exams(conn, exams_dir=EXAMS_DIR)
         catalog = build_blocks_catalog(conn, catalog_path=BLOCKS_CATALOG_PATH)
         assert catalog.readyBlocks == 1
-        assert catalog.totalQuestions == 547
+        assert catalog.totalQuestions == 567
     finally:
         conn.close()
 

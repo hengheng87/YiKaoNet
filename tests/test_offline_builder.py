@@ -43,7 +43,7 @@ def test_offline_html_export_endpoint(client):
     assert "<style>" in html
     assert "window.__YIKAO_OFFLINE_DATA__ =" in html
 
-    # Verify embedded JSON parses cleanly and includes all 547 questions + 12 base64 images
+    # Verify embedded JSON parses cleanly and includes all 567 questions + 12 base64 images
     m = re.search(
         r"window\.__YIKAO_OFFLINE_DATA__\s*=\s*(\{.*?\});\s*\n</script>",
         html,
@@ -56,7 +56,7 @@ def test_offline_html_export_endpoint(client):
     assert payload["blocks"]["totalBlocks"] == 1
     assert len(payload["exams"]) == 1
     qs = payload["questions"]["cmu-int2-msk"]
-    assert len(qs) == 547
+    assert len(qs) == 567
     img_qs = [q for q in qs if q["image"]]
     assert len(img_qs) == 12
     assert all(q["image"].startswith("data:image/jpeg;base64,") for q in img_qs)

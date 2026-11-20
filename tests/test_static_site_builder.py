@@ -15,7 +15,7 @@ def test_build_static_site_bundle(tmp_path: Path):
     assert stats["exams"] == 1
     assert stats["blocks"] == 4
     assert stats["readyBlocks"] == 1
-    assert stats["questions"] == 547
+    assert stats["questions"] == 567
     assert stats["images"] == 9
     ver = stats["assetVersion"]
     assert len(ver) == 10
@@ -56,7 +56,7 @@ def test_build_static_site_bundle(tmp_path: Path):
             encoding="utf-8"
         )
     )
-    assert detail_json["totalQuestions"] == 547
+    assert detail_json["totalQuestions"] == 567
     assert detail_json["unitCount"] == 22
 
     qs_json = json.loads(
@@ -64,8 +64,8 @@ def test_build_static_site_bundle(tmp_path: Path):
             encoding="utf-8"
         )
     )
-    assert qs_json["total"] == 547
-    assert len(qs_json["questions"]) == 547
+    assert qs_json["total"] == 567
+    assert len(qs_json["questions"]) == 567
 
     img_qs = [q for q in qs_json["questions"] if q["image"]]
     assert len(img_qs) == 12

@@ -6,21 +6,21 @@ from __future__ import annotations
 def test_health_and_exam_metadata(client):
     health = client.get("/api/health")
     assert health.status_code == 200
-    assert health.json() == {"status": "ok", "exams": 1, "questions": 547}
+    assert health.json() == {"status": "ok", "exams": 1, "questions": 567}
 
     exams = client.get("/api/exams")
     assert exams.status_code == 200
     items = exams.json()
     assert len(items) == 1
     assert items[0]["slug"] == "cmu-int2-msk"
-    assert items[0]["totalQuestions"] == 547
+    assert items[0]["totalQuestions"] == 567
 
     detail = client.get("/api/exams/cmu-int2-msk")
     assert detail.status_code == 200
     body = detail.json()
-    assert body["totalQuestions"] == 547
-    assert body["uniqueQuestions"] == 457
-    assert body["errataCount"] == 12
+    assert body["totalQuestions"] == 567
+    assert body["uniqueQuestions"] == 477
+    assert body["errataCount"] == 14
     assert body["outOfScopeCount"] == 12
     assert body["unitCount"] == 22
 
@@ -50,15 +50,15 @@ def test_question_filters_and_cjk_search(client):
 
     res_dedup = client.get("/api/exams/cmu-int2-msk/questions?hide_cross_dup=true")
     assert res_dedup.status_code == 200
-    assert res_dedup.json()["filtered"] == 457
+    assert res_dedup.json()["filtered"] == 477
 
     res_year = client.get("/api/exams/cmu-int2-msk/questions?year=114")
     assert res_year.status_code == 200
-    assert res_year.json()["filtered"] == 167
+    assert res_year.json()["filtered"] == 169
 
     res_errata = client.get("/api/exams/cmu-int2-msk/questions?has_errata=true")
     assert res_errata.status_code == 200
-    assert res_errata.json()["filtered"] == 12
+    assert res_errata.json()["filtered"] == 14
 
     # CJK 2-character substring search
     res_cjk = client.get("/api/exams/cmu-int2-msk/questions?search=皮節")
@@ -124,7 +124,7 @@ def test_notion_export_endpoint(client):
         json={"scope": "ERRATA"},
     )
     assert res_errata.status_code == 200
-    assert res_errata.json()["count"] == 12
+    assert res_errata.json()["count"] == 14
     assert "<details><summary>" in res_errata.json()["markdown"]
 
     res_ids = client.post(
