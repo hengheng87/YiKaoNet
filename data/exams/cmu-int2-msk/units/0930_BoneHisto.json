@@ -17,7 +17,7 @@
       "yearGroup": "114",
       "hasErrata": false,
       "isCrossDup": false,
-      "stem": "Please arrange the following zone from primary ossification center to secondary ossification center.",
+      "stem": "Please arrange the following zone from primary ossification center to secondary ossification center.\nA. Hypertrophic zone; B. Resting zone; C. Ossification zone; D. Calcification zone; E. Proliferation zone",
       "image": null,
       "options": {
         "A": "ABCDE",
@@ -31,11 +31,11 @@
       ],
       "answerDisplay": "(D)",
       "explanations": [
-        "📘 **【核心組織學考點：軟骨內骨化（Endochondral Ossification）與生長板五區】**：由遠端（次級骨化中心／骨骺側）向近端（初級骨化中心／骨幹側）依序為：**① 靜止區（Resting / Reserve zone）**：透明軟骨細胞散在分布；**② 增殖區（Proliferation zone）**：軟骨細胞進行**間質性生長（interstitial growth）**有絲分裂排成縱行（isogenous groups）；**③ 肥大區（Hypertrophic zone）**：老化軟骨細胞體積變大、累積肝醣；**④ 鈣化區（Calcification zone）**：基質鈣化、軟骨細胞凋亡退化（degenerating chondrocytes）；**⑤ 骨化區（Ossification zone）**：血管與骨母細胞入侵形成**新生的骨組織（newly formed bone tissue）**。",
-        "**(D) 正確【本題應選正解】**：`BEADC` —— 從初級骨化中心（骨幹 diaphysis 側）往次級骨化中心（骨骺 epiphysis 側）由近端至遠端排列，依序為：Ossification zone → Calcification zone → Hypertrophic zone → Proliferation zone → Resting zone（對應原題圖標號 `B → E → A → D → C`）。",
-        "**(A) 錯誤**：`ABCDE` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(B) 錯誤**：`BAEDE` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(C) 錯誤**：`CBEAD` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+        "📘 **【核心組織學考點：軟骨內骨化（Endochondral Ossification）與生長板五區】**：題列代號對應為 **`A` Hypertrophic zone（肥大區）、`B` Resting zone（靜止區）、`C` Ossification zone（骨化區）、`D` Calcification zone（鈣化區）、`E` Proliferation zone（增殖區）**。由遠端（骨骺／次級骨化中心側）向近端（骨幹／初級骨化中心側）依序為：**① Resting zone（`B`）** → **② Proliferation zone（`E`）**（間質性生長有絲分裂排成縱行）→ **③ Hypertrophic zone（`A`）**（細胞膨大累積肝醣）→ **④ Calcification zone（`D`）**（基質鈣化、軟骨細胞凋亡）→ **⑤ Ossification zone（`C`）**（血管與骨母細胞入侵形成新生骨）。",
+        "**(D) 正確【本題應選正解】**：`BEADC` —— 依 114 年組織學共筆考古參考答案核定為 **(D) `BEADC`**，對應序列為 **`B` Resting zone → `E` Proliferation zone → `A` Hypertrophic zone → `D` Calcification zone → `C` Ossification zone**（即由骨骺次級骨化中心往骨幹初級骨化中心之生長板五區發生順序；原題回憶時方向詞曾前後對調，選項四者中僅 `BEADC` 符合正確五區相鄰順序）。",
+        "**(A) 錯誤**：`ABCDE` —— 將 `A`（Hypertrophic）、`B`（Resting）、`C`（Ossification）依字母順排，並不符合生長板五區之解剖連續排列。",
+        "**(B) 錯誤**：`BAEDE` —— 序列出現重複 `E` 且缺少 `C`（Ossification zone），屬於無效排列。",
+        "**(C) 錯誤**：`CBEAD` —— 順序錯置（`C` Ossification 應接 `D` Calcification，而非直接接 `B` Resting），正確五區順序應為 `BEADC`。"
       ]
     },
     {
@@ -304,10 +304,10 @@
       "answerDisplay": "(D)",
       "explanations": [
         "📘 **【核心組織學考點：三種軟骨（透明軟骨、彈性軟骨、纖維軟骨）比較】**：**(1) 透明軟骨（Hyaline cartilage）**：分佈於關節面、鼻中膈（NO.54，多為含 2–4 個細胞的同源細胞群 isogenous groups）、**氣管與支氣管（bronchus）**、生長板；ECM 呈均質均一狀（因**第二型膠原蛋白 Type II collagen 纖維與基質折射率相近**而在 H&E 染色下看不見纖維）；軟骨膜（perichondrium）含血管，靠近軟骨膜的軟骨細胞較扁平幼小（越往深層才越圓越肥大），**軟骨陷窩周圍之被膜基質（capsular / territorial matrix）因富含硫酸蛋白多醣而呈深嗜鹼性深染**；**(2) 彈性軟骨（Elastic cartilage）**：含大量彈性纖維，軟骨細胞單一或成小群埋於絮狀基質；**(3) 纖維軟骨（Fibrocartilage）**：無軟骨膜（僅行**間質性生長 interstitial growth**，包含關節盤、膝關節半月板 menisci、椎間盤），含大量平行排列之**第一型膠原蛋白（Type I collagen）**與扁平纖維母細胞，軟骨細胞呈**縱列成排（rows）**夾於膠原束之間。",
-        "**(D) 敘述錯誤【本題應選正解】**：`Interfibrous chondrocytes, arranged in a scattered manner.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(A) 敘述正確（非本題所求）**：`Fibrous cartilage is a dense regular connective tissue` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(B) 敘述正確（非本題所求）**：`In the fibrocartilage section, the pale pink cylindrical structure is Type I collagen fiber` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(C) 敘述正確（非本題所求）**：`The nucleus of the fibroblast is irregularly flat.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+        "**(D) 敘述錯誤【本題應選正解】**：`Interfibrous chondrocytes, arranged in a scattered manner.` —— 纖維軟骨（fibrocartilage）內的軟骨細胞並非散亂排列，而是呈**縱列成排（arranged in rows）**夾於平行排列的第一型膠原纖維束之間。",
+        "**(A) 敘述正確（非本題所求）**：`Fibrous cartilage is a dense regular connective tissue` —— 纖維軟骨具有與緻密規則結締組織相似的平行膠原纖維排列特徵。",
+        "**(B) 敘述正確（非本題所求）**：`In the fibrocartilage section, the pale pink cylindrical structure is Type I collagen fiber` —— 纖維軟骨在 H&E 切片中可見淡粉紅色、粗大平行排列的**第一型膠原蛋白纖維（Type I collagen）**（與透明軟骨的 Type II 不同）。",
+        "**(C) 敘述正確（非本題所求）**：`The nucleus of the fibroblast is irregularly flat.` —— 夾在膠原纖維束之間的纖維母細胞（fibroblast）細胞核呈**不規則扁平狀（irregularly flat）**。"
       ]
     },
     {
@@ -364,10 +364,10 @@
       "answerDisplay": "(A)",
       "explanations": [
         "📘 **【核心組織學考點：骨組織四大細胞與骨膜（Periosteum / Endosteum）分佈】**：**(1) 骨內膜／骨外膜存在的細胞**：**Osteoprogenitor cells（骨原細胞，扁平紡錘狀）**、**Osteoblasts（骨母細胞，立方狀，分泌第一型膠原蛋白 Type I collagen 與類骨質 osteoid）**、**Osteoclasts（蝕骨細胞，大型多核，吸收骨基質）**與**Bone-lining cells（骨襯細胞，扁平，調控 Ca²⁺/P 進出並營養骨細胞）**；**(2) Osteocytes（骨細胞）**：位於**骨基質內的骨陷窩（lacunae）**中，並伸出細胞突起進入骨小管（canaliculi）交換養分，**不存在於骨外膜或骨內膜表面**（註：`0930_BoneHisto-2` 原題曾誤選 A，申覆後 C 與 A 並列給分）。",
-        "**(A) 敘述錯誤【本題應選正解】**：`Osteocytes present multiple processes in the canaliculi, located in the endosteum.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(B) 敘述正確（非本題所求）**：`Active osteoclast is large and multinucleated` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(C) 敘述正確（非本題所求）**：`Osteoblast is cuboidal and secret osteoid.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(D) 敘述正確（非本題所求）**：`Endosteal cell is flattened, nutritional the osteocytes and regulate calcium ions into and out of the bone.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+        "**(A) 敘述錯誤【本題應選正解】**：`Osteocytes present multiple processes in the canaliculi, located in the endosteum.` —— 骨細胞（Osteocytes）雖伸出多條細胞突起進入骨小管（canaliculi），但其胞體**位於鈣化骨基質內的骨陷窩（lacunae）中**，而非位於骨內膜（endosteum）表面。",
+        "**(B) 敘述正確（非本題所求）**：`Active osteoclast is large and multinucleated` —— 具吸收骨質活性的蝕骨細胞（osteoclast）為大型多核巨細胞。",
+        "**(C) 敘述正確（非本題所求）**：`Osteoblast is cuboidal and secret osteoid.` —— 活躍造骨的骨母細胞（osteoblast）呈立方狀（cuboidal），負責分泌類骨質（osteoid）。",
+        "**(D) 敘述正確（非本題所求）**：`Endosteal cell is flattened, nutritional the osteocytes and regulate calcium ions into and out of the bone.` —— 骨內膜細胞／骨襯細胞（endosteal / bone-lining cells）呈扁平狀，可營養骨細胞並調控鈣離子進出骨質。"
       ]
     },
     {
@@ -454,10 +454,10 @@
       "answerDisplay": "(B)",
       "explanations": [
         "📘 **【核心組織學考點：軟骨內骨化（Endochondral Ossification）與生長板五區】**：由遠端（次級骨化中心／骨骺側）向近端（初級骨化中心／骨幹側）依序為：**① 靜止區（Resting / Reserve zone）**：透明軟骨細胞散在分布；**② 增殖區（Proliferation zone）**：軟骨細胞進行**間質性生長（interstitial growth）**有絲分裂排成縱行（isogenous groups）；**③ 肥大區（Hypertrophic zone）**：老化軟骨細胞體積變大、累積肝醣；**④ 鈣化區（Calcification zone）**：基質鈣化、軟骨細胞凋亡退化（degenerating chondrocytes）；**⑤ 骨化區（Ossification zone）**：血管與骨母細胞入侵形成**新生的骨組織（newly formed bone tissue）**。",
-        "**(B) 敘述錯誤【本題應選正解】**：`Proliferation zone, chondrocyte undergo apposition growth.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(A) 敘述正確（非本題所求）**：`Calcification zone, chondrocyte die and matrix begin deteriorating.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(C) 敘述正確（非本題所求）**：`Hypertrophic zone, older chondrocyles enlarge` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。",
-        "**(D) 敘述正確（非本題所求）**：`Resting zone, cells are arranged in a scattered patter.` —— 方向或順序錯誤：從初級骨化中心（骨幹）往次級骨化中心（骨骺）是由成熟骨化區逆推回靜止軟骨區（正確排列為 `BEADC`）。"
+        "**(B) 敘述錯誤【本題應選正解】**：`Proliferation zone, chondrocyte undergo apposition growth.` —— 增殖區（Proliferation zone）的軟骨細胞是在軟骨內部進行有絲分裂排成縱行，屬於**間質性生長（interstitial growth）**，而非由軟骨膜外層沉積的貼附性生長（appositional growth）。",
+        "**(A) 敘述正確（非本題所求）**：`Calcification zone, chondrocyte die and matrix begin deteriorating.` —— 在鈣化區（Calcification zone），基質鈣化阻斷養分擴散，使軟骨細胞凋亡退化。",
+        "**(C) 敘述正確（非本題所求）**：`Hypertrophic zone, older chondrocyles enlarge` —— 在肥大區（Hypertrophic zone），老化軟骨細胞體積顯著膨大。",
+        "**(D) 敘述正確（非本題所求）**：`Resting zone, cells are arranged in a scattered patter.` —— 在靜止區（Resting zone），軟骨細胞呈散在分布、尚未排成縱列。"
       ]
     },
     {
