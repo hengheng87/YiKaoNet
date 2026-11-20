@@ -16,11 +16,16 @@ const listeners = new Set();
 let syncDebounceTimer = null;
 
 export const state = {
-  currentView: 'portal', // 'portal' | 'exam'
+  currentView: 'portal', // 'portal' | 'exam' | 'analytics'
   blocksCatalog: null,
   portalTermFilter: 'ALL',
   portalStatusFilter: 'ALL',
   portalSearchQuery: '',
+
+  analyticsHideCrossDup: false,
+  analyticsHideOutOfScope: false,
+  analyticsTierFilter: 'ALL',
+  analyticsUnitSort: 'priority',
 
   exams: [],
   activeExamSlug: null,

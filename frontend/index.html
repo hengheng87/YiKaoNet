@@ -24,6 +24,7 @@
 
         <div class="flex items-center gap-2 flex-wrap">
           <div id="portalHeaderStats" class="portal-stat-pill">載入系統目錄中...</div>
+          <button id="portalAnalyticsBtn" type="button" class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-emerald-50 text-emerald-800 border border-emerald-200 hover:bg-emerald-100 shadow-sm transition">📊 學習診斷</button>
           <button id="portalResumeLastBtn" type="button" class="hidden px-3 py-1.5 rounded-lg text-xs font-semibold bg-indigo-600 text-white hover:bg-indigo-700 shadow-sm transition"></button>
         </div>
       </div>
@@ -92,6 +93,9 @@
             <span class="text-slate-300">|</span>
             <span class="text-indigo-600 font-bold" id="statRate">0%</span>
           </div>
+          <button id="openAnalyticsBtn" type="button" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-emerald-50 text-emerald-800 border border-emerald-200 hover:bg-emerald-100 shadow-sm transition">
+            <span>📊 作答分析</span>
+          </button>
           <button id="openSyncModalBtn" type="button" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-indigo-50 text-indigo-800 border border-indigo-200 hover:bg-indigo-100 shadow-sm transition">
             <span id="syncStatusDot" class="sync-dot sync-dot-off"></span>
             <span id="syncStatusLabel">☁️ 雲端同步</span>
@@ -181,6 +185,103 @@
     <div id="questionsContainer" class="space-y-4 pb-12"></div>
   </main>
 
+  </div>
+
+  <!-- Analytics & Weakness Diagnosis View -->
+  <div id="analyticsView" class="hidden flex-1 flex flex-col">
+    <header id="analyticsHeader" class="sticky top-0 z-30 bg-white/95 backdrop-blur border-b border-slate-200 shadow-sm">
+      <div class="max-w-6xl mx-auto px-4 py-3 flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+        <div class="space-y-0.5">
+          <div class="flex items-center gap-2 flex-wrap">
+            <button id="analyticsBackToExamBtn" type="button" class="back-portal-btn">← 返回作題畫面</button>
+            <button id="analyticsBackToPortalBtn" type="button" class="back-portal-btn">🏠 系統總覽</button>
+            <span class="px-2.5 py-0.5 text-xs font-bold uppercase tracking-wider bg-emerald-600 text-white rounded-full">Analytics</span>
+            <h1 id="analyticsExamTitle" class="text-lg md:text-xl font-bold text-slate-900">作答正確率與弱點診斷</h1>
+            <select id="analyticsExamSelector" aria-label="切換分析考科" class="hidden px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 border border-slate-200 text-slate-700 hover:bg-slate-200 focus:outline-none"></select>
+          </div>
+          <p id="analyticsExamSubtitle" class="text-xs text-slate-500 mt-0.5">正在彙整各共筆單元作答與正確率統計...</p>
+        </div>
+
+        <div class="flex items-center gap-2 flex-wrap">
+          <button id="analyticsToggleDedupBtn" type="button" class="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-slate-100 text-slate-700 hover:bg-slate-200 transition">排除跨共筆重複題</button>
+          <button id="analyticsToggleOosBtn" type="button" class="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-slate-100 text-slate-700 hover:bg-slate-200 transition">隱藏非本屆補充</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="analyticsMain" class="flex-1 max-w-6xl w-full mx-auto px-4 py-5 space-y-5 pb-12">
+      <div id="analyticsExamModeNotice" class="hidden bg-amber-50 border border-amber-200 rounded-xl px-4 py-2.5 text-xs text-amber-900">
+        📝 <strong>提示：</strong>目前考科處於「模擬測驗模式（尚未交卷）」，下方分析已即時納入您目前填答的選項供自我檢視。
+      </div>
+
+      <!-- 4 KPI Cards -->
+      <section id="analyticsSummaryCards" class="analytics-kpi-grid"></section>
+
+      <!-- Priority Weak Units Recommendation -->
+      <section id="analyticsWeakSection" class="analytics-panel">
+        <div class="analytics-panel-header">
+          <div>
+            <h2 class="text-base font-bold text-slate-900">🚨 優先加強單元建議與弱點診斷</h2>
+            <p class="text-xs text-slate-500 mt-0.5">依據各共筆單元正確率與錯題數自動分級，點選下方按鈕可直接跳回作題頁複習錯題或補做未答題</p>
+          </div>
+          <div id="analyticsWeakHeaderActions" class="flex items-center gap-2 flex-wrap"></div>
+        </div>
+        <div id="analyticsWeakUnitsBox"></div>
+      </section>
+
+      <!-- Session / Subject / Year Breakdowns -->
+      <section id="analyticsBreakdownSection" class="analytics-breakdown-grid">
+        <div class="analytics-panel">
+          <div class="analytics-panel-header">
+            <div>
+              <h2 class="text-sm font-bold text-slate-900">📑 節次與科目正確率統計</h2>
+              <p class="text-[11px] text-slate-500 mt-0.5">點擊科目可直接切換至該科題庫練習</p>
+            </div>
+          </div>
+          <div class="space-y-3">
+            <div>
+              <div class="text-[11px] font-bold text-slate-500 mb-1">整合考節次（A / B 卷）</div>
+              <div id="analyticsSessionList" class="space-y-2"></div>
+            </div>
+            <div class="pt-2 border-t border-slate-100">
+              <div class="text-[11px] font-bold text-slate-500 mb-1">各整合學科</div>
+              <div id="analyticsSubjectList" class="space-y-2"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="analytics-panel">
+          <div class="analytics-panel-header">
+            <div>
+              <h2 class="text-sm font-bold text-slate-900">📅 歷屆學年度與擴充題源正確率</h2>
+              <p class="text-[11px] text-slate-500 mt-0.5">點擊任一學年度可直接進入該年份考古題篩選</p>
+            </div>
+          </div>
+          <div id="analyticsYearList" class="space-y-2"></div>
+        </div>
+      </section>
+
+      <!-- Full Co-Note Unit Breakdown Table -->
+      <section id="analyticsUnitsSection" class="analytics-panel">
+        <div class="analytics-panel-header">
+          <div>
+            <h2 class="text-base font-bold text-slate-900">📋 全部共筆單元作答與掌握度一覽</h2>
+            <p class="text-xs text-slate-500 mt-0.5">包含每份共筆的作答數、正確率、進度條與直接練習入口</p>
+          </div>
+          <div class="flex items-center gap-2 flex-wrap">
+            <select id="analyticsUnitSort" aria-label="排序共筆單元" class="px-2.5 py-1.5 text-xs bg-slate-50 border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+              <option value="priority">依弱點優先度排序</option>
+              <option value="acc-asc">依正確率由低到高</option>
+              <option value="wrong-desc">依錯題數由多到少</option>
+              <option value="cov-asc">依完成度由低到高</option>
+              <option value="order">依原共筆課表順序</option>
+            </select>
+          </div>
+        </div>
+        <div id="analyticsTierTabs" class="flex flex-wrap items-center gap-1.5"></div>
+        <div id="analyticsUnitList" class="analytics-unit-list"></div>
+      </section>
+    </main>
   </div>
 
   <!-- Subtle Footer -->

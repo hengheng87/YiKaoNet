@@ -9,6 +9,7 @@ let lastScrollY = window.scrollY || 0;
 let scrollTicking = false;
 let boundExamSelector = null;
 let boundBackToPortal = null;
+let boundOpenAnalytics = null;
 
 function handleHeaderAutoHide() {
   if (state.currentView !== 'exam') {
@@ -29,19 +30,27 @@ function handleHeaderAutoHide() {
   scrollTicking = false;
 }
 
-export function initHeader(onSelectExam, onBackToPortal) {
+export function initHeader(onSelectExam, onBackToPortal, onOpenAnalytics) {
   boundExamSelector = onSelectExam;
   boundBackToPortal = onBackToPortal;
+  boundOpenAnalytics = onOpenAnalytics;
 
   const modePracticeBtn = document.getElementById('modePracticeBtn');
   const modeExamBtn = document.getElementById('modeExamBtn');
   const submitExamBtn = document.getElementById('submitExamBtn');
   const examSelector = document.getElementById('examSelector');
   const backToPortalBtn = document.getElementById('backToPortalBtn');
+  const openAnalyticsBtn = document.getElementById('openAnalyticsBtn');
 
   if (backToPortalBtn) {
     backToPortalBtn.addEventListener('click', () => {
       if (boundBackToPortal) boundBackToPortal();
+    });
+  }
+
+  if (openAnalyticsBtn) {
+    openAnalyticsBtn.addEventListener('click', () => {
+      if (boundOpenAnalytics) boundOpenAnalytics();
     });
   }
 

@@ -315,3 +315,284 @@
 .sync-dot-syncing { background-color: #f59e0b; }
 .sync-dot-synced { background-color: #10b981; }
 .sync-dot-error { background-color: #f43f5e; }
+
+/* === 作答統計與弱點診斷頁 (Analytics View) === */
+.analytics-kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+@media (min-width: 768px) {
+  .analytics-kpi-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+  }
+}
+.analytics-kpi-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 0 1px 3px 0 rgba(15, 23, 42, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.375rem;
+  text-align: left;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+}
+button.analytics-kpi-card {
+  cursor: pointer;
+}
+button.analytics-kpi-card:hover {
+  border-color: #818cf8;
+  box-shadow: 0 8px 18px -6px rgba(79, 70, 229, 0.18);
+  transform: translateY(-1px);
+}
+.analytics-kpi-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #64748b;
+}
+.analytics-kpi-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #0f172a;
+}
+.analytics-kpi-sub {
+  font-size: 11px;
+  color: #64748b;
+}
+
+.analytics-panel {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  padding: 1.125rem;
+  box-shadow: 0 1px 3px 0 rgba(15, 23, 42, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 0.875rem;
+}
+.analytics-panel-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 1px solid #f1f5f9;
+}
+@media (min-width: 768px) {
+  .analytics-panel-header {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.analytics-weak-grid {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+@media (min-width: 768px) {
+  .analytics-weak-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+.analytics-weak-card {
+  border-radius: 0.875rem;
+  border: 1px solid #e2e8f0;
+  padding: 0.875rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.625rem;
+  background-color: #ffffff;
+}
+.analytics-weak-critical {
+  border-color: #fecdd3;
+  background-color: rgba(255, 241, 242, 0.55);
+}
+.analytics-weak-warn {
+  border-color: #fde68a;
+  background-color: rgba(255, 251, 235, 0.65);
+}
+
+.analytics-breakdown-grid {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 1rem;
+}
+@media (min-width: 768px) {
+  .analytics-breakdown-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+.analytics-bar-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+  padding: 0.625rem 0.75rem;
+  border-radius: 0.75rem;
+  border: 1px solid #f1f5f9;
+  background-color: #f8fafc;
+  text-align: left;
+  width: 100%;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+button.analytics-bar-row {
+  cursor: pointer;
+}
+button.analytics-bar-row:hover {
+  background-color: #eef2ff;
+  border-color: #c7d2fe;
+}
+.analytics-bar-row-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.analytics-bar-track {
+  width: 100%;
+  height: 0.5rem;
+  background-color: #e2e8f0;
+  border-radius: 9999px;
+  overflow: hidden;
+  display: flex;
+}
+.analytics-bar-correct {
+  height: 100%;
+  background-color: #10b981;
+  transition: width 0.25s ease;
+}
+.analytics-bar-wrong {
+  height: 100%;
+  background-color: #f43f5e;
+  transition: width 0.25s ease;
+}
+
+.analytics-unit-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+}
+.analytics-unit-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+  padding: 0.875rem 1rem;
+  border-radius: 0.875rem;
+  border: 1px solid #e2e8f0;
+  background-color: #ffffff;
+  transition: border-color 0.15s ease;
+}
+.analytics-unit-row:hover {
+  border-color: #cbd5e1;
+}
+@media (min-width: 1024px) {
+  .analytics-unit-row {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+}
+.analytics-unit-row-main {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.analytics-unit-row-stats {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+@media (min-width: 1024px) {
+  .analytics-unit-row-stats {
+    width: 16rem;
+    flex-shrink: 0;
+  }
+}
+.analytics-unit-row-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  flex-shrink: 0;
+}
+
+.analytics-tier-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 700;
+  border: 1px solid transparent;
+  flex-shrink: 0;
+}
+.analytics-tier-critical {
+  background-color: #ffe4e6;
+  color: #9f1239;
+  border-color: #fecdd3;
+}
+.analytics-tier-warn {
+  background-color: #fef3c7;
+  color: #92400e;
+  border-color: #fde68a;
+}
+.analytics-tier-unstarted {
+  background-color: #dbeafe;
+  color: #1e40af;
+  border-color: #bfdbfe;
+}
+.analytics-tier-lowcov {
+  background-color: #fef9c3;
+  color: #854d0e;
+  border-color: #fde047;
+}
+.analytics-tier-good {
+  background-color: #d1fae5;
+  color: #065f46;
+  border-color: #a7f3d0;
+}
+
+.analytics-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.3rem 0.625rem;
+  border-radius: 0.5rem;
+  font-size: 11px;
+  font-weight: 600;
+  background-color: #f1f5f9;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+  transition: all 0.15s ease;
+}
+.analytics-action-btn:hover {
+  background-color: #e2e8f0;
+  color: #0f172a;
+}
+.analytics-action-btn-danger {
+  background-color: #fff1f2;
+  color: #be123c;
+  border-color: #fecdd3;
+}
+.analytics-action-btn-danger:hover {
+  background-color: #ffe4e6;
+}
+.analytics-action-btn-primary {
+  background-color: #4f46e5;
+  color: #ffffff;
+  border-color: #4f46e5;
+}
+.analytics-action-btn-primary:hover {
+  background-color: #4338ca;
+}

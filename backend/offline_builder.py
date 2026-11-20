@@ -29,6 +29,7 @@ JS_BUNDLE_ORDER = [
     "notion.js",
     "store.js",
     "components/blockPortal.js",
+    "components/analytics.js",
     "components/header.js",
     "components/filters.js",
     "components/questionList.js",

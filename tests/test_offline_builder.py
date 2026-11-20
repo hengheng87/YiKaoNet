@@ -66,6 +66,7 @@ def test_offline_html_export_endpoint(client):
     assert bundle_m, "Bundled JS IIFE not found"
     bundle_code = bundle_m.group(1)
     assert "initBlockPortal" in bundle_code
+    assert "initAnalyticsView" in bundle_code
     assert "adminAuthModal" not in html
     assert "questionEditorModal" not in html
     assert not re.search(r"^\s*import\s+", bundle_code, re.M)

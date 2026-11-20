@@ -7,6 +7,7 @@ import { showToast } from './toast.js';
 const PORTAL_ALLOWED_ACCENTS = new Set(['indigo', 'blue', 'rose', 'amber', 'emerald']);
 
 let portalOnEnterExam = null;
+let portalOnOpenAnalytics = null;
 
 function portalSafeAccent(raw) {
   const clean = String(raw || '').trim().toLowerCase();
@@ -157,7 +158,13 @@ export function renderBlockPortal() {
   const searchInput = document.getElementById('portalSearchInput');
   const clearSearchBtn = document.getElementById('clearPortalSearchBtn');
   const resumeLastBtn = document.getElementById('portalResumeLastBtn');
+  const analyticsBtn = document.getElementById('portalAnalyticsBtn');
   const sectionsEl = document.getElementById('portalSectionsContainer');
+
+  if (analyticsBtn) {
+    const hasReadyExam = (state.exams || []).some((ex) => ex.totalQuestions > 0);
+    analyticsBtn.classList.toggle('hidden', !hasReadyExam);
+  }
 
   if (titleEl && catalog.title) titleEl.textContent = catalog.title;
   if (subtitleEl && catalog.subtitle) subtitleEl.textContent = catalog.subtitle;
@@ -312,15 +319,25 @@ export function renderBlockPortal() {
   sectionsEl.innerHTML = visibleSections.join('');
 }
 
-export function initBlockPortal(onEnterExam) {
+export function initBlockPortal(onEnterExam, onOpenAnalytics) {
   portalOnEnterExam = onEnterExam;
+  portalOnOpenAnalytics = onOpenAnalytics;
 
   const termTabsEl = document.getElementById('portalTermTabs');
   const statusTabsEl = document.getElementById('portalStatusTabs');
   const searchInput = document.getElementById('portalSearchInput');
   const clearSearchBtn = document.getElementById('clearPortalSearchBtn');
   const resumeLastBtn = document.getElementById('portalResumeLastBtn');
+  const analyticsBtn = document.getElementById('portalAnalyticsBtn');
   const sectionsEl = document.getElementById('portalSectionsContainer');
+
+  if (analyticsBtn) {
+    analyticsBtn.addEventListener('click', () => {
+      if (portalOnOpenAnalytics) {
+        portalOnOpenAnalytics();
+      }
+    });
+  }
 
   if (termTabsEl) {
     termTabsEl.addEventListener('click', (e) => {

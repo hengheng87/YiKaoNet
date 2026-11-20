@@ -24,6 +24,7 @@ def test_build_static_site_bundle(tmp_path: Path):
     assert (out_dir / "styles" / "tokens.css").is_file()
     assert (out_dir / "js" / "main.js").is_file()
     assert (out_dir / "js" / "components" / "blockPortal.js").is_file()
+    assert (out_dir / "js" / "components" / "analytics.js").is_file()
 
     index_html = (out_dir / "index.html").read_text(encoding="utf-8")
     assert "window.__YIKAO_STATIC_MODE__ = true;" in index_html
@@ -32,7 +33,10 @@ def test_build_static_site_bundle(tmp_path: Path):
     assert f'src="./js/main.js?v={ver}"' in index_html
     assert 'id="portalView"' in index_html
     assert 'id="quizWorkspaceView"' in index_html
+    assert 'id="analyticsView"' in index_html
     assert 'id="backToPortalBtn"' in index_html
+    assert 'id="openAnalyticsBtn"' in index_html
+    assert 'id="portalAnalyticsBtn"' in index_html
     assert "adminAuthModal" not in index_html
     assert "questionEditorModal" not in index_html
 

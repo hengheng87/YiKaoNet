@@ -24,7 +24,7 @@
 - **前端 (`frontend/`)**：
   - 原生 ES Modules + CSS（無需 Node/Vite），以相對路徑 `./` 載入資源，同時支援 **本機 FastAPI**、**GitHub Pages 靜態模式 (`window.__YIKAO_STATIC_MODE__`)** 與 **單檔離線模式 (`window.__YIKAO_OFFLINE_DATA__`)**；新增頂層宣告時請維持跨檔案唯一命名。
   - `js/api.js` & `js/store.js` 負責資料來源切換、Portal 與作題頁狀態管理及 `localStorage`（含 `v1.0.6` 自動遷移）。
-  - `js/components/`：`blockPortal.js`（整合考系統總覽卡片頁）、`header.js`、`filters.js`、`questionList.js`、`resumeBar.js`、`modals.js`、`toast.js`。
+  - `js/components/`：`blockPortal.js`（整合考系統總覽卡片頁）、`analytics.js`（作答正確率統計與弱點單元診斷頁）、`header.js`、`filters.js`、`questionList.js`、`resumeBar.js`、`modals.js`、`toast.js`。
 - **CLI 工具 (`scripts/`)**：
   - `ingest.py`（`init-exam` 支援 `--block-*` 參數）、`import_questions.py`、`validate_data.py`（同時驗證 `blocks.json` 與各考科 `exam.json`）、`build_static_site.py`、`build_offline_html.py`、`sync_db.py`。
 
